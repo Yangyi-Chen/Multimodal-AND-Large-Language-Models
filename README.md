@@ -1,2 +1,7 @@
 # Multimedia
-Used as a record of relevant papers for my research during the PhD
+
+
+
+
+## Event Extraction
+- **CLIP-Event: Connecting Text and Images with Event Structures;** Manling Li et al
