@@ -12,3 +12,7 @@
 
 ## Planning
 - **Multimedia Generative Script Learning for Task Planning;** Qingyun Wang et al
+
+
+## Reasoning
+- **VisualCOMET: Reasoning about the Dynamic Context of a Still Image;** Jae Sung Park et al
