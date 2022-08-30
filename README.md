@@ -10,6 +10,15 @@
 - **GAIA: A Fine-grained Multimedia Knowledge Extraction System;** Manling Li et al; Demo paper. Extract knowledge (relation, event) from multimedia data. 
 
 
+## Scene Graph
+- **Visual Distant Supervision for Scene Graph Generation;** Yuan Yao et al
+- **Learning to Generate Scene Graph from Natural Language Supervision;** Yiwu Zhong et al
+- **Weakly Supervised Visual Semantic Parsing;** Alireza Zareian, Svebor Karaman, Shih-Fu Chang
+- **Scene Graph Prediction with Limited Labels;** Vincent S. Chen, Paroma Varma, Ranjay Krishna, Michael Bernstein, Christopher Re, Li Fei-Fei
+- **Neural Motifs: Scene Graph Parsing with Global Context;** Rowan Zellers et al
+- **Fine-Grained Scene Graph Generation with Data Transfer;** Ao Zhang et al
+- **Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning;** Tao He et al
+
 ## Planning
 - **Multimedia Generative Script Learning for Task Planning;** Qingyun Wang et al; Next step prediction.
 - **P3IV: Probabilistic Procedure Planning from Instructional Videos with Weak Supervision;** He Zhao et al; Procedure planning.
@@ -31,6 +40,7 @@
 - **Multimodal Few-Shot Learning with Frozen Language Models;** Maria Tsimpoukelli et al; Use prefix-like image-embedding to stear the text generation process to achieve few-shot learning. 
 - **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al; Designed for few-shot learning. 
 - **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework;** Peng Wang et al; A unified model (framework) to handle text, image, and image-text tasks. 
+
 
 
 
