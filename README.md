@@ -23,6 +23,9 @@
 - **Fine-Grained Scene Graph Generation with Data Transfer;** Ao Zhang et al
 - **Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning;** Tao He et al
 - **Action Genome: Actions as Composition of Spatio-temporal Scene Graphs;** Jingwei Ji et al; Spatio-temporal scene graphs. 
+- **SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning;** Zhecan Wang et al; Application. Incorporating scene graphs in pretraining and fine-tuning improves performance of VCR tasks. 
+
+
 
 ## Planning
 - **Multimedia Generative Script Learning for Task Planning;** Qingyun Wang et al; Next step prediction.
@@ -48,5 +51,7 @@
 - **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework;** Peng Wang et al; A unified model (framework) to handle text, image, and image-text tasks. 
 
 
+## Analysis
+- **What Does BERT with Vision Look At?** Liunian Harold Li et al
 
 
