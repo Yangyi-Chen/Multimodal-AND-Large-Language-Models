@@ -15,4 +15,5 @@
 
 
 ## Reasoning
-- **VisualCOMET: Reasoning about the Dynamic Context of a Still Image;** Jae Sung Park et al
+- **VisualCOMET: Reasoning about the Dynamic Context of a Still Image;** Jae Sung Park et al; Benchmark dataset, requiring models to reason about a still iamge (what happen past & next). 
+- **From Recognition to Cognition: Visual Commonsense Reasoning;** Rowan Zellers et al; Benchmark dataset, requiring models to go beyond the recognition level to cognition. Need to reason about a still image and give rationales. 
