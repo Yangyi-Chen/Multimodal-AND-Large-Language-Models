@@ -11,7 +11,8 @@
 
 
 ## Planning
-- **Multimedia Generative Script Learning for Task Planning;** Qingyun Wang et al
+- **Multimedia Generative Script Learning for Task Planning;** Qingyun Wang et al; Next step prediction.
+- **P3IV: Probabilistic Procedure Planning from Instructional Videos with Weak Supervision;** He Zhao et al; 
 
 
 ## Reasoning
