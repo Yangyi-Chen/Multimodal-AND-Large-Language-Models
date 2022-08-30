@@ -55,3 +55,6 @@
 - **What Does BERT with Vision Look At?** Liunian Harold Li et al
 
 
+## Grounding
+- **Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models;** Bryan A. Plummer et al; A new benchmark dataset, annotating phrase-region correspondences. 
+
