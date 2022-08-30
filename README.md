@@ -25,7 +25,8 @@
 
 ## Planning
 - **Multimedia Generative Script Learning for Task Planning;** Qingyun Wang et al; Next step prediction.
-- **P3IV: Probabilistic Procedure Planning from Instructional Videos with Weak Supervision;** He Zhao et al; Procedure planning.
+- **PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks;** Jiankai Sun et al; Procedure planning. 
+- **P3IV: Probabilistic Procedure Planning from Instructional Videos with Weak Supervision;** He Zhao et al; Procedure planning. Using text as weak supervision to replace video clips. 
 - **Procedure Planning in Instructional Videos;** Chien-Yi Chang et al; Procedure planning.
 
 
