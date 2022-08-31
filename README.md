@@ -50,7 +50,7 @@
 - **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al; Designed for few-shot learning. 
 - **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework;** Peng Wang et al; A unified model (framework) to handle text, image, and image-text tasks. 
 - **Grounded Language-Image Pre-training;** Liunian Harold Li et al; Learning object-level, language- aware, and semantic-rich visual representations. Introducing phrase grounding to the pretraining task. 
-
+- **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners;** Zhenhailong Wang et al
 
 ## Analysis
 - **What Does BERT with Vision Look At?** Liunian Harold Li et al
