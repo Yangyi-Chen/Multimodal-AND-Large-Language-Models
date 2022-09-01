@@ -52,6 +52,14 @@
 - **Grounded Language-Image Pre-training;** Liunian Harold Li et al; Learning object-level, language- aware, and semantic-rich visual representations. Introducing phrase grounding to the pretraining task. 
 - **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners;** Zhenhailong Wang et al
 
+
+## Prompting
+- **Learning to Prompt for Vision-Language Models;** Kaiyang Zhou et al; Soft prompt tuning. Useing few-shot learning to improve performance on both in-distribution and out-of-distribution data. Few-shot setting. 
+- **Unsupervised Prompt Learning for Vision-Language Models;** Tony Huang et al; Soft prompt tuning. Unsupervised setting. 
+- **Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling;** Renrui Zhang et al; Few-shot setting.
+- **CLIP-Adapter: Better Vision-Language Models with Feature Adapters;** Peng Gao et al; Few-shot setting.
+
+
 ## Analysis
 - **What Does BERT with Vision Look At?** Liunian Harold Li et al
 
