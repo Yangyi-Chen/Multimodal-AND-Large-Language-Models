@@ -52,7 +52,8 @@
 - **Grounded Language-Image Pre-training;** Liunian Harold Li et al; Learning object-level, language- aware, and semantic-rich visual representations. Introducing phrase grounding to the pretraining task. 
 - **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners;** Zhenhailong Wang et al
 - **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS;** Yuan Yao et al
-- **PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models;** Yuan Yao et al; Introduce explicit object position modeling.A woman < 310 mask 406 475 > is watching the mask < 175 86 254 460 > ; 
+- **PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models;** Yuan Yao et al; Introduce explicit object position modeling.A woman < 310 mask 406 475 > is watching the mask < 175 86 254 460 >;
+
 
 
 
@@ -66,7 +67,7 @@
 - **Visual Prompt Tuning;** Menglin Jia et al; Soft prompt tuning + head tuning. Show better performance in few-shot and full-data settings than full-parameters tuning. Quite different from the NLP field. 
 - **Prompt Distribution Learning;** Yuning Lu et al; Soft prompt tuning. Few-shot setting.
 - **Conditional Prompt Learning for Vision-Language Models;** identify a critical problem of CoOp: the learned con- text is not generalizable to wider unseen classes within the same dataset; Propose to learn a DNN that can generate for each image an input-conditional token (vector).
-
+- **Learning to Prompt for Continual Learning;** Zifeng Wang et al; Continual learning setting. Maintain a prompt pool. 
 
 
 
