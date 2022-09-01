@@ -65,6 +65,7 @@
 - **Neural Prompt Search;** Yuanhan Zhang et al; Explore the combination of LoRA, Adapter, Soft prompt tuning. In full-data, few-shot, and domain shift settings. 
 - **Visual Prompt Tuning;** Menglin Jia et al; Soft prompt tuning + head tuning. Show better performance in few-shot and full-data settings than full-parameters tuning. Quite different from the NLP field. 
 - **Prompt Distribution Learning;** Yuning Lu et al; Soft prompt tuning. Few-shot setting.
+- **Conditional Prompt Learning for Vision-Language Models;** identify a critical problem of CoOp: the learned con- text is not generalizable to wider unseen classes within the same dataset; Propose to learn a DNN that can generate for each image an input-conditional token (vector).
 
 
 
