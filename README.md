@@ -86,6 +86,7 @@
 
 ## Analysis
 - **What Does BERT with Vision Look At?** Liunian Harold Li et al
+- **Visual Referring Expression Recognition: What Do Systems Actually Learn?;** Volkan Cirik et al
 
 
 ## Grounding
