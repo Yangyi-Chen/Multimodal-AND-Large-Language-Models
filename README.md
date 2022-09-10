@@ -8,6 +8,7 @@
 - **Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods;** Aditya Mogadala et al
 - **Challenges and Prospects in Vision and Language Research;** Kushal Kafle et al
 - **A Survey of Current Datasets for Vision and Language Research;** Francis Ferraro et al
+- **VLP: A Survey on Vision-Language Pre-training;** Feilong Chen et al
 
 
 
