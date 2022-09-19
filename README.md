@@ -70,6 +70,9 @@
 - **Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks;** Wenhui Wang et al
 - **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
 - **MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound;** Rowan Zellers et al
+- **OmniVL: One Foundation Model for Image-Language and Video-Language Tasks;** Junke Wang et al
+- **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation;** Junnan Li et al
+- **Align before Fuse: Vision and Language Representation Learning with Momentum Distillation;** Junnan Li et al; Propose ALBEF.
 
 
 
