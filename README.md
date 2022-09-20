@@ -1,5 +1,22 @@
 # Multimedia
 
+## Table of Contents 
+- [Survey](#survey)
+- [Event Extraction](#event-extraction)
+- [Situation Recognition](#situation-recognition)
+- [Scene Graph](#scene-graph)
+- [Planning](#planning)
+- [Reasoning](#reasoning)
+- [Generation](#generation)
+- [Foundation Model & Pretraining](#foundation-model-&-pretraining)
+- [Prompting](#prompting)
+- [Analysis](#analysis)
+- [Grounding](#grounding)
+- [VQA Task](#vqa-task)
+- [Benchmark & Evaluation](#benchmark-&-evaluation)
+- [Dataset](#dataset)
+- [Robustness](#robustness)
+
 ## Survey
 - **Multimodal Learning with Transformers: A Survey;** Peng Xu, Xiatian Zhu, David A. Clifton
 - **Multimodal Machine Learning: A Survey and Taxonomy;** Tadas Baltrusaitis, Chaitanya Ahuja, Louis-Philippe Morency; Introduce 4 challenges for multi-modal learning, including representation, translation, alignment, fusion, and co-learning. 
@@ -113,6 +130,10 @@
 - **Visual Grounding Strategies for Text-Only Natural Language Processing;** Propose to improve the NLP tasks performance by grounding to images. Two methods are proposed.  
 - **Visually Grounded Neural Syntax Acquisition;** Haoyue Shi et al
 - **PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World;** Rowan Zellers et al
+
+## VQA Task
+- **WeaQA: Weak Supervision via Captions for Visual Question Answering;** Pratyay Banerjee et al
+
 
 
 ## Benchmark & Evaluation
