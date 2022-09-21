@@ -151,3 +151,4 @@
 ## Robustness
 - **Domino: Discovering Systematic Errors with Cross-Modal Embeddings;** Sabri Eyuboglu et al
 - **Learning Visually-Grounded Semantics from Contrastive Adversarial Samples;** Haoyue Shi et al
+- **Visually Grounded Reasoning across Languages and Cultures;** Fangyu Liu et al
