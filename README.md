@@ -134,6 +134,7 @@
 
 ## VQA Task
 - **WeaQA: Weak Supervision via Captions for Visual Question Answering;** Pratyay Banerjee et al
+- **Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering;** Aishwarya Agrawal et al
 
 
 
