@@ -91,7 +91,7 @@
 - **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation;** Junnan Li et al
 - **Align before Fuse: Vision and Language Representation Learning with Momentum Distillation;** Junnan Li et al; Propose ALBEF.
 - **CM3: A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET;** Armen Aghajanyan et al
-
+- **PaLI: A Jointly-Scaled Multilingual Language-Image Model;** Xi Chen et al
 
 
 
