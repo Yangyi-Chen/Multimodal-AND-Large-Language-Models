@@ -125,6 +125,7 @@
 - **What Does BERT with Vision Look At?** Liunian Harold Li et al
 - **Visual Referring Expression Recognition: What Do Systems Actually Learn?;** Volkan Cirik et al
 - **Characterizing and Overcoming the Greedy Nature of Learning in Multi-modal Deep Neural Networks;** Nan Wu et al; Study the problem of only relying on one certain modality in training when using multi-modal models. 
+- **Behind the Scene: Revealing the Secrets of Pre-trained Vision-and-Language Models;** Jize Cao et al
 
 
 ## Grounding
