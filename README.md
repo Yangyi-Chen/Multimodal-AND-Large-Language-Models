@@ -157,3 +157,6 @@
 - **Domino: Discovering Systematic Errors with Cross-Modal Embeddings;** Sabri Eyuboglu et al
 - **Learning Visually-Grounded Semantics from Contrastive Adversarial Samples;** Haoyue Shi et al
 - **Visually Grounded Reasoning across Languages and Cultures;** Fangyu Liu et al
+- **A Closer Look at the Robustness of Vision-and-Language Pre-trained Models;** Linjie Li et al; Compile a list of robustness-VQA datasets.
+
+
