@@ -13,6 +13,7 @@
 - [Analysis](#analysis)
 - [Grounding](#grounding)
 - [VQA Task](#vqa-task)
+- [Social Good](#social-good)
 - [Benchmark & Evaluation](#benchmark-&-evaluation)
 - [Dataset](#dataset)
 - [Robustness](#robustness)
@@ -142,6 +143,11 @@
 ## VQA Task
 - **WeaQA: Weak Supervision via Captions for Visual Question Answering;** Pratyay Banerjee et al
 - **Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering;** Aishwarya Agrawal et al
+
+## Social Good
+- **The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes;** Douwe Kiela et al; Multi-modal hate-speech detection. 
+- **Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News;** Reuben Tan et al; Multi-modal fake news dedetection.
+
 
 
 
