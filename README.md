@@ -150,6 +150,7 @@
 - **InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection;** Yi R. Fung et al; Cross-modal fake news detection.
 - **EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection;** Yaqing Wang et al
 - **End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models;** Barry Menglong Yao et al
+- **SAFE: Similarity-Aware Multi-Modal Fake News Detection;** Xinyi Zhou et al
 
 
 
