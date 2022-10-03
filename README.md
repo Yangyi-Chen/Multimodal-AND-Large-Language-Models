@@ -152,7 +152,7 @@
 - **End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models;** Barry Menglong Yao et al
 - **SAFE: Similarity-Aware Multi-Modal Fake News Detection;** Xinyi Zhou et al
 - **r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection;** Kai Nakamura et al; Fake news detection dataset.
-
+- **Fact-Checking Meets Fauxtography: Verifying Claims About Images;** Dimitrina Zlatkova et al; Claim-Images pairs. 
 
 
 ## Benchmark & Evaluation
