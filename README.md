@@ -165,6 +165,7 @@
 ## Benchmark & Evaluation
 - **How Much Can CLIP Benefit Vision-and-Language Tasks?;** Sheng Shen et al; Explore two scenarios: 1) plugging CLIP into task-specific fine-tuning; 2) combining CLIP with V&L pre-training and transferring to downstream tasks. Show the boost in performance when using CLIP as the image encoder. 
 - **Multimodal datasets: misogyny, pornography, and malignant stereotypes;** Abeba Birhane et al
+- **WHEN AND WHY VISION-LANGUAGE MODELS BE- HAVE LIKE BAGS-OF-WORDS, AND WHAT TO DO ABOUT IT?;** Mert Yuksekgonul et al
 
 
 ## Dataset
