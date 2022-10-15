@@ -100,6 +100,7 @@
 - **UNITER: UNiversal Image-TExt Representation Learning;** Yen-Chun Chen et al
 - **KB-VLP: Knowledge Based Vision and Language Pretraining;** Kezhen Chen et al
 - **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAIN- ING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
+- **GLIPv2: Unifying Localization and VL Understanding;** Haotian Zhang et al
 
 
 
