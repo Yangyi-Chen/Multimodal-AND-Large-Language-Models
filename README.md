@@ -186,5 +186,6 @@
 - **Learning Visually-Grounded Semantics from Contrastive Adversarial Samples;** Haoyue Shi et al
 - **Visually Grounded Reasoning across Languages and Cultures;** Fangyu Liu et al
 - **A Closer Look at the Robustness of Vision-and-Language Pre-trained Models;** Linjie Li et al; Compile a list of robustness-VQA datasets.
+- **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training;** Wenliang Dai et al
 
 
