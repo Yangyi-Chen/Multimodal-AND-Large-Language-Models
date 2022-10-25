@@ -18,6 +18,7 @@
 - [Benchmark & Evaluation](#benchmark-&-evaluation)
 - [Dataset](#dataset)
 - [Robustness](#robustness)
+- [Backup](#backup)
 
 ## Survey
 - **Multimodal Learning with Transformers: A Survey;** Peng Xu, Xiatian Zhu, David A. Clifton
@@ -190,4 +191,5 @@
 - **A Closer Look at the Robustness of Vision-and-Language Pre-trained Models;** Linjie Li et al; Compile a list of robustness-VQA datasets.
 - **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training;** Wenliang Dai et al
 
-
+## Backup
+- **On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence;** Yi Ma et al
