@@ -190,6 +190,7 @@
 - **Visually Grounded Reasoning across Languages and Cultures;** Fangyu Liu et al
 - **A Closer Look at the Robustness of Vision-and-Language Pre-trained Models;** Linjie Li et al; Compile a list of robustness-VQA datasets.
 - **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training;** Wenliang Dai et al
+- **ROBUSTNESS ANALYSIS OF VIDEO-LANGUAGE MODELS AGAINST VISUAL AND LANGUAGE PERTURBATIONS;** Madeline C. Schiappa et al
 
 ## Backup
 - **On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence;** Yi Ma et al
