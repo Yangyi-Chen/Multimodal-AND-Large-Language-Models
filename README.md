@@ -103,6 +103,7 @@
 - **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAIN- ING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
 - **GLIPv2: Unifying Localization and VL Understanding;** Haotian Zhang et al
 - **Foundation Transformers;** Hongyu Wang et al
+- **Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks;** Hao Li et al
 
 
 
