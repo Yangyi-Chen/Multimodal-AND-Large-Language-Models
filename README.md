@@ -105,6 +105,7 @@
 - **Foundation Transformers;** Hongyu Wang et al
 - **Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks;** Hao Li et al
 - **X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks;** Yan Zeng et al
+- **Retrievetrrieval-AugmentedMultimodalLanguageModeling;** Michihiro Yasunaga et al
 
 
 
