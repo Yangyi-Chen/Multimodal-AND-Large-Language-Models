@@ -186,6 +186,7 @@
 - **Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts;** Soravit Changpinyo et al 
 - **LAION-5B: An open large-scale dataset for training next generation image-text models;** Christoph Schuhmann et al
 - **Bloom Library: Multimodal Datasets in 300+ Languages for a Variety of Downstream Tasks;** Colin Leong et al
+- **LAION-5B: An open large-scale dataset for training next generation image-text models;** Christoph Schuhmann et al
 
 ## Robustness
 - **Domino: Discovering Systematic Errors with Cross-Modal Embeddings;** Sabri Eyuboglu et al
