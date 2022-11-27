@@ -106,7 +106,7 @@
 - **Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks;** Hao Li et al
 - **X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks;** Yan Zeng et al
 - **Retrievetrrieval-AugmentedMultimodalLanguageModeling;** Michihiro Yasunaga et al
-
+- **Teaching Structured Vision & Language Concepts to Vision & Language Models;** Sivan Doveh et al
 
 
 ## Prompting
