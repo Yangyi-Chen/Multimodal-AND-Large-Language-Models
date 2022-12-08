@@ -107,6 +107,7 @@
 - **X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks;** Yan Zeng et al
 - **Retrievetrrieval-AugmentedMultimodalLanguageModeling;** Michihiro Yasunaga et al
 - **Teaching Structured Vision & Language Concepts to Vision & Language Models;** Sivan Doveh et al
+- **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
 
 
 ## Prompting
