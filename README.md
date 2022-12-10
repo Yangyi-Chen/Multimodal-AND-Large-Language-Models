@@ -199,6 +199,7 @@
 - **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training;** Wenliang Dai et al
 - **ROBUSTNESS ANALYSIS OF VIDEO-LANGUAGE MODELS AGAINST VISUAL AND LANGUAGE PERTURBATIONS;** Madeline C. Schiappa et al
 - **Context-Aware Robust Fine-Tuning;** Xiaofeng Mao et al
+- **Task Bias in Vision-Language Models;** Sachit Menon et al
 
 ## Backup
 - **On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence;** Yi Ma et al
