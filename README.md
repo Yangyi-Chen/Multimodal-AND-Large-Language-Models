@@ -30,7 +30,7 @@
 - **A Survey of Current Datasets for Vision and Language Research;** Francis Ferraro et al
 - **VLP: A Survey on Vision-Language Pre-training;** Feilong Chen et al
 - **A Survey on Multimodal Disinformation Detection;** Firoj Alam et al
-
+- **Vision-Language Pre-training: Basics, Recent Advances, and Future Trends;** Zhe Gan et al
 
 
 
