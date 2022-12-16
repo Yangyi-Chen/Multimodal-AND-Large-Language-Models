@@ -201,6 +201,7 @@
 - **ROBUSTNESS ANALYSIS OF VIDEO-LANGUAGE MODELS AGAINST VISUAL AND LANGUAGE PERTURBATIONS;** Madeline C. Schiappa et al
 - **Context-Aware Robust Fine-Tuning;** Xiaofeng Mao et al
 - **Task Bias in Vision-Language Models;** Sachit Menon et al
+- **Are Multimodal Models Robust to Image and Text Perturbations?;** Jielin Qiu et al
 
 ## Backup
 - **On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence;** Yi Ma et al
