@@ -207,6 +207,7 @@
 
 ## Cognitive NeuronScience
 - **Mind Reader: Reconstructing complex images from brain activities;** Sikun Lin et al
+- **Joint processing of linguistic properties in brains and language models;** Subba Reddy Oota et al
 
 
 
