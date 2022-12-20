@@ -18,6 +18,7 @@
 - [Benchmark & Evaluation](#benchmark-&-evaluation)
 - [Dataset](#dataset)
 - [Robustness](#robustness)
+- [Cognitive NeuronScience & Machine Learning](#cognitive-neuronscience-&-machine-learning)
 - [Cognitive NeuronScience](#cognitive-neuronscience)
 - [Backup](#backup)
 
@@ -206,10 +207,18 @@
 - **Task Bias in Vision-Language Models;** Sachit Menon et al
 - **Are Multimodal Models Robust to Image and Text Perturbations?;** Jielin Qiu et al
 
-
-## Cognitive NeuronScience
+## Cognitive NeuronScience & Machine Learning
 - **Mind Reader: Reconstructing complex images from brain activities;** Sikun Lin et al
 - **Joint processing of linguistic properties in brains and language models;** Subba Reddy Oota et al
+- **Do Large Language Models know what humans know?;** Sean Trott et al
+- **Few-shot Language Coordination by Modeling Theory of Mind;** Hao Zhu et al
+- **Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind;** Mo Yu et al 
+- **TVSHOWGUESS: Character Comprehension in Stories as Speaker Guessing;** Yisi Sang et al
+
+
+
+## Cognitive NeuronScience
+- **Functional specificity in the human brain: A window into the functional architecture of the mind;** Nancy Kanwisher et al
 
 
 
