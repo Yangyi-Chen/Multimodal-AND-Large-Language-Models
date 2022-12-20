@@ -1,4 +1,4 @@
-# Multimedia
+# Multi-modal Machine Learning
 
 ## Table of Contents 
 - [Survey](#survey)
@@ -109,6 +109,8 @@
 - **Retrievetrrieval-AugmentedMultimodalLanguageModeling;** Michihiro Yasunaga et al
 - **Teaching Structured Vision & Language Concepts to Vision & Language Models;** Sivan Doveh et al
 - **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
+- **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al
+
 
 
 ## Prompting
