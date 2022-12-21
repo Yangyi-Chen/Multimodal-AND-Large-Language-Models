@@ -206,6 +206,7 @@
 - **Context-Aware Robust Fine-Tuning;** Xiaofeng Mao et al
 - **Task Bias in Vision-Language Models;** Sachit Menon et al
 - **Are Multimodal Models Robust to Image and Text Perturbations?;** Jielin Qiu et al
+- **CPL: Counterfactual Prompt Learning for Vision and Language Models;** Xuehai He et al
 
 ## Cognitive NeuronScience & Machine Learning
 - **Mind Reader: Reconstructing complex images from brain activities;** Sikun Lin et al
