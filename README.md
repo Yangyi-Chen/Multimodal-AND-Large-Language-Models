@@ -221,6 +221,8 @@
 ## Cognitive NeuronScience
 - **Functional specificity in the human brain: A window into the functional architecture of the mind;** Nancy Kanwisher et al
 - **Visual motion aftereffect in human cortical area MT revealed by functional magnetic resonance imaging;** Roger B. H. Tootell et al
+- **Speed of processing in the human visual system;** Simon Thorpe et al
+- **A Cortical Area Selective for Visual Processing of the Human Body;** Paul E. Downing et al
 
 
 ## Backup
