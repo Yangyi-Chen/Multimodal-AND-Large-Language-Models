@@ -215,6 +215,7 @@
 - **Few-shot Language Coordination by Modeling Theory of Mind;** Hao Zhu et al
 - **Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind;** Mo Yu et al 
 - **TVSHOWGUESS: Character Comprehension in Stories as Speaker Guessing;** Yisi Sang et al
+- **Is the Brain Mechanism for Hierarchical Structure Building Universal Across Languages? An fMRI Study of Chinese and English;** Xiaohan Zhang et al
 
 
 
@@ -223,6 +224,9 @@
 - **Visual motion aftereffect in human cortical area MT revealed by functional magnetic resonance imaging;** Roger B. H. Tootell et al
 - **Speed of processing in the human visual system;** Simon Thorpe et al
 - **A Cortical Area Selective for Visual Processing of the Human Body;** Paul E. Downing et al
+- **Triple Dissociation of Faces, Bodies, and Objects in Extrastriate Cortex;** David Pitcher et al
+- **Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex;** James V. Haxby et al
+- **Rectilinear Edge Selectivity Is Insufficient to Explain the Category Selectivity of the Parahippocampal Place Area;** Peter B. Bryan et al
 
 
 ## Backup
