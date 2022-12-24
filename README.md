@@ -116,7 +116,8 @@
 - **Retrievetrrieval-AugmentedMultimodalLanguageModeling;** Michihiro Yasunaga et al
 - **Teaching Structured Vision & Language Concepts to Vision & Language Models;** Sivan Doveh et al
 - **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
-- **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al
+- **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al’
+- **Generalized Decoding for Pixel, Image, and Language;** Xueyan Zou et al
 
 
 
