@@ -5,6 +5,8 @@
 - [Event Extraction](#event-extraction)
 - [Situation Recognition](#situation-recognition)
 - [Scene Graph](#scene-graph)
+- [Compositionality](#compositionality)
+- [Structure](#structure)
 - [Planning](#planning)
 - [Reasoning](#reasoning)
 - [Generation](#generation)
@@ -58,7 +60,11 @@
 - **Action Genome: Actions as Composition of Spatio-temporal Scene Graphs;** Jingwei Ji et al; Spatio-temporal scene graphs. 
 - **SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning;** Zhecan Wang et al; Application. Incorporating scene graphs in pretraining and fine-tuning improves performance of VCR tasks. 
 
+## Compositionality
+- **CREPE: Can Vision-Language Foundation Models Reason Compositionally?;** Zixian Ma et al
 
+
+## Structure
 
 ## Planning
 - **Multimedia Generative Script Learning for Task Planning;** Qingyun Wang et al; Next step prediction.
