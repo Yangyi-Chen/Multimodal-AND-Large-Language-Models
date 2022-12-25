@@ -231,6 +231,7 @@
 - **TVSHOWGUESS: Character Comprehension in Stories as Speaker Guessing;** Yisi Sang et al
 - **Is the Brain Mechanism for Hierarchical Structure Building Universal Across Languages? An fMRI Study of Chinese and English;** Xiaohan Zhang et al
 - **TRAINING LANGUAGE MODELS FOR DEEPER UNDERSTANDING IMPROVES BRAIN ALIGNMENT;** Khai Loong Aw et al
+- **Abstract Visual Reasoning with Tangram Shapes;** Anya Ji et al
 
 
 ## Cognitive NeuronScience
