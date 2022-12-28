@@ -242,6 +242,7 @@
 - **Triple Dissociation of Faces, Bodies, and Objects in Extrastriate Cortex;** David Pitcher et al
 - **Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex;** James V. Haxby et al
 - **Rectilinear Edge Selectivity Is Insufficient to Explain the Category Selectivity of the Parahippocampal Place Area;** Peter B. Bryan et al
+- **Selective scene perception deficits in a case of topographical disorientation;** Jessica Robin et al
 
 
 ## Backup
