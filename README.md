@@ -252,6 +252,10 @@
 - **Rectilinear Edge Selectivity Is Insufficient to Explain the Category Selectivity of the Parahippocampal Place Area;** Peter B. Bryan et al
 - **Selective scene perception deficits in a case of topographical disorientation;** Jessica Robin et al
 - **The cognitive map in humans: spatial navigation and beyond;** Russell A Epstein et al
+- **From simple innate biases to complex visual concepts;** Shimon Ullman et al
+- **Face perception in monkeys reared with no exposure to faces;** Yoichi Sugita et al
+
+
 
 ## Backup
 - **On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence;** Yi Ma et al
