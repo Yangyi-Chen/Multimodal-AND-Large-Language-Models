@@ -214,7 +214,6 @@
 - **Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts;** Soravit Changpinyo et al 
 - **LAION-5B: An open large-scale dataset for training next generation image-text models;** Christoph Schuhmann et al
 - **Bloom Library: Multimodal Datasets in 300+ Languages for a Variety of Downstream Tasks;** Colin Leong et al
-- **LAION-5B: An open large-scale dataset for training next generation image-text models;** Christoph Schuhmann et al
 - **Find Someone Who: Visual Commonsense Understanding in Human-Centric Grounding;** Haoxuan You et al
 - **MULTIINSTRUCT: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning;** Zhiyang Xu et al
 
