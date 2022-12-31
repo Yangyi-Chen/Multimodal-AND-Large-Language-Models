@@ -2,11 +2,11 @@
 
 ## Table of Contents 
 - [Survey](#survey)
+- [Structure](#structure)
 - [Event Extraction](#event-extraction)
 - [Situation Recognition](#situation-recognition)
 - [Scene Graph](#scene-graph)
 - [Compositionality](#compositionality)
-- [Structure](#structure)
 - [Planning](#planning)
 - [Reasoning](#reasoning)
 - [Generation](#generation)
@@ -37,6 +37,8 @@
 - **Vision-Language Pre-training: Basics, Recent Advances, and Future Trends;** Zhe Gan et al
 
 
+## Structure
+
 
 ## Event Extraction
 - **Cross-media Structured Common Space for Multimedia Event Extraction;** Manling Li et al; Focus on image-text event extraction. A new benchmark and baseline are proposed. 
@@ -62,9 +64,15 @@
 
 ## Compositionality
 - **CREPE: Can Vision-Language Foundation Models Reason Compositionally?;** Zixian Ma et al
+- **Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality;** Tristan Thrush et al
 
 
-## Structure
+
+
+
+
+
+
 
 ## Planning
 - **Multimedia Generative Script Learning for Task Planning;** Qingyun Wang et al; Next step prediction.
