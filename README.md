@@ -65,7 +65,7 @@
 ## Compositionality
 - **CREPE: Can Vision-Language Foundation Models Reason Compositionally?;** Zixian Ma et al
 - **Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality;** Tristan Thrush et al
-
+- **WHEN AND WHY VISION-LANGUAGE MODELS BE- HAVE LIKE BAGS-OF-WORDS, AND WHAT TO DO ABOUT IT?;** Mert Yuksekgonul et al
 
 
 
