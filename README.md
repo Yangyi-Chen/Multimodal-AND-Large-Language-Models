@@ -130,6 +130,7 @@
 - **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
 - **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al’
 - **Generalized Decoding for Pixel, Image, and Language;** Xueyan Zou et al
+- **Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training;** Filip Radenovic et al
 
 
 
