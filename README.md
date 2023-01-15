@@ -262,7 +262,9 @@
 - **The cognitive map in humans: spatial navigation and beyond;** Russell A Epstein et al
 - **From simple innate biases to complex visual concepts;** Shimon Ullman et al
 - **Face perception in monkeys reared with no exposure to faces;** Yoichi Sugita et al
-
+- **Functional neuroanatomy of intuitive physical inference;** Jason Fischer et al
+- **Recruitment of an Area Involved in Eye Movements During Mental Arithmetic;** André Knops et al
+- **Intonational speech prosody encoding in the human auditory cortex;** C. Tang et al
 
 
 ## Backup
