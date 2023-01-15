@@ -109,7 +109,7 @@
 - **BEIT: BERT Pre-Training of Image Transformers;** Hangbo Bao et al; Pre-trained CV model. 
 - **VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts;** Hangbo Bao et al
 - **BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers;** Zhiliang Peng et al
-- **Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks;** Wenhui Wang et al
+- **Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks;** Wenhui Wang et al; BEIT-3. 
 - **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
 - **MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound;** Rowan Zellers et al
 - **OmniVL: One Foundation Model for Image-Language and Video-Language Tasks;** Junke Wang et al
@@ -131,7 +131,7 @@
 - **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al’
 - **Generalized Decoding for Pixel, Image, and Language;** Xueyan Zou et al
 - **Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training;** Filip Radenovic et al
-
+- **Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks;** Xinsong Zhang et al
 
 
 ## Prompting
