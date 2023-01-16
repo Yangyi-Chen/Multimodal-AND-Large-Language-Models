@@ -128,7 +128,6 @@
 - **CM3: A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET;** Armen Aghajanyan et al
 - **PaLI: A Jointly-Scaled Multilingual Language-Image Model;** Xi Chen et al
 - **simvlm: simple visual language model pre- training with weak supervision;** Zirui Wang et al
-- **UNITER: UNiversal Image-TExt Representation Learning;** Yen-Chun Chen et al
 - **KB-VLP: Knowledge Based Vision and Language Pretraining;** Kezhen Chen et al
 - **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAIN- ING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
 - **GLIPv2: Unifying Localization and VL Understanding;** Haotian Zhang et al
