@@ -104,10 +104,16 @@
 
 
 ## Foundation Model & Pretraining
+### First Generation
 - **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks;** Jiasen Lu et al
 - **LXMERT: Learning Cross-Modality Encoder Representations from Transformers;** Hao Tan et al
 - **VISUALBERT: A SIMPLE AND PERFORMANT BASELINE FOR VISION AND LANGUAGE;** Liunian Harold Li et al
 - **UNITER: UNiversal Image-TExt Representation Learning;** Yen-Chun Chen et al
+- **VL-BERT: PRE-TRAINING OF GENERIC VISUAL- LINGUISTIC REPRESENTATIONS;** Weijie Su et al
+- **Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training;** Gen Li et al
+- **Unified Vision-Language Pre-Training for Image Captioning and VQA;** Luowei Zhou et al
+
+### Second Generation
 - **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks;** Xiujun Li et al
 - **Multimodal Few-Shot Learning with Frozen Language Models;** Maria Tsimpoukelli et al; Use prefix-like image-embedding to stear the text generation process to achieve few-shot learning. 
 - **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al; Designed for few-shot learning. 
