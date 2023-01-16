@@ -11,7 +11,8 @@
 - [Reasoning](#reasoning)
 - [Generation](#generation)
 - [Representation Learning](#representation-learning)
-- [Foundation Model & Pretraining](#foundation-model-&-pretraining)
+- [Foundation Model](#foundation-model)
+- [Pretraining](#pretraining)
 - [Prompting](#prompting)
 - [Efficiency](#efficiency)
 - [Analysis](#analysis)
@@ -103,7 +104,7 @@
 
 
 
-## Foundation Model & Pretraining
+## Foundation Model 
 ### First Generation
 - **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks;** Jiasen Lu et al
 - **LXMERT: Learning Cross-Modality Encoder Representations from Transformers;** Hao Tan et al
@@ -115,25 +116,17 @@
 
 ### Second Generation
 - **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks;** Xiujun Li et al
+- **VinVL: Revisiting Visual Representations in Vision-Language Models;** Pengchuan Zhang et al
 - **Multimodal Few-Shot Learning with Frozen Language Models;** Maria Tsimpoukelli et al; Use prefix-like image-embedding to stear the text generation process to achieve few-shot learning. 
-- **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al; Designed for few-shot learning. 
-- **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework;** Peng Wang et al; A unified model (framework) to handle text, image, and image-text tasks. 
 - **Grounded Language-Image Pre-training;** Liunian Harold Li et al; Learning object-level, language-aware, and semantic-rich visual representations. Introducing phrase grounding to the pretraining task. 
 - **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners;** Zhenhailong Wang et al
-- **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS;** Yuan Yao et al
-- **PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models;** Yuan Yao et al; Introduce explicit object position modeling.A woman < 310 mask 406 475 > is watching the mask < 175 86 254 460 >;
-- **BEIT: BERT Pre-Training of Image Transformers;** Hangbo Bao et al; Pre-trained CV model. 
 - **VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts;** Hangbo Bao et al
-- **BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers;** Zhiliang Peng et al
-- **Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks;** Wenhui Wang et al; BEIT-3. 
-- **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
-- **MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound;** Rowan Zellers et al
 - **OmniVL: One Foundation Model for Image-Language and Video-Language Tasks;** Junke Wang et al
 - **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation;** Junnan Li et al
 - **Align before Fuse: Vision and Language Representation Learning with Momentum Distillation;** Junnan Li et al; Propose ALBEF.
 - **CM3: A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET;** Armen Aghajanyan et al
 - **PaLI: A Jointly-Scaled Multilingual Language-Image Model;** Xi Chen et al
-- **simvlm: simple visual language model pre- training with weak supervision;** Zirui Wang et al
+- **simvlm: simple visual language model pre-training with weak supervision;** Zirui Wang et al
 - **KB-VLP: Knowledge Based Vision and Language Pretraining;** Kezhen Chen et al
 - **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAIN- ING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
 - **GLIPv2: Unifying Localization and VL Understanding;** Haotian Zhang et al
@@ -146,7 +139,27 @@
 - **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al’
 - **Generalized Decoding for Pixel, Image, and Language;** Xueyan Zou et al
 - **Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training;** Filip Radenovic et al
+
+
+### Third Generation
+- **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al; Designed for few-shot learning. 
+- **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework;** Peng Wang et al; A unified model (framework) to handle text, image, and image-text tasks. 
 - **Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks;** Xinsong Zhang et al
+- **Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks;** Wenhui Wang et al; BEIT-3. 
+
+
+
+### Others
+- **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
+- **MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound;** Rowan Zellers et al
+
+
+## Pretraining
+- **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS;** Yuan Yao et al
+- **PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models;** Yuan Yao et al; Introduce explicit object position modeling.A woman < 310 mask 406 475 > is watching the mask < 175 86 254 460 >;
+- **BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers;** Zhiliang Peng et al
+- **BEIT: BERT Pre-Training of Image Transformers;** Hangbo Bao et al; Pre-trained CV model. 
+
 
 
 ## Prompting
