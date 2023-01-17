@@ -20,6 +20,7 @@
 - [Grounding](#grounding)
 - [VQA Task](#vqa-task)
 - [Social Good](#social-good)
+- [Application](#application)
 - [Benchmark & Evaluation](#benchmark-&-evaluation)
 - [Dataset](#dataset)
 - [Robustness](#robustness)
@@ -116,7 +117,7 @@
 - **VL-BERT: PRE-TRAINING OF GENERIC VISUAL- LINGUISTIC REPRESENTATIONS;** Weijie Su et al
 - **IMAGEBERT: CROSS-MODAL PRE-TRAINING WITH LARGE-SCALE WEAK-SUPERVISED IMAGE-TEXT DATA;** Di Qi et al
 - **Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training;** Gen Li et al
-- **Unified Vision-Language Pre-Training for Image Captioning and VQA;** Luowei Zhou et al
+
 
 **Introduce image tags to learn image-text alignments.**
 - **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks;** Xiujun Li et al
@@ -159,9 +160,14 @@
 
 
 ### Others
+- **Unified Vision-Language Pre-Training for Image Captioning and VQA;** Luowei Zhou et al
+- **Unifying Vision-and-Language Tasks via Text Generation;** Jaemin Cho et al
 - **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
 - **MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound;** Rowan Zellers et al
 - **CLIP-Event: Connecting Text and Images with Event Structures;** Manling Li et al; The new model CLIP-Event, specifically designed for multi-modal event extraction. Introducing new pretraining tasks to enable strong zero-shot performances. From object-centric representations to event-centric representations. 
+
+
+
 
 ## Pretraining
 - **SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning;** Zhecan Wang et al; Incorporating scene graphs in pretraining and fine-tuning improves performance of VCR tasks. 
@@ -252,6 +258,9 @@
 - **SAFE: Similarity-Aware Multi-Modal Fake News Detection;** Xinyi Zhou et al
 - **r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection;** Kai Nakamura et al; Fake news detection dataset.
 - **Fact-Checking Meets Fauxtography: Verifying Claims About Images;** Dimitrina Zlatkova et al; Claim-Images pairs. 
+
+## Application
+- **Evaluating and Improving Factuality in Multimodal Abstractive Summarization;** David Wan et al
 
 
 ## Benchmark & Evaluation
