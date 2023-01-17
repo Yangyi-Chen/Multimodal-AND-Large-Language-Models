@@ -105,7 +105,7 @@
 
 
 ## Foundation Model 
-### First Generation
+### First Generation: Using region-based features; can be classified as one- and two- streams model architectures; 
 - **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks;** Jiasen Lu et al
 - **LXMERT: Learning Cross-Modality Encoder Representations from Transformers;** Hao Tan et al
 - **VISUALBERT: A SIMPLE AND PERFORMANT BASELINE FOR VISION AND LANGUAGE;** Liunian Harold Li et al
@@ -114,9 +114,14 @@
 - **Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training;** Gen Li et al
 - **Unified Vision-Language Pre-Training for Image Captioning and VQA;** Luowei Zhou et al
 
-### Second Generation
-- **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks;** Xiujun Li et al; Using image tags to learn image-text alignments.
+**Introduce image tags to learn image-text alignments.**
+- **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks;** Xiujun Li et al
 - **VinVL: Revisiting Visual Representations in Vision-Language Models;** Pengchuan Zhang et al
+- **Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions;** Liunian Harold Li et al; Consider the unsupervised setting. 
+
+
+### Second Generation
+
 - **Multimodal Few-Shot Learning with Frozen Language Models;** Maria Tsimpoukelli et al; Use prefix-like image-embedding to stear the text generation process to achieve few-shot learning. 
 - **Grounded Language-Image Pre-training;** Liunian Harold Li et al; Learning object-level, language-aware, and semantic-rich visual representations. Introducing phrase grounding to the pretraining task. 
 - **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners;** Zhenhailong Wang et al
