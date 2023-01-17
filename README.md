@@ -13,6 +13,7 @@
 - [Representation Learning](#representation-learning)
 - [Foundation Model](#foundation-model)
 - [Pretraining](#pretraining)
+- [Adaptation of Foundation Model](#adaptation-of-foundation-model)
 - [Prompting](#prompting)
 - [Efficiency](#efficiency)
 - [Analysis](#analysis)
@@ -126,7 +127,6 @@
 ### Second Generation
 - **Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers;** Zhicheng Huang et al; Throw away region-based features, bounding boxes, and object detectors. Directly input the raw pixels and use CNN to extract features. 
 - **Grounded Language-Image Pre-training;** Liunian Harold Li et al; Learning object-level, language-aware, and semantic-rich visual representations. Introducing phrase grounding to the pretraining task. 
-- **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners;** Zhenhailong Wang et al
 - **VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts;** Hangbo Bao et al
 - **OmniVL: One Foundation Model for Image-Language and Video-Language Tasks;** Junke Wang et al
 - **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation;** Junnan Li et al
@@ -146,7 +146,7 @@
 - **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al’
 - **Generalized Decoding for Pixel, Image, and Language;** Xueyan Zou et al
 - **Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training;** Filip Radenovic et al
-- **Multimodal Few-Shot Learning with Frozen Language Models;** Maria Tsimpoukelli et al; Use prefix-like image-embedding to stear the text generation process to achieve few-shot learning. 
+
 
 ### Third Generation
 - **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al; Designed for few-shot learning. 
@@ -169,6 +169,11 @@
 - **PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models;** Yuan Yao et al; Introduce explicit object position modeling.A woman < 310 mask 406 475 > is watching the mask < 175 86 254 460 >;
 - **BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers;** Zhiliang Peng et al
 - **BEIT: BERT Pre-Training of Image Transformers;** Hangbo Bao et al; Pre-trained CV model. 
+
+
+## Adaptation of Foundation Model
+- **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners;** Zhenhailong Wang et al
+- **Multimodal Few-Shot Learning with Frozen Language Models;** Maria Tsimpoukelli et al; Use prefix-like image-embedding to stear the text generation process to achieve few-shot learning. 
 
 
 
