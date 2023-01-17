@@ -99,6 +99,7 @@
 
 ## Representation Learning
 - **Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering;** Peter Anderson et al
+- **Fusion of Detected Objects in Text for Visual Question Answering;** Chris Alberti et al
 - **VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix;** Teng Wang et al
 - **Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision;** Hao Tan et al; Use visual supervision to pretrain language models. 
 
@@ -111,6 +112,7 @@
 - **VISUALBERT: A SIMPLE AND PERFORMANT BASELINE FOR VISION AND LANGUAGE;** Liunian Harold Li et al
 - **UNITER: UNiversal Image-TExt Representation Learning;** Yen-Chun Chen et al
 - **VL-BERT: PRE-TRAINING OF GENERIC VISUAL- LINGUISTIC REPRESENTATIONS;** Weijie Su et al
+- **IMAGEBERT: CROSS-MODAL PRE-TRAINING WITH LARGE-SCALE WEAK-SUPERVISED IMAGE-TEXT DATA;** Di Qi et al
 - **Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training;** Gen Li et al
 - **Unified Vision-Language Pre-Training for Image Captioning and VQA;** Luowei Zhou et al
 
