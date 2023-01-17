@@ -110,6 +110,7 @@
 
 ## Foundation Model 
 ### First Generation: Using region-based features; can be classified as one- and two- streams model architectures; Before 2020.6;
+- **Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs;** Emanuele Bugliarello et al; A meta-analysis of the first generation VL models and a unified framework. 
 - **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks;** Jiasen Lu et al
 - **LXMERT: Learning Cross-Modality Encoder Representations from Transformers;** Hao Tan et al
 - **VISUALBERT: A SIMPLE AND PERFORMANT BASELINE FOR VISION AND LANGUAGE;** Liunian Harold Li et al
