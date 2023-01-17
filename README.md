@@ -37,6 +37,7 @@
 - **VLP: A Survey on Vision-Language Pre-training;** Feilong Chen et al
 - **A Survey on Multimodal Disinformation Detection;** Firoj Alam et al
 - **Vision-Language Pre-training: Basics, Recent Advances, and Future Trends;** Zhe Gan et al
+- **Deep Multimodal Representation Learning: A Survey;** Wenzhong Guo et al
 
 
 ## Structure
