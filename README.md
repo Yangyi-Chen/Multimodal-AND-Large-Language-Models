@@ -115,7 +115,7 @@
 - **LXMERT: Learning Cross-Modality Encoder Representations from Transformers;** Hao Tan et al
 - **VISUALBERT: A SIMPLE AND PERFORMANT BASELINE FOR VISION AND LANGUAGE;** Liunian Harold Li et al
 - **UNITER: UNiversal Image-TExt Representation Learning;** Yen-Chun Chen et al
-- **VL-BERT: PRE-TRAINING OF GENERIC VISUAL- LINGUISTIC REPRESENTATIONS;** Weijie Su et al
+- **VL-BERT: PRE-TRAINING OF GENERIC VISUAL-LINGUISTIC REPRESENTATIONS;** Weijie Su et al
 - **IMAGEBERT: CROSS-MODAL PRE-TRAINING WITH LARGE-SCALE WEAK-SUPERVISED IMAGE-TEXT DATA;** Di Qi et al
 - **Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training;** Gen Li et al
 - **UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning;** Wei Li et al; Motivate to use unimodal data to improve the performance of VL tasks. 
