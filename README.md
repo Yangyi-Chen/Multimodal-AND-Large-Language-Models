@@ -27,6 +27,7 @@
 - [Cognitive NeuronScience & Machine Learning](#cognitive-neuronscience-&-machine-learning)
 - [Cognitive NeuronScience](#cognitive-neuronscience)
 - [Backup](#backup)
+- [Resource](#resource)
 
 ## Survey
 - **Multimodal Learning with Transformers: A Survey;** Peng Xu, Xiatian Zhu, David A. Clifton
@@ -339,3 +340,8 @@
 
 ## Backup
 - **On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence;** Yi Ma et al
+
+
+## Resource
+- **LAVIS-A One-stop Library for Language-Vision Intelligence;** https://github.com/salesforce/LAVIS
+
