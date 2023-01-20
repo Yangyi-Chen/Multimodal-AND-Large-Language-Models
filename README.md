@@ -153,7 +153,6 @@
 - **PaLI: A Jointly-Scaled Multilingual Language-Image Model;** Xi Chen et al
 - **KB-VLP: Knowledge Based Vision and Language Pretraining;** Kezhen Chen et al
 - **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAINING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
-- **GLIPv2: Unifying Localization and VL Understanding;** Haotian Zhang et al
 - **Foundation Transformers;** Hongyu Wang et al
 - **Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks;** Hao Li et al
 - **X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks;** Yan Zeng et al
@@ -190,7 +189,8 @@
 - **VirTex: Learning Visual Representations from Textual Annotations;** Karan Desai et al; Pretraining CV models through the dense image captioning task.
 - **Florence: A New Foundation Model for Computer Vision;** Lu Yuan et al; Pre-trained CV model. 
 - **VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts;** Hangbo Bao et al; Introduce the mixture-of-experts method to model text and image separately and use a specific expert to learn the cross-modal fusion; Ensure better image-text retrieval (performance & speed) and VL tasks. 
-- **Grounded Language-Image Pre-training;** Liunian Harold Li et al; Learning object-level, language-aware, and semantic-rich visual representations. Introducing phrase grounding to the pretraining task and focusing on object detection as the downstream task.
+- **Grounded Language-Image Pre-training;** Liunian Harold Li et al; Learning object-level, language-aware, and semantic-rich visual representations. Introducing phrase grounding to the pretraining task and focusing on object detection as the downstream task; Propose GLIP.
+- **GLIPv2: Unifying Localization and VL Understanding;** Haotian Zhang et al; Further show that GLIP's pretraining method can benefit the VL task (Unifying localization and understanding). 
 - **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS;** Yuan Yao et al
 - **PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models;** Yuan Yao et al; Introduce explicit object position modeling.A woman < 310 mask 406 475 > is watching the mask < 175 86 254 460 >;
 
