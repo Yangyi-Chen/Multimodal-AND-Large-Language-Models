@@ -159,7 +159,7 @@
 - **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework;** Peng Wang et al; A unified model (framework) to handle text, image, and image-text tasks. 
 - **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al; Designed for few-shot learning. 
 - **Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks;** Wenhui Wang et al; BEIT-3. 
-- **OmniVL: One Foundation Model for Image-Language and Video-Language Tasks;** Junke Wang et al
+- **OmniVL: One Foundation Model for Image-Language and Video-Language Tasks;** Junke Wang et al; Support both image-language and video-language tasks and show the positive transfer in three modalities.
 - **CM3: A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET;** Armen Aghajanyan et al
 - **PaLI: A Jointly-Scaled Multilingual Language-Image Model;** Xi Chen et al
 - **KB-VLP: Knowledge Based Vision and Language Pretraining;** Kezhen Chen et al
