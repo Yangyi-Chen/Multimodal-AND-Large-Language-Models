@@ -160,20 +160,11 @@
 - **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al; Designed for few-shot learning. 
 - **Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks;** Wenhui Wang et al; BEIT-3. 
 - **OmniVL: One Foundation Model for Image-Language and Video-Language Tasks;** Junke Wang et al; Support both image-language and video-language tasks and show the positive transfer in three modalities.
-- **Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks;** Hao Li et al
-- **Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks;** Xinsong Zhang et al
-- **CM3: A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET;** Armen Aghajanyan et al
-- **PaLI: A Jointly-Scaled Multilingual Language-Image Model;** Xi Chen et al
-- **KB-VLP: Knowledge Based Vision and Language Pretraining;** Kezhen Chen et al
-- **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAINING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
-- **Foundation Transformers;** Hongyu Wang et al
+- **Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks;** Hao Li et al; Propose a generalist model that can also handle object detection and instance segmentation tasks.
 - **X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks;** Yan Zeng et al
-- **Retrievetrrieval-AugmentedMultimodalLanguageModeling;** Michihiro Yasunaga et al
-- **Teaching Structured Vision & Language Concepts to Vision & Language Models;** Sivan Doveh et al
-- **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
-- **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al’
 - **Generalized Decoding for Pixel, Image, and Language;** Xueyan Zou et al
-- **Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training;** Filip Radenovic et al
+- **Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks;** Xinsong Zhang et al
+
 
 
 
@@ -202,7 +193,17 @@
 - **Florence: A New Foundation Model for Computer Vision;** Lu Yuan et al; Pre-trained CV model.  
 - **Grounded Language-Image Pre-training;** Liunian Harold Li et al; Learning object-level, language-aware, and semantic-rich visual representations. Introducing phrase grounding to the pretraining task and focusing on object detection as the downstream task; Propose GLIP.
 
-
+**Novel techniques.**
+- **CM3: A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET;** Armen Aghajanyan et al
+- **PaLI: A Jointly-Scaled Multilingual Language-Image Model;** Xi Chen et al
+- **KB-VLP: Knowledge Based Vision and Language Pretraining;** Kezhen Chen et al
+- **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAINING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
+- **Foundation Transformers;** Hongyu Wang et al
+- **Retrievetrrieval-Augmented Multimodal Language Modeling;** Michihiro Yasunaga et al
+- **Teaching Structured Vision & Language Concepts to Vision & Language Models;** Sivan Doveh et al
+- **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
+- **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al’
+- **Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training;** Filip Radenovic et al
 
 
 
