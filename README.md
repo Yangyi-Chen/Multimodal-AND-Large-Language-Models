@@ -171,18 +171,12 @@
 
 
 
-
-
-
-
 ### Others
 - **Unified Vision-Language Pre-Training for Image Captioning and VQA;** Luowei Zhou et al
 - **Unifying Vision-and-Language Tasks via Text Generation;** Jaemin Cho et al
 - **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
 - **MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound;** Rowan Zellers et al
 - **CLIP-Event: Connecting Text and Images with Event Structures;** Manling Li et al; The new model CLIP-Event, specifically designed for multi-modal event extraction. Introducing new pretraining tasks to enable strong zero-shot performances. From object-centric representations to event-centric representations. 
-
-
 
 
 ## Pretraining
@@ -197,9 +191,9 @@
 - **Grounded Language-Image Pre-training;** Liunian Harold Li et al; Learning object-level, language-aware, and semantic-rich visual representations. Introducing phrase grounding to the pretraining task and focusing on object detection as the downstream task; Propose GLIP.
 
 **Novel techniques.**
-- **CM3: A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET;** Armen Aghajanyan et al
-- **PaLI: A Jointly-Scaled Multilingual Language-Image Model;** Xi Chen et al
 - **KB-VLP: Knowledge Based Vision and Language Pretraining;** Kezhen Chen et al
+- **CM3: A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET;** Armen Aghajanyan et al
+- **PaLI: A Jointly-Scaled Multilingual Language-Image Model;** Xi Chen et al; Investigate the scaling effect of multi-modal models; Pretrained on WebLI that contains text in over 100 languages. 
 - **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAINING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
 - **Retrievetrrieval-Augmented Multimodal Language Modeling;** Michihiro Yasunaga et al
 - **Teaching Structured Vision & Language Concepts to Vision & Language Models;** Sivan Doveh et al
