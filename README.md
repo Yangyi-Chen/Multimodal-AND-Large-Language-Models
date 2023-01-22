@@ -166,7 +166,7 @@
 - **X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks;** Yan Zeng et al; Propose a unified model for image-language and video-text-language tasks; Modeling the fine-grained alignments between image regions and descriptions. 
 - **Generalized Decoding for Pixel, Image, and Language;** Xueyan Zou et al
 - **Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks;** Xinsong Zhang et al
-
+- **Foundation Transformers;** Hongyu Wang et al; Propose a new unified architecture. 
 
 
 
@@ -201,7 +201,6 @@
 - **PaLI: A Jointly-Scaled Multilingual Language-Image Model;** Xi Chen et al
 - **KB-VLP: Knowledge Based Vision and Language Pretraining;** Kezhen Chen et al
 - **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAINING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
-- **Foundation Transformers;** Hongyu Wang et al
 - **Retrievetrrieval-Augmented Multimodal Language Modeling;** Michihiro Yasunaga et al
 - **Teaching Structured Vision & Language Concepts to Vision & Language Models;** Sivan Doveh et al
 - **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
