@@ -268,7 +268,7 @@
 - **Plug-and-Play VQA: Zero-shot VQA by Conjoining Large Pretrained Models with Zero Training;** Anthony Meng Huat Tiong et al
 - **FROM IMAGES TO TEXTUAL PROMPTS: ZERO-SHOT VQA WITH FROZEN LARGE LANGUAGE MODELS;** Jiaxian Guo et al
 - **SQuINTing at VQA Models: Introspecting VQA Models with Sub-Questions;** Ramprasaath R. Selvaraju et al
-
+- **Multimodal retrieval-augmented generator for open question answering over images and text;** Wenhu Chen et al
 
 
 
@@ -284,7 +284,7 @@
 
 ## Application
 - **Evaluating and Improving Factuality in Multimodal Abstractive Summarization;** David Wan et al
-
+- **Re-imagen: Retrieval-augmented text-to-image generator;** Wenhu Chen et al 
 
 ## Benchmark & Evaluation
 - **How Much Can CLIP Benefit Vision-and-Language Tasks?;** Sheng Shen et al; Explore two scenarios: 1) plugging CLIP into task-specific fine-tuning; 2) combining CLIP with V&L pre-training and transferring to downstream tasks. Show the boost in performance when using CLIP as the image encoder. 
