@@ -167,7 +167,7 @@
 - **Generalized Decoding for Pixel, Image, and Language;** Xueyan Zou et al
 - **Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks;** Xinsong Zhang et al
 - **Foundation Transformers;** Hongyu Wang et al; Propose a new unified architecture. 
-
+- **A Generalist Agent;** Scott Reed et al
 
 
 ### Others
