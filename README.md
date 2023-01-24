@@ -148,13 +148,13 @@
 - **GLIPv2: Unifying Localization and VL Understanding;** Haotian Zhang et al; Further show that GLIP's pretraining method can benefit the VL task (Unifying localization and understanding). 
 
 **Motivate to use unparalleled image & text data to build a unified model for VL, vision, and language tasks and potentially bring better performance.**
-- **Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks;** Siamese network to encode various modalities.
+- **Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks;** Xizhou Zhu et al; Siamese network to encode various modalities.
 - **FLAVA: A Foundational Language And Vision Alignment Model;** Amanpreet Singh et al; A unified backbone model (need task-specific heads) for NLP, CV, and VL tasks.
 - **UNIMO-2: End-to-End Unified Vision-Language Grounded Learning;** Wei Li et al; Design a new method "Grounded Dictionary Learning", similar to the sense of "continuous" image tags to align two modalities. 
 
 
 
-### Third Generation: Chasing for one unified/general/generalist to include more VL/NLP/CV tasks; 2022->Now.
+### Third Generation: Chasing for one unified/general/generalist model to include more VL/NLP/CV tasks; 2022->Now.
 - **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation;** Junnan Li et al; New unified architecture and new method to generate and then filter captions.  
 - **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework;** Peng Wang et al; A unified model (framework) to handle text, image, and image-text tasks. 
 - **CoCa: Contrastive Captioners are Image-Text Foundation Models;** Jiahui Yu et al
