@@ -106,7 +106,7 @@
 - **Fusion of Detected Objects in Text for Visual Question Answering;** Chris Alberti et al
 - **VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix;** Teng Wang et al
 - **Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision;** Hao Tan et al; Use visual supervision to pretrain language models. 
-
+- **HighMMT: Quantifying Modality & Interaction Heterogeneity for High-Modality Representation Learning;** Paul Pu Liang et al
 
 
 ## Foundation Model 
