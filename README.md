@@ -246,6 +246,8 @@
 - **Multitask Vision-Language Prompt Tuning;** Sheng Shen et al; Few-shot. 
 - **A Good Prompt Is Worth Millions of Parameters: Low-resource Prompt-based Learning for Vision-Language Models;** Woojeong Jin et al
 - **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS;** Yuan Yao et al; Good few-shot & zero-shot performance on RefCOCO datasets. 
+- **What Makes Good Examples for Visual In-Context Learning?;** Yuanhan Zhang et al
+
 
 
 
