@@ -112,6 +112,7 @@
 - **Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision;** Hao Tan et al; Use visual supervision to pretrain language models. 
 - **HighMMT: Quantifying Modality & Interaction Heterogeneity for High-Modality Representation Learning;** Paul Pu Liang et al
 - **Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture;** Mahmoud Assran et al
+- **Learning the Effects of Physical Actions in a Multi-modal Environment;** Gautier Dagan et al
 
 
 ## Foundation Model 
