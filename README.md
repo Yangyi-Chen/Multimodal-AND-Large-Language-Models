@@ -25,6 +25,7 @@
 - [Dataset](#dataset)
 - [Robustness](#robustness)
 - [Cognitive NeuronScience & Machine Learning](#cognitive-neuronscience-&-machine-learning)
+- [Theory of Mind](#theory-of-mind)
 - [Cognitive NeuronScience](#cognitive-neuronscience)
 - [Backup](#backup)
 - [Resource](#resource)
@@ -345,6 +346,12 @@
 ## Cognitive NeuronScience & Machine Learning
 - **Mind Reader: Reconstructing complex images from brain activities;** Sikun Lin et al
 - **Joint processing of linguistic properties in brains and language models;** Subba Reddy Oota et al
+- **Is the Brain Mechanism for Hierarchical Structure Building Universal Across Languages? An fMRI Study of Chinese and English;** Xiaohan Zhang et al
+- **TRAINING LANGUAGE MODELS FOR DEEPER UNDERSTANDING IMPROVES BRAIN ALIGNMENT;** Khai Loong Aw et al
+- **Abstract Visual Reasoning with Tangram Shapes;** Anya Ji et al
+- **DISSOCIATING LANGUAGE AND THOUGHT IN LARGE LANGUAGE MODELS: A COGNITIVE PERSPECTIVE;** Kyle Mahowald et al
+
+## Theory of Mind
 - **Do Large Language Models know what humans know?;** Sean Trott et al
 - **Few-shot Language Coordination by Modeling Theory of Mind;** Hao Zhu et al
 - **Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind;** Mo Yu et al 
@@ -352,10 +359,8 @@
 - **A Cognitive Evaluation of Instruction Generation Agents tl;dr They Need Better Theory-of-Mind Capabilities;** Lingjun Zhao et al
 - **MINDCRAFT: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks;** Cristian-Paul Bara et al
 - **TVSHOWGUESS: Character Comprehension in Stories as Speaker Guessing;** Yisi Sang et al
-- **Is the Brain Mechanism for Hierarchical Structure Building Universal Across Languages? An fMRI Study of Chinese and English;** Xiaohan Zhang et al
-- **TRAINING LANGUAGE MODELS FOR DEEPER UNDERSTANDING IMPROVES BRAIN ALIGNMENT;** Khai Loong Aw et al
-- **Abstract Visual Reasoning with Tangram Shapes;** Anya Ji et al
-- **DISSOCIATING LANGUAGE AND THOUGHT IN LARGE LANGUAGE MODELS: A COGNITIVE PERSPECTIVE;** Kyle Mahowald et al
+
+
 
 
 ## Cognitive NeuronScience
