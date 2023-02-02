@@ -111,7 +111,7 @@
 - **Vision-Language Pre-Training with Triple Contrastive Learning;** Jinyu Yang et al
 - **Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision;** Hao Tan et al; Use visual supervision to pretrain language models. 
 - **HighMMT: Quantifying Modality & Interaction Heterogeneity for High-Modality Representation Learning;** Paul Pu Liang et al
-
+- **Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture;** Mahmoud Assran et al
 
 
 ## Foundation Model 
