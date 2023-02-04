@@ -61,6 +61,7 @@
 
 
 ## Scene Graph
+- **Unbiased Scene Graph Generation from Biased Training;** Kaihua Tang et al
 - **Visual Distant Supervision for Scene Graph Generation;** Yuan Yao et al
 - **Learning to Generate Scene Graph from Natural Language Supervision;** Yiwu Zhong et al
 - **Weakly Supervised Visual Semantic Parsing;** Alireza Zareian, Svebor Karaman, Shih-Fu Chang
