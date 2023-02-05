@@ -62,6 +62,7 @@
 
 
 ## Scene Graph
+- **Action Genome: Actions as Composition of Spatio-temporal Scene Graphs;** Jingwei Ji et al; Spatio-temporal scene graphs (video). 
 - **Unbiased Scene Graph Generation from Biased Training;** Kaihua Tang et al
 - **Visual Distant Supervision for Scene Graph Generation;** Yuan Yao et al
 - **Learning to Generate Scene Graph from Natural Language Supervision;** Yiwu Zhong et al
@@ -70,13 +71,15 @@
 - **Neural Motifs: Scene Graph Parsing with Global Context;** Rowan Zellers et al
 - **Fine-Grained Scene Graph Generation with Data Transfer;** Ao Zhang et al
 - **Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning;** Tao He et al
-- **Action Genome: Actions as Composition of Spatio-temporal Scene Graphs;** Jingwei Ji et al; Spatio-temporal scene graphs. 
+- **COMPOSITIONAL PROMPT TUNING WITH MOTION CUES FOR OPEN-VOCABULARY VIDEO RELATION DETECTION;** Kaifeng Gao et al; Video. 
+
 
 
 ## Attribute
 - **COCO Attributes: Attributes for People, Animals, and Objects;** Genevieve Patterson et al
 - **Learning to Predict Visual Attributes in the Wild;** Khoi Pham et al
 - **OvarNet: Towards Open-vocabulary Object Attribute Recognition;** Keyan Chen et al
+
 
 
 
