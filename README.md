@@ -371,6 +371,8 @@
 - **TRAINING LANGUAGE MODELS FOR DEEPER UNDERSTANDING IMPROVES BRAIN ALIGNMENT;** Khai Loong Aw et al
 - **Abstract Visual Reasoning with Tangram Shapes;** Anya Ji et al
 - **DISSOCIATING LANGUAGE AND THOUGHT IN LARGE LANGUAGE MODELS: A COGNITIVE PERSPECTIVE;** Kyle Mahowald et al
+- **Language Cognition and Language Computation Human and Machine Language Understanding;** Shaonan Wang et al
+
 
 ## Theory of Mind
 - **Do Large Language Models know what humans know?;** Sean Trott et al
