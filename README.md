@@ -74,6 +74,8 @@
 
 
 ## Attribute
+- **COCO Attributes: Attributes for People, Animals, and Objects;** Genevieve Patterson et al
+- **Learning to Predict Visual Attributes in the Wild;** Khoi Pham et al
 - **OvarNet: Towards Open-vocabulary Object Attribute Recognition;** Keyan Chen et al
 
 
