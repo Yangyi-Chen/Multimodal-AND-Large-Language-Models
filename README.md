@@ -6,6 +6,7 @@
 - [Event Extraction](#event-extraction)
 - [Situation Recognition](#situation-recognition)
 - [Scene Graph](#scene-graph)
+- [Attribute](#attribute)
 - [Compositionality](#compositionality)
 - [Planning](#planning)
 - [Reasoning](#reasoning)
@@ -70,6 +71,13 @@
 - **Fine-Grained Scene Graph Generation with Data Transfer;** Ao Zhang et al
 - **Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning;** Tao He et al
 - **Action Genome: Actions as Composition of Spatio-temporal Scene Graphs;** Jingwei Ji et al; Spatio-temporal scene graphs. 
+
+
+## Attribute
+- **OvarNet: Towards Open-vocabulary Object Attribute Recognition;** Keyan Chen et al
+
+
+
 
 
 
