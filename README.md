@@ -299,6 +299,7 @@
 
 ## Grounding
 - **Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models;** Bryan A. Plummer et al; A new benchmark dataset, annotating phrase-region correspondences. 
+- **Connecting Vision and Language with Localized Narratives;** Jordi Pont-Tuset et al
 - **MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding;** Qinxin Wang et al
 - **Visual Grounding Strategies for Text-Only Natural Language Processing;** Propose to improve the NLP tasks performance by grounding to images. Two methods are proposed.  
 - **Visually Grounded Neural Syntax Acquisition;** Haoyue Shi et al
@@ -338,6 +339,7 @@
 - **VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations;** Tiancheng Zhao et al
 - **GRIT: General Robust Image Task Benchmark;** Tanmay Gupta et al 
 - **From Recognition to Cognition: Visual Commonsense Reasoning;** Rowan Zellers et al; Benchmark dataset, requiring models to go beyond the recognition level to cognition. Need to reason about a still image and give rationales. 
+
 
 ## Dataset
 - **Visual Entailment: A Novel Task for Fine-Grained Image Understanding;** Ning Xie et al; Visual entailment task. SNLI-VE.  
