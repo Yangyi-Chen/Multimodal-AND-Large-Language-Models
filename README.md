@@ -327,6 +327,8 @@
 - **SAFE: Similarity-Aware Multi-Modal Fake News Detection;** Xinyi Zhou et al
 - **r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection;** Kai Nakamura et al; Fake news detection dataset.
 - **Fact-Checking Meets Fauxtography: Verifying Claims About Images;** Dimitrina Zlatkova et al; Claim-Images pairs. 
+- **Prompting for Multimodal Hateful Meme Classification;** Rui Cao et al
+
 
 ## Application
 - **Evaluating and Improving Factuality in Multimodal Abstractive Summarization;** David Wan et al
