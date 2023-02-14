@@ -115,7 +115,7 @@
 - **An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA;** Zhengyuan Yang et al
 - **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering;** Pan Lu et al
 - **Multimodal Chain-of-Thought Reasoning in Language Models;** Zhuosheng Zhang et al
-
+- **LAMPP: Language Models as Probabilistic Priors for Perception and Action;** Belinda Z. Li et al
 
 ## Generation
 - **ClipCap: CLIP Prefix for Image Captioning;** Ron Mokady et al; Train an light-weight encoder to convert CLIP embeddings to prefix token embeddings of GPT-2. 
