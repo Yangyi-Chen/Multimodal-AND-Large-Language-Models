@@ -274,7 +274,7 @@
 - **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS;** Yuan Yao et al; Good few-shot & zero-shot performance on RefCOCO datasets. 
 - **What Makes Good Examples for Visual In-Context Learning?;** Yuanhan Zhang et al
 - **Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery;** Yuxin Wen et al
-- **PLOT: PROMPT LEARNING WITH OPTIMAL TRANS- PORT FOR VISION-LANGUAGE MODELS;** Guangyi Chen et al
+- **PLOT: PROMPT LEARNING WITH OPTIMAL TRANSPORT FOR VISION-LANGUAGE MODELS;** Guangyi Chen et al
 
 
 ## Efficiency
