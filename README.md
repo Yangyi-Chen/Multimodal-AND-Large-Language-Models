@@ -335,6 +335,9 @@
 ## Application
 - **Evaluating and Improving Factuality in Multimodal Abstractive Summarization;** David Wan et al
 - **Re-imagen: Retrieval-augmented text-to-image generator;** Wenhu Chen et al 
+- **Large Scale Multi-Lingual Multi-Modal Summarization Dataset;** Yash Verma et al
+
+
 
 ## Benchmark & Evaluation
 - **Multimodal datasets: misogyny, pornography, and malignant stereotypes;** Abeba Birhane et al
