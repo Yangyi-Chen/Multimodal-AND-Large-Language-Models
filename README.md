@@ -107,6 +107,9 @@
 - **P3IV: Probabilistic Procedure Planning from Instructional Videos with Weak Supervision;** He Zhao et al; Procedure planning. Using text as weak supervision to replace video clips. 
 - **Procedure Planning in Instructional Videos;** Chien-Yi Chang et al; Procedure planning.
 - **ViLPAct: A Benchmark for Compositional Generalization on Multimodal Human Activities;** Terry Yue Zhuo et al
+- **Actional Atomic-Concept Learning for Demystifying Vision-Language Navigation;** Bingqian Lin et al
+
+
 
 
 ## Reasoning
