@@ -372,6 +372,7 @@
 - **Task Bias in Vision-Language Models;** Sachit Menon et al
 - **Are Multimodal Models Robust to Image and Text Perturbations?;** Jielin Qiu et al
 - **CPL: Counterfactual Prompt Learning for Vision and Language Models;** Xuehai He et al
+- **Improving Zero-shot Generalization and Robustness of Multi-modal Models;** Yunhao Ge et al
 
 ## Cognitive NeuronScience & Machine Learning
 - **Mind Reader: Reconstructing complex images from brain activities;** Sikun Lin et al
