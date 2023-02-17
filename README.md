@@ -14,6 +14,7 @@
 - [Representation Learning](#representation-learning)
 - [Foundation Model](#foundation-model)
 - [Pretraining](#pretraining)
+- [Vision Model](#vision-model)
 - [Adaptation of Foundation Model](#adaptation-of-foundation-model)
 - [Prompting](#prompting)
 - [Efficiency](#efficiency)
@@ -240,6 +241,10 @@
 - **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al
 - **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
 - **Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training;** Filip Radenovic et al; Propose methods to improve zero-shot performance on retrieval and classification tasks through large-scale pre-training.
+
+
+## Vision Model
+- **Scaling Vision Transformers to 22 Billion Parameters;** Mostafa Dehghani et al
 
 
 
