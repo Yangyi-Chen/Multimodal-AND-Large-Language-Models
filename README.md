@@ -138,6 +138,9 @@
 - **Learning the Effects of Physical Actions in a Multi-modal Environment;** Gautier Dagan et al
 - **Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models;** Zhiqiu Lin et al
 
+**Knowledge-driven methods.**
+
+
 ## Foundation Model 
 ### First Generation: Using region-based features; can be classified as one- and two- streams model architectures; Before 2020.6;
 - **Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs;** Emanuele Bugliarello et al; A meta-analysis of the first generation VL models and a unified framework. 
