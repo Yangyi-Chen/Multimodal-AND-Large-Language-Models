@@ -392,6 +392,9 @@
 - **Are Multimodal Models Robust to Image and Text Perturbations?;** Jielin Qiu et al
 - **CPL: Counterfactual Prompt Learning for Vision and Language Models;** Xuehai He et al
 - **Improving Zero-shot Generalization and Robustness of Multi-modal Models;** Yunhao Ge et al
+- **DIAGNOSING AND RECTIFYING VISION MODELS USING LANGUAGE;** Yuhui Zhang et al
+
+
 
 ## Hallucination
 - **Object Hallucination in Image Captioning;** Anna Rohrbach et al
