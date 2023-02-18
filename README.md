@@ -404,8 +404,7 @@
 - **A Cognitive Evaluation of Instruction Generation Agents tl;dr They Need Better Theory-of-Mind Capabilities;** Lingjun Zhao et al
 - **MINDCRAFT: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks;** Cristian-Paul Bara et al
 - **TVSHOWGUESS: Character Comprehension in Stories as Speaker Guessing;** Yisi Sang et al
-- **Theory of Mind May Have Spontaneously Emerged in Large Language Models;** Michal Kosinski et al
-
+- **Theory of Mind May Have Spontaneously Emerged in Large Language Models;** Michal Kosinski 
 
 
 ## Cognitive NeuronScience
