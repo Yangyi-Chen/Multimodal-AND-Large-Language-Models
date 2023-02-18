@@ -122,6 +122,13 @@
 - **Multimodal Chain-of-Thought Reasoning in Language Models;** Zhuosheng Zhang et al
 - **LAMPP: Language Models as Probabilistic Priors for Perception and Action;** Belinda Z. Li et al
 
+**Common sense.**
+- **Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles;** Shuquan Ye et al
+- **VIPHY: Probing “Visible” Physical Commonsense Knowledge;** Shikhar Singh et al
+- **Visual Commonsense in Pretrained Unimodal and Multimodal Models;** Chenyu Zhang et al
+
+
+
 ## Generation
 - **ClipCap: CLIP Prefix for Image Captioning;** Ron Mokady et al; Train an light-weight encoder to convert CLIP embeddings to prefix token embeddings of GPT-2. 
 - **Multimodal Knowledge Alignment with Reinforcement Learning;** Youngjae Yu et al; Use RL to train an encoder that projects multimodal inputs into the word embedding space of GPT-2. 
