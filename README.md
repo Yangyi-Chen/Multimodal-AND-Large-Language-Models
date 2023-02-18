@@ -26,6 +26,7 @@
 - [Benchmark & Evaluation](#benchmark-&-evaluation)
 - [Dataset](#dataset)
 - [Robustness](#robustness)
+- [Hallucination](#hallucination)
 - [Cognitive NeuronScience & Machine Learning](#cognitive-neuronscience-&-machine-learning)
 - [Theory of Mind](#theory-of-mind)
 - [Cognitive NeuronScience](#cognitive-neuronscience)
@@ -385,13 +386,17 @@
 - **Learning Visually-Grounded Semantics from Contrastive Adversarial Samples;** Haoyue Shi et al
 - **Visually Grounded Reasoning across Languages and Cultures;** Fangyu Liu et al
 - **A Closer Look at the Robustness of Vision-and-Language Pre-trained Models;** Linjie Li et al; Compile a list of robustness-VQA datasets.
-- **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training;** Wenliang Dai et al
 - **ROBUSTNESS ANALYSIS OF VIDEO-LANGUAGE MODELS AGAINST VISUAL AND LANGUAGE PERTURBATIONS;** Madeline C. Schiappa et al
 - **Context-Aware Robust Fine-Tuning;** Xiaofeng Mao et al
 - **Task Bias in Vision-Language Models;** Sachit Menon et al
 - **Are Multimodal Models Robust to Image and Text Perturbations?;** Jielin Qiu et al
 - **CPL: Counterfactual Prompt Learning for Vision and Language Models;** Xuehai He et al
 - **Improving Zero-shot Generalization and Robustness of Multi-modal Models;** Yunhao Ge et al
+
+## Hallucination
+- **Object Hallucination in Image Captioning;** Anna Rohrbach et al
+- **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training;** Wenliang Dai et al
+
 
 ## Cognitive NeuronScience & Machine Learning
 - **Mind Reader: Reconstructing complex images from brain activities;** Sikun Lin et al
