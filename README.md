@@ -100,7 +100,7 @@
 - **GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering;** Drew A. Hudson et al
 - **COVR: A Test-Bed for Visually Grounded Compositional Generalization with Real Images;** Ben Bogin et al
 - **Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension;** Zhenfang Chen et al
-
+- **Do Vision-Language Pretrained Models Learn Composable Primitive Concepts?;** Tian Yun et al
 
 
 
