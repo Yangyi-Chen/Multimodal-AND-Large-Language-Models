@@ -406,7 +406,11 @@
 
 ## Hallucination
 - **Object Hallucination in Image Captioning;** Anna Rohrbach et al
+- **Consensus Graph Representation Learning for Better Grounded Image Captioning;** Wenqiao Zhang et al
+- **Relational Graph Learning for Grounded Video Description Generation;** Wenqiao Zhang et al
 - **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training;** Wenliang Dai et al
+
+
 
 
 ## Cognitive NeuronScience & Machine Learning
