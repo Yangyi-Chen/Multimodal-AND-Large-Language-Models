@@ -81,6 +81,7 @@
 - **COCO Attributes: Attributes for People, Animals, and Objects;** Genevieve Patterson et al
 - **Human Attribute Recognition by Deep Hierarchical Contexts;** Yining Li et al; Attribute prediction in specific domains. 
 - **Emotion Recognition in Context;** Ronak Kosti et al; Attribute prediction in specific domains. 
+- **The iMaterialist Fashion Attribute Dataset;** Sheng Guo et al; Attribute prediction in specific domains. 
 - **Learning to Predict Visual Attributes in the Wild;** Khoi Pham et al
 - **OvarNet: Towards Open-vocabulary Object Attribute Recognition;** Keyan Chen et al
 
