@@ -83,6 +83,7 @@
 - **Emotion Recognition in Context;** Ronak Kosti et al; Attribute prediction in specific domains. 
 - **The iMaterialist Fashion Attribute Dataset;** Sheng Guo et al; Attribute prediction in specific domains. 
 - **Learning to Predict Visual Attributes in the Wild;** Khoi Pham et al
+- **Open-vocabulary Attribute Detection;** Marıa A. Bravo et al
 - **OvarNet: Towards Open-vocabulary Object Attribute Recognition;** Keyan Chen et al
 
 
