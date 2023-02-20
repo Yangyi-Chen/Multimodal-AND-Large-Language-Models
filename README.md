@@ -410,6 +410,7 @@
 - **On Hallucination and Predictive Uncertainty in Conditional Language Generation;** Yijun Xiao et al
 - **Consensus Graph Representation Learning for Better Grounded Image Captioning;** Wenqiao Zhang et al
 - **Relational Graph Learning for Grounded Video Description Generation;** Wenqiao Zhang et al
+- **Let there be a clock on the beach: Reducing Object Hallucination in Image Captioning;** Ali Furkan Biten et al
 - **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training;** Wenliang Dai et al
 
 
