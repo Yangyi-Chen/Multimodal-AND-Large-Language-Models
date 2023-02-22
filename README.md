@@ -232,6 +232,19 @@
 
 ## Video Foundation Model
 - **VideoBERT: A Joint Model for Video and Language Representation Learning;** Chen Sun et al
+- **Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling;** Jie Lei et al
+- **DECEMBERT: Learning from Noisy Instructional Videos via Dense Captions and Entropy Minimization;** Zineng Tang et al
+- **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
+
+
+
+## Vision Model
+- **Scaling Vision Transformers to 22 Billion Parameters;** Mostafa Dehghani et al
+
+
+
+
+
 
 ## Pretraining
 - **MDETR - Modulated Detection for End-to-End Multi-Modal Understanding;** Aishwarya Kamath et al
@@ -261,9 +274,6 @@
 - **Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training;** Filip Radenovic et al; Propose methods to improve zero-shot performance on retrieval and classification tasks through large-scale pre-training.
 
 
-## Vision Model
-- **Scaling Vision Transformers to 22 Billion Parameters;** Mostafa Dehghani et al
-- **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
 
 
 
