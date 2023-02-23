@@ -232,6 +232,7 @@
 
 ## Video Foundation Model
 - **VideoBERT: A Joint Model for Video and Language Representation Learning;** Chen Sun et al
+- **LEARNING VIDEO REPRESENTATIONS USING CONTRASTIVE BIDIRECTIONAL TRANSFORMER;** Chen Sun et al
 - **Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling;** Jie Lei et al
 - **End-to-End Learning of Visual Representations from Uncurated Instructional Videos;** Antoine Miech et al
 - **HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training;** Linjie Li et al
