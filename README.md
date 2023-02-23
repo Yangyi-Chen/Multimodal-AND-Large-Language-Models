@@ -233,8 +233,14 @@
 ## Video Foundation Model
 - **VideoBERT: A Joint Model for Video and Language Representation Learning;** Chen Sun et al
 - **Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling;** Jie Lei et al
+- **End-to-End Learning of Visual Representations from Uncurated Instructional Videos;** Antoine Miech et al
+- **HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training;** Linjie Li et al
+- **Multi-modal Transformer for Video Retrieval;** Valentin Gabeur et al
+- **ActBERT: Learning Global-Local Video-Text Representations;** Linchao Zhu et al
 - **DECEMBERT: Learning from Noisy Instructional Videos via Dense Captions and Entropy Minimization;** Zineng Tang et al
 - **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
+
+
 
 
 
