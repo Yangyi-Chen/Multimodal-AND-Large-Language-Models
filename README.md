@@ -62,7 +62,8 @@
 ## Situation Recognition
 - **Situation Recognition: Visual Semantic Role Labeling for Image Understanding;** Mark Yatskar et al; Focus on image understanding. Given images, do the semantic role labeling task. No text available. A new benchmark and baseline are proposed. 
 - **Commonly Uncommon: Semantic Sparsity in Situation Recognition;** Mark Yatskar et al; Address the long-tail problem.
-
+- **Grounded Situation Recognition;** Sarah Pratt et al
+- **Collaborative Transformers for Grounded Situation Recognition;** Junhyeong Cho et al
 
 ## Scene Graph
 - **Action Genome: Actions as Composition of Spatio-temporal Scene Graphs;** Jingwei Ji et al; Spatio-temporal scene graphs (video). 
