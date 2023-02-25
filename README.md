@@ -151,6 +151,7 @@
 - **PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World;** Rowan Zellers et al
 - **Learning the Effects of Physical Actions in a Multi-modal Environment;** Gautier Dagan et al
 - **Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models;** Zhiqiu Lin et al
+- **Learning Visual Representations via Language-Guided Sampling;** Mohamed El Banani et al
 
 **Knowledge-driven methods.**
 
