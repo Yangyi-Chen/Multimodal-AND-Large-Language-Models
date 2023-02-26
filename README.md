@@ -421,6 +421,7 @@
 - **HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips;** Antoine Miech et al
 - **WebQA: Multihop and Multimodal QA;** Yingshan Chang et al
 - **Connecting Vision and Language with Video Localized Narratives;** Paul Voigtlaender et al
+- **LAION-5B: An open large-scale dataset for training next generation image-text models;** Christoph Schuhmann et al
 
 
 
