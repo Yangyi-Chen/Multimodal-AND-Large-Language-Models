@@ -352,6 +352,7 @@
 - **Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers;** Stella Frank et al
 - **Controlling for Stereotypes in Multimodal Language Model Evaluation;** Manuj Malik et al
 - **Beyond Instructional Videos: Probing for More Diverse Visual-Textual Grounding on YouTube;** Jack Hessel et al
+- **What is More Likely to Happen Next? Video-and-Language Future Event Prediction;** Jie Lei et al
 
 
 
