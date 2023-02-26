@@ -243,6 +243,7 @@
 - **ActBERT: Learning Global-Local Video-Text Representations;** Linchao Zhu et al
 - **Spatiotemporal Contrastive Video Representation Learning;** Rui Qian et al
 - **DECEMBERT: Learning from Noisy Instructional Videos via Dense Captions and Entropy Minimization;** Zineng Tang et al
+- **Self-Supervised MultiModal Versatile Networks;** Jean-Baptiste Alayrac et al
 - **VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning;** Hao Tan et al
 - **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
 - **VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text;** Hassan Akbari et al
