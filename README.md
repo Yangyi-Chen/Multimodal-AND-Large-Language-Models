@@ -236,7 +236,6 @@
 ## Video Foundation Model
 - **VideoBERT: A Joint Model for Video and Language Representation Learning;** Chen Sun et al
 - **LEARNING VIDEO REPRESENTATIONS USING CONTRASTIVE BIDIRECTIONAL TRANSFORMER;** Chen Sun et al
-- **Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling;** Jie Lei et al
 - **End-to-End Learning of Visual Representations from Uncurated Instructional Videos;** Antoine Miech et al
 - **HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training;** Linjie Li et al
 - **Multi-modal Transformer for Video Retrieval;** Valentin Gabeur et al
@@ -246,10 +245,11 @@
 - **Self-Supervised MultiModal Versatile Networks;** Jean-Baptiste Alayrac et al
 - **COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning;** Simon Ging et al
 - **VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning;** Hao Tan et al
+- **Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling;** Jie Lei et al
 - **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
 - **VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text;** Hassan Akbari et al
 - **VIOLET: End-to-End Video-Language Transformers with Masked Visual-token Modeling;** Tsu-Jui Fu et al
-
+- **CoCo-BERT: Improving Video-Language Pre-training with Contrastive Cross-modal Matching and Denoising;** Jianjie Luo et al
 
 
 
