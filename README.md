@@ -246,6 +246,7 @@
 - **COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning;** Simon Ging et al
 - **VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning;** Hao Tan et al
 - **Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling;** Jie Lei et al
+- **Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval;** Max Bain et al
 - **CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval;** Huaishao Luo et al
 - **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
 - **VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text;** Hassan Akbari et al
