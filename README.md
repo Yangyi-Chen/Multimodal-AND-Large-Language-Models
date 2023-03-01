@@ -242,6 +242,7 @@
 - **ActBERT: Learning Global-Local Video-Text Representations;** Linchao Zhu et al
 - **Spatiotemporal Contrastive Video Representation Learning;** Rui Qian et al
 - **DECEMBERT: Learning from Noisy Instructional Videos via Dense Captions and Entropy Minimization;** Zineng Tang et al
+- **HiT: Hierarchical Transformer with Momentum Contrast for Video-Text Retrieval;** Song Liu et al
 - **Self-Supervised MultiModal Versatile Networks;** Jean-Baptiste Alayrac et al
 - **COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning;** Simon Ging et al
 - **VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning;** Hao Tan et al
