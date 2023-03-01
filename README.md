@@ -14,6 +14,7 @@
 - [Representation Learning](#representation-learning)
 - [Foundation Model](#foundation-model)
 - [Video Foundation Model](#video-foundation-model)
+- [Key Frame Detection](#key-frame-detection)
 - [Pretraining](#pretraining)
 - [Vision Model](#vision-model)
 - [Adaptation of Foundation Model](#adaptation-of-foundation-model)
@@ -253,6 +254,9 @@
 - **VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text;** Hassan Akbari et al
 - **VIOLET: End-to-End Video-Language Transformers with Masked Visual-token Modeling;** Tsu-Jui Fu et al
 - **CoCo-BERT: Improving Video-Language Pre-training with Contrastive Cross-modal Matching and Denoising;** Jianjie Luo et al
+
+## Key Frame Detection
+
 
 
 
