@@ -32,7 +32,7 @@
 - [Cognitive NeuronScience & Machine Learning](#cognitive-neuronscience-&-machine-learning)
 - [Theory of Mind](#theory-of-mind)
 - [Cognitive NeuronScience](#cognitive-neuronscience)
-- [Backup](#backup)
+- [World Model](#world-model)
 - [Resource](#resource)
 
 ## Survey
@@ -503,8 +503,8 @@
 - **Intonational speech prosody encoding in the human auditory cortex;** C. Tang et al
 
 
-## Backup
-- **On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence;** Yi Ma et al
+## World Model
+- **Recurrent World Models Facilitate Policy Evolution;** David Ha et al
 
 
 ## Resource
