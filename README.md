@@ -155,6 +155,7 @@
 - **Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models;** Zhiqiu Lin et al
 - **Learning Visual Representations via Language-Guided Sampling;** Mohamed El Banani et al
 - **Image as Set of Points;** Xu Ma et al
+- **ARCL: ENHANCING CONTRASTIVE LEARNING WITH AUGMENTATION-ROBUST REPRESENTATIONS;** Xuyang Zhao et al
 
 
 
