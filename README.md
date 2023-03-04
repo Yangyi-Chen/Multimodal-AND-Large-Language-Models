@@ -484,6 +484,7 @@
 - **MINDCRAFT: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks;** Cristian-Paul Bara et al
 - **TVSHOWGUESS: Character Comprehension in Stories as Speaker Guessing;** Yisi Sang et al
 - **Theory of Mind May Have Spontaneously Emerged in Large Language Models;** Michal Kosinski 
+- **COMPUTATIONAL LANGUAGE ACQUISITION WITH THEORY OF MIND;** Andy Liu et al
 
 
 ## Cognitive NeuronScience
