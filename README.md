@@ -154,6 +154,9 @@
 - **Learning the Effects of Physical Actions in a Multi-modal Environment;** Gautier Dagan et al
 - **Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models;** Zhiqiu Lin et al
 - **Learning Visual Representations via Language-Guided Sampling;** Mohamed El Banani et al
+- **Image as Set of Points;** Xu Ma et al
+
+
 
 **Knowledge-driven methods.**
 
