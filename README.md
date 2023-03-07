@@ -263,6 +263,7 @@
 
 
 ## Key Frame Detection
+- **Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training;** Dezhao Luo et al
 
 
 
@@ -473,7 +474,7 @@
 - **Relational Graph Learning for Grounded Video Description Generation;** Wenqiao Zhang et al
 - **Let there be a clock on the beach: Reducing Object Hallucination in Image Captioning;** Ali Furkan Biten et al
 - **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training;** Wenliang Dai et al
-
+- **Models See Hallucinations: Evaluating the Factuality in Video Captioning;** Hui Liu et al
 
 
 
