@@ -425,6 +425,7 @@
 - **GRIT: General Robust Image Task Benchmark;** Tanmay Gupta et al 
 - **From Recognition to Cognition: Visual Commonsense Reasoning;** Rowan Zellers et al; Benchmark dataset, requiring models to go beyond the recognition level to cognition. Need to reason about a still image and give rationales. 
 - **MULTIMODALQA: COMPLEX QUESTION ANSWERING OVER TEXT, TABLES AND IMAGES;** Alon Talmor et al
+- **Test of Time: Instilling Video-Language Models with a Sense of Time;** Piyush Bagad et al
 
 
 ## Dataset
