@@ -412,6 +412,7 @@
 - **Large Scale Multi-Lingual Multi-Modal Summarization Dataset;** Yash Verma et al
 - **Retrieval-augmented Image Captioning;** Rita Ramos et al
 - **SYNTHETIC MISINFORMERS: GENERATING AND COMBATING MULTIMODAL MISINFORMATION;** Stefanos-Iordanis Papadopoulos et al
+- **The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training;** Gi-Cheon Kang et al
 
 
 
