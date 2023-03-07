@@ -413,6 +413,7 @@
 - **Retrieval-augmented Image Captioning;** Rita Ramos et al
 - **SYNTHETIC MISINFORMERS: GENERATING AND COMBATING MULTIMODAL MISINFORMATION;** Stefanos-Iordanis Papadopoulos et al
 - **The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training;** Gi-Cheon Kang et al
+- **CapDet: Unifying Dense Captioning and Open-World Detection Pretraining;** Yanxin Long et al
 
 
 
