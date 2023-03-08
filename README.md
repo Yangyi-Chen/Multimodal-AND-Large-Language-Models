@@ -302,6 +302,7 @@
 - **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al
 - **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
 - **Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training;** Filip Radenovic et al; Propose methods to improve zero-shot performance on retrieval and classification tasks through large-scale pre-training.
+- **Prismer: A Vision-Language Model with An Ensemble of Experts;** Shikun Liu et al
 
 
 
