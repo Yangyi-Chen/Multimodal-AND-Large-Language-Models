@@ -156,6 +156,7 @@
 - **Learning Visual Representations via Language-Guided Sampling;** Mohamed El Banani et al
 - **Image as Set of Points;** Xu Ma et al
 - **ARCL: ENHANCING CONTRASTIVE LEARNING WITH AUGMENTATION-ROBUST REPRESENTATIONS;** Xuyang Zhao et al
+- **BRIDGING THE GAP TO REAL-WORLD OBJECT- CENTRIC LEARNING;** Maximilian Seitzer et al
 
 
 
