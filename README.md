@@ -79,7 +79,7 @@
 - **Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning;** Tao He et al
 - **COMPOSITIONAL PROMPT TUNING WITH MOTION CUES FOR OPEN-VOCABULARY VIDEO RELATION DETECTION;** Kaifeng Gao et al; Video. 
 - **LANDMARK: Language-guided Representation Enhancement Framework for Scene Graph Generation;** Xiaoguang Chang et al
-
+- **TRANSFORMER-BASED IMAGE GENERATION FROM SCENE GRAPHS;** Renato Sortino et al
 
 ## Attribute
 - **COCO Attributes: Attributes for People, Animals, and Objects;** Genevieve Patterson et al
