@@ -267,7 +267,7 @@
 
 ## Key Frame Detection
 - **Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training;** Dezhao Luo et al
-
+- **Localizing Moments in Long Video Via Multimodal Guidance;** Wayner Barrios et al
 
 
 
