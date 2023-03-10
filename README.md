@@ -524,6 +524,7 @@
 
 ## World Model
 - **Recurrent World Models Facilitate Policy Evolution;** David Ha et al
+- **TRANSFORMERS ARE SAMPLE-EFFICIENT WORLD MODELS;** Vincent Micheli et al
 
 
 ## Resource
