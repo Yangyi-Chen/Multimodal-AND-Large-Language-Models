@@ -469,7 +469,7 @@
 - **CPL: Counterfactual Prompt Learning for Vision and Language Models;** Xuehai He et al
 - **Improving Zero-shot Generalization and Robustness of Multi-modal Models;** Yunhao Ge et al
 - **DIAGNOSING AND RECTIFYING VISION MODELS USING LANGUAGE;** Yuhui Zhang et al
-
+- **Multimodal Prompting with Missing Modalities for Visual Recognition;** Yi-Lun Lee et al
 
 
 ## Hallucination
