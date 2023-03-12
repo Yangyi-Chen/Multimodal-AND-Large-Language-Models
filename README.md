@@ -13,6 +13,8 @@
 - [Generation](#generation)
 - [Representation Learning](#representation-learning)
 - [Foundation Model](#foundation-model)
+- [Document Understanding)(#document-understanding)
+- [External Tool](#external-tool)
 - [Video Foundation Model](#video-foundation-model)
 - [Key Frame Detection](#key-frame-detection)
 - [Pretraining](#pretraining)
@@ -245,6 +247,19 @@
 - **CLIP-Event: Connecting Text and Images with Event Structures;** Manling Li et al; The new model CLIP-Event, specifically designed for multi-modal event extraction. Introducing new pretraining tasks to enable strong zero-shot performances. From object-centric representations to event-centric representations. 
 - **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAINING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
 
+
+
+## Document Understanding
+- **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
+
+
+## External Tool
+
+
+
+
+
+
 ## Video Foundation Model
 - **VideoBERT: A Joint Model for Video and Language Representation Learning;** Chen Sun et al
 - **LEARNING VIDEO REPRESENTATIONS USING CONTRASTIVE BIDIRECTIONAL TRANSFORMER;** Chen Sun et al
@@ -310,7 +325,6 @@
 - **Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning;** Zhuolin Yang et al
 - **Teaching Structured Vision & Language Concepts to Vision & Language Models;** Sivan Doveh et al
 - **MATCHA : Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering;** Fangyu Liu et al
-- **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
 - **Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training;** Filip Radenovic et al; Propose methods to improve zero-shot performance on retrieval and classification tasks through large-scale pre-training.
 - **Prismer: A Vision-Language Model with An Ensemble of Experts;** Shikun Liu et al
 
