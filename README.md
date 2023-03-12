@@ -80,6 +80,10 @@
 - **COMPOSITIONAL PROMPT TUNING WITH MOTION CUES FOR OPEN-VOCABULARY VIDEO RELATION DETECTION;** Kaifeng Gao et al; Video. 
 - **LANDMARK: Language-guided Representation Enhancement Framework for Scene Graph Generation;** Xiaoguang Chang et al
 - **TRANSFORMER-BASED IMAGE GENERATION FROM SCENE GRAPHS;** Renato Sortino et al
+- **The Devil is in the Labels: Noisy Label Correction for Robust Scene Graph Generation;** Lin Li et al
+- **Knowledge-augmented Few-shot Visual Relation Detection;** Tianyu Yu et al
+
+
 
 ## Attribute
 - **COCO Attributes: Attributes for People, Animals, and Objects;** Genevieve Patterson et al
