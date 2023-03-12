@@ -13,7 +13,7 @@
 - [Generation](#generation)
 - [Representation Learning](#representation-learning)
 - [Foundation Model](#foundation-model)
-- [Document Understanding)(#document-understanding)
+- [Document Understanding](#document-understanding)
 - [External Tool](#external-tool)
 - [Video Foundation Model](#video-foundation-model)
 - [Key Frame Detection](#key-frame-detection)
