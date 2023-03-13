@@ -224,13 +224,14 @@
 - **GIT: A Generative Image-to-text Transformer for Vision and Language;** Jianfeng Wang et al
 - **CoCa: Contrastive Captioners are Image-Text Foundation Models;** Jiahui Yu et al
 - **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al; Designed for few-shot learning. 
-- **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models;** JunnanLi et al
 - **Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks;** Wenhui Wang et al; BEIT-3. 
 - **OmniVL: One Foundation Model for Image-Language and Video-Language Tasks;** Junke Wang et al; Support both image-language and video-language tasks and show the positive transfer in three modalities.
 - **Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks;** Hao Li et al; Propose a generalist model that can also handle object detection and instance segmentation tasks.
 - **X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks;** Yan Zeng et al; Propose a unified model for image-language and video-text-language tasks; Modeling the fine-grained alignments between image regions and descriptions. 
 - **Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks;** Xinsong Zhang et al
 - **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video;** Haiyang Xu et al
+- **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models;** Junnan Li et al
+- **Language Is Not All You Need: Aligning Perception with Language Models;** Shaohan Huang et al
 
 
 **Generalist models**
@@ -238,6 +239,7 @@
 - **Generalized Decoding for Pixel, Image, and Language;** Xueyan Zou et al
 - **Foundation Transformers;** Hongyu Wang et al; Propose a new unified architecture. 
 - **A Generalist Agent;** Scott Reed et al
+- **
 
 
 ### Others
