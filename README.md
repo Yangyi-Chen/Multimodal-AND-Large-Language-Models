@@ -552,4 +552,5 @@
 ## Resource
 - **LAVIS-A One-stop Library for Language-Vision Intelligence;** https://github.com/salesforce/LAVIS
 - **MULTIVIZ: TOWARDS VISUALIZING AND UNDERSTANDING MULTIMODAL MODELS;** Paul Pu Liang et al
+- **TorchScale - A Library for Transformers at (Any) Scale;** Shuming Ma et al
 
