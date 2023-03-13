@@ -239,7 +239,7 @@
 - **Generalized Decoding for Pixel, Image, and Language;** Xueyan Zou et al
 - **Foundation Transformers;** Hongyu Wang et al; Propose a new unified architecture. 
 - **A Generalist Agent;** Scott Reed et al
-- **
+- **PaLM-E: An Embodied Multimodal Language Model;** Danny Driess et al
 
 
 ### Others
