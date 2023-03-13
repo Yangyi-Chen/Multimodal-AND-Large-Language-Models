@@ -256,6 +256,7 @@
 
 
 ## External Tool
+- **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models;** Chenfei Wu et al
 
 
 
