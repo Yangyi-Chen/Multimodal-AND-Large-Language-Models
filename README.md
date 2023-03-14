@@ -255,6 +255,7 @@
 ## Document Understanding
 - **LayoutLM: Pre-training of Text and Layout for Document Image Understanding;** Yiheng Xu et al
 - **LayoutLMv2: Multi-modal Pre-training for Visually-rich Document Understanding;** Yang Xu et al
+- **LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding;** Jiapeng Wang et al
 - **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
 - **STRUCTEXTV2: MASKED VISUAL-TEXTUAL PREDIC- TION FOR DOCUMENT IMAGE PRE-TRAINING;** Yuechen Yu et al
 
