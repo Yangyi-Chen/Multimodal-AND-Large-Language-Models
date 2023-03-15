@@ -262,6 +262,11 @@
 - **STRUCTEXTV2: MASKED VISUAL-TEXTUAL PREDIC- TION FOR DOCUMENT IMAGE PRE-TRAINING;** Yuechen Yu et al
 
 
+***Table***
+- **Visual Understanding of Complex Table Structures from Document Images;** Sachin Raja et al
+- **Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling;** Yongshuai Huang et al
+
+
 
 ## External Tool
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models;** Chenfei Wu et al
