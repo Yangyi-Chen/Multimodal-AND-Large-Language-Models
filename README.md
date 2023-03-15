@@ -85,6 +85,7 @@
 - **TRANSFORMER-BASED IMAGE GENERATION FROM SCENE GRAPHS;** Renato Sortino et al
 - **The Devil is in the Labels: Noisy Label Correction for Robust Scene Graph Generation;** Lin Li et al
 - **Knowledge-augmented Few-shot Visual Relation Detection;** Tianyu Yu et al
+- **Prototype-based Embedding Network for Scene Graph Generation;** Chaofan Zhen et al
 
 
 
