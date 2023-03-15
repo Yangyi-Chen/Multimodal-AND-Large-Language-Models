@@ -447,7 +447,7 @@
 
 
 ## Application
-- **Evaluating and Improving Factuality in Multimodal Abstractive Summarization;** David Wan et al
+- **MSMO: Multimodal Summarization with Multimodal Output;** Junnan Zhu et al
 - **Re-imagen: Retrieval-augmented text-to-image generator;** Wenhu Chen et al 
 - **Large Scale Multi-Lingual Multi-Modal Summarization Dataset;** Yash Verma et al
 - **Retrieval-augmented Image Captioning;** Rita Ramos et al
@@ -455,6 +455,7 @@
 - **The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training;** Gi-Cheon Kang et al
 - **CapDet: Unifying Dense Captioning and Open-World Detection Pretraining;** Yanxin Long et al
 - **DECAP: DECODING CLIP LATENTS FOR ZERO-SHOT CAPTIONING VIA TEXT-ONLY TRAINING;** Wei Li et al
+- **Align and Attend: Multimodal Summarization with Dual Contrastive Losses;** Bo He et al
 
 
 
@@ -515,7 +516,7 @@
 - **Let there be a clock on the beach: Reducing Object Hallucination in Image Captioning;** Ali Furkan Biten et al
 - **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training;** Wenliang Dai et al
 - **Models See Hallucinations: Evaluating the Factuality in Video Captioning;** Hui Liu et al
-
+- **Evaluating and Improving Factuality in Multimodal Abstractive Summarization;** David Wan et al
 
 
 ## Cognitive NeuronScience & Machine Learning
