@@ -236,6 +236,7 @@
 - **Language Is Not All You Need: Aligning Perception with Language Models;** Shaohan Huang et al
 
 
+
 **Generalist models**
 - **UNIFIED-IO: A UNIFIED MODEL FOR VISION, LANGUAGE, AND MULTI-MODAL TASKS;** Jiasen Lu et al; Examine whether a single unified model can solve a variety of tasks (NLP, CV, VL) simultaneously; Construct a massive multi-tasking dataset by ensembling 95 datasets from 62 publicly available data sources, including Image Synthesis, Keypoint Estimation, Depth Estimation, Object Segmentation, et al; Focusing on multi-task fine-tuning.
 - **Generalized Decoding for Pixel, Image, and Language;** Xueyan Zou et al
@@ -249,6 +250,9 @@
 - **Unifying Vision-and-Language Tasks via Text Generation;** Jaemin Cho et al
 - **MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound;** Rowan Zellers et al
 - **CLIP-Event: Connecting Text and Images with Event Structures;** Manling Li et al; The new model CLIP-Event, specifically designed for multi-modal event extraction. Introducing new pretraining tasks to enable strong zero-shot performances. From object-centric representations to event-centric representations. 
+- **Scaling Vision-Language Models with Sparse Mixture of Experts;** Sheng Shen et al
+
+
 
 
 ## Document Understanding
