@@ -272,6 +272,7 @@
 ## External Tool
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models;** Chenfei Wu et al
 - **ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions;** Deyao Zhu et al
+- **ViperGPT: Visual Inference via Python Execution for Reasoning;** Dídac Surís et al
 
 
 
