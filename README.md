@@ -267,6 +267,8 @@
 
 
 
+
+
 ***Table***
 - **Visual Understanding of Complex Table Structures from Document Images;** Sachin Raja et al
 - **Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling;** Yongshuai Huang et al
@@ -274,10 +276,12 @@
 
 
 ## External Tool
+- **TALM: Tool Augmented Language Models;** Aaron Paris et al
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models;** Chenfei Wu et al
 - **ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions;** Deyao Zhu et al
+- **Toolformer: Language Models Can Teach Themselves to Use Tools;** Timo Schick et al
+- **Visual Programming: Compositional visual reasoning without training;** Tanmay Gupta et al
 - **ViperGPT: Visual Inference via Python Execution for Reasoning;** Dídac Surís et al
-
 
 
 
@@ -320,6 +324,7 @@
 
 
 ## Vision Model
+- **PIX2SEQ: A LANGUAGE MODELING FRAMEWORK FOR OBJECT DETECTION;** Ting Chen et al
 - **Scaling Vision Transformers to 22 Billion Parameters;** Mostafa Dehghani et al
 
 
