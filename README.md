@@ -15,6 +15,7 @@
 - [Foundation Model](#foundation-model)
 - [Document Understanding](#document-understanding)
 - [External Tool](#external-tool)
+- [Instruction Tuning](#instruction-tuning)
 - [Video Foundation Model](#video-foundation-model)
 - [Key Frame Detection](#key-frame-detection)
 - [Pretraining](#pretraining)
@@ -278,12 +279,18 @@
 
 ## External Tool
 - **TALM: Tool Augmented Language Models;** Aaron Paris et al
+- **PAL: program-aided language models;** Luyu Gao et al
+- **React: synergizing reasoning and acting in language models;** Shunyu Yao et al
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models;** Chenfei Wu et al
 - **ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions;** Deyao Zhu et al
 - **Toolformer: Language Models Can Teach Themselves to Use Tools;** Timo Schick et al
 - **Visual Programming: Compositional visual reasoning without training;** Tanmay Gupta et al
 - **ViperGPT: Visual Inference via Python Execution for Reasoning;** Dídac Surís et al
 
+
+
+
+## Instruction Tuning
 
 
 
