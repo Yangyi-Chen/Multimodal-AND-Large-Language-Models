@@ -51,7 +51,7 @@
 - **Vision-Language Pre-training: Basics, Recent Advances, and Future Trends;** Zhe Gan et al
 - **Deep Multimodal Representation Learning: A Survey;** Wenzhong Guo et al
 - **The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges;** Maria Lymperaiou et al
-
+- **Augmented Language Models: a Survey;** Grégoire Mialon et al
 
 ## Structure
 - **Finding Structural Knowledge in Multimodal-BERT;** Victor Milewski et al
