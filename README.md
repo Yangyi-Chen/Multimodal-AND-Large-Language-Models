@@ -294,6 +294,12 @@
 
 
 ## Instruction Tuning
+- **Cross-Task Generalization via Natural Language Crowdsourcing Instructions;** Swaroop Mishra et al
+- **FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS;** Jason Wei et al
+- **MULTITASK PROMPTED TRAINING ENABLES ZERO-SHOT TASK GENERALIZATION;** Victor Sanh et al
+- **Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks;** Yizhong Wang et al
+- **Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization;** Yuxian Gu et al
+- **Scaling Instruction-Finetuned Language Models;** Hyung Won Chung et al
 
 
 
