@@ -266,7 +266,9 @@
 - **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
 - **STRUCTEXTV2: MASKED VISUAL-TEXTUAL PREDIC- TION FOR DOCUMENT IMAGE PRE-TRAINING;** Yuechen Yu et al
 
-
+**Dataset**
+- **A Diagram Is Worth A Dozen Images;** Aniruddha Kembhavi et al
+- **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning;** Ahmed Masry et al
 
 
 
