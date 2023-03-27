@@ -283,6 +283,7 @@
 - **TALM: Tool Augmented Language Models;** Aaron Paris et al
 - **PAL: program-aided language models;** Luyu Gao et al
 - **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks;** Wenhu Chen et al
+- **A neural network solves, explains, and generates university math problems by program synthesis and few-shot learning at human level;** Iddo Droria et al
 - **React: synergizing reasoning and acting in language models;** Shunyu Yao et al
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models;** Chenfei Wu et al
 - **ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions;** Deyao Zhu et al
