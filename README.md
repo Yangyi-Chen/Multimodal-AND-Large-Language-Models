@@ -305,6 +305,13 @@
 - **Boosting Natural Language Generation from Instructions with Meta-Learning;** Budhaditya Deb et al
 - **Exploring the Benefits of Training Expert Language Models over Instruction Tuning;** Joel Jang et al
 - **Training language models to follow instructions with human feedback;** Long Ouyang et al
+- **OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization;** Srinivasan Iyer et al
+- **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor;** Or Honovich et al
+- **WeaQA: Weak Supervision via Captions for Visual Question Answering;** Pratyay Banerjee et al
+- **MULTIINSTRUCT: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning;** Zhiyang Xu et al
+
+
+
 
 
 
