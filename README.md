@@ -300,6 +300,7 @@
 - **Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks;** Yizhong Wang et al
 - **Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization;** Yuxian Gu et al
 - **Scaling Instruction-Finetuned Language Models;** Hyung Won Chung et al
+- **Task-aware Retrieval with Instructions;** Akari Asai et al 
 
 
 
