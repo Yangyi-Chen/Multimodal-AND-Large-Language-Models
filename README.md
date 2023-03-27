@@ -303,6 +303,7 @@
 - **Task-aware Retrieval with Instructions;** Akari Asai et al 
 - **One Embedder, Any Task: Instruction-Finetuned Text Embeddings;** Hongjin Su et al
 - **Boosting Natural Language Generation from Instructions with Meta-Learning;** Budhaditya Deb et al
+- **Exploring the Benefits of Training Expert Language Models over Instruction Tuning;** Joel Jang et al
 
 
 
