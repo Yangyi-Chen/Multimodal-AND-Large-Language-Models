@@ -310,6 +310,7 @@
 - **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor;** Or Honovich et al
 - **WeaQA: Weak Supervision via Captions for Visual Question Answering;** Pratyay Banerjee et al
 - **MULTIINSTRUCT: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning;** Zhiyang Xu et al
+- **SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions;** Yizhong Wang et al
 
 
 
