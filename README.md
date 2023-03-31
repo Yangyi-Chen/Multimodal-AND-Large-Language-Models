@@ -26,6 +26,7 @@
 - [Analysis](#analysis)
 - [Grounding](#grounding)
 - [VQA Task](#vqa-task)
+- [VQA Dataset)(#vqa-dataset)
 - [Social Good](#social-good)
 - [Application](#application)
 - [Benchmark & Evaluation](#benchmark-&-evaluation)
@@ -492,6 +493,17 @@
 - **Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering;** Chenxi Whitehouse et al
 
 
+## VQA Dataset
+- **VQA: Visual Question Answering;** Aishwarya Agrawal et al
+- **From Recognition to Cognition: Visual Commonsense Reasoning;** Rowan Zellers et al; Benchmark dataset, requiring models to go beyond the recognition level to cognition. Need to reason about a still image and give rationales. 
+- **OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge;** Kenneth Marino et al
+- **Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering;** Yash Goyal et al; VQA-V2.
+- **WebQA: Multihop and Multimodal QA;** Yingshan Chang et al
+
+
+
+
+
 
 ## Social Good
 - **The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes;** Douwe Kiela et al; Multi-modal hate-speech detection. 
@@ -525,15 +537,14 @@
 - **VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations;** Tiancheng Zhao et al
 - **WHEN AND WHY VISION-LANGUAGE MODELS BEHAVE LIKE BAGS-OF-WORDS, AND WHAT TO DO ABOUT IT?;** Mert Yuksekgonul et al
 - **GRIT: General Robust Image Task Benchmark;** Tanmay Gupta et al 
-- **From Recognition to Cognition: Visual Commonsense Reasoning;** Rowan Zellers et al; Benchmark dataset, requiring models to go beyond the recognition level to cognition. Need to reason about a still image and give rationales. 
 - **MULTIMODALQA: COMPLEX QUESTION ANSWERING OVER TEXT, TABLES AND IMAGES;** Alon Talmor et al
 - **Test of Time: Instilling Video-Language Models with a Sense of Time;** Piyush Bagad et al
 
 
+
+
 ## Dataset
 - **Visual Entailment: A Novel Task for Fine-Grained Image Understanding;** Ning Xie et al; Visual entailment task. SNLI-VE.  
-- **Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering;** Yash Goyal et al; VQA-V2.
-- **From Recognition to Cognition: Visual Commonsense Reasoning;** Rowan Zellers et al; VCR.
 - **A Corpus for Reasoning About Natural Language Grounded in Photographs;** Alane Suhr et al; NLVR2.
 - **VLUE: A Multi-Task Benchmark for Evaluating Vision-Language Models;** Wangchunshu Zhou et al; VLUE.
 - **Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning;** Piyush Sharma et al
@@ -544,7 +555,6 @@
 - **MULTIINSTRUCT: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning;** Zhiyang Xu et al
 - **UKnow: A Unified Knowledge Protocol for Common-Sense Reasoning and Vision-Language Pre-training;** Biao Gong et al
 - **HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips;** Antoine Miech et al
-- **WebQA: Multihop and Multimodal QA;** Yingshan Chang et al
 - **Connecting Vision and Language with Video Localized Narratives;** Paul Voigtlaender et al
 - **LAION-5B: An open large-scale dataset for training next generation image-text models;** Christoph Schuhmann et al
 - **MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions;** Mattia Soldan et al
