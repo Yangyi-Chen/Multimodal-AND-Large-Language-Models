@@ -26,7 +26,7 @@
 - [Analysis](#analysis)
 - [Grounding](#grounding)
 - [VQA Task](#vqa-task)
-- [VQA Dataset)(#vqa-dataset)
+- [VQA Dataset](#vqa-dataset)
 - [Social Good](#social-good)
 - [Application](#application)
 - [Benchmark & Evaluation](#benchmark-&-evaluation)
