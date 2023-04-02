@@ -16,6 +16,7 @@
 - [Document Understanding](#document-understanding)
 - [External Tool](#external-tool)
 - [Instruction Tuning](#instruction-tuning)
+- [RLHF](#rlhf)
 - [Video Foundation Model](#video-foundation-model)
 - [Key Frame Detection](#key-frame-detection)
 - [Pretraining](#pretraining)
@@ -314,7 +315,6 @@
 - **One Embedder, Any Task: Instruction-Finetuned Text Embeddings;** Hongjin Su et al
 - **Boosting Natural Language Generation from Instructions with Meta-Learning;** Budhaditya Deb et al
 - **Exploring the Benefits of Training Expert Language Models over Instruction Tuning;** Joel Jang et al
-- **Training language models to follow instructions with human feedback;** Long Ouyang et al
 - **OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization;** Srinivasan Iyer et al
 - **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor;** Or Honovich et al
 - **WeaQA: Weak Supervision via Captions for Visual Question Answering;** Pratyay Banerjee et al
@@ -323,6 +323,11 @@
 - **Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases;** Yunjie Ji et al
 
 
+## RLHF
+- **Training language models to follow instructions with human feedback;** Long Ouyang et al
+- **Training Language Models with Language Feedback;** Jérémy Scheurer et al
+- **Training Language Models with Language Feedback at Scale;**  Jérémy Scheurer et al
+- **Improving Code Generation by Training with Natural Language Feedback;** Angelica Chen et al
 
 
 
