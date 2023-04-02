@@ -320,6 +320,7 @@
 - **WeaQA: Weak Supervision via Captions for Visual Question Answering;** Pratyay Banerjee et al
 - **MULTIINSTRUCT: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning;** Zhiyang Xu et al
 - **SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions;** Yizhong Wang et al
+- **Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases;** Yunjie Ji et al
 
 
 
