@@ -402,6 +402,7 @@
 
 **Visual-augmented LM**
 - **Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision;** Hao Tan et al
+- **Imagination-Augmented Natural Language Understanding;** Yujie Lu et al
 - **Visually-augmented language modeling;** Weizhi Wang et al
 - **Effect of Visual Extensions on Natural Language Understanding in Vision-and-Language Models;** Taichi Iki et al
 - **Is BERT Blind? Exploring the Effect of Vision-and-Language Pretraining on Visual Language Understanding;** Morris Alper et al
