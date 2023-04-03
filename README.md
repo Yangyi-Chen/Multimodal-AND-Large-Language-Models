@@ -54,6 +54,8 @@
 - **Deep Multimodal Representation Learning: A Survey;** Wenzhong Guo et al
 - **The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges;** Maria Lymperaiou et al
 - **Augmented Language Models: a Survey;** Grégoire Mialon et al
+- **Multimodal Deep Learning;** Matthias Aßenmacher et al
+
 
 ## Structure
 - **Finding Structural Knowledge in Multimodal-BERT;** Victor Milewski et al
