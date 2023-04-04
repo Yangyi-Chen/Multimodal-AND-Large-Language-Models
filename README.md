@@ -373,7 +373,7 @@
 ## Vision Model
 - **PIX2SEQ: A LANGUAGE MODELING FRAMEWORK FOR OBJECT DETECTION;** Ting Chen et al
 - **Scaling Vision Transformers to 22 Billion Parameters;** Mostafa Dehghani et al
-
+- **CLIPPO: Image-and-Language Understanding from Pixels Only;** Michael Tschannen et al
 
 
 
