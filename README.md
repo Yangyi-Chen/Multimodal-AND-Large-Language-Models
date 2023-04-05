@@ -331,6 +331,7 @@
 - **Training Language Models with Language Feedback;** Jérémy Scheurer et al
 - **Training Language Models with Language Feedback at Scale;**  Jérémy Scheurer et al
 - **Improving Code Generation by Training with Natural Language Feedback;** Angelica Chen et al
+- **REFINER: Reasoning Feedback on Intermediate Representations;** Debjit Paul et al
 
 
 
