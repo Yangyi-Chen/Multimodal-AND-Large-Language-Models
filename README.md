@@ -55,6 +55,7 @@
 - **The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges;** Maria Lymperaiou et al
 - **Augmented Language Models: a Survey;** Grégoire Mialon et al
 - **Multimodal Deep Learning;** Matthias Aßenmacher et al
+- **Sparks of Artificial General Intelligence: Early experiments with GPT-4;** Sebastien Bubeck et al
 
 
 ## Structure
@@ -240,7 +241,7 @@
 - **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video;** Haiyang Xu et al
 - **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models;** Junnan Li et al
 - **Language Is Not All You Need: Aligning Perception with Language Models;** Shaohan Huang et al
-
+- **GPT-4 Technical Report;** OpenAI
 
 
 
