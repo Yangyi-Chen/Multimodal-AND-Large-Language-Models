@@ -56,7 +56,7 @@
 - **Augmented Language Models: a Survey;** Grégoire Mialon et al
 - **Multimodal Deep Learning;** Matthias Aßenmacher et al
 - **Sparks of Artificial General Intelligence: Early experiments with GPT-4;** Sebastien Bubeck et al
-
+- **Eight Things to Know about Large Language Models;** Samuel R. Bowman et al
 
 ## Structure
 - **Finding Structural Knowledge in Multimodal-BERT;** Victor Milewski et al
