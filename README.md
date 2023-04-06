@@ -12,6 +12,7 @@
 - [Reasoning](#reasoning)
 - [Generation](#generation)
 - [Representation Learning](#representation-learning)
+- [LLM Analysis](#llm-analysis)
 - [Foundation Model](#foundation-model)
 - [Document Understanding](#document-understanding)
 - [External Tool](#external-tool)
@@ -178,6 +179,11 @@
 
 
 **Knowledge-driven methods.**
+
+## LLM Analysis
+- **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling;** Stella Biderman  et al
+
+
 
 
 ## Foundation Model 
