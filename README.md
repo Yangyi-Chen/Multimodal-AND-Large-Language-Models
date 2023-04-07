@@ -532,6 +532,8 @@
 
 
 **Cognition**
+- **Inferring the Why in Images;** Hamed Pirsiavash et al
+- **Visual Madlibs: Fill in the blank Image Generation and Question Answering;** Licheng Yu et al
 - **From Recognition to Cognition: Visual Commonsense Reasoning;** Rowan Zellers et al; Benchmark dataset, requiring models to go beyond the recognition level to cognition. Need to reason about a still image and give rationales. 
 - **VisualCOMET: Reasoning about the Dynamic Context of a Still Image;** Jae Sung Park et al
 - **The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning;** Jack Hessel et al
@@ -539,6 +541,7 @@
 
 **Knowledge**
 - **Explicit Knowledge-based Reasoning for Visual Question Answering;** Peng Wang et al
+- **FVQA: Fact-based Visual Question Answering Peng Wang;** 
 - **OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge;** Kenneth Marino et al
 
 
