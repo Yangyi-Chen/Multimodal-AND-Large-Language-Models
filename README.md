@@ -526,13 +526,19 @@
 
 ## VQA Dataset
 - **VQA: Visual Question Answering;** Aishwarya Agrawal et al
-- **From Recognition to Cognition: Visual Commonsense Reasoning;** Rowan Zellers et al; Benchmark dataset, requiring models to go beyond the recognition level to cognition. Need to reason about a still image and give rationales. 
 - **Towards VQA Models That Can Read;** Amanpreet Singh et al
-- **OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge;** Kenneth Marino et al
 - **Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering;** Yash Goyal et al; VQA-V2.
 - **WebQA: Multihop and Multimodal QA;** Yingshan Chang et al
 
 
+**Cognition**
+- **From Recognition to Cognition: Visual Commonsense Reasoning;** Rowan Zellers et al; Benchmark dataset, requiring models to go beyond the recognition level to cognition. Need to reason about a still image and give rationales. 
+- **The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning;** Jack Hessel et al
+
+
+**Knowledge**
+- **Explicit Knowledge-based Reasoning for Visual Question Answering;** Peng Wang et al
+- **OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge;** Kenneth Marino et al
 
 
 
