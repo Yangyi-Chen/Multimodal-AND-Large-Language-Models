@@ -309,6 +309,7 @@
 - **Toolformer: Language Models Can Teach Themselves to Use Tools;** Timo Schick et al
 - **Visual Programming: Compositional visual reasoning without training;** Tanmay Gupta et al
 - **ViperGPT: Visual Inference via Python Execution for Reasoning;** Dídac Surís et al
+- **Chat with the Environment: Interactive Multimodal Perception using Large Language Models;** Xufeng Zhao et al
 
 
 
