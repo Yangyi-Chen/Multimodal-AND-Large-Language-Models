@@ -94,6 +94,7 @@
 - **The Devil is in the Labels: Noisy Label Correction for Robust Scene Graph Generation;** Lin Li et al
 - **Knowledge-augmented Few-shot Visual Relation Detection;** Tianyu Yu et al
 - **Prototype-based Embedding Network for Scene Graph Generation;** Chaofan Zhen et al
+- **Unified Visual Relationship Detection with Vision and Language Models;** Long Zhao et al
 
 
 
