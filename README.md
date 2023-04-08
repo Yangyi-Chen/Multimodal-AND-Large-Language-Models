@@ -375,7 +375,8 @@
 - **Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning;** Rui Wang et al
 - **Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning;** Yuchong Sun et al
 - **Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning;** Antoine Yang et al
-
+- **InternVideo: General Video Foundation Models via Generative and Discriminative Learning;** Yi Wang et al
+- **MINOTAUR: Multi-task Video Grounding From Multimodal Queries;** Raghav Goyal et al
 
 
 
