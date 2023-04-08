@@ -301,6 +301,8 @@
 ## External Tool
 - **TALM: Tool Augmented Language Models;** Aaron Paris et al
 - **WebGPT: Browser-assisted question-answering with human feedback;** Reiichiro Nakano et al
+- **LaMDA: Language Models for Dialog Applications;** Romal Thoppilan et al
+- **BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage;** Kurt Shuster et al
 - **PAL: program-aided language models;** Luyu Gao et al
 - **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks;** Wenhu Chen et al
 - **A neural network solves, explains, and generates university math problems by program synthesis and few-shot learning at human level;** Iddo Droria et al
