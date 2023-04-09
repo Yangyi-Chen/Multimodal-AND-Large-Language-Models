@@ -300,6 +300,7 @@
 
 
 ## External Tool
+**NLP**
 - **TALM: Tool Augmented Language Models;** Aaron Paris et al
 - **WebGPT: Browser-assisted question-answering with human feedback;** Reiichiro Nakano et al
 - **LaMDA: Language Models for Dialog Applications;** Romal Thoppilan et al
@@ -308,9 +309,14 @@
 - **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks;** Wenhu Chen et al
 - **A neural network solves, explains, and generates university math problems by program synthesis and few-shot learning at human level;** Iddo Droria et al
 - **React: synergizing reasoning and acting in language models;** Shunyu Yao et al
+- **MIND’S EYE: GROUNDED LANGUAGE MODEL REASONING THROUGH SIMULATION;** Ruibo Liu et al
+- **Toolformer: Language Models Can Teach Themselves to Use Tools;** Timo Schick et al
+
+
+
+**With Visual Tools**
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models;** Chenfei Wu et al
 - **ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions;** Deyao Zhu et al
-- **Toolformer: Language Models Can Teach Themselves to Use Tools;** Timo Schick et al
 - **Visual Programming: Compositional visual reasoning without training;** Tanmay Gupta et al
 - **ViperGPT: Visual Inference via Python Execution for Reasoning;** Dídac Surís et al
 - **Chat with the Environment: Interactive Multimodal Perception using Large Language Models;** Xufeng Zhao et al
