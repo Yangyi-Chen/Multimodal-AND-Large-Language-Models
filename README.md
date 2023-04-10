@@ -315,6 +315,11 @@
 - **Toolformer: Language Models Can Teach Themselves to Use Tools;** Timo Schick et al
 - **Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback;** Baolin Peng et al
 - **ART: Automatic multi-step reasoning and tool-use for large language models;** Bhargavi Paranjape et al
+- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace;** Yongliang Shen et al
+- **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs;** Yaobo Liang et al
+
+
+
 
 **With Visual Tools**
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models;** Chenfei Wu et al
