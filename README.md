@@ -236,6 +236,7 @@
 ### Third Generation: Chasing for one unified/general/generalist model to include more VL/NLP/CV tasks; Becoming larger & Stronger; 2022->Now.
 - **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation;** Junnan Li et al; New unified architecture and new method to generate and then filter captions.  
 - **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework;** Peng Wang et al; A unified model (framework) to handle text, image, and image-text tasks. 
+- **Webly Supervised Concept Expansion for General Purpose Vision Models;** Amita Kamath et al
 - **Language Models are General-Purpose Interfaces;** Yaru Hao et al
 - **GIT: A Generative Image-to-text Transformer for Vision and Language;** Jianfeng Wang et al
 - **CoCa: Contrastive Captioners are Image-Text Foundation Models;** Jiahui Yu et al
