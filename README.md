@@ -359,6 +359,7 @@
 - **Training Language Models with Language Feedback at Scale;**  Jérémy Scheurer et al
 - **Improving Code Generation by Training with Natural Language Feedback;** Angelica Chen et al
 - **REFINER: Reasoning Feedback on Intermediate Representations;** Debjit Paul et al
+- **RRHF: Rank Responses to Align Language Models with Human Feedback without tears;** Zheng Yuan et al
 
 
 
