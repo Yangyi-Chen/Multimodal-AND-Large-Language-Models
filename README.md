@@ -317,7 +317,7 @@
 - **ART: Automatic multi-step reasoning and tool-use for large language models;** Bhargavi Paranjape et al
 - **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace;** Yongliang Shen et al
 - **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs;** Yaobo Liang et al
-
+- **OpenAGI: When LLM Meets Domain Experts;** Yingqiang Ge et al; Benchmark.
 
 
 
