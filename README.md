@@ -315,10 +315,6 @@
 - **Toolformer: Language Models Can Teach Themselves to Use Tools;** Timo Schick et al
 - **Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback;** Baolin Peng et al
 - **ART: Automatic multi-step reasoning and tool-use for large language models;** Bhargavi Paranjape et al
-- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace;** Yongliang Shen et al
-- **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs;** Yaobo Liang et al
-- **OpenAGI: When LLM Meets Domain Experts;** Yingqiang Ge et al; Benchmark.
-
 
 
 **With Visual Tools**
@@ -327,6 +323,10 @@
 - **Visual Programming: Compositional visual reasoning without training;** Tanmay Gupta et al
 - **ViperGPT: Visual Inference via Python Execution for Reasoning;** Dídac Surís et al
 - **Chat with the Environment: Interactive Multimodal Perception using Large Language Models;** Xufeng Zhao et al
+- **MM-REACT : Prompting ChatGPT for Multimodal Reasoning and Action;** Zhengyuan Yang et al
+- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace;** Yongliang Shen et al
+- **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs;** Yaobo Liang et al
+- **OpenAGI: When LLM Meets Domain Experts;** Yingqiang Ge et al; Benchmark.
 
 
 
