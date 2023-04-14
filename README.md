@@ -1,4 +1,4 @@
-# Multi-modal Machine Learning
+# General-purpose Model
 
 ## Table of Contents 
 - [Survey](#survey)
@@ -13,6 +13,8 @@
 - [Generation](#generation)
 - [Representation Learning](#representation-learning)
 - [LLM Analysis](#llm-analysis)
+- [LLM Evaluation](#llm-evaluation)
+- [LLM Reasoning](#llm-reasoning)
 - [Foundation Model](#foundation-model)
 - [Document Understanding](#document-understanding)
 - [External Tool](#external-tool)
@@ -63,7 +65,7 @@
 - **Finding Structural Knowledge in Multimodal-BERT;** Victor Milewski et al
 - **Going Beyond Nouns With Vision & Language Models Using Synthetic Data;** Paola Cascante-Bonilla et al
 
-## Event Extraction
+**Event Extraction**
 - **Cross-media Structured Common Space for Multimedia Event Extraction;** Manling Li et al; Focus on image-text event extraction. A new benchmark and baseline are proposed. 
 - **Visual Semantic Role Labeling for Video Understanding;** Arka Sadhu et al; A new benchmark is proposed. 
 - **GAIA: A Fine-grained Multimedia Knowledge Extraction System;** Manling Li et al; Demo paper. Extract knowledge (relation, event) from multimedia data. 
@@ -71,14 +73,14 @@
 
 
 
-## Situation Recognition
+**Situation Recognition**
 - **Situation Recognition: Visual Semantic Role Labeling for Image Understanding;** Mark Yatskar et al; Focus on image understanding. Given images, do the semantic role labeling task. No text available. A new benchmark and baseline are proposed. 
 - **Commonly Uncommon: Semantic Sparsity in Situation Recognition;** Mark Yatskar et al; Address the long-tail problem.
 - **Grounded Situation Recognition;** Sarah Pratt et al
 - **Rethinking the Two-Stage Framework for Grounded Situation Recognition;** Meng Wei et al
 - **Collaborative Transformers for Grounded Situation Recognition;** Junhyeong Cho et al
 
-## Scene Graph
+**Scene Graph**
 - **Action Genome: Actions as Composition of Spatio-temporal Scene Graphs;** Jingwei Ji et al; Spatio-temporal scene graphs (video). 
 - **Unbiased Scene Graph Generation from Biased Training;** Kaihua Tang et al
 - **Visual Distant Supervision for Scene Graph Generation;** Yuan Yao et al
@@ -98,7 +100,7 @@
 
 
 
-## Attribute
+**Attribute**
 - **COCO Attributes: Attributes for People, Animals, and Objects;** Genevieve Patterson et al
 - **Human Attribute Recognition by Deep Hierarchical Contexts;** Yining Li et al; Attribute prediction in specific domains. 
 - **Emotion Recognition in Context;** Ronak Kosti et al; Attribute prediction in specific domains. 
@@ -114,7 +116,7 @@
 
 
 
-## Compositionality
+**Compositionality**
 - **CREPE: Can Vision-Language Foundation Models Reason Compositionally?;** Zixian Ma et al
 - **Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality;** Tristan Thrush et al
 - **WHEN AND WHY VISION-LANGUAGE MODELS BEHAVE LIKE BAGS-OF-WORDS, AND WHAT TO DO ABOUT IT?;** Mert Yuksekgonul et al
@@ -147,6 +149,7 @@
 - **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering;** Pan Lu et al
 - **Multimodal Chain-of-Thought Reasoning in Language Models;** Zhuosheng Zhang et al
 - **LAMPP: Language Models as Probabilistic Priors for Perception and Action;** Belinda Z. Li et al
+
 
 **Common sense.**
 - **Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles;** Shuquan Ye et al
@@ -182,8 +185,21 @@
 **Knowledge-driven methods.**
 
 ## LLM Analysis
+- **A Categorical Archive of ChatGPT Failures;** Ali Borji et al
 - **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling;** Stella Biderman  et al
 
+
+## LLM Evaluation
+- **IS CHATGPT A GENERAL-PURPOSE NATURAL LANGUAGE PROCESSING TASK SOLVER?;** Chengwei Qin et al
+- **AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models;** Wanjun Zhong et al
+- **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity;** Yejin Bang et al
+- **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective;** Jindong Wang et al
+- **A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models;** Junjie Ye et al
+
+
+
+## LLM Reasoning
+- **The Capacity for Moral Self-Correction in Large Language Models;** Deep Ganguli et al
 
 
 
@@ -355,6 +371,7 @@
 
 ## RLHF
 - **Training language models to follow instructions with human feedback;** Long Ouyang et al
+- **Pretraining Language Models with Human Preferences;** Tomasz Korbak et al
 - **Training Language Models with Language Feedback;** Jérémy Scheurer et al
 - **Training Language Models with Language Feedback at Scale;**  Jérémy Scheurer et al
 - **Improving Code Generation by Training with Natural Language Feedback;** Angelica Chen et al
