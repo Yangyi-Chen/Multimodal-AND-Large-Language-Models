@@ -3,11 +3,6 @@
 ## Table of Contents 
 - [Survey](#survey)
 - [Structure](#structure)
-- [Event Extraction](#event-extraction)
-- [Situation Recognition](#situation-recognition)
-- [Scene Graph](#scene-graph)
-- [Attribute](#attribute)
-- [Compositionality](#compositionality)
 - [Planning](#planning)
 - [Reasoning](#reasoning)
 - [Generation](#generation)
