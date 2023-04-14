@@ -510,6 +510,8 @@
 - **What Makes Good Examples for Visual In-Context Learning?;** Yuanhan Zhang et al
 - **Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery;** Yuxin Wen et al
 - **PLOT: PROMPT LEARNING WITH OPTIMAL TRANSPORT FOR VISION-LANGUAGE MODELS;** Guangyi Chen et al
+- **What does CLIP know about a red circle? Visual prompt engineering for VLMs;** Aleksandar Shtedritski et al
+
 
 
 ## Efficiency
