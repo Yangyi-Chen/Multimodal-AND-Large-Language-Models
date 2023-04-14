@@ -331,6 +331,7 @@
 **With Visual Tools**
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models;** Chenfei Wu et al
 - **ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions;** Deyao Zhu et al
+- **Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions;** Jun Chen et al
 - **Visual Programming: Compositional visual reasoning without training;** Tanmay Gupta et al
 - **ViperGPT: Visual Inference via Python Execution for Reasoning;** Dídac Surís et al
 - **Chat with the Environment: Interactive Multimodal Perception using Large Language Models;** Xufeng Zhao et al
