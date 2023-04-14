@@ -1,4 +1,4 @@
-# General-purpose Model
+# General-purpose Models
 
 ## Table of Contents 
 - [Survey](#survey)
