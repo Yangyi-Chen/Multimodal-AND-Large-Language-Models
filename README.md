@@ -361,6 +361,7 @@
 - **SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions;** Yizhong Wang et al
 - **Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases;** Yunjie Ji et al
 - **INSTRUCTION TUNING WITH GPT-4;** Baolin Peng et al
+- **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning;** Shayne Longpre et al
 
 
 
