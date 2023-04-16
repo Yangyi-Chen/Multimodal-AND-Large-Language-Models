@@ -56,6 +56,9 @@
 - **Sparks of Artificial General Intelligence: Early experiments with GPT-4;** Sebastien Bubeck et al
 - **Eight Things to Know about Large Language Models;** Samuel R. Bowman et al
 - **Retrieving Multimodal Information for Augmented Generation: A Survey;** Ruochen Zhao et al
+- **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning;** Renze Lou et al
+- **A Survey of Large Language Models;** Wayne Xin Zhao et al
+
 
 ## Structure
 - **Finding Structural Knowledge in Multimodal-BERT;** Victor Milewski et al
