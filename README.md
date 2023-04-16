@@ -641,6 +641,8 @@
 - **LAION-5B: An open large-scale dataset for training next generation image-text models;** Christoph Schuhmann et al
 - **MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions;** Mattia Soldan et al
 - **CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos;** Seungju Han et al
+- **WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning;** Krishna Srinivasan et al
+
 
 
 
