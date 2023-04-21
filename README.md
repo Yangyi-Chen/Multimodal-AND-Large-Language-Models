@@ -330,7 +330,7 @@
 - **Toolformer: Language Models Can Teach Themselves to Use Tools;** Timo Schick et al
 - **Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback;** Baolin Peng et al
 - **ART: Automatic multi-step reasoning and tool-use for large language models;** Bhargavi Paranjape et al
-
+- **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models;** Pan Lu et al
 
 **With Visual Tools**
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models;** Chenfei Wu et al
