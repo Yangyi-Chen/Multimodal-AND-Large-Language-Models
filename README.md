@@ -58,6 +58,7 @@
 - **Retrieving Multimodal Information for Augmented Generation: A Survey;** Ruochen Zhao et al
 - **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning;** Renze Lou et al
 - **A Survey of Large Language Models;** Wayne Xin Zhao et al
+- **Tool Learning with Foundation Models;** Yujia Qin et al
 
 
 ## Structure
@@ -367,7 +368,8 @@
 - **Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases;** Yunjie Ji et al
 - **INSTRUCTION TUNING WITH GPT-4;** Baolin Peng et al
 - **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning;** Shayne Longpre et al
-
+- **Visual Instruction Tuning;** Haotian Liu et al
+- **LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction;** Abdullatif Köksal et al
 
 
 
