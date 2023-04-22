@@ -587,7 +587,7 @@
 
 **Knowledge**
 - **Explicit Knowledge-based Reasoning for Visual Question Answering;** Peng Wang et al
-- **FVQA: Fact-based Visual Question Answering Peng Wang;** 
+- **FVQA: Fact-based Visual Question Answering;** Peng Wang;
 - **OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge;** Kenneth Marino et al
 
 
