@@ -10,6 +10,7 @@
 - [LLM Analysis](#llm-analysis)
 - [LLM Evaluation](#llm-evaluation)
 - [LLM Reasoning](#llm-reasoning)
+- [LLM Application](#llm-application)
 - [Foundation Model](#foundation-model)
 - [Document Understanding](#document-understanding)
 - [External Tool](#external-tool)
@@ -200,6 +201,12 @@
 
 ## LLM Reasoning
 - **The Capacity for Moral Self-Correction in Large Language Models;** Deep Ganguli et al
+
+## LLM Application
+- **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
+- **CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society;** Guohao Li et al
+
+
 
 
 
