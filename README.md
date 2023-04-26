@@ -377,6 +377,8 @@
 - **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning;** Shayne Longpre et al
 - **Visual Instruction Tuning;** Haotian Liu et al
 - **LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction;** Abdullatif Köksal et al
+- **GUESS THE INSTRUCTION! FLIPPED LEARNING MAKES LANGUAGE MODELS STRONGER ZERO-SHOT LEARNERS;** Seonghyeon Ye et al
+- **In-Context Instruction Learning;** Seonghyeon Ye et al
 
 
 
