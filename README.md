@@ -379,6 +379,7 @@
 - **LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction;** Abdullatif Köksal et al
 - **GUESS THE INSTRUCTION! FLIPPED LEARNING MAKES LANGUAGE MODELS STRONGER ZERO-SHOT LEARNERS;** Seonghyeon Ye et al
 - **In-Context Instruction Learning;** Seonghyeon Ye et al
+- **WizardLM: Empowering Large Language Models to Follow Complex Instructions;** Can Xu et al
 
 
 
