@@ -60,6 +60,7 @@
 - **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning;** Renze Lou et al
 - **A Survey of Large Language Models;** Wayne Xin Zhao et al
 - **Tool Learning with Foundation Models;** Yujia Qin et al
+- **A Cookbook of Self-Supervised Learning;** Randall Balestriero et al
 
 
 ## Structure
