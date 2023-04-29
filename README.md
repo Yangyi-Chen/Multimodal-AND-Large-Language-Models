@@ -184,7 +184,7 @@
 
 
 
-**Knowledge-driven methods.**
+
 
 ## LLM Analysis
 - **A Categorical Archive of ChatGPT Failures;** Ali Borji et al
@@ -460,7 +460,7 @@
 - **VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining;** Junjie Ke et al
 - **CONTRASTIVE ALIGNMENT OF VISION TO LANGUAGE THROUGH PARAMETER-EFFICIENT TRANSFER LEARNING;** Zaid Khan et al
 - **The effectiveness of MAE pre-pretraining for billion-scale pretraining;** Mannat Singh et al
-
+- **Retrieval-based Knowledge Augmented Vision Language Pre-training;** Jiahua Rao et al
 
 
 **Visual-augmented LM**
