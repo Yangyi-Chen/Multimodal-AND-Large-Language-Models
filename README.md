@@ -275,6 +275,7 @@
 - **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models;** Junnan Li et al
 - **Language Is Not All You Need: Aligning Perception with Language Models;** Shaohan Huang et al
 - **GPT-4 Technical Report;** OpenAI
+- **mPLUG-Owl : Modularization Empowers Large Language Models with Multimodality;** Qinghao Ye et al
 
 
 
