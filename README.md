@@ -591,6 +591,7 @@
 - **VQA: Visual Question Answering;** Aishwarya Agrawal et al
 - **Towards VQA Models That Can Read;** Amanpreet Singh et al
 - **Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering;** Yash Goyal et al; VQA-V2.
+- **MULTIMODALQA: COMPLEX QUESTION ANSWERING OVER TEXT, TABLES AND IMAGES;** Alon Talmor et al
 - **WebQA: Multihop and Multimodal QA;** Yingshan Chang et al
 
 
