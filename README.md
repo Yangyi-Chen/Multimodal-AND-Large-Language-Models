@@ -61,6 +61,7 @@
 - **A Survey of Large Language Models;** Wayne Xin Zhao et al
 - **Tool Learning with Foundation Models;** Yujia Qin et al
 - **A Cookbook of Self-Supervised Learning;** Randall Balestriero et al
+- **Foundation Models for Decision Making: Problems, Methods, and Opportunities;** Sherry Yang et al
 
 
 ## Structure
