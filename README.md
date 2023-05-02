@@ -389,6 +389,7 @@
 - **WizardLM: Empowering Large Language Models to Follow Complex Instructions;** Can Xu et al
 - **Controlled Text Generation with Natural Language Instructions;** Wangchunshu Zhou et al
 - **LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model;** Peng Gao et al
+- **Poisoning Language Models During Instruction Tuning;** Alexander Wan et al
 
 
 
