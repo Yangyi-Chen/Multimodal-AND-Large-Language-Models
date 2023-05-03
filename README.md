@@ -208,6 +208,7 @@
 
 ## LLM Application
 - **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
+- **The Role of Summarization in Generative Agents: A Preliminary Perspective;** Xiachong Feng et al
 - **CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society;** Guohao Li et al
 
 
