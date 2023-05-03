@@ -203,6 +203,7 @@
 
 ## LLM Reasoning
 - **The Capacity for Moral Self-Correction in Large Language Models;** Deep Ganguli et al
+- **Learning to Reason and Memorize with Self-Notes;** Jack lanchantin et al
 
 ## LLM Application
 - **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
