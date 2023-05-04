@@ -758,3 +758,4 @@
 - **MULTIVIZ: TOWARDS VISUALIZING AND UNDERSTANDING MULTIMODAL MODELS;** Paul Pu Liang et al
 - **TorchScale - A Library for Transformers at (Any) Scale;** Shuming Ma et al
 - **Video pretraining;** https://zhuanlan.zhihu.com/p/515175476 
+- **Towards Complex Reasoning: the Polaris of Large Language Models;** Yao Fu
