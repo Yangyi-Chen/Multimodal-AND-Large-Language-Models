@@ -152,6 +152,7 @@
 - **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering;** Pan Lu et al
 - **Multimodal Chain-of-Thought Reasoning in Language Models;** Zhuosheng Zhang et al
 - **LAMPP: Language Models as Probabilistic Priors for Perception and Action;** Belinda Z. Li et al
+- **Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings;** Daniel Rose et al
 
 
 **Common sense.**
