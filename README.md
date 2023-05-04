@@ -211,7 +211,7 @@
 - **The Role of Summarization in Generative Agents: A Preliminary Perspective;** Xiachong Feng et al
 - **CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society;** Guohao Li et al
 - **ArK: Augmented Reality with Knowledge Interactive Emergent Ability;** Qiuyuan Huang et al
-
+- **Can Large Language Models Be an Alternative to Human Evaluation?;** Cheng-Han Chiang et al
 
 
 
