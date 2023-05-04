@@ -212,6 +212,7 @@
 - **CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society;** Guohao Li et al
 - **ArK: Augmented Reality with Knowledge Interactive Emergent Ability;** Qiuyuan Huang et al
 - **Can Large Language Models Be an Alternative to Human Evaluation?;** Cheng-Han Chiang et al
+- **Few-shot In-context Learning for Knowledge Base Question Answering;** Tianle Li et al
 
 
 
