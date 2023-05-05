@@ -62,6 +62,7 @@
 - **Tool Learning with Foundation Models;** Yujia Qin et al
 - **A Cookbook of Self-Supervised Learning;** Randall Balestriero et al
 - **Foundation Models for Decision Making: Problems, Methods, and Opportunities;** Sherry Yang et al
+- **Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation;** Patrick Fernandes et al
 
 
 ## Structure
