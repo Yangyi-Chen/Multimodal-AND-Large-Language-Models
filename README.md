@@ -780,3 +780,4 @@
 - **TorchScale - A Library for Transformers at (Any) Scale;** Shuming Ma et al
 - **Video pretraining;** https://zhuanlan.zhihu.com/p/515175476 
 - **Towards Complex Reasoning: the Polaris of Large Language Models;** Yao Fu
+- **Prompt Engineering;** Lilian Weng
