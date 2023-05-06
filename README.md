@@ -382,7 +382,7 @@
 - **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs;** Yaobo Liang et al
 - **OpenAGI: When LLM Meets Domain Experts;** Yingqiang Ge et al; Benchmark.
 - **Inner Monologue: Embodied Reasoning through Planning with Language Models;** Wenlong Huang et al
-
+- **Caption Anything: Interactive Image Description with Diverse Multimodal Controls;** Teng Wang et al
 
 
 
