@@ -419,6 +419,7 @@
 - **REFINER: Reasoning Feedback on Intermediate Representations;** Debjit Paul et al
 - **RRHF: Rank Responses to Align Language Models with Human Feedback without tears;** Zheng Yuan et al
 - **Constitutional AI: Harmlessness from AI Feedback;** Yuntao Bai et al
+- **Chain of Hindsight Aligns Language Models with Feedback;** Hao Liu et al
 
 
 
