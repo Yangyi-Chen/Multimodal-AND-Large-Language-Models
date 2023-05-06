@@ -11,7 +11,7 @@
 - [LLM Evaluation](#llm-evaluation)
 - [LLM Reasoning](#llm-reasoning)
 - [LLM Application](#llm-application)
-- [Memory](#memory)
+- [LLM with Memory](#llm-with-memory)
 - [Foundation Model](#foundation-model)
 - [Document Understanding](#document-understanding)
 - [External Tool](#external-tool)
@@ -221,7 +221,14 @@
 
 
 
-## Memory
+## LLM with Memory
+- **MemPrompt: Memory-assisted Prompt Editing with User Feedback;** Aman Madaan et al
+- **Training Language Models with Memory Augmentation;** Zexuan Zhong et al
+- **LANGUAGE MODEL WITH PLUG-IN KNOWLEDGE MEMORY;** Xin Cheng et al
+- **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
+
+
+
 
 
 
