@@ -219,6 +219,7 @@
 - **Few-shot In-context Learning for Knowledge Base Question Answering;** Tianle Li et al
 - **Plan, Eliminate, and Track-Language Models are Good Teachers for Embodied Agents;** Yue Wu et al
 - **AutoML-GPT: Automatic Machine Learning with GPT;** Shujian Zhang et al
+- **Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs;** Jinyang Li et al
 
 
 
