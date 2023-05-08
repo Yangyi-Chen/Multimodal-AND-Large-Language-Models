@@ -224,6 +224,7 @@
 
 
 ## LLM with Memory
+- **Neural Turing Machines;** Alex Graves et al
 - **Memory and Knowledge Augmented Language Models for Inferring Salience in Long-Form Stories;** David Wilmot et al
 - **MemPrompt: Memory-assisted Prompt Editing with User Feedback;** Aman Madaan et al
 - **Training Language Models with Memory Augmentation;** Zexuan Zhong et al
