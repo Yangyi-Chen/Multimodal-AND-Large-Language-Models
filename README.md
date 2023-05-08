@@ -781,3 +781,4 @@
 - **Video pretraining;** https://zhuanlan.zhihu.com/p/515175476 
 - **Towards Complex Reasoning: the Polaris of Large Language Models;** Yao Fu
 - **Prompt Engineering;** Lilian Weng
+- **Memory in human brains;** https://qbi.uq.edu.au/brain-basics/memory
