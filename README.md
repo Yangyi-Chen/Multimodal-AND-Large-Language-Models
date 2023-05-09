@@ -230,6 +230,7 @@
 - **Training Language Models with Memory Augmentation;** Zexuan Zhong et al
 - **LANGUAGE MODEL WITH PLUG-IN KNOWLEDGE MEMORY;** Xin Cheng et al
 - **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
+- **Assessing Working Memory Capacity of ChatGPT;** Dongyu Gong et al
 
 
 
