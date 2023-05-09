@@ -368,6 +368,7 @@
 - **ART: Automatic multi-step reasoning and tool-use for large language models;** Bhargavi Paranjape et al
 - **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models;** Pan Lu et al
 - **AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head;** Rongjie Huang et al
+- **Augmented Large Language Models with Parametric Knowledge Guiding;** Ziyang Luo et al
 
 
 
