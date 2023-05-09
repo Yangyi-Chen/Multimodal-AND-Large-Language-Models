@@ -415,6 +415,7 @@
 - **Controlled Text Generation with Natural Language Instructions;** Wangchunshu Zhou et al
 - **LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model;** Peng Gao et al
 - **Poisoning Language Models During Instruction Tuning;** Alexander Wan et al
+- **Otter: A Multi-Modal Model with In-Context Instruction Tuning;** Bo Li et al
 
 
 
