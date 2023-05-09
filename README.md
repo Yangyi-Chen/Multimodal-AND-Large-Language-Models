@@ -195,6 +195,7 @@
 - **A Categorical Archive of ChatGPT Failures;** Ali Borji et al
 - **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling;** Stella Biderman  et al
 - **Are Emergent Abilities of Large Language Models a Mirage?;** Rylan Schaeffer et al
+- **A Drop of Ink may Make a Million Think: The Spread of False Information in Large Language Models;** Ning Bian et al
 
 
 ## LLM Evaluation
