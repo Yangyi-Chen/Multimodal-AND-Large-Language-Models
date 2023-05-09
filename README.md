@@ -16,7 +16,7 @@
 - [Document Understanding](#document-understanding)
 - [External Tool](#external-tool)
 - [Instruction Tuning](#instruction-tuning)
-- [RLHF](#rlhf)
+- [Learning from Feedback](#learning-from-feedback)
 - [Video Foundation Model](#video-foundation-model)
 - [Key Frame Detection](#key-frame-detection)
 - [Pretraining](#pretraining)
@@ -420,7 +420,7 @@
 
 
 
-## RLHF
+## Learning from Feedback
 - **Learning to Repair: Repairing model output errors after deployment using a dynamic memory of feedback;** Niket Tandon et al
 - **MemPrompt: Memory-assisted Prompt Editing with User Feedback;** Aman Madaan et al
 - **Training language models to follow instructions with human feedback;** Long Ouyang et al
@@ -432,6 +432,7 @@
 - **RRHF: Rank Responses to Align Language Models with Human Feedback without tears;** Zheng Yuan et al
 - **Constitutional AI: Harmlessness from AI Feedback;** Yuntao Bai et al
 - **Chain of Hindsight Aligns Language Models with Feedback;** Hao Liu et al
+- **Self-Edit: Fault-Aware Code Editor for Code Generation;** Kechi Zhang et al
 
 
 
