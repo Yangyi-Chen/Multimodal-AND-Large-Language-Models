@@ -235,7 +235,7 @@
 - **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
 - **Assessing Working Memory Capacity of ChatGPT;** Dongyu Gong et al
 - **Prompted LLMs as Chatbot Modules for Long Open-domain Conversation;** Gibbeum Lee et al
-- **
+- **Beyond Goldfish Memory: Long-Term Open-Domain Conversation;** Jing Xu et al
 
 
 
