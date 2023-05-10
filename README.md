@@ -234,6 +234,8 @@
 - **LANGUAGE MODEL WITH PLUG-IN KNOWLEDGE MEMORY;** Xin Cheng et al
 - **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
 - **Assessing Working Memory Capacity of ChatGPT;** Dongyu Gong et al
+- **Prompted LLMs as Chatbot Modules for Long Open-domain Conversation;** Gibbeum Lee et al
+- **
 
 
 
