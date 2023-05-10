@@ -236,6 +236,7 @@
 - **Assessing Working Memory Capacity of ChatGPT;** Dongyu Gong et al
 - **Prompted LLMs as Chatbot Modules for Long Open-domain Conversation;** Gibbeum Lee et al
 - **Beyond Goldfish Memory: Long-Term Open-Domain Conversation;** Jing Xu et al
+- **Memory Augmented Large Language Models are Computationally Universal;** Dale Schuurmans et al
 
 
 
