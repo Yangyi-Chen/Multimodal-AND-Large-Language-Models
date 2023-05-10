@@ -420,6 +420,7 @@
 - **Poisoning Language Models During Instruction Tuning;** Alexander Wan et al
 - **Otter: A Multi-Modal Model with In-Context Instruction Tuning;** Bo Li et al
 - **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans;** Tao Gong et al
+- **Improving Cross-Task Generalization with Step-by-Step Instructions;** Yang Wu et al
 
 
 
