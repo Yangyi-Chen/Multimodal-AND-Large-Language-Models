@@ -103,7 +103,7 @@
 - **Knowledge-augmented Few-shot Visual Relation Detection;** Tianyu Yu et al
 - **Prototype-based Embedding Network for Scene Graph Generation;** Chaofan Zhen et al
 - **Unified Visual Relationship Detection with Vision and Language Models;** Long Zhao et al
-
+- **Structure-CLIP: Enhance Multi-modal Language Representations with Structure Knowledge;** Yufeng Huang et al
 
 
 **Attribute**
