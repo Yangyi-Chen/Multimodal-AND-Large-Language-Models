@@ -213,6 +213,11 @@
 - **The Capacity for Moral Self-Correction in Large Language Models;** Deep Ganguli et al
 - **Learning to Reason and Memorize with Self-Notes;** Jack lanchantin et al
 - **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models;** Lei Wang et al
+- **T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large Language Model Signals for Science Question Answering;** Lei Wang et al
+
+
+
+
 
 ## LLM Application
 - **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
