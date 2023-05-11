@@ -319,7 +319,7 @@
 - **Foundation Transformers;** Hongyu Wang et al; Propose a new unified architecture. 
 - **A Generalist Agent;** Scott Reed et al
 - **PaLM-E: An Embodied Multimodal Language Model;** Danny Driess et al
-
+- **IMAGEBIND: One Embedding Space To Bind Them All;** Rohit Girdhar et al
 
 
 
