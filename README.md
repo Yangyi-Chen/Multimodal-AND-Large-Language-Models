@@ -65,6 +65,7 @@
 - **Foundation Models for Decision Making: Problems, Methods, and Opportunities;** Sherry Yang et al
 - **Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation;** Patrick Fernandes et al
 - **Reasoning with Language Model Prompting: A Survey;** Shuofei Qiao et al 
+- **Towards Reasoning in Large Language Models: A Survey;** Jie Huang et al
 
 
 ## Structure
