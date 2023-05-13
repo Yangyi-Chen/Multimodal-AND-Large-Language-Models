@@ -434,6 +434,7 @@
 - **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans;** Tao Gong et al
 - **Improving Cross-Task Generalization with Step-by-Step Instructions;** Yang Wu et al
 - **VideoChat: Chat-Centric Video Understanding;** KunChang Li et al
+- **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning;** Wenliang Dai et al
 
 
 
