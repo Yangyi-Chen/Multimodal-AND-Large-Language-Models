@@ -454,6 +454,7 @@
 - **Constitutional AI: Harmlessness from AI Feedback;** Yuntao Bai et al
 - **Chain of Hindsight Aligns Language Models with Feedback;** Hao Liu et al
 - **Self-Edit: Fault-Aware Code Editor for Code Generation;** Kechi Zhang et al
+- **RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs;** Afra Feyza Akyürek et al
 
 
 
