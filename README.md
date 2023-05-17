@@ -199,6 +199,7 @@
 - **Are Emergent Abilities of Large Language Models a Mirage?;** Rylan Schaeffer et al
 - **A Drop of Ink may Make a Million Think: The Spread of False Information in Large Language Models;** Ning Bian et al
 - **Language Models Don’t Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting;** Miles Turpin et al
+- **SYMBOL TUNING IMPROVES IN-CONTEXT LEARNING IN LANGUAGE MODELS;** Jerry Wei et al
 
 
 ## LLM Evaluation
