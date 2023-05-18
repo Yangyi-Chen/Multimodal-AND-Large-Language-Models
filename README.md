@@ -754,6 +754,7 @@
 - **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training;** Wenliang Dai et al
 - **Models See Hallucinations: Evaluating the Factuality in Video Captioning;** Hui Liu et al
 - **Evaluating and Improving Factuality in Multimodal Abstractive Summarization;** David Wan et al
+- **Evaluating Object Hallucination in Large Vision-Language Models;** Yifan Li et al
 
 
 ## Cognitive NeuronScience & Machine Learning
