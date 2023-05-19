@@ -217,6 +217,7 @@
 - **Learning to Reason and Memorize with Self-Notes;** Jack lanchantin et al
 - **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models;** Lei Wang et al
 - **T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large Language Model Signals for Science Question Answering;** Lei Wang et al
+- **Language Models Meet World Models: Embodied Experiences Enhance Language Models;** Jiannan Xiang et al
 
 
 
