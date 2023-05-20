@@ -240,6 +240,7 @@
 
 ## LLM with Memory
 - **Neural Turing Machines;** Alex Graves et al
+- **Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study;** Xiangyang Mou et al
 - **Memory and Knowledge Augmented Language Models for Inferring Salience in Long-Form Stories;** David Wilmot et al
 - **MemPrompt: Memory-assisted Prompt Editing with User Feedback;** Aman Madaan et al
 - **Training Language Models with Memory Augmentation;** Zexuan Zhong et al
@@ -250,6 +251,7 @@
 - **Beyond Goldfish Memory: Long-Term Open-Domain Conversation;** Jing Xu et al
 - **Memory Augmented Large Language Models are Computationally Universal;** Dale Schuurmans et al
 - **MemoryBank: Enhancing Large Language Models with Long-Term Memory;** Wanjun Zhong et al
+
 
 
 
