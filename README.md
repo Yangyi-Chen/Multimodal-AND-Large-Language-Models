@@ -447,6 +447,7 @@
 - **VideoChat: Chat-Centric Video Understanding;** KunChang Li et al
 - **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning;** Wenliang Dai et al
 - **SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities;** Dong Zhang et al
+- **LIMA: Less Is More for Alignment;** Chunting Zhou et al
 
 
 
