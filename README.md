@@ -740,6 +740,7 @@
 - **WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning;** Krishna Srinivasan et al
 - **Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text;** Wanrong Zhu et al
 - **OpenAssistant Conversations - Democratizing Large Language Model Alignment;** Andreas Köpf et al
+- **TheoremQA: A Theorem-driven Question Answering dataset;** Wenhu Chen et al
 
 
 
