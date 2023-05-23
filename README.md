@@ -66,6 +66,7 @@
 - **Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation;** Patrick Fernandes et al
 - **Reasoning with Language Model Prompting: A Survey;** Shuofei Qiao et al 
 - **Towards Reasoning in Large Language Models: A Survey;** Jie Huang et al
+- **A PhD Student’s Perspective on Research in NLP in the Era of Very Large Language Models;** Oana Ignat et al
 
 
 ## Structure
