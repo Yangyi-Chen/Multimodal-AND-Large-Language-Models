@@ -218,6 +218,7 @@
 - **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models;** Lei Wang et al
 - **T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large Language Model Signals for Science Question Answering;** Lei Wang et al
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models;** Shunyu Yao et al
+- **Introspective Tips: Large Language Model for In-Context Decision Making;** Liting Chen et al
 
 
 
