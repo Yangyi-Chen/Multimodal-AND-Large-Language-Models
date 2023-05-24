@@ -341,7 +341,8 @@
 
 
 
-
+**Analysis**
+- **What Makes for Good Visual Tokenizers for Large Language Models?;** Guangzhi Wang et al
 
 
 ### Others
