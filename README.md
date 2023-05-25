@@ -239,7 +239,7 @@
 - **Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs;** Jinyang Li et al
 - **Language models can explain neurons in language models;** Steven Bills et al
 - **Large Language Model Programs;** Imanol Schlag et al
-
+- **Evaluating Factual Consistency of Summaries with Large Language Models;** Shiqi Chen et al
 
 ## LLM with Memory
 - **Neural Turing Machines;** Alex Graves et al
