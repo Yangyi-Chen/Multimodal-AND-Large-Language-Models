@@ -460,7 +460,7 @@
 - **LIMA: Less Is More for Alignment;** Chunting Zhou et al
 - **ExpertPrompting: Instructing Large Language Models to be Distinguished Experts;** Benfeng Xu et al
 - **HINT: Hypernetwork Instruction Tuning for Efficient Zero- & Few-Shot Generalisation;** Hamish Ivison et al
-
+- **Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models;** Gen Luo et al
 
 
 
