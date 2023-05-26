@@ -454,6 +454,7 @@
 - **SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities;** Dong Zhang et al
 - **Prompting with Pseudo-Code Instructions;** Mayank Mishra et al
 - **LIMA: Less Is More for Alignment;** Chunting Zhou et al
+- **ExpertPrompting: Instructing Large Language Models to be Distinguished Experts;** Benfeng Xu et al
 
 
 
