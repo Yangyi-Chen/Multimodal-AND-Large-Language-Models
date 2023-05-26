@@ -367,6 +367,7 @@
 - **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAINING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
 - **Unifying Vision, Text, and Layout for Universal Document Processing;** Zineng Tang et al
 - **STRUCTEXTV2: MASKED VISUAL-TEXTUAL PREDIC- TION FOR DOCUMENT IMAGE PRE-TRAINING;** Yuechen Yu et al
+- **UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning;** Ahmed Masry et al
 
 **Dataset**
 - **A Diagram Is Worth A Dozen Images;** Aniruddha Kembhavi et al
