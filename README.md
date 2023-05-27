@@ -232,6 +232,9 @@
 
 **Self-consistency**
 - **Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference;** Eric Mitchell et al
+- **Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs;** Angelica Chen et al
+
+
 
 
 
