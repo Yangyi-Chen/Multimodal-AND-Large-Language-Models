@@ -238,7 +238,7 @@
 - **Sunny and Dark Outside?! Improving Answer Consistency in VQA through Entailed Question Generation;** Arijit Ray et al
 - **Maintaining Reasoning Consistency in Compositional Visual Question Answering;** Chenchen Jing et al
 - **SQuINTing at VQA Models: Introspecting VQA Models with Sub-Questions;** Ramprasaath R. Selvaraju et al
-
+- **Logical Implications for Visual Question Answering Consistency;** Sergio Tascon-Morales et al
 
 
 
