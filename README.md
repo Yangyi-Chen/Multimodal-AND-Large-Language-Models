@@ -259,6 +259,7 @@
 - **Beyond Goldfish Memory: Long-Term Open-Domain Conversation;** Jing Xu et al
 - **Memory Augmented Large Language Models are Computationally Universal;** Dale Schuurmans et al
 - **MemoryBank: Enhancing Large Language Models with Long-Term Memory;** Wanjun Zhong et al
+- **Enabling Large Language Models to Generate Text with Citations;** Tianyu Gao et al
 
 
 
