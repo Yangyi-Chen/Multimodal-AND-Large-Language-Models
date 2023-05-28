@@ -479,7 +479,7 @@
 - **ExpertPrompting: Instructing Large Language Models to be Distinguished Experts;** Benfeng Xu et al
 - **HINT: Hypernetwork Instruction Tuning for Efficient Zero- & Few-Shot Generalisation;** Hamish Ivison et al
 - **Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models;** Gen Luo et al
-
+- **SAIL: Search-Augmented Instruction Learning;** Hongyin Luo et al
 
 
 ## Learning from Feedback
