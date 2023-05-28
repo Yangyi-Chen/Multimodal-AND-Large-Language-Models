@@ -230,7 +230,7 @@
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models;** Shunyu Yao et al
 - **Introspective Tips: Large Language Model for In-Context Decision Making;** Liting Chen et al
 - **Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples;** Abulhair Saparov et al
-
+- **Reasoning with Language Model is Planning with World Model;** Shibo Hao et al
 
 **Self-consistency**
 - **Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference;** Eric Mitchell et al
@@ -843,6 +843,9 @@
 - **Recurrent World Models Facilitate Policy Evolution;** David Ha et al
 - **TRANSFORMERS ARE SAMPLE-EFFICIENT WORLD MODELS;** Vincent Micheli et al
 - **Language Models Meet World Models: Embodied Experiences Enhance Language Models;** Jiannan Xiang et al
+- **Reasoning with Language Model is Planning with World Model;** Shibo Hao et al
+
+
 
 ## Resource
 - **LAVIS-A One-stop Library for Language-Vision Intelligence;** https://github.com/salesforce/LAVIS
