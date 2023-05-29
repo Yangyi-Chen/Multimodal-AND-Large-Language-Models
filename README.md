@@ -232,10 +232,15 @@
 - **Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples;** Abulhair Saparov et al
 - **Reasoning with Language Model is Planning with World Model;** Shibo Hao et al
 
+
+
 **Self-consistency**
 - **Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference;** Eric Mitchell et al
 - **Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs;** Angelica Chen et al
 - **Self-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation;** Niels Mündler et al
+- **Measuring and Narrowing the Compositionality Gap in Language Models;** Ofir Press et al
+
+
 
 (with images)
 - **Sunny and Dark Outside?! Improving Answer Consistency in VQA through Entailed Question Generation;** Arijit Ray et al
