@@ -16,6 +16,7 @@
 - [Document Understanding](#document-understanding)
 - [External Tool](#external-tool)
 - [Instruction Tuning](#instruction-tuning)
+- [Incontext Learning](#incontext-learning)
 - [Learning from Feedback](#learning-from-feedback)
 - [Video Foundation Model](#video-foundation-model)
 - [Key Frame Detection](#key-frame-detection)
@@ -485,6 +486,57 @@
 - **HINT: Hypernetwork Instruction Tuning for Efficient Zero- & Few-Shot Generalisation;** Hamish Ivison et al
 - **Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models;** Gen Luo et al
 - **SAIL: Search-Augmented Instruction Learning;** Hongyin Luo et al
+
+
+## Incontext Learning
+- **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?;** Sewon Min et al
+- **Extrapolating to Unnatural Language Processing with GPT-3's In-context Learning: The Good, the Bad, and the Mysterious;** Frieda Rong et al
+- **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning;** Haokun Liu et al
+- **Learning To Retrieve Prompts for In-Context Learning;** Ohad Rubin et al
+- **An Explanation of In-context Learning as Implicit Bayesian Inference;** Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
+- **MetaICL: Learning to Learn In Context;** Sewon Min et al
+- **PROMPTING GPT-3 TO BE RELIABLE;** Chenglei Si et al
+- **Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm;** Laria Reynolds et al
+- **Do Prompt-Based Models Really Understand the Meaning of their Prompts?;** Albert Webson et al
+- **On the Relation between Sensitivity and Accuracy in In-context Learning;** Yanda Chen et al
+- **Meta-learning via Language Model In-context Tuning;** Yanda Chen et al
+- **Extrapolating to Unnatural Language Processing with GPT-3's In-context Learning: The Good, the Bad, and the Mysterious;** Frieda Rong
+- **SELECTIVE ANNOTATION MAKES LANGUAGE MODELS BETTER FEW-SHOT LEARNERS;** Hongjin Su et al
+- **Robustness of Demonstration-based Learning Under Limited Data Scenario;** Hongxin Zhang et al; Demonstration-based learning, tuning the parameters.
+- **Active Example Selection for In-Context Learning;** Yiming Zhang et al
+- **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity;** Yao Lu et al
+- **Calibrate Before Use: Improving Few-Shot Performance of Language Models;** Tony Z. Zhao et al
+- **DIALOGIC: Controllable Dialogue Simulation with In-Context Learning;** Zekun Li et al 
+- **PRESERVING IN-CONTEXT LEARNING ABILITY IN LARGE LANGUAGE MODEL FINE-TUNING;** Yihan Wang et al
+- **Teaching Algorithmic Reasoning via In-context Learning;** Hattie Zhou et al
+- **On the Compositional Generalization Gap of In-Context Learning** Arian Hosseini et al
+- **Transformers generalize differently from information stored in context vs weights;** Stephanie C.Y. Chan et al
+- **OVERTHINKING THE TRUTH: UNDERSTANDING HOW LANGUAGE MODELS PROCESS FALSE DEMONSTRATIONS;** Anonymous
+- **In-context Learning and Induction Heads;** Catherine Olsson et al
+- **Complementary Explanations for Effective In-Context Learning;** Xi Ye et al
+- **What is Not in the Context? Evaluation of Few-shot Learners with Informative Demonstrations;** Michal Štefánik et al
+- **Robustness of Learning from Task Instructions;** Jiasheng Gu et al
+- **Structured Prompting: Scaling In-Context Learning to 1,000 Examples;** Yaru Hao et al
+- **Transformers learn in-context by gradient descent;** Johannes von Oswald et al
+- **Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale;** Hritik Bansal et al
+- **Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations;** Xinxi Lyu et al
+- **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters;** Boshi Wang et al
+- **Careful Data Curation Stabilizes In-context Learning;** Ting-Yun Chang et al
+- **Parallel Context Windows Improve In-Context Learning of Large Language Models;** Nir Ratner et al
+- **Investigating Fusion Methods for In-Context Learning;** Qinyuan Ye et al
+- **Batch Prompting: Efficient Inference with Large Language Model APIs;** Zhoujun Cheng et al
+- **Explanation Selection Using Unlabeled Data for In-Context Learning;** Xi Ye et al
+- **Compositional Exemplars for In-context Learning;** Jiacheng Ye et al
+- **Distinguishability Calibration to In-Context Learning;** Hongjing Li et al
+- **How Does In-Context Learning Help Prompt Tuning?;** Simeng Sun et al
+- **Guiding Large Language Models via Directional Stimulus Prompting;** Zekun Li et al
+- **In-Context Instruction Learning;** Seonghyeon Ye et al
+- **LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY;** Jerry Wei et al
+- **kNN PROMPTING: BEYOND-CONTEXT LEARNING WITH CALIBRATION-FREE NEAREST NEIGHBOR INFERENCE;** Benfeng Xu et al
+- **Learning In-context Learning for Named Entity Recognition;** Jiawei Chen et al
+- **SELF-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations;** Wei-Lin Chen et al
+- **Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation;** Marius Mosbach et al
+
 
 
 ## Learning from Feedback
