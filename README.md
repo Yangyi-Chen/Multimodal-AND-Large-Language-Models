@@ -632,7 +632,7 @@
 - **Effect of Visual Extensions on Natural Language Understanding in Vision-and-Language Models;** Taichi Iki et al
 - **Is BERT Blind? Exploring the Effect of Vision-and-Language Pretraining on Visual Language Understanding;** Morris Alper et al
 - **TextMI: Textualize Multimodal Information for Integrating Non-verbal Cues in Pre-trained Language Models;** Md Kamrul Hasan et al
-
+- **Learning to Imagine: Visually-Augmented Natural Language Generation;** Tianyi Tang et al
 
 
 
