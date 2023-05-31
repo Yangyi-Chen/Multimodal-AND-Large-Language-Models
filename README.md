@@ -544,6 +544,7 @@
 
 
 ## Learning from Feedback
+- **Decision Transformer: Reinforcement Learning via Sequence Modeling;** Lili Chen et al
 - **Learning to Repair: Repairing model output errors after deployment using a dynamic memory of feedback;** Niket Tandon et al
 - **MemPrompt: Memory-assisted Prompt Editing with User Feedback;** Aman Madaan et al
 - **Training language models to follow instructions with human feedback;** Long Ouyang et al
