@@ -207,7 +207,7 @@
 - **Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models;** Alfonso Amayuelas et al
 - **Scaling Data-Constrained Language Models;** Niklas Muennighoff et al
 - **The False Promise of Imitating Proprietary LLMs;** Arnav Gudibande et al
-
+- **Counterfactual reasoning: Testing language models’ understanding of hypothetical scenarios;** Jiaxuan Li et al
 
 
 
