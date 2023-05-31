@@ -540,7 +540,7 @@
 - **Learning In-context Learning for Named Entity Recognition;** Jiawei Chen et al
 - **SELF-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations;** Wei-Lin Chen et al
 - **Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation;** Marius Mosbach et al
-
+- **Large Language Models Can be Lazy Learners: Analyze Shortcuts in In-Context Learning;** Ruixiang Tang et al
 
 
 ## Learning from Feedback
