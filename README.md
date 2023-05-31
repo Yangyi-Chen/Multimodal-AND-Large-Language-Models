@@ -265,6 +265,9 @@
 - **Large Language Model Programs;** Imanol Schlag et al
 - **Evaluating Factual Consistency of Summaries with Large Language Models;** Shiqi Chen et al
 - **WikiChat: A Few-Shot LLM-Based Chatbot Grounded with Wikipedia;** Sina J. Semnani et al
+- **Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning;** Xiaoming Shi et al
+
+
 
 ## LLM with Memory
 - **Neural Turing Machines;** Alex Graves et al
