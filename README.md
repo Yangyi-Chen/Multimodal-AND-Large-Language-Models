@@ -862,6 +862,9 @@
 - **Models See Hallucinations: Evaluating the Factuality in Video Captioning;** Hui Liu et al
 - **Evaluating and Improving Factuality in Multimodal Abstractive Summarization;** David Wan et al
 - **Evaluating Object Hallucination in Large Vision-Language Models;** Yifan Li et al
+- **Do Language Models Know When They’re Hallucinating References?;** Ayush Agrawal et al
+
+
 
 
 ## Cognitive NeuronScience & Machine Learning
