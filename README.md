@@ -890,6 +890,7 @@
 - **TVSHOWGUESS: Character Comprehension in Stories as Speaker Guessing;** Yisi Sang et al
 - **Theory of Mind May Have Spontaneously Emerged in Large Language Models;** Michal Kosinski 
 - **COMPUTATIONAL LANGUAGE ACQUISITION WITH THEORY OF MIND;** Andy Liu et al
+- **Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind;** Ece Takmaz et al
 
 
 ## Cognitive NeuronScience
