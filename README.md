@@ -234,7 +234,8 @@
 - **Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples;** Abulhair Saparov et al
 - **Reasoning with Language Model is Planning with World Model;** Shibo Hao et al
 - **Interpretable Math Word Problem Solution Generation Via Step-by-step Planning;** Mengxue Zhang et al
-
+- **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate;** Tian Liang et al
+- **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters;** Boshi Wang et al
 
 
 **Self-consistency**
