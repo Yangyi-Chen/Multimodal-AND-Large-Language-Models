@@ -356,6 +356,7 @@
 - **Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks;** Xinsong Zhang et al
 - **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video;** Haiyang Xu et al
 - **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models;** Junnan Li et al
+- **Grounding Language Models to Images for Multimodal Inputs and Outputs;** Jing Yu Koh et al
 - **Language Is Not All You Need: Aligning Perception with Language Models;** Shaohan Huang et al
 - **GPT-4 Technical Report;** OpenAI
 - **mPLUG-Owl : Modularization Empowers Large Language Models with Multimodality;** Qinghao Ye et al
