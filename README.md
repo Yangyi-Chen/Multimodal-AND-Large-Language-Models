@@ -754,6 +754,8 @@
 - **Towards a Unified Model for Generating Answers and Explanations in Visual Question Answering;** Chenxi Whitehouse et al
 - **Modularized Zero-shot VQA with Pre-trained Models;** Rui Cao et al
 - **Generate then Select: Open-ended Visual Question Answering Guided by World Knowledge;** Xingyu Fu et al
+- **Using Visual Cropping to Enhance Fine-Detail Question Answering of BLIP-Family Models;** Jiarui Zhang et al
+
 
 
 ## VQA Dataset
