@@ -233,6 +233,7 @@
 - **Introspective Tips: Large Language Model for In-Context Decision Making;** Liting Chen et al
 - **Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples;** Abulhair Saparov et al
 - **Reasoning with Language Model is Planning with World Model;** Shibo Hao et al
+- **Interpretable Math Word Problem Solution Generation Via Step-by-step Planning;** Mengxue Zhang et al
 
 
 
