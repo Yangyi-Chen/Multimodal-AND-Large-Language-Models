@@ -760,6 +760,9 @@
 - **Generate then Select: Open-ended Visual Question Answering Guided by World Knowledge;** Xingyu Fu et al
 - **Using Visual Cropping to Enhance Fine-Detail Question Answering of BLIP-Family Models;** Jiarui Zhang et al
 - **Zero-shot Visual Question Answering with Language Model Feedback;** Yifan Du et al
+- **IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models;** Haoxuan You et al
+
+
 
 
 
