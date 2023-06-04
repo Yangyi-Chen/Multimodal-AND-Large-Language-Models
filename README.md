@@ -764,7 +764,7 @@
 - **Generate then Select: Open-ended Visual Question Answering Guided by World Knowledge;** Xingyu Fu et al
 - **Using Visual Cropping to Enhance Fine-Detail Question Answering of BLIP-Family Models;** Jiarui Zhang et al
 - **Zero-shot Visual Question Answering with Language Model Feedback;** Yifan Du et al
-
+- **Learning to Ask Informative Sub-Questions for Visual Question Answering;** Kohei Uehara et al
 
 
 
