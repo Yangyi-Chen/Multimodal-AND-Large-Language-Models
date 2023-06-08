@@ -576,7 +576,7 @@
 - **RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs;** Afra Feyza Akyürek et al
 - **Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing;** Hao Yan et al
 - **Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback;** Yao Fu et al
-
+- **Fine-Grained Human Feedback Gives Better Rewards for Language Model Training;** Zeqiu Wu et al
 
 
 ## Video Foundation Model
