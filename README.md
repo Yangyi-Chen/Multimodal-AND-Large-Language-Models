@@ -75,6 +75,9 @@
 - **Finding Structural Knowledge in Multimodal-BERT;** Victor Milewski et al
 - **Going Beyond Nouns With Vision & Language Models Using Synthetic Data;** Paola Cascante-Bonilla et al
 - **Measuring Progress in Fine-grained Vision-and-Language Understanding;** Emanuele Bugliarello et al
+- **PV2TEA: Patching Visual Modality to Textual-Established Information Extraction;** Hejie Cui et al
+
+
 
 **Event Extraction**
 - **Cross-media Structured Common Space for Multimedia Event Extraction;** Manling Li et al; Focus on image-text event extraction. A new benchmark and baseline are proposed. 
