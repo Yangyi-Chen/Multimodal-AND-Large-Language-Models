@@ -771,6 +771,9 @@
 - **Using Visual Cropping to Enhance Fine-Detail Question Answering of BLIP-Family Models;** Jiarui Zhang et al
 - **Zero-shot Visual Question Answering with Language Model Feedback;** Yifan Du et al
 - **Learning to Ask Informative Sub-Questions for Visual Question Answering;** Kohei Uehara et al
+- **Why Did the Chicken Cross the Road? Rephrasing and Analyzing Ambiguous Questions in VQA;** Elias Stengel-Eskin et al
+
+
 
 
 
