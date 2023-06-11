@@ -446,7 +446,7 @@
 - **COOK: Empowering General-Purpose Language Models with Modular and Collaborative Knowledge;** Shangbin Feng et al
 - **StructGPT: A General Framework for Large Language Model to Reason over Structured Data;** Jinhao Jiang et al
 - **Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases;** Xingxuan Li et al
-
+- **ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases;** Qiaoyu Tang et al
 
 
 
