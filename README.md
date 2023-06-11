@@ -278,6 +278,8 @@
 - **Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning;** Xiaoming Shi et al
 - **Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks;** Sherzod Hakimov et al
 - **PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents;** Simeng Sun et al
+- **LayoutGPT: Compositional Visual Planning and Generation with Large Language Models;** Weixi Feng et al
+
 
 
 ## LLM with Memory
