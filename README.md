@@ -580,6 +580,9 @@
 - **Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing;** Hao Yan et al
 - **Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback;** Yao Fu et al
 - **Fine-Grained Human Feedback Gives Better Rewards for Language Model Training;** Zeqiu Wu et al
+- **Let’s Verify Step by Step;** Hunter Lightman et al
+
+
 
 
 ## Video Foundation Model
