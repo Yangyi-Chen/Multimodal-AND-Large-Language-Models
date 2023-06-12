@@ -587,7 +587,7 @@
 - **Let’s Verify Step by Step;** Hunter Lightman et al
 - **Aligning Large Language Models through Synthetic Feedback;** Sungdong Kim1 et al
 - **Improving Language Models via Plug-and-Play Retrieval Feedback;** Wenhao Yu et al
-
+- **Improving Open Language Models by Learning from Organic Interactions;** Jing Xu et al
 
 
 
