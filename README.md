@@ -282,6 +282,7 @@
 - **Judging LLM-as-a-judge with MT-Bench and Chatbot Arena;** Lianmin Zheng et al
 
 
+
 ## LLM with Memory
 - **Neural Turing Machines;** Alex Graves et al
 - **Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study;** Xiangyang Mou et al
@@ -698,6 +699,7 @@
 - **F-VLM: OPEN-VOCABULARY OBJECT DETECTION UPON FROZEN VISION AND LANGUAGE MODELS;** Weicheng Kuo et al
 - **eP-ALM: Efficient Perceptual Augmentation of Language Models;** Mustafa Shukor et al
 - **Transfer Visual Prompt Generator across LLMs;** Ao Zhang et al
+- **Multimodal Web Navigation with Instruction-Finetuned Foundation Models;** Hiroki Furuta et al
 
 
 
