@@ -515,7 +515,7 @@
 - **Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models;** Gen Luo et al
 - **SAIL: Search-Augmented Instruction Learning;** Hongyin Luo et al
 - **Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning;** Fan Yin et al
-
+- **DYNOSAUR: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation;** Da Yin et al
 
 
 
