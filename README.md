@@ -296,6 +296,8 @@
 - **Memory Augmented Large Language Models are Computationally Universal;** Dale Schuurmans et al
 - **MemoryBank: Enhancing Large Language Models with Long-Term Memory;** Wanjun Zhong et al
 - **Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Clashes;** Jian Xie et al
+- **RET-LLM: Towards a General Read-Write Memory for Large Language Models;** Ali Modarressi et al
+
 
 
 
