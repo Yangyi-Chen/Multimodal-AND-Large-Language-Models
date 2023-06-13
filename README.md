@@ -239,6 +239,9 @@
 - **Interpretable Math Word Problem Solution Generation Via Step-by-step Planning;** Mengxue Zhang et al
 - **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate;** Tian Liang et al
 - **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters;** Boshi Wang et al
+- **Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models;** Soochan Lee et al
+
+
 
 
 **Self-consistency**
