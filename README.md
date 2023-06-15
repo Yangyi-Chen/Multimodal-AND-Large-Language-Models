@@ -240,7 +240,7 @@
 - **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate;** Tian Liang et al
 - **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters;** Boshi Wang et al
 - **Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models;** Soochan Lee et al
-
+- **Large Language Model Is Semi-Parametric Reinforcement Learning Agent;** Danyang Zhang et al
 
 
 
@@ -283,6 +283,7 @@
 - **PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents;** Simeng Sun et al
 - **LayoutGPT: Compositional Visual Planning and Generation with Large Language Models;** Weixi Feng et al
 - **Judging LLM-as-a-judge with MT-Bench and Chatbot Arena;** Lianmin Zheng et al
+
 
 
 
