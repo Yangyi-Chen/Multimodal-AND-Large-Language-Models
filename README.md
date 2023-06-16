@@ -241,7 +241,7 @@
 - **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters;** Boshi Wang et al
 - **Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models;** Soochan Lee et al
 - **Large Language Model Is Semi-Parametric Reinforcement Learning Agent;** Danyang Zhang et al
-
+- **Large Language Models Are Reasoning Teachers;** Namgyu Ho et al
 
 
 **Self-consistency**
