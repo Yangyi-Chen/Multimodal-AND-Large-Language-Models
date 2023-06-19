@@ -788,7 +788,7 @@
 - **Zero-shot Visual Question Answering with Language Model Feedback;** Yifan Du et al
 - **Learning to Ask Informative Sub-Questions for Visual Question Answering;** Kohei Uehara et al
 - **Why Did the Chicken Cross the Road? Rephrasing and Analyzing Ambiguous Questions in VQA;** Elias Stengel-Eskin et al
-
+- **Investigating Prompting Techniques for Zero- and Few-Shot Visual Question Answering;** Rabiul Awal et al
 
 
 
