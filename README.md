@@ -221,6 +221,7 @@
 - **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity;** Yejin Bang et al
 - **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective;** Jindong Wang et al
 - **A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models;** Junjie Ye et al
+- **KoLA: Carefully Benchmarking World Knowledge of Large Language Models;** Jifan Yu et al
 
 
 
