@@ -212,7 +212,7 @@
 - **Scaling Data-Constrained Language Models;** Niklas Muennighoff et al
 - **The False Promise of Imitating Proprietary LLMs;** Arnav Gudibande et al
 - **Counterfactual reasoning: Testing language models’ understanding of hypothetical scenarios;** Jiaxuan Li et al
-
+- **Inverse Scaling: When Bigger Isn’t Better;** Ian R. McKenzie et al
 
 
 ## LLM Evaluation
