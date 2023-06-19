@@ -69,6 +69,7 @@
 - **Towards Reasoning in Large Language Models: A Survey;** Jie Huang et al
 - **A PhD Student’s Perspective on Research in NLP in the Era of Very Large Language Models;** Oana Ignat et al
 - **Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models;** Chen Ling et al
+- **Unifying Large Language Models and Knowledge Graphs: A Roadmap;** Shirui Pan et al
 
 
 ## Structure
