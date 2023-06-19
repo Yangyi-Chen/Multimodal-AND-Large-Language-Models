@@ -594,6 +594,7 @@
 - **Aligning Large Language Models through Synthetic Feedback;** Sungdong Kim1 et al
 - **Improving Language Models via Plug-and-Play Retrieval Feedback;** Wenhao Yu et al
 - **Improving Open Language Models by Learning from Organic Interactions;** Jing Xu et al
+- **Demystifying GPT Self-Repair for Code Generation;** Theo X. Olausson et al
 
 
 
