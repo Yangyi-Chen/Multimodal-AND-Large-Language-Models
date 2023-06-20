@@ -519,7 +519,7 @@
 - **SAIL: Search-Augmented Instruction Learning;** Hongyin Luo et al
 - **Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning;** Fan Yin et al
 - **DYNOSAUR: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation;** Da Yin et al
-
+- **MACAW-LLM: MULTI-MODAL LANGUAGE MODELING WITH IMAGE, AUDIO, VIDEO, AND TEXT INTEGRATION;** Chenyang Lyu et al
 
 
 ## Incontext Learning
