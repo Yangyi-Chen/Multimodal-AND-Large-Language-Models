@@ -629,6 +629,7 @@
 - **MINOTAUR: Multi-task Video Grounding From Multimodal Queries;** Raghav Goyal et al
 - **VideoLLM: Modeling Video Sequence with Large Language Models;** Guo Chen et al
 - **COSA: Concatenated Sample Pretrained Vision-Language Foundation Model;** Sihan Chen et al
+- **VALLEY: VIDEO ASSISTANT WITH LARGE LANGUAGE MODEL ENHANCED ABILITY;** Ruipu Luo et al
 
 
 ## Key Frame Detection
