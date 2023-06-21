@@ -599,6 +599,7 @@
 - **Improving Language Models via Plug-and-Play Retrieval Feedback;** Wenhao Yu et al
 - **Improving Open Language Models by Learning from Organic Interactions;** Jing Xu et al
 - **Demystifying GPT Self-Repair for Code Generation;** Theo X. Olausson et al
+- **Reflexion: Language Agents with Verbal Reinforcement Learning;** Noah Shinn et al
 
 
 
