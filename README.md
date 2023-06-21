@@ -230,6 +230,7 @@
 - **Generated Knowledge Prompting for Commonsense Reasoning;** Jiacheng Liu et al
 - **SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT REASONING IN LANGUAGE MODELS;** Xuezhi Wang et al
 - **LEAST-TO-MOST PROMPTING ENABLES COMPLEX REASONING IN LARGE LANGUAGE MODELS;** Denny Zhou et al
+- **REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS;** Shunyu Yao et al
 - **The Capacity for Moral Self-Correction in Large Language Models;** Deep Ganguli et al
 - **Learning to Reason and Memorize with Self-Notes;** Jack lanchantin et al
 - **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models;** Lei Wang et al
