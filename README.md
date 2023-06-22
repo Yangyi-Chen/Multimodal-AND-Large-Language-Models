@@ -465,7 +465,7 @@
 - **ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases;** Qiaoyu Tang et al
 - **WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences;** Xiao Liu et al
 - **RestGPT: Connecting Large Language Models with Real-World Applications via RESTful APIs;** Yifan Song et al
-
+- **MIND2WEB: Towards a Generalist Agent for the Web;** Xiang Deng et al
 
 **With Visual Tools**
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models;** Chenfei Wu et al
