@@ -287,6 +287,8 @@
 - **LayoutGPT: Compositional Visual Planning and Generation with Large Language Models;** Weixi Feng et al
 - **Judging LLM-as-a-judge with MT-Bench and Chatbot Arena;** Lianmin Zheng et al
 - **LLM-BLENDER: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion;** Dongfu Jiang et al
+- **Benchmarking Foundation Models with Language-Model-as-an-Examiner;** Yushi Bai et al
+
 
 
 
