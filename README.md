@@ -405,6 +405,7 @@
 
 **Analysis**
 - **What Makes for Good Visual Tokenizers for Large Language Models?;** Guangzhi Wang et al
+- **LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models;** Peng Xu et al
 
 
 ### Others
