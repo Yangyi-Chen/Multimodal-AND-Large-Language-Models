@@ -215,6 +215,8 @@
 - **Counterfactual reasoning: Testing language models’ understanding of hypothetical scenarios;** Jiaxuan Li et al
 - **Inverse Scaling: When Bigger Isn’t Better;** Ian R. McKenzie et al
 - **DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models;** Boxin Wang et al
+- **Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs;** Miao Xiong et al
+
 
 
 ## LLM Evaluation
