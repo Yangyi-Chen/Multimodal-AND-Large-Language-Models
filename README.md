@@ -944,6 +944,8 @@
 - **Abstract Visual Reasoning with Tangram Shapes;** Anya Ji et al
 - **DISSOCIATING LANGUAGE AND THOUGHT IN LARGE LANGUAGE MODELS: A COGNITIVE PERSPECTIVE;** Kyle Mahowald et al
 - **Language Cognition and Language Computation Human and Machine Language Understanding;** Shaonan Wang et al
+- **From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought;** Lionel Wong et al
+
 
 
 ## Theory of Mind
