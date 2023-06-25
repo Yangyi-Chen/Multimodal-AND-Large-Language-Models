@@ -488,7 +488,7 @@
 - **Inner Monologue: Embodied Reasoning through Planning with Language Models;** Wenlong Huang et al
 - **Caption Anything: Interactive Image Description with Diverse Multimodal Controls;** Teng Wang et al
 - **InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language;** Zhaoyang Liu et al
-
+- **Modular Visual Question Answering via Code Generation;** Sanjay Subramanian et al
 
 ## Instruction Tuning
 - **Cross-Task Generalization via Natural Language Crowdsourcing Instructions;** Swaroop Mishra et al
