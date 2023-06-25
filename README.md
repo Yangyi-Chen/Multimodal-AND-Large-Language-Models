@@ -647,6 +647,8 @@
 - **COSA: Concatenated Sample Pretrained Vision-Language Foundation Model;** Sihan Chen et al
 - **VALLEY: VIDEO ASSISTANT WITH LARGE LANGUAGE MODEL ENHANCED ABILITY;** Ruipu Luo et al
 - **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models;** Muhammad Maaz et al
+- **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding;** Hang Zhang et al
+
 
 
 ## Key Frame Detection
