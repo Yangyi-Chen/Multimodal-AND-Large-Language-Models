@@ -140,7 +140,7 @@
 - **COVR: A Test-Bed for Visually Grounded Compositional Generalization with Real Images;** Ben Bogin et al
 - **Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension;** Zhenfang Chen et al
 - **Do Vision-Language Pretrained Models Learn Composable Primitive Concepts?;** Tian Yun et al
-
+- **SUGARCREPE: Fixing Hackable Benchmarks for Vision-Language Compositionality;** Cheng-Yu Hsieh et al
 
 
 
