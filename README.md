@@ -12,7 +12,8 @@
 - [LLM Reasoning](#llm-reasoning)
 - [LLM Application](#llm-application)
 - [LLM with Memory](#llm-with-memory)
-- [Foundation Model](#foundation-model)
+- [Vision-Language Foundation Model](#vision-language-foundation-model)
+- [Multimodal Foundation Model](#multimodal-foundation-model)
 - [Document Understanding](#document-understanding)
 - [External Tool](#external-tool)
 - [Instruction Tuning](#instruction-tuning)
@@ -325,7 +326,7 @@
 
 
 
-## Foundation Model 
+## Vision-Language Foundation Model 
 ### First Generation: Using region-based features; can be classified as one- and two- streams model architectures; Before 2020.6;
 - **Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs;** Emanuele Bugliarello et al; A meta-analysis of the first generation VL models and a unified framework. 
 - **Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers;** Lisa Anne Hendricks et al
@@ -419,7 +420,8 @@
 - **Scaling Vision-Language Models with Sparse Mixture of Experts;** Sheng Shen et al
 - **MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks;** Weicheng Kuo et al
 
-
+## Multimodal Foundation Model
+- **MotionGPT: Human Motion as a Foreign Language;** Biao Jiang et al
 
 ## Document Understanding
 - **LayoutLM: Pre-training of Text and Layout for Document Image Understanding;** Yiheng Xu et al
