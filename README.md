@@ -265,9 +265,9 @@
 - **SQuINTing at VQA Models: Introspecting VQA Models with Sub-Questions;** Ramprasaath R. Selvaraju et al
 - **Logical Implications for Visual Question Answering Consistency;** Sergio Tascon-Morales et al
 - **Exposing and Addressing Cross-Task Inconsistency in Unified Vision-Language Models;** Adyasha Maharana et al
-- **Co-VQA : Answering by Interactive Sub Question Sequence;** Ruonan Wang et al
+- **Co-VQA: Answering by Interactive Sub Question Sequence;** Ruonan Wang et al
 - **IdealGPT: Iteratively Decomposing Vision and Language Reasoning via Large Language Models;** Haoxuan You et al
-
+- **Understanding ME? Multimodal Evaluation for Fine-grained Visual Commonsense;** Zhecan Wang et al
 
 
 
