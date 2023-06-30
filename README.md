@@ -967,6 +967,8 @@
 - **Theory of Mind May Have Spontaneously Emerged in Large Language Models;** Michal Kosinski 
 - **COMPUTATIONAL LANGUAGE ACQUISITION WITH THEORY OF MIND;** Andy Liu et al
 - **Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind;** Ece Takmaz et al
+- **Understanding Social Reasoning in Language Models with Language Models;** Kanishk Gandhi et al
+
 
 
 ## Cognitive NeuronScience
