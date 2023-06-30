@@ -491,6 +491,9 @@
 - **Caption Anything: Interactive Image Description with Diverse Multimodal Controls;** Teng Wang et al
 - **InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language;** Zhaoyang Liu et al
 - **Modular Visual Question Answering via Code Generation;** Sanjay Subramanian et al
+- **Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language;** William Berrios et al
+
+
 
 ## Instruction Tuning
 - **Cross-Task Generalization via Natural Language Crowdsourcing Instructions;** Swaroop Mishra et al
