@@ -622,7 +622,7 @@
 - **Demystifying GPT Self-Repair for Code Generation;** Theo X. Olausson et al
 - **Reflexion: Language Agents with Verbal Reinforcement Learning;** Noah Shinn et al
 - **Evaluating Language Models for Mathematics through Interactions;** Katherine M. Collins et al
-
+- **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback;** John Yang et al
 
 
 ## Video Foundation Model
