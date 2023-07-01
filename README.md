@@ -542,7 +542,7 @@
 - **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models;** Yew Ken Chia et al
 - **MIMIC-IT: Multi-Modal In-Context Instruction Tuning;** Bo Li et al
 - **Aligning Large Multi-Modal Model with Robust Instruction Tuning;** Fuxiao Liu et al
-
+- **LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding;** Yanzhe Zhang et al
 
 
 
