@@ -480,6 +480,7 @@
 - **RestGPT: Connecting Large Language Models with Real-World Applications via RESTful APIs;** Yifan Song et al
 - **MIND2WEB: Towards a Generalist Agent for the Web;** Xiang Deng et al
 - **Certified Reasoning with Language Models;** Gabriel Poesia et al
+- **ToolQA: A Dataset for LLM Question Answering with External Tools;** Yuchen Zhuang et al
 
 
 **With Visual Tools**
