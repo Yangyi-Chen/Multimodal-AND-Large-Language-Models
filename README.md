@@ -395,6 +395,9 @@
 - **mPLUG-Owl : Modularization Empowers Large Language Models with Multimodality;** Qinghao Ye et al
 - **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks;** Wenhai Wang et al
 - **PandaGPT: One Model To Instruction-Follow Them All;** Yixuan Su et al
+- **KOSMOS-2: Grounding Multimodal Large Language Models to the World;** Zhiliang Peng et al
+
+
 
 
 
