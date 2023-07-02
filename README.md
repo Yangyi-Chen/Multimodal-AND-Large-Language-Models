@@ -293,7 +293,7 @@
 - **LLM-BLENDER: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion;** Dongfu Jiang et al
 - **Benchmarking Foundation Models with Language-Model-as-an-Examiner;** Yushi Bai et al
 - **AudioPaLM: A Large Language Model That Can Speak and Listen;** Paul K. Rubenstein et al
-
+- **Human-in-the-Loop through Chain-of-Thought;** Zefan Cai et al
 
 
 
