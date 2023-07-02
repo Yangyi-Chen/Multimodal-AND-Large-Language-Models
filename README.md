@@ -843,6 +843,7 @@
 - **MULTIMODALQA: COMPLEX QUESTION ANSWERING OVER TEXT, TABLES AND IMAGES;** Alon Talmor et al
 - **WebQA: Multihop and Multimodal QA;** Yingshan Chang et al
 - **FunQA: Towards Surprising Video Comprehension;** Binzhu Xie et al; Used for video foundation model evaluation.
+- **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering;** Pan Lu et al
 
 
 
