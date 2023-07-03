@@ -250,6 +250,7 @@
 - **Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models;** Soochan Lee et al
 - **Large Language Model Is Semi-Parametric Reinforcement Learning Agent;** Danyang Zhang et al
 - **Large Language Models Are Reasoning Teachers;** Namgyu Ho et al
+- **Meta-Reasoning: Semantics-Symbol Deconstruction For Large Language Models;** Yiming Wang et al
 
 
 **Self-consistency**
