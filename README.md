@@ -504,7 +504,7 @@
 - **InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language;** Zhaoyang Liu et al
 - **Modular Visual Question Answering via Code Generation;** Sanjay Subramanian et al
 - **Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language;** William Berrios et al
-
+- **AVIS: Autonomous Visual Information Seeking with Large Language Models;** Ziniu Hu et al
 
 
 ## Instruction Tuning
