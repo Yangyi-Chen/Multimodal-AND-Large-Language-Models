@@ -850,7 +850,7 @@
 - **WebQA: Multihop and Multimodal QA;** Yingshan Chang et al
 - **FunQA: Towards Surprising Video Comprehension;** Binzhu Xie et al; Used for video foundation model evaluation.
 - **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering;** Pan Lu et al
-
+- **Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?;** Yang Chen et al
 
 
 **Cognition**
