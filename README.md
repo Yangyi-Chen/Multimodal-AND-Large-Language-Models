@@ -12,6 +12,7 @@
 - [LLM Reasoning](#llm-reasoning)
 - [LLM Application](#llm-application)
 - [LLM with Memory](#llm-with-memory)
+- [MoE](#moe)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
 - [Document Understanding](#document-understanding)
@@ -323,6 +324,10 @@
 - **Multiview Identifiers Enhanced Generative Retrieval;** Yongqi Li et al
 
 
+
+## MoE
+- **DEMIX Layers: Disentangling Domains for Modular Language Modeling;** Suchin Gururangan et al
+- **ModuleFormer: Learning Modular Large Language Models From Uncurated Data;** Yikang Shen et al
 
 
 
