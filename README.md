@@ -486,6 +486,7 @@
 - **MIND2WEB: Towards a Generalist Agent for the Web;** Xiang Deng et al
 - **Certified Reasoning with Language Models;** Gabriel Poesia et al
 - **ToolQA: A Dataset for LLM Question Answering with External Tools;** Yuchen Zhuang et al
+- **On the Tool Manipulation Capability of Open-source Large Language Models;** Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang et al
 
 
 **With Visual Tools**
