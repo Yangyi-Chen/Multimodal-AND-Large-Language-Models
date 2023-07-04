@@ -567,7 +567,7 @@
 - **Aligning Large Multi-Modal Model with Robust Instruction Tuning;** Fuxiao Liu et al
 - **LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding;** Yanzhe Zhang et al
 - **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning;** Lei Li et al
-
+- **InstructEval: Systematic Evaluation of Instruction Selection Methods;** Anirudh Ajith et al
 
 
 
