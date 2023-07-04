@@ -317,6 +317,7 @@
 - **RECURRENTGPT: Interactive Generation of (Arbitrarily) Long Text;** Wangchunshu Zhou et al
 - **MEMORIZING TRANSFORMERS;** Yuhuai Wu et al
 - **Augmenting Language Models with Long-Term Memory;** Weizhi Wang et al
+- **Statler: State-Maintaining Language Models for Embodied Reasoning;** Takuma Yoneda et al
 
 
 **Retrieval-augmented LLM**
