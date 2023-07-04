@@ -413,7 +413,7 @@
 - **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks;** Wenhai Wang et al
 - **PandaGPT: One Model To Instruction-Follow Them All;** Yixuan Su et al
 - **KOSMOS-2: Grounding Multimodal Large Language Models to the World;** Zhiliang Peng et al
-- **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models;** Chaoyou Fu et al
+
 
 
 
@@ -428,9 +428,11 @@
 
 
 
-**Analysis**
+**Analysis & Evaluation**
 - **What Makes for Good Visual Tokenizers for Large Language Models?;** Guangzhi Wang et al
 - **LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models;** Peng Xu et al
+- **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models;** Chaoyou Fu et al
+- **JourneyDB: A Benchmark for Generative Image Understanding;** Junting Pan et al
 
 
 ### Others
