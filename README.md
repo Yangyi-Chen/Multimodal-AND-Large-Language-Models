@@ -326,7 +326,10 @@
 - **Training Language Models with Memory Augmentation;** Zexuan Zhong et al
 - **Enabling Large Language Models to Generate Text with Citations;** Tianyu Gao et al
 - **Multiview Identifiers Enhanced Generative Retrieval;** Yongqi Li et al
+- **Meta-training with Demonstration Retrieval for Efficient Few-shot Learning;** Aaron Mueller et al
 
+
+  
 
 ## LLM with Human
 - **CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities;** Mina Lee et al
