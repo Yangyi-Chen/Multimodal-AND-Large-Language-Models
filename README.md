@@ -298,7 +298,7 @@
 - **AudioPaLM: A Large Language Model That Can Speak and Listen;** Paul K. Rubenstein et al
 - **Human-in-the-Loop through Chain-of-Thought;** Zefan Cai et al
 - **LARGE LANGUAGE MODELS ARE EFFECTIVE TEXT RANKERS WITH PAIRWISE RANKING PROMPTING;** Zhen Qin et al
-
+- **Language to Rewards for Robotic Skill Synthesis;** Wenhao Yu et al
 
 
 
