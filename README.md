@@ -12,6 +12,7 @@
 - [LLM Reasoning](#llm-reasoning)
 - [LLM Application](#llm-application)
 - [LLM with Memory](#llm-with-memory)
+- [LLM with Human](#llm-with-human)
 - [MoE](#moe)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
@@ -325,6 +326,11 @@
 - **Training Language Models with Memory Augmentation;** Zexuan Zhong et al
 - **Enabling Large Language Models to Generate Text with Citations;** Tianyu Gao et al
 - **Multiview Identifiers Enhanced Generative Retrieval;** Yongqi Li et al
+
+
+## LLM with Human
+- **CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities;** Mina Lee et al
+- **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models;** Kaiyu Yang et al
 
 
 
