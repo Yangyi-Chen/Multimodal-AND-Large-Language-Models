@@ -509,6 +509,8 @@
 - **Modular Visual Question Answering via Code Generation;** Sanjay Subramanian et al
 - **Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language;** William Berrios et al
 - **AVIS: Autonomous Visual Information Seeking with Large Language Models;** Ziniu Hu et al
+- **AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn;** Difei Gao et al
+
 
 
 ## Instruction Tuning
