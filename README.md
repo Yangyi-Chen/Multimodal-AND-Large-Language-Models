@@ -253,6 +253,7 @@
 - **Large Language Model Is Semi-Parametric Reinforcement Learning Agent;** Danyang Zhang et al
 - **Large Language Models Are Reasoning Teachers;** Namgyu Ho et al
 - **Meta-Reasoning: Semantics-Symbol Deconstruction For Large Language Models;** Yiming Wang et al
+- **SWIFTSAGE: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks;** Bill Yuchen Lin et al
 
 
 **Self-consistency**
@@ -503,6 +504,7 @@
 - **Certified Reasoning with Language Models;** Gabriel Poesia et al
 - **ToolQA: A Dataset for LLM Question Answering with External Tools;** Yuchen Zhuang et al
 - **On the Tool Manipulation Capability of Open-source Large Language Models;** Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang et al
+- **CHATDB: AUGMENTING LLMS WITH DATABASES AS THEIR SYMBOLIC MEMORY;** Chenxu Hu et al
 
 
 **With Visual Tools**
