@@ -222,6 +222,7 @@
 
 
 
+
 ## LLM Evaluation
 - **IS CHATGPT A GENERAL-PURPOSE NATURAL LANGUAGE PROCESSING TASK SOLVER?;** Chengwei Qin et al
 - **AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models;** Wanjun Zhong et al
@@ -659,7 +660,7 @@
 - **System-Level Natural Language Feedback;** Weizhe Yuan et al
 - **Preference Ranking Optimization for Human Alignment;** Feifan Song et al
 - **Let Me Teach You: Pedagogical Foundations of Feedback for Language Models;** Beatriz Borges et al
-
+- **AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback;** Yann Dubois et al
   
 
 ## Video Foundation Model
