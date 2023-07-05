@@ -413,7 +413,7 @@
 - **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks;** Wenhai Wang et al
 - **PandaGPT: One Model To Instruction-Follow Them All;** Yixuan Su et al
 - **KOSMOS-2: Grounding Multimodal Large Language Models to the World;** Zhiliang Peng et al
-
+- **PaLI-X: On Scaling up a Multilingual Vision and Language Model;** Xi Chen et al
 
 
 
