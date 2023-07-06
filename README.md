@@ -409,13 +409,6 @@
 - **X2-VLM: All-In-One Pre-trained Model For Vision-Language Tasks;** Yan Zeng et al; Propose a unified model for image-language and video-text-language tasks; Modeling the fine-grained alignments between image regions and descriptions. 
 - **Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks;** Xinsong Zhang et al
 - **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video;** Haiyang Xu et al
-- **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models;** Junnan Li et al
-- **Grounding Language Models to Images for Multimodal Inputs and Outputs;** Jing Yu Koh et al
-- **Language Is Not All You Need: Aligning Perception with Language Models;** Shaohan Huang et al
-- **GPT-4 Technical Report;** OpenAI
-- **mPLUG-Owl : Modularization Empowers Large Language Models with Multimodality;** Qinghao Ye et al
-- **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks;** Wenhai Wang et al
-- **PandaGPT: One Model To Instruction-Follow Them All;** Yixuan Su et al
 - **KOSMOS-2: Grounding Multimodal Large Language Models to the World;** Zhiliang Peng et al
 - **PaLI-X: On Scaling up a Multilingual Vision and Language Model;** Xi Chen et al
 
@@ -430,9 +423,24 @@
 - **PaLM-E: An Embodied Multimodal Language Model;** Danny Driess et al
 - **IMAGEBIND: One Embedding Space To Bind Them All;** Rohit Girdhar et al
 
+### Fourth Generation: Relying on LLMs and instruction tuning
+- **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models;** Junnan Li et al
+- **Grounding Language Models to Images for Multimodal Inputs and Outputs;** Jing Yu Koh et al
+- **Language Is Not All You Need: Aligning Perception with Language Models;** Shaohan Huang et al
+- **Otter: A Multi-Modal Model with In-Context Instruction Tuning;** Bo Li et al
+- **Visual Instruction Tuning;** Haotian Liu et al
+- **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models;** Deyao Zhu et al
+- **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning;** Wenliang Dai et al
+- **LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model;** Peng Gao et al
+- **LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding;** Yanzhe Zhang et al
+- **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans;** Tao Gong et al
+- **GPT-4 Technical Report;** OpenAI
+- **mPLUG-Owl : Modularization Empowers Large Language Models with Multimodality;** Qinghao Ye et al
+- **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks;** Wenhai Wang et al
+- **PandaGPT: One Model To Instruction-Follow Them All;** Yixuan Su et al
+- **Generating Images with Multimodal Language Models;** Jing Yu Koh et al
 
-
-**Analysis & Evaluation**
+### Analysis & Evaluation
 - **What Makes for Good Visual Tokenizers for Large Language Models?;** Guangzhi Wang et al
 - **LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models;** Peng Xu et al
 - **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models;** Chaoyou Fu et al
@@ -549,19 +557,14 @@
 - **Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases;** Yunjie Ji et al
 - **INSTRUCTION TUNING WITH GPT-4;** Baolin Peng et al
 - **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning;** Shayne Longpre et al
-- **Visual Instruction Tuning;** Haotian Liu et al
 - **LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction;** Abdullatif Köksal et al
 - **GUESS THE INSTRUCTION! FLIPPED LEARNING MAKES LANGUAGE MODELS STRONGER ZERO-SHOT LEARNERS;** Seonghyeon Ye et al
 - **In-Context Instruction Learning;** Seonghyeon Ye et al
 - **WizardLM: Empowering Large Language Models to Follow Complex Instructions;** Can Xu et al
 - **Controlled Text Generation with Natural Language Instructions;** Wangchunshu Zhou et al
-- **LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model;** Peng Gao et al
 - **Poisoning Language Models During Instruction Tuning;** Alexander Wan et al
-- **Otter: A Multi-Modal Model with In-Context Instruction Tuning;** Bo Li et al
-- **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans;** Tao Gong et al
 - **Improving Cross-Task Generalization with Step-by-Step Instructions;** Yang Wu et al
 - **VideoChat: Chat-Centric Video Understanding;** KunChang Li et al
-- **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning;** Wenliang Dai et al
 - **SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities;** Dong Zhang et al
 - **Prompting with Pseudo-Code Instructions;** Mayank Mishra et al
 - **LIMA: Less Is More for Alignment;** Chunting Zhou et al
@@ -576,12 +579,9 @@
 - **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models;** Yew Ken Chia et al
 - **MIMIC-IT: Multi-Modal In-Context Instruction Tuning;** Bo Li et al
 - **Aligning Large Multi-Modal Model with Robust Instruction Tuning;** Fuxiao Liu et al
-- **LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding;** Yanzhe Zhang et al
 - **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning;** Lei Li et al
 - **InstructEval: Systematic Evaluation of Instruction Selection Methods;** Anirudh Ajith et al
 - **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark;** Zhenfei Yin et al
-
-
 
 ## Incontext Learning
 - **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?;** Sewon Min et al
