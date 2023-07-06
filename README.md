@@ -515,6 +515,7 @@
 - **On the Tool Manipulation Capability of Open-source Large Language Models;** Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang et al
 - **CHATDB: AUGMENTING LLMS WITH DATABASES AS THEIR SYMBOLIC MEMORY;** Chenxu Hu et al
 - **MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting;** Tatsuro Inaba et al
+- **Making Language Models Better Tool Learners with Execution Feedback;** Shuofei Qiao et al
 
 
 **With Visual Tools**
