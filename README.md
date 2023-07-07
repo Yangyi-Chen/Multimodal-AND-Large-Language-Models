@@ -221,6 +221,7 @@
 - **Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs;** Miao Xiong et al
 - **Lost in the Middle: How Language Models Use Long Contexts;** Nelson F. Liu et al
 - **Won’t Get Fooled Again: Answering Questions with False Premises;** Shengding Hu et al
+- **Jailbroken: How Does LLM Safety Training Fail? Content Warning: This paper contains examples of harmful language;** Alexander Wei et al
 
 
 
