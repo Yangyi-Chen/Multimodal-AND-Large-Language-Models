@@ -470,6 +470,7 @@
 - **UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning;** Ahmed Masry et al
 - **Cream: Visually-Situated Natural Language Understanding with Contrastive Reading Model and Frozen Large Language Models;** Geewook Kim et al
 - **LayoutMask: Enhance Text-Layout Interaction in Multi-modal Pre-training for Document Understanding;** Yi Tu et al
+- **mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding;** Jiabo Ye et al
 
 
 **Dataset**
