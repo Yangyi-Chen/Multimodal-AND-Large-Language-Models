@@ -219,6 +219,7 @@
 - **Inverse Scaling: When Bigger Isn’t Better;** Ian R. McKenzie et al
 - **DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models;** Boxin Wang et al
 - **Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs;** Miao Xiong et al
+- **Lost in the Middle: How Language Models Use Long Contexts;** Nelson F. Liu et al
 
 
 
