@@ -326,6 +326,7 @@
 - **MEMORIZING TRANSFORMERS;** Yuhuai Wu et al
 - **Augmenting Language Models with Long-Term Memory;** Weizhi Wang et al
 - **Statler: State-Maintaining Language Models for Embodied Reasoning;** Takuma Yoneda et al
+- **LONGNET: Scaling Transformers to 1,000,000,000 Tokens;** Jiayu Ding et al
 
 
 **Retrieval-augmented LLM**
