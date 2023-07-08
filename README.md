@@ -307,7 +307,7 @@
 - **LARGE LANGUAGE MODELS ARE EFFECTIVE TEXT RANKERS WITH PAIRWISE RANKING PROMPTING;** Zhen Qin et al
 - **Language to Rewards for Robotic Skill Synthesis;** Wenhao Yu et al
 - **Visual Programming for Text-to-Image Generation and Evaluation;** Jaemin Cho et al
-
+- **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory;** Xizhou Zhu et al
 
 
 ## LLM with Memory
