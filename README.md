@@ -258,6 +258,7 @@
 - **Meta-Reasoning: Semantics-Symbol Deconstruction For Large Language Models;** Yiming Wang et al
 - **SWIFTSAGE: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks;** Bill Yuchen Lin et al
 - **BeamSearchQA: Large Language Models are Strong Zero-Shot QA Solver;** Hao Sun et al
+- **Improving Factuality and Reasoning in Language Models through Multiagent Debate;** Yilun Du et al
 
 
 **Self-consistency**
