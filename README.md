@@ -523,6 +523,7 @@
 - **CHATDB: AUGMENTING LLMS WITH DATABASES AS THEIR SYMBOLIC MEMORY;** Chenxu Hu et al
 - **MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting;** Tatsuro Inaba et al
 - **Making Language Models Better Tool Learners with Execution Feedback;** Shuofei Qiao et al
+- **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing;** Zhibin Gou et al
 
 
 **With Visual Tools**
