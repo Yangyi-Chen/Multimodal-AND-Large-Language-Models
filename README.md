@@ -449,6 +449,9 @@
 - **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks;** Wenhai Wang et al
 - **PandaGPT: One Model To Instruction-Follow Them All;** Yixuan Su et al
 - **Generating Images with Multimodal Language Models;** Jing Yu Koh et al
+- **What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?;** Yan Zeng et al
+
+
 
 ### Analysis & Evaluation
 - **What Makes for Good Visual Tokenizers for Large Language Models?;** Guangzhi Wang et al
