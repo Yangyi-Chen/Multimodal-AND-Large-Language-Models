@@ -353,6 +353,7 @@
 
 ## MoE
 - **OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER;** Noam Shazeer et al
+- **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity;** William Fedus et al
 - **DEMIX Layers: Disentangling Domains for Modular Language Modeling;** Suchin Gururangan et al
 - **ModuleFormer: Learning Modular Large Language Models From Uncurated Data;** Yikang Shen et al
 - **Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models;** Sheng Shen et al
