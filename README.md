@@ -313,6 +313,7 @@
 - **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents;** Zihao Wang et al
 - **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory;** Xizhou Zhu et al
 - **Mindstorms in Natural Language-Based Societies of Mind;** Mingchen Zhuge et al
+- **Responsible Task Automation: Empowering Large Language Models as Responsible Task Automators;** Zhizheng Zhang et al
 
 
 ## LLM with Memory
