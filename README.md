@@ -540,6 +540,7 @@
 - **ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models;** Zhipeng Chen et al
 - **Fact-Checking Complex Claims with Program-Guided Reasoning;** Liangming Pan et al
 - **Gorilla: Large Language Model Connected with Massive APIs;** Shishir G. Patil et al
+- **ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings;** Shibo Hao et al
 
 
 
