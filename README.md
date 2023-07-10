@@ -456,6 +456,7 @@
 - **PandaGPT: One Model To Instruction-Follow Them All;** Yixuan Su et al
 - **Generating Images with Multimodal Language Models;** Jing Yu Koh et al
 - **What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?;** Yan Zeng et al
+- **GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest;** Shilong Zhang et al
 
 
 
