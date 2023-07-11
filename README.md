@@ -698,6 +698,7 @@
 - **AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback;** Yann Dubois et al
 - **Training Socially Aligned Language Models in Simulated Human Society;** Ruibo Liu et al
 - **RLTF: Reinforcement Learning from Unit Test Feedback;** Jiate Liu et al
+- **BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset;** Jiaming Ji et al
   
 
 ## Video Foundation Model
