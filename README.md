@@ -315,6 +315,7 @@
 - **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory;** Xizhou Zhu et al
 - **Mindstorms in Natural Language-Based Societies of Mind;** Mingchen Zhuge et al
 - **Responsible Task Automation: Empowering Large Language Models as Responsible Task Automators;** Zhizheng Zhang et al
+- **Large Language Models as General Pattern Machines;** Suvir Mirchandani et al
 
 
 ## LLM with Memory
