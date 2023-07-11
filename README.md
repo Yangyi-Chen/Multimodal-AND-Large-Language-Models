@@ -697,6 +697,7 @@
 - **Let Me Teach You: Pedagogical Foundations of Feedback for Language Models;** Beatriz Borges et al
 - **AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback;** Yann Dubois et al
 - **Training Socially Aligned Language Models in Simulated Human Society;** Ruibo Liu et al
+- **RLTF: Reinforcement Learning from Unit Test Feedback;** Jiate Liu et al
   
 
 ## Video Foundation Model
