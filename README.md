@@ -544,6 +544,7 @@
 - **Fact-Checking Complex Claims with Program-Guided Reasoning;** Liangming Pan et al
 - **Gorilla: Large Language Model Connected with Massive APIs;** Shishir G. Patil et al
 - **ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings;** Shibo Hao et al
+- **Large Language Models as Tool Makers;** Tianle Cai et al
 
 
 
