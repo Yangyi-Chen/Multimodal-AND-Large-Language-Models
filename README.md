@@ -352,6 +352,7 @@
 - **CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities;** Mina Lee et al
 - **RewriteLM: An Instruction-Tuned Large Language Model for Text Rewriting;** Lei Shu et al
 - **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models;** Kaiyu Yang et al
+- **Evaluating Human-Language Model Interaction;** Mina Lee et al
 
 
 
