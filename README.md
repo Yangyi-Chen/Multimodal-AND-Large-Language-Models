@@ -615,6 +615,9 @@
 - **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning;** Lei Li et al
 - **InstructEval: Systematic Evaluation of Instruction Selection Methods;** Anirudh Ajith et al
 - **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark;** Zhenfei Yin et al
+- **Instruction Mining: High-Quality Instruction Data Selection for Large Language Models;** Yihan Cao et al
+
+  
 
 ## Incontext Learning
 - **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?;** Sewon Min et al
