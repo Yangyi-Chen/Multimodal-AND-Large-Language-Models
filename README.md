@@ -270,6 +270,7 @@
 - **Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs;** Angelica Chen et al
 - **Self-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation;** Niels Mündler et al
 - **Measuring and Narrowing the Compositionality Gap in Language Models;** Ofir Press et al
+- **Self-consistency for open-ended generations;** Siddhartha Jain et al
 
 
 
