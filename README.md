@@ -2,6 +2,7 @@
 
 ## Table of Contents 
 - [Survey](#survey)
+- [Position Paper](#position-paper)
 - [Structure](#structure)
 - [Planning](#planning)
 - [Reasoning](#reasoning)
@@ -60,7 +61,6 @@
 - **Augmented Language Models: a Survey;** Grégoire Mialon et al
 - **Multimodal Deep Learning;** Matthias Aßenmacher et al
 - **Sparks of Artificial General Intelligence: Early experiments with GPT-4;** Sebastien Bubeck et al
-- **Eight Things to Know about Large Language Models;** Samuel R. Bowman et al
 - **Retrieving Multimodal Information for Augmented Generation: A Survey;** Ruochen Zhao et al
 - **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning;** Renze Lou et al
 - **A Survey of Large Language Models;** Wayne Xin Zhao et al
@@ -70,9 +70,13 @@
 - **Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation;** Patrick Fernandes et al
 - **Reasoning with Language Model Prompting: A Survey;** Shuofei Qiao et al 
 - **Towards Reasoning in Large Language Models: A Survey;** Jie Huang et al
-- **A PhD Student’s Perspective on Research in NLP in the Era of Very Large Language Models;** Oana Ignat et al
 - **Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models;** Chen Ling et al
 - **Unifying Large Language Models and Knowledge Graphs: A Roadmap;** Shirui Pan et al
+
+## Position Paper
+- **Eight Things to Know about Large Language Models;** Samuel R. Bowman et al
+- **A PhD Student’s Perspective on Research in NLP in the Era of Very Large Language Models;** Oana Ignat et al
+- **Brain in a Vat: On Missing Pieces Towards Artificial General Intelligence in Large Language Models;** Yuxi Ma et al
 
 
 ## Structure
