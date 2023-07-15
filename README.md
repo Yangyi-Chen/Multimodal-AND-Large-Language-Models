@@ -77,6 +77,7 @@
 - **Eight Things to Know about Large Language Models;** Samuel R. Bowman et al
 - **A PhD Student’s Perspective on Research in NLP in the Era of Very Large Language Models;** Oana Ignat et al
 - **Brain in a Vat: On Missing Pieces Towards Artificial General Intelligence in Large Language Models;** Yuxi Ma et al
+- **Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models;** Lingxi Xie et al
 
 
 ## Structure
