@@ -72,6 +72,7 @@
 - **Towards Reasoning in Large Language Models: A Survey;** Jie Huang et al
 - **Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models;** Chen Ling et al
 - **Unifying Large Language Models and Knowledge Graphs: A Roadmap;** Shirui Pan et al
+- **Interactive Natural Language Processing;** Zekun Wang et al
 
 ## Position Paper
 - **Eight Things to Know about Large Language Models;** Samuel R. Bowman et al
