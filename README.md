@@ -1103,3 +1103,4 @@
 - **Memory in human brains;** https://qbi.uq.edu.au/brain-basics/memory
 - **Bloom's Taxonomy;** https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/#:~:text=Familiarly%20known%20as%20Bloom's%20Taxonomy,Analysis%2C%20Synthesis%2C%20and%20Evaluation.
 - **Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models’ Reasoning Performance;** Yao Fu et al
+- **LLM Powered Autonomous Agents;** Lilian Weng
