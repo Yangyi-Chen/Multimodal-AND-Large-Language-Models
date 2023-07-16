@@ -715,6 +715,7 @@
 - **Training Socially Aligned Language Models in Simulated Human Society;** Ruibo Liu et al
 - **RLTF: Reinforcement Learning from Unit Test Feedback;** Jiate Liu et al
 - **BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset;** Jiaming Ji et al
+- **Chain of Hindsight Aligns Language Models with Feedback;** Hao Liu et al
   
 
 ## Video Foundation Model
