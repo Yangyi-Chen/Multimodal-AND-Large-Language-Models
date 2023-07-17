@@ -679,6 +679,8 @@
 - **SELF-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations;** Wei-Lin Chen et al
 - **Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation;** Marius Mosbach et al
 - **Large Language Models Can be Lazy Learners: Analyze Shortcuts in In-Context Learning;** Ruixiang Tang et al
+- **IN-CONTEXT REINFORCEMENT LEARNING WITH ALGORITHM DISTILLATION;** Michael Laskin et al
+- **Supervised Pretraining Can Learn In-Context Reinforcement Learning;** Jonathan N. Lee et al
 
 
 ## Learning from Feedback
