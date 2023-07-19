@@ -627,6 +627,7 @@
 - **InstructEval: Systematic Evaluation of Instruction Selection Methods;** Anirudh Ajith et al
 - **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark;** Zhenfei Yin et al
 - **Instruction Mining: High-Quality Instruction Data Selection for Large Language Models;** Yihan Cao et al
+- **ALPAGASUS: TRAINING A BETTER ALPACA WITH FEWER DATA;** Lichang Chen et al
 
   
 
