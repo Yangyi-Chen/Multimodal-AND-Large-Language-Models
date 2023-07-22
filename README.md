@@ -231,6 +231,7 @@
 - **Jailbroken: How Does LLM Safety Training Fail? Content Warning: This paper contains examples of harmful language;** Alexander Wei et al
 - **Generating Benchmarks for Factuality Evaluation of Language Models;** Dor Muhlgay et al
 - **Do Models Explain Themselves? Counterfactual Simulatability of Natural Language Explanations;** Yanda Chen et al
+- **Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation;** Ruiyang Ren et al
 
 
 
