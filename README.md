@@ -472,6 +472,7 @@
 - **What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?;** Yan Zeng et al
 - **GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest;** Shilong Zhang et al
 - **Generative Pretraining in Multimodality;** Quan Sun et al
+- **Planting a SEED of Vision in Large Language Model;** Yuying Ge et al
 
 
 
