@@ -496,6 +496,9 @@
 
 ## Multimodal Foundation Model
 - **MotionGPT: Human Motion as a Foreign Language;** Biao Jiang et al
+- **Meta-Transformer: A Unified Framework for Multimodal Learning;** Yiyuan Zhang et al
+
+
 
 ## Document Understanding
 - **LayoutLM: Pre-training of Text and Layout for Document Image Understanding;** Yiheng Xu et al
