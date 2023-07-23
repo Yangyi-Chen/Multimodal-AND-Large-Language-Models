@@ -235,6 +235,7 @@
 
 
 
+
 ## LLM Evaluation
 - **IS CHATGPT A GENERAL-PURPOSE NATURAL LANGUAGE PROCESSING TASK SOLVER?;** Chengwei Qin et al
 - **AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models;** Wanjun Zhong et al
@@ -328,7 +329,7 @@
 - **Mindstorms in Natural Language-Based Societies of Mind;** Mingchen Zhuge et al
 - **Responsible Task Automation: Empowering Large Language Models as Responsible Task Automators;** Zhizheng Zhang et al
 - **Large Language Models as General Pattern Machines;** Suvir Mirchandani et al
-
+- **A Stitch in Time Saves Nine: Detecting and Mitigating Hallucinations of LLMs by Validating Low-Confidence Generation;** Neeraj Varshney et al
 
 ## LLM with Memory
 - **Neural Turing Machines;** Alex Graves et al
