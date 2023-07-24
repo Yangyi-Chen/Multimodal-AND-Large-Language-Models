@@ -14,6 +14,7 @@
 - [LLM Application](#llm-application)
 - [LLM with Memory](#llm-with-memory)
 - [LLM with Human](#llm-with-human)
+- [LLM Foundation](#llm-foundation)
 - [MoE](#moe)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
@@ -370,6 +371,9 @@
 - **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models;** Kaiyu Yang et al
 - **Evaluating Human-Language Model Interaction;** Mina Lee et al
 
+
+## LLM Foundation
+- **Orca: Progressive Learning from Complex Explanation Traces of GPT-4;** Subhabrata Mukherjee et al
 
 
 ## MoE
