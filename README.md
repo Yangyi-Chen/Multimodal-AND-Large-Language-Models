@@ -332,6 +332,10 @@
 - **Large Language Models as General Pattern Machines;** Suvir Mirchandani et al
 - **A Stitch in Time Saves Nine: Detecting and Mitigating Hallucinations of LLMs by Validating Low-Confidence Generation;** Neeraj Varshney et al
 - **TOWARDS A UNIFIED AGENT WITH FOUNDATION MODELS;** Norman Di Palo et al
+- **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models;** Wenlong Huang et al
+
+
+
 
 
 ## LLM with Memory
