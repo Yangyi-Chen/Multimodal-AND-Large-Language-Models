@@ -580,6 +580,7 @@
 - **ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings;** Shibo Hao et al
 - **Large Language Models as Tool Makers;** Tianle Cai et al
 - **VOYAGER: An Open-Ended Embodied Agent with Large Language Models;** Guanzhi Wang et al
+- **FACTOOL: Factuality Detection in Generative AI A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios;** I-Chun Chern et al
 
 
 
