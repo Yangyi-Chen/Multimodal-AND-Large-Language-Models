@@ -380,6 +380,7 @@
 ## LLM Foundation
 - **Retentive Network: A Successor to Transformer for Large Language Models;** Yutao Sun et al
 - **Orca: Progressive Learning from Complex Explanation Traces of GPT-4;** Subhabrata Mukherjee et al
+- **Skill-it! A Data-Driven Skills Framework for Understanding and Training Language Models;** Mayee F. Chen et al
 
 
 ## MoE
