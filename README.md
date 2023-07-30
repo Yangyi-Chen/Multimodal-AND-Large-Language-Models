@@ -499,6 +499,7 @@
 - **LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models;** Peng Xu et al
 - **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models;** Chaoyou Fu et al
 - **JourneyDB: A Benchmark for Generative Image Understanding;** Junting Pan et al
+- **MMBench: Is Your Multi-modal Model an All-around Player?;** Yuan Liu et al
 
 
 ### Others
