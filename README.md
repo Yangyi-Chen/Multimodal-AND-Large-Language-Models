@@ -286,6 +286,7 @@
 - **Measuring and Narrowing the Compositionality Gap in Language Models;** Ofir Press et al
 - **Self-consistency for open-ended generations;** Siddhartha Jain et al
 - **Question Decomposition Improves the Faithfulness of Model-Generated Reasoning;** Ansh Radhakrishnan et al
+- **Measuring Faithfulness in Chain-of-Thought Reasoning;** Tamera Lanham et al
 
 
 (with images)
