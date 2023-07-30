@@ -491,6 +491,7 @@
 - **GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest;** Shilong Zhang et al
 - **Generative Pretraining in Multimodality;** Quan Sun et al
 - **Planting a SEED of Vision in Large Language Model;** Yuying Ge et al
+- **ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning;** Liang Zhao et al
 
 
 
