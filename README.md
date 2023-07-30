@@ -752,6 +752,7 @@
 - **Direct Preference Optimization: Your Language Model is Secretly a Reward Model;** Rafael Rafailov et al
 - **FigCaps-HF: A Figure-to-Caption Generative Framework and Benchmark with Human Feedback;** Ashish Singh et al
 - **Leveraging Implicit Feedback from Deployment Data in Dialogue;** Richard Yuanzhe Pang et al
+- **RLCD: REINFORCEMENT LEARNING FROM CONTRAST DISTILLATION FOR LANGUAGE MODEL ALIGNMENT;** Kevin Yang et al
 
 
   
