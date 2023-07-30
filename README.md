@@ -514,6 +514,7 @@
 - **MotionGPT: Human Motion as a Foreign Language;** Biao Jiang et al
 - **Meta-Transformer: A Unified Framework for Multimodal Learning;** Yiyuan Zhang et al
 - **3D-LLM: Injecting the 3D World into Large Language Models;** Yining Hong et al
+- **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs;** Yang Zhao et al
  
 
 
