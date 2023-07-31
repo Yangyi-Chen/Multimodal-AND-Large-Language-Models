@@ -494,6 +494,7 @@
 - **Generative Pretraining in Multimodality;** Quan Sun et al
 - **Planting a SEED of Vision in Large Language Model;** Yuying Ge et al
 - **ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning;** Liang Zhao et al
+- **Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning;** Lili Yu et al
 
 
 
