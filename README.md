@@ -81,7 +81,7 @@
 - **A PhD Student’s Perspective on Research in NLP in the Era of Very Large Language Models;** Oana Ignat et al
 - **Brain in a Vat: On Missing Pieces Towards Artificial General Intelligence in Large Language Models;** Yuxi Ma et al
 - **Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models;** Lingxi Xie et al
-
+- **A Path Towards Autonomous Machine Intelligence;** Yann LeCun et al
 
 ## Structure
 - **Finding Structural Knowledge in Multimodal-BERT;** Victor Milewski et al
