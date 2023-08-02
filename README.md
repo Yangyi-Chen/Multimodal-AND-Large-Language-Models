@@ -592,6 +592,7 @@
 - **VOYAGER: An Open-Ended Embodied Agent with Large Language Models;** Guanzhi Wang et al
 - **FACTOOL: Factuality Detection in Generative AI A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios;** I-Chun Chern et al
 - **WebArena: A Realistic Web Environment for Building Autonomous Agents;** Shuyan Zhou et al
+- **TOOLLLM: FACILITATING LARGE LANGUAGE MODELS TO MASTER 16000+ REAL-WORLD APIS;** Yujia Qin et al
 
 
 **With Visual Tools**
