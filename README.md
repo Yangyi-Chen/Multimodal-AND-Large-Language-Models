@@ -237,6 +237,7 @@
 - **Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation;** Ruiyang Ren et al
 - **Universal and Transferable Adversarial Attacks on Aligned Language Models;** Andy Zou et al
 - **Large Language Models Struggle to Learn Long-Tail Knowledge;** Nikhil Kandpal et al
+- **FUNDAMENTAL LIMITATIONS OF ALIGNMENT IN LARGE LANGUAGE MODELS;** Yotam Wolf et al
 
 
 
