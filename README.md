@@ -398,6 +398,9 @@
 - **DEMIX Layers: Disentangling Domains for Modular Language Modeling;** Suchin Gururangan et al
 - **ModuleFormer: Learning Modular Large Language Models From Uncurated Data;** Yikang Shen et al
 - **Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models;** Sheng Shen et al
+- **From Sparse to Soft Mixtures of Experts;** Joan Puigcerver et al
+
+
 
 
 
