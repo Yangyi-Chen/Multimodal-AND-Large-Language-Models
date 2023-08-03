@@ -291,6 +291,7 @@
 - **Self-consistency for open-ended generations;** Siddhartha Jain et al
 - **Question Decomposition Improves the Faithfulness of Model-Generated Reasoning;** Ansh Radhakrishnan et al
 - **Measuring Faithfulness in Chain-of-Thought Reasoning;** Tamera Lanham et al
+- **SELFCHECK: USING LLMS TO ZERO-SHOT CHECK THEIR OWN STEP-BY-STEP REASONING;** Ning Miao et al
 
 
 (with images)
