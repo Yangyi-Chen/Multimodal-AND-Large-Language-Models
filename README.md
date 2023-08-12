@@ -404,6 +404,7 @@
 
 ## Critic Modeling
 - **Learning Evaluation Models from Large Language Models for Sequence Generation;** Chenglong Wang et al
+- **RETROFORMER: RETROSPECTIVE LARGE LANGUAGE AGENTS WITH POLICY GRADIENT OPTIMIZATION;** Weiran Yao et al
 
 
 
