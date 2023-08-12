@@ -15,6 +15,7 @@
 - [LLM with Memory](#llm-with-memory)
 - [LLM with Human](#llm-with-human)
 - [LLM Foundation](#llm-foundation)
+- [Critic Modeling](#critic-modeling)
 - [MoE](#moe)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
@@ -392,6 +393,12 @@
 - **Orca: Progressive Learning from Complex Explanation Traces of GPT-4;** Subhabrata Mukherjee et al
 - **Skill-it! A Data-Driven Skills Framework for Understanding and Training Language Models;** Mayee F. Chen et al
 - **Secrets of RLHF in Large Language Models Part I: PPO;** Rui Zheng et al
+
+## Critic Modeling
+- **Learning Evaluation Models from Large Language Models for Sequence Generation;** Chenglong Wang et al
+
+
+
 
 
 ## MoE
