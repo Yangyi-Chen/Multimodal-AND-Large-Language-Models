@@ -153,9 +153,10 @@
 - **Do Vision-Language Pretrained Models Learn Composable Primitive Concepts?;** Tian Yun et al
 - **SUGARCREPE: Fixing Hackable Benchmarks for Vision-Language Compositionality;** Cheng-Yu Hsieh et al
 
+
 **Concept**
 - **Cross-Modal Concept Learning and Inference for Vision-Language Models;** Yi Zhang et al
-
+- **Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning;** Hanjae Kim et al
 
 
 
