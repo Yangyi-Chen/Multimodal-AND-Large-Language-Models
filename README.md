@@ -525,6 +525,8 @@
 - **Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning;** Lili Yu et al
 - **The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World;** Weiyun Wang et al
 - **EMPOWERING VISION-LANGUAGE MODELS TO FOLLOW INTERLEAVED VISION-LANGUAGE INSTRUCTIONS;** Juncheng Li et al
+- **RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic and Regional Comprehension;** Qiang Zhou et al
+- **LISA: REASONING SEGMENTATION VIA LARGE LANGUAGE MODEL;** Xin Lai et al
 
 
 
