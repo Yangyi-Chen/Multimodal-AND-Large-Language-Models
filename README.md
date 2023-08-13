@@ -536,6 +536,7 @@
 - **MMBench: Is Your Multi-modal Model an All-around Player?;** Yuan Liu et al
 - **SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension;** Bohao Li et al
 - **Tiny LVLM-eHub: Early Multimodal Experiments with Bard;** Wenqi Shao et al
+- **MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities;** Weihao Yu et al
 
 
 ### Others
