@@ -76,6 +76,9 @@
 - **Unifying Large Language Models and Knowledge Graphs: A Roadmap;** Shirui Pan et al
 - **Interactive Natural Language Processing;** Zekun Wang et al
 - **A Survey on Multimodal Large Language Models;** Shukang Yin et al
+- **TRUSTWORTHY LLMS: A SURVEY AND GUIDELINE FOR EVALUATING LARGE LANGUAGE MODELS’ ALIGNMENT;** Yang Liu et al
+
+
 
 ## Position Paper
 - **Eight Things to Know about Large Language Models;** Samuel R. Bowman et al
