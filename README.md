@@ -77,6 +77,7 @@
 - **Interactive Natural Language Processing;** Zekun Wang et al
 - **A Survey on Multimodal Large Language Models;** Shukang Yin et al
 - **TRUSTWORTHY LLMS: A SURVEY AND GUIDELINE FOR EVALUATING LARGE LANGUAGE MODELS’ ALIGNMENT;** Yang Liu et al
+- **Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback;** Stephen Casper et al
 
 
 
