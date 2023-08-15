@@ -706,6 +706,7 @@
 - **Instruction Mining: High-Quality Instruction Data Selection for Large Language Models;** Yihan Cao et al
 - **ALPAGASUS: TRAINING A BETTER ALPACA WITH FEWER DATA;** Lichang Chen et al
 - **Exploring Format Consistency for Instruction Tuning;** Shihao Liang et al
+- **Self-Alignment with Instruction Backtranslation;** Xian Li et al
 
   
 
