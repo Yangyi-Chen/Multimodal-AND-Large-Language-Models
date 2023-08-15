@@ -708,6 +708,7 @@
 - **ALPAGASUS: TRAINING A BETTER ALPACA WITH FEWER DATA;** Lichang Chen et al
 - **Exploring Format Consistency for Instruction Tuning;** Shihao Liang et al
 - **Self-Alignment with Instruction Backtranslation;** Xian Li et al
+- **#INSTAG: INSTRUCTION TAGGING FOR DIVERSITY AND COMPLEXITY ANALYSIS;** Keming Lu et al
 
   
 
