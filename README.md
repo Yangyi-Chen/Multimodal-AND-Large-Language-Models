@@ -1134,6 +1134,7 @@
 - **Evaluating and Improving Factuality in Multimodal Abstractive Summarization;** David Wan et al
 - **Evaluating Object Hallucination in Large Vision-Language Models;** Yifan Li et al
 - **Do Language Models Know When They’re Hallucinating References?;** Ayush Agrawal et al
+- **Detecting and Preventing Hallucinations in Large Vision Language Models;** Anisha Gunjal et al
 
 
 
