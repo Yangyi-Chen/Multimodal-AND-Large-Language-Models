@@ -297,7 +297,7 @@
 - **AdaPlanner: Adaptive Planning from Feedback with Language Models;** Haotian Sun et al
 - **ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models;** Binfeng Xu et al
 - **SKILLS-IN-CONTEXT PROMPTING: UNLOCKING COMPOSITIONALITY IN LARGE LANGUAGE MODELS;** Jiaao Chen et al
-
+- **SOLVING CHALLENGING MATH WORD PROBLEMS USING GPT-4 CODE INTERPRETER WITH CODE-BASED SELF-VERIFICATION;** Aojun Zhou et al
 
 
 
