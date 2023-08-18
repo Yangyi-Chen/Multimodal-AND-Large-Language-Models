@@ -80,6 +80,7 @@
 - **Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback;** Stephen Casper et al
 - **Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies;** Liangming Pan et al
 - **Challenges and Applications of Large Language Models;** Jean Kaddour et al
+- **Aligning Large Language Models with Human: A Survey;** Yufei Wang et al
 
 
 
