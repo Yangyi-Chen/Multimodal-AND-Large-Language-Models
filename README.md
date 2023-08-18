@@ -385,6 +385,7 @@
 - **Statler: State-Maintaining Language Models for Embodied Reasoning;** Takuma Yoneda et al
 - **LONGNET: Scaling Transformers to 1,000,000,000 Tokens;** Jiayu Ding et al
 - **In-context Autoencoder for Context Compression in a Large Language Model;** Tao Ge et al
+- **MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation;** Junru Lu et al
 
 
 **Retrieval-augmented LLM**
