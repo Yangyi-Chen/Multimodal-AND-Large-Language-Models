@@ -362,6 +362,7 @@
 - **External Reasoning: Towards Multi-Large-Language-Models Interchangeable Assistance with Human Feedback;** Akide Liu et al
 - **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis;** Izzeddin Gur et al
 - **OCTOPACK: INSTRUCTION TUNING CODE LARGE LANGUAGE MODELS;** Niklas Muennighoff et al
+- **Tackling Vision Language Tasks Through Learning Inner Monologues;** Diji Yang et al
 
 
 
