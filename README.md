@@ -162,6 +162,7 @@
 - **Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension;** Zhenfang Chen et al
 - **Do Vision-Language Pretrained Models Learn Composable Primitive Concepts?;** Tian Yun et al
 - **SUGARCREPE: Fixing Hackable Benchmarks for Vision-Language Compositionality;** Cheng-Yu Hsieh et al
+- **An Examination of the Compositionality of Large Generative Vision-Language Models;** Teli Ma et al
 
 
 **Concept**
