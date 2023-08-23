@@ -15,6 +15,7 @@
 - [LLM with Memory](#llm-with-memory)
 - [LLM with Human](#llm-with-human)
 - [LLM Foundation](#llm-foundation)
+- [Interaction](#interaction)
 - [Critic Modeling](#critic-modeling)
 - [MoE](#moe)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
@@ -413,6 +414,12 @@
 - **Skill-it! A Data-Driven Skills Framework for Understanding and Training Language Models;** Mayee F. Chen et al
 - **Secrets of RLHF in Large Language Models Part I: PPO;** Rui Zheng et al
 - **EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education;** Yuhao Dan et al
+
+## Interaction
+- **LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles;** Shulin Huang et al
+
+
+
 
 ## Critic Modeling
 - **Learning Evaluation Models from Large Language Models for Sequence Generation;** Chenglong Wang et al
