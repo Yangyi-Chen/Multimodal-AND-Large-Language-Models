@@ -414,6 +414,7 @@
 - **Skill-it! A Data-Driven Skills Framework for Understanding and Training Language Models;** Mayee F. Chen et al
 - **Secrets of RLHF in Large Language Models Part I: PPO;** Rui Zheng et al
 - **EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education;** Yuhao Dan et al
+- **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct;** Haipeng Luo et al
 
 ## Interaction
 - **LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles;** Shulin Huang et al
