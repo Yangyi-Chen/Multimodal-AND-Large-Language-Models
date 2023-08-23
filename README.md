@@ -365,7 +365,7 @@
 - **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis;** Izzeddin Gur et al
 - **OCTOPACK: INSTRUCTION TUNING CODE LARGE LANGUAGE MODELS;** Niklas Muennighoff et al
 - **Tackling Vision Language Tasks Through Learning Inner Monologues;** Diji Yang et al
-
+- **Can Language Models Learn to Listen?;** Evonne Ng et al
 
 
 
