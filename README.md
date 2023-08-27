@@ -367,6 +367,7 @@
 - **OCTOPACK: INSTRUCTION TUNING CODE LARGE LANGUAGE MODELS;** Niklas Muennighoff et al
 - **Tackling Vision Language Tasks Through Learning Inner Monologues;** Diji Yang et al
 - **Can Language Models Learn to Listen?;** Evonne Ng et al
+- **PROMPT2MODEL: Generating Deployable Models from Natural Language Instructions;** Vijay Viswanathan et al
 
 
 
