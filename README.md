@@ -552,6 +552,7 @@
 - **RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic and Regional Comprehension;** Qiang Zhou et al
 - **LISA: REASONING SEGMENTATION VIA LARGE LANGUAGE MODEL;** Xin Lai et al
 - **Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities;** Jinze Bai et al
+- **InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4;** Lai Wei et al
 
 
 
