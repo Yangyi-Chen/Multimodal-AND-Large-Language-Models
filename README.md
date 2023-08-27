@@ -390,6 +390,7 @@
 - **LONGNET: Scaling Transformers to 1,000,000,000 Tokens;** Jiayu Ding et al
 - **In-context Autoencoder for Context Compression in a Large Language Model;** Tao Ge et al
 - **MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation;** Junru Lu et al
+- **KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases;** Xintao Wang et al
 
 
 **Retrieval-augmented LLM**
