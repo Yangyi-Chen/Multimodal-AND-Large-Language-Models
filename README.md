@@ -548,6 +548,7 @@
 - **EMPOWERING VISION-LANGUAGE MODELS TO FOLLOW INTERLEAVED VISION-LANGUAGE INSTRUCTIONS;** Juncheng Li et al
 - **RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic and Regional Comprehension;** Qiang Zhou et al
 - **LISA: REASONING SEGMENTATION VIA LARGE LANGUAGE MODEL;** Xin Lai et al
+- **Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities;** Jinze Bai et al
 
 
 
