@@ -83,6 +83,7 @@
 - **Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies;** Liangming Pan et al
 - **Challenges and Applications of Large Language Models;** Jean Kaddour et al
 - **Aligning Large Language Models with Human: A Survey;** Yufei Wang et al
+- **Instruction Tuning for Large Language Models: A Survey;** Shengyu Zhang et al
 
 
 
