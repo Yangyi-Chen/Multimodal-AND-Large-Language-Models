@@ -271,6 +271,7 @@
 - **SCIBENCH: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models;** Xiaoxuan Wang et al
 - **FLASK: FINE-GRAINED LANGUAGE MODEL EVALUATION BASED ON ALIGNMENT SKILL SETS;** Seonghyeon Ye et al
 - **AgentBench: Evaluating LLMs as Agents;** Xiao Liu et al
+- **Efficient Benchmarking (of Language Models);** Yotam Perlitz et al
 
 
 
