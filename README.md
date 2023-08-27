@@ -9,6 +9,7 @@
 - [Generation](#generation)
 - [Representation Learning](#representation-learning)
 - [LLM Analysis](#llm-analysis)
+- [LLM Safety](#llm-safety)
 - [LLM Evaluation](#llm-evaluation)
 - [LLM Reasoning](#llm-reasoning)
 - [LLM Application](#llm-application)
@@ -245,19 +246,24 @@
 - **Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs;** Miao Xiong et al
 - **Lost in the Middle: How Language Models Use Long Contexts;** Nelson F. Liu et al
 - **Won’t Get Fooled Again: Answering Questions with False Premises;** Shengding Hu et al
-- **Jailbroken: How Does LLM Safety Training Fail? Content Warning: This paper contains examples of harmful language;** Alexander Wei et al
 - **Generating Benchmarks for Factuality Evaluation of Language Models;** Dor Muhlgay et al
 - **Do Models Explain Themselves? Counterfactual Simulatability of Natural Language Explanations;** Yanda Chen et al
 - **Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation;** Ruiyang Ren et al
-- **Universal and Transferable Adversarial Attacks on Aligned Language Models;** Andy Zou et al
 - **Large Language Models Struggle to Learn Long-Tail Knowledge;** Nikhil Kandpal et al
-- **FUNDAMENTAL LIMITATIONS OF ALIGNMENT IN LARGE LANGUAGE MODELS;** Yotam Wolf et al
-- **XSTEST: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models;** Paul Röttger et al
-- **SCALING RELATIONSHIP ON LEARNING MATHEMATICAL REASONING WITH LARGE LANGUAGE MODELS;** Zheng Yuan et al
+- **SCALING RELATIONSHIP ON LEARNING MATHEMATICAL REASONING WITH LARGE LANGUAGE MODELS;** Zheng Yuan et al
 - **Multimodal Neurons in Pretrained Text-Only Transformers;** Sarah Schwettmann et al
 - **SIMPLE SYNTHETIC DATA REDUCES SYCOPHANCY IN LARGE LANGUAGE MODELS;** Jerry Wei et al
 - **Studying Large Language Model Generalization with Influence Functions;** Roger Grosse et al
+
+
+## LLM Safety
+- **Universal and Transferable Adversarial Attacks on Aligned Language Models;** Andy Zou et al
+- **XSTEST: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models;** Paul Röttger et al
+- **Jailbroken: How Does LLM Safety Training Fail? Content Warning: This paper contains examples of harmful language;** Alexander Wei et al
+- **FUNDAMENTAL LIMITATIONS OF ALIGNMENT IN LARGE LANGUAGE MODELS;** Yotam Wolf et al
+- **BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset;** Jiaming Ji et al
 - **GPT-4 IS TOO SMART TO BE SAFE: STEALTHY CHAT WITH LLMS VIA CIPHER;** Youliang Yuan et al
+- **Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment;** Rishabh Bhardwaj et al
 
 
 
@@ -820,7 +826,6 @@
 - **AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback;** Yann Dubois et al
 - **Training Socially Aligned Language Models in Simulated Human Society;** Ruibo Liu et al
 - **RLTF: Reinforcement Learning from Unit Test Feedback;** Jiate Liu et al
-- **BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset;** Jiaming Ji et al
 - **Chain of Hindsight Aligns Language Models with Feedback;** Hao Liu et al
 - **LETI: Learning to Generate from Textual Interactions;** Xingyao Wang et al
 - **Direct Preference Optimization: Your Language Model is Secretly a Reward Model;** Rafael Rafailov et al
