@@ -559,6 +559,7 @@
 - **LISA: REASONING SEGMENTATION VIA LARGE LANGUAGE MODEL;** Xin Lai et al
 - **Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities;** Jinze Bai et al
 - **InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4;** Lai Wei et al
+- **StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data;** Yanda Li et al
 
 
 
