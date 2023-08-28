@@ -85,6 +85,7 @@
 - **Aligning Large Language Models with Human: A Survey;** Yufei Wang et al
 - **Instruction Tuning for Large Language Models: A Survey;** Shengyu Zhang et al
 - **A Survey on Large Language Model based Autonomous Agents;** Lei Wang et al
+- **From Instructions to Intrinsic Human Values —— A Survey of Alignment Goals for Big Models;** Jing Yao et al
 
 
 
