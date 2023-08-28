@@ -375,6 +375,7 @@
 - **Tackling Vision Language Tasks Through Learning Inner Monologues;** Diji Yang et al
 - **Can Language Models Learn to Listen?;** Evonne Ng et al
 - **PROMPT2MODEL: Generating Deployable Models from Natural Language Instructions;** Vijay Viswanathan et al
+- **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents;** Weize Chen et al
 
 
 
