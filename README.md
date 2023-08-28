@@ -256,6 +256,7 @@
 - **Multimodal Neurons in Pretrained Text-Only Transformers;** Sarah Schwettmann et al
 - **SIMPLE SYNTHETIC DATA REDUCES SYCOPHANCY IN LARGE LANGUAGE MODELS;** Jerry Wei et al
 - **Studying Large Language Model Generalization with Influence Functions;** Roger Grosse et al
+- **Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs;** Yuxia Wang et al
 
 
 ## LLM Safety
