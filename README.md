@@ -84,6 +84,7 @@
 - **Challenges and Applications of Large Language Models;** Jean Kaddour et al
 - **Aligning Large Language Models with Human: A Survey;** Yufei Wang et al
 - **Instruction Tuning for Large Language Models: A Survey;** Shengyu Zhang et al
+- **A Survey on Large Language Model based Autonomous Agents;** Lei Wang et al
 
 
 
@@ -336,7 +337,6 @@
 
 
 ## LLM Application
-- **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
 - **The Role of Summarization in Generative Agents: A Preliminary Perspective;** Xiachong Feng et al
 - **CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society;** Guohao Li et al
 - **ArK: Augmented Reality with Knowledge Interactive Emergent Ability;** Qiuyuan Huang et al
@@ -375,9 +375,13 @@
 - **Tackling Vision Language Tasks Through Learning Inner Monologues;** Diji Yang et al
 - **Can Language Models Learn to Listen?;** Evonne Ng et al
 - **PROMPT2MODEL: Generating Deployable Models from Natural Language Instructions;** Vijay Viswanathan et al
+
+
+**LLM as Agents**
+- **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
 - **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents;** Weize Chen et al
-
-
+- **METAGPT: META PROGRAMMING FOR MULTI-AGENT COLLABORATIVE FRAMEWORK;** Sirui Hong et al
+    
 
 ## LLM with Memory
 - **Neural Turing Machines;** Alex Graves et al
