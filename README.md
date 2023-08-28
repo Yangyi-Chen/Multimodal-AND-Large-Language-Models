@@ -669,6 +669,7 @@
 - **WebArena: A Realistic Web Environment for Building Autonomous Agents;** Shuyan Zhou et al
 - **TOOLLLM: FACILITATING LARGE LANGUAGE MODELS TO MASTER 16000+ REAL-WORLD APIS;** Yujia Qin et al
 - **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models;** Cheng-Yu Hsieh et al
+- **ExpeL: LLM Agents Are Experiential Learners;** Andrew Zhao et al
 
 
 **With Visual Tools**
