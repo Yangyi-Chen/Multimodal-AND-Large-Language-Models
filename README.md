@@ -597,6 +597,7 @@
 - **Meta-Transformer: A Unified Framework for Multimodal Learning;** Yiyuan Zhang et al
 - **3D-LLM: Injecting the 3D World into Large Language Models;** Yining Hong et al
 - **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs;** Yang Zhao et al
+- **VIT-LENS: Towards Omni-modal Representations;** Weixian Lei et al
  
 
 
