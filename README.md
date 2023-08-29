@@ -407,6 +407,7 @@
 - **In-context Autoencoder for Context Compression in a Large Language Model;** Tao Ge et al
 - **MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation;** Junru Lu et al
 - **KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases;** Xintao Wang et al
+- **LONGBENCH: A BILINGUAL, MULTITASK BENCHMARK FOR LONG CONTEXT UNDERSTANDING;** Yushi Bai et al
 
 
 **Retrieval-augmented LLM**
