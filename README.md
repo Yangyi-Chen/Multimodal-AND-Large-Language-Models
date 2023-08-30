@@ -258,7 +258,7 @@
 - **Multimodal Neurons in Pretrained Text-Only Transformers;** Sarah Schwettmann et al
 - **SIMPLE SYNTHETIC DATA REDUCES SYCOPHANCY IN LARGE LANGUAGE MODELS;** Jerry Wei et al
 - **Studying Large Language Model Generalization with Influence Functions;** Roger Grosse et al
-- **Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs;** Yuxia Wang et al
+
 
 
 ## LLM Safety
@@ -269,6 +269,8 @@
 - **BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset;** Jiaming Ji et al
 - **GPT-4 IS TOO SMART TO BE SAFE: STEALTHY CHAT WITH LLMS VIA CIPHER;** Youliang Yuan et al
 - **Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment;** Rishabh Bhardwaj et al
+- **Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs;** Yuxia Wang et al
+
 
 
 
