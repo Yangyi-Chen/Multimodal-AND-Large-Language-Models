@@ -1,4 +1,4 @@
-# General-purpose Models
+# Large (Multimodal) Language Models
 
 ## Table of Contents 
 - [Survey](#survey)
