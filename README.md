@@ -603,7 +603,11 @@
 - **3D-LLM: Injecting the 3D World into Large Language Models;** Yining Hong et al
 - **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs;** Yang Zhao et al
 - **VIT-LENS: Towards Omni-modal Representations;** Weixian Lei et al
- 
+- **LLASM: LARGE LANGUAGE AND SPEECH MODEL;** Yu Shu et al
+
+
+
+
 ## Image Generation
 - **Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors;** Oran Gafni et al
 - **Modeling Image Composition for Complex Scene Generation;** Zuopeng Yang et al
