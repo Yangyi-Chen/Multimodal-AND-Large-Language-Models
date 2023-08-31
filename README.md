@@ -21,6 +21,7 @@
 - [MoE](#moe)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
+- [Image Generation](#image-generation)
 - [Document Understanding](#document-understanding)
 - [External Tool](#external-tool)
 - [Instruction Tuning](#instruction-tuning)
@@ -603,7 +604,11 @@
 - **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs;** Yang Zhao et al
 - **VIT-LENS: Towards Omni-modal Representations;** Weixian Lei et al
  
-
+## Image Generation
+- **Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors;** Oran Gafni et al
+- **Modeling Image Composition for Complex Scene Generation;** Zuopeng Yang et al
+- **Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis;** Wan-Cyuan Fan et al
+- **ReCo: Region-Controlled Text-to-Image Generation;** Zhengyuan Yang et al
 
 
 ## Document Understanding
