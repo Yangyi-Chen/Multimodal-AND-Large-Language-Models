@@ -609,6 +609,9 @@
 - **Modeling Image Composition for Complex Scene Generation;** Zuopeng Yang et al
 - **Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis;** Wan-Cyuan Fan et al
 - **ReCo: Region-Controlled Text-to-Image Generation;** Zhengyuan Yang et al
+- **UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild;** Can Qin† et al
+
+
 
 
 ## Document Understanding
