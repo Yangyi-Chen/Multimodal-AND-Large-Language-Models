@@ -23,7 +23,7 @@
 - [Multimodal Foundation Model](#multimodal-foundation-model)
 - [Image Generation](#image-generation)
 - [Document Understanding](#document-understanding)
-- [External Tool](#external-tool)
+- [Tool Learning](#tool-learning)
 - [Instruction Tuning](#instruction-tuning)
 - [Incontext Learning](#incontext-learning)
 - [Learning from Feedback](#learning-from-feedback)
@@ -648,7 +648,7 @@
 
 
 
-## External Tool
+## Tool Learning
 **NLP**
 - **TALM: Tool Augmented Language Models;** Aaron Paris et al
 - **WebGPT: Browser-assisted question-answering with human feedback;** Reiichiro Nakano et al
@@ -691,6 +691,7 @@
 - **TOOLLLM: FACILITATING LARGE LANGUAGE MODELS TO MASTER 16000+ REAL-WORLD APIS;** Yujia Qin et al
 - **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models;** Cheng-Yu Hsieh et al
 - **ExpeL: LLM Agents Are Experiential Learners;** Andrew Zhao et al
+- **Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum;** Shen Gao et al
 
 
 **With Visual Tools**
