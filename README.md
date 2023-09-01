@@ -588,6 +588,9 @@
 - **Tiny LVLM-eHub: Early Multimodal Experiments with Bard;** Wenqi Shao et al
 - **MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities;** Weihao Yu et al
 - **VisIT-Bench: A Benchmark for Vision-Language Instruction Following Inspired by Real-World Use;** Yonatan Bitton et al
+- **TouchStone: Evaluating Vision-Language Models by Language Models;** Shuai Bai et al
+
+
 
 
 ### Others
