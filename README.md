@@ -446,6 +446,7 @@
 
 
 ## Critic Modeling
+- **Self-critiquing models for assisting human evaluators;** William Saunders et al
 - **Learning Evaluation Models from Large Language Models for Sequence Generation;** Chenglong Wang et al
 - **RETROFORMER: RETROSPECTIVE LARGE LANGUAGE AGENTS WITH POLICY GRADIENT OPTIMIZATION;** Weiran Yao et al
 - **Shepherd: A Critic for Language Model Generation;** Tianlu Wang et al
