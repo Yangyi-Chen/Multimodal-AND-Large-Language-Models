@@ -609,6 +609,7 @@
 - **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs;** Yang Zhao et al
 - **VIT-LENS: Towards Omni-modal Representations;** Weixian Lei et al
 - **LLASM: LARGE LANGUAGE AND SPEECH MODEL;** Yu Shu et al
+- **Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following;** Ziyu Guo et al
 
 
 
