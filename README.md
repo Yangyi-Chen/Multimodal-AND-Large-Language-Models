@@ -873,6 +873,7 @@
 - **Okapi: Instruction-tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback;** Viet Dac Lai et al
 - **Reinforced Self-Training (ReST) for Language Modeling;** Caglar Gulcehre et al
 - **EVERYONE DESERVES A REWARD: LEARNING CUSTOMIZED HUMAN PREFERENCES;** Pengyu Cheng et al
+- **RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback;** Harrison Lee et al
 
 
   
