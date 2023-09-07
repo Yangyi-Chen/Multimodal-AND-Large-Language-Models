@@ -871,6 +871,7 @@
 - **RLCD: REINFORCEMENT LEARNING FROM CONTRAST DISTILLATION FOR LANGUAGE MODEL ALIGNMENT;** Kevin Yang et al
 - **Okapi: Instruction-tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback;** Viet Dac Lai et al
 - **Reinforced Self-Training (ReST) for Language Modeling;** Caglar Gulcehre et al
+- **EVERYONE DESERVES A REWARD: LEARNING CUSTOMIZED HUMAN PREFERENCES;** Pengyu Cheng et al
 
 
   
