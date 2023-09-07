@@ -698,6 +698,7 @@
 - **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models;** Cheng-Yu Hsieh et al
 - **ExpeL: LLM Agents Are Experiential Learners;** Andrew Zhao et al
 - **Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum;** Shen Gao et al
+- **Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning;** Shaohui Peng et al
 
 
 **With Visual Tools**
