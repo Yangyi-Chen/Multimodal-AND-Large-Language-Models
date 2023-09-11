@@ -384,6 +384,7 @@
 - **Can Language Models Learn to Listen?;** Evonne Ng et al
 - **PROMPT2MODEL: Generating Deployable Models from Natural Language Instructions;** Vijay Viswanathan et al
 - **AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models;** Zhaopeng Gu et al
+- **LARGE LANGUAGE MODELS AS OPTIMIZERS;** Chengrun Yang et al
 
 
 **LLM as Agents**
