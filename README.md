@@ -1200,6 +1200,7 @@
 - **Evaluating Object Hallucination in Large Vision-Language Models;** Yifan Li et al
 - **Do Language Models Know When They’re Hallucinating References?;** Ayush Agrawal et al
 - **Detecting and Preventing Hallucinations in Large Vision Language Models;** Anisha Gunjal et al
+- **DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS;** Yung-Sung Chuang et al
 
 
 
