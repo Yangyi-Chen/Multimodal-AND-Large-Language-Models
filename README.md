@@ -928,6 +928,7 @@
 - **Scaling Vision Transformers to 22 Billion Parameters;** Mostafa Dehghani et al
 - **CLIPPO: Image-and-Language Understanding from Pixels Only;** Michael Tschannen et al
 - **Segment Anything;** Alexander Kirillov et al
+- **InstructDiffusion: A Generalist Modeling Interface for Vision Tasks;** Zigang Geng et al
 
 
 
