@@ -442,6 +442,7 @@
 - **Secrets of RLHF in Large Language Models Part I: PPO;** Rui Zheng et al
 - **EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education;** Yuhao Dan et al
 - **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct;** Haipeng Luo et al
+- **Textbooks Are All You Need II: phi-1.5 technical report;** Yuanzhi Li et al
 
 ## Interaction
 - **LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles;** Shulin Huang et al
