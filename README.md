@@ -262,6 +262,7 @@
 - **Studying Large Language Model Generalization with Influence Functions;** Roger Grosse et al
 - **Taken out of context: On measuring situational awareness in LLMs;** Lukas Berglund et al
 - **OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs;** Patrick Haller et al
+- **Neurons in Large Language Models: Dead, N-gram, Positional;** Elena Voita et al
 
 
 
