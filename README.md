@@ -89,6 +89,7 @@
 - **From Instructions to Intrinsic Human Values —— A Survey of Alignment Goals for Big Models;** Jing Yao et al
 - **A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation;** Xiaowei Huang et al
 - **Explainability for Large Language Models: A Survey;** Haiyan Zhao et al
+- **Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models;** Yue Zhang et al
 
 
 
