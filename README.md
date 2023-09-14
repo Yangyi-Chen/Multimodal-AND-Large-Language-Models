@@ -389,6 +389,7 @@
 - **PROMPT2MODEL: Generating Deployable Models from Natural Language Instructions;** Vijay Viswanathan et al
 - **AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models;** Zhaopeng Gu et al
 - **LARGE LANGUAGE MODELS AS OPTIMIZERS;** Chengrun Yang et al
+- **Large Language Model for Science: A Study on P vs. NP;** Qingxiu Dong et al
 
 
 **LLM as Agents**
