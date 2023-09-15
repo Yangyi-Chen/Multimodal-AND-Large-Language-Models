@@ -277,6 +277,7 @@
 - **Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment;** Rishabh Bhardwaj et al
 - **Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs;** Yuxia Wang et al
 - **SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions;** Zhexin Zhang et al
+- **Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions;** Federico Bianchi et al
 
 
 
