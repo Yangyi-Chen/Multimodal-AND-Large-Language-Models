@@ -591,6 +591,7 @@
 - **InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4;** Lai Wei et al
 - **StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data;** Yanda Li et al
 - **Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages;** Jinyi Hu et al
+- **MMICL: EMPOWERING VISION-LANGUAGE MODEL WITH MULTI-MODAL IN-CONTEXT LEARNING;** Haozhe Zhao et al
 
 
 
