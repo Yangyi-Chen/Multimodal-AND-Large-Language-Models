@@ -548,6 +548,7 @@
 - **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video;** Haiyang Xu et al
 - **KOSMOS-2: Grounding Multimodal Large Language Models to the World;** Zhiliang Peng et al
 - **PaLI-X: On Scaling up a Multilingual Vision and Language Model;** Xi Chen et al
+- **UNIFIED LANGUAGE-VISION PRETRAINING WITH DYNAMIC DISCRETE VISUAL TOKENIZATION;** Yang Jin et al
 
 
 
