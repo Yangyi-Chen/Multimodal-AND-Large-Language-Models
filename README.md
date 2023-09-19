@@ -100,6 +100,7 @@
 - **Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models;** Lingxi Xie et al
 - **A Path Towards Autonomous Machine Intelligence;** Yann LeCun et al
 - **GPT-4 Can’t Reason;** Konstantine Arkoudas et al
+- **Cognitive Architectures for Language Agents;** Theodore Sumers et al
 
 
 
