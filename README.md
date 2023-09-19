@@ -396,6 +396,7 @@
 - **Large Language Model for Science: A Study on P vs. NP;** Qingxiu Dong et al
 - **Physically Grounded Vision-Language Models for Robotic Manipulation;** Jensen Gao et al
 - **Compositional Foundation Models for Hierarchical Planning;** Anurag Ajay et al
+- **STRUC-BENCH: Are Large Language Models Really Good at Generating Complex Structured Data?;** Xiangru Tang et al
 
 
 **LLM as Agents**
