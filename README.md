@@ -295,6 +295,7 @@
 - **FLASK: FINE-GRAINED LANGUAGE MODEL EVALUATION BASED ON ALIGNMENT SKILL SETS;** Seonghyeon Ye et al
 - **AgentBench: Evaluating LLMs as Agents;** Xiao Liu et al
 - **Efficient Benchmarking (of Language Models);** Yotam Perlitz et al
+- **Can Large Language Models Understand Real-World Complex Instructions?;** Qianyu He et al
 
 
 
