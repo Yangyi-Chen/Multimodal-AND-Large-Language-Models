@@ -394,6 +394,7 @@
 - **LARGE LANGUAGE MODELS AS OPTIMIZERS;** Chengrun Yang et al
 - **Large Language Model for Science: A Study on P vs. NP;** Qingxiu Dong et al
 - **Physically Grounded Vision-Language Models for Robotic Manipulation;** Jensen Gao et al
+- **Compositional Foundation Models for Hierarchical Planning;** Anurag Ajay et al
 
 
 **LLM as Agents**
