@@ -16,6 +16,7 @@
 - [LLM with Memory](#llm-with-memory)
 - [LLM with Human](#llm-with-human)
 - [LLM Foundation](#llm-foundation)
+- [Agent](#agent)
 - [Interaction](#interaction)
 - [Critic Modeling](#critic-modeling)
 - [MoE](#moe)
@@ -456,6 +457,12 @@
 - **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct;** Haipeng Luo et al
 - **Textbooks Are All You Need II: phi-1.5 technical report;** Yuanzhi Li et al
 - **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
+
+
+
+## Agent
+- **Guide Your Agent with Adaptive Multimodal Rewards;** Changyeon Kim et al
+
 
 ## Interaction
 - **LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles;** Shulin Huang et al
