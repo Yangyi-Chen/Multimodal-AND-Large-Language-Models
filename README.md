@@ -613,6 +613,7 @@
 - **MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities;** Weihao Yu et al
 - **VisIT-Bench: A Benchmark for Vision-Language Instruction Following Inspired by Real-World Use;** Yonatan Bitton et al
 - **TouchStone: Evaluating Vision-Language Models by Language Models;** Shuai Bai et al
+- **Investigating the Catastrophic Forgetting in Multimodal Large Language Models;** Yuexiang Zhai et al
 
 
 
