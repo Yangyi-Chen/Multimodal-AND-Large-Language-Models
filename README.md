@@ -399,6 +399,9 @@
 - **Physically Grounded Vision-Language Models for Robotic Manipulation;** Jensen Gao et al
 - **Compositional Foundation Models for Hierarchical Planning;** Anurag Ajay et al
 - **STRUC-BENCH: Are Large Language Models Really Good at Generating Complex Structured Data?;** Xiangru Tang et al
+- **XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updates;** Haopeng Zhang et al
+
+
 
 
 **LLM as Agents**
