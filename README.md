@@ -267,6 +267,7 @@
 - **OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs;** Patrick Haller et al
 - **Neurons in Large Language Models: Dead, N-gram, Positional;** Elena Voita et al
 - **Are Emergent Abilities in Large Language Models just In-Context Learning?;** Sheng Lu et al
+- **The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A”;** Lukas Berglund et al
 
 
 
