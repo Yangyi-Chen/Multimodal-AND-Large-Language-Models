@@ -967,6 +967,8 @@
 - **CLIPPO: Image-and-Language Understanding from Pixels Only;** Michael Tschannen et al
 - **Segment Anything;** Alexander Kirillov et al
 - **InstructDiffusion: A Generalist Modeling Interface for Vision Tasks;** Zigang Geng et al
+- **RMT: Retentive Networks Meet Vision Transformers;** Qihang Fan et al
+
 
 
 
