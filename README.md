@@ -485,6 +485,7 @@
 - **ZYN: Zero-Shot Reward Models with Yes-No Questions;** Victor Gallego et al
 - **LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked;** Alec Helbling et al
 - **RAIN: Your Language Models Can Align Themselves Yuhui Liwithout Finetuning;** Yuhui Li et al
+- **SYNDICOM: Improving Conversational Commonsense with Error-Injection and Natural Language Feedback;** Christopher Richardson et al
 
 
 
