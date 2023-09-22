@@ -462,6 +462,7 @@
 - **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct;** Haipeng Luo et al
 - **Textbooks Are All You Need II: phi-1.5 technical report;** Yuanzhi Li et al
 - **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
+- **SlimPajama-DC: Understanding Data Combinations for LLM Training;** Zhiqiang Shen et al
 
 
 
