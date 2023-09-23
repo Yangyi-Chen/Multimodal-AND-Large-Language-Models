@@ -763,6 +763,7 @@
 - **AVIS: Autonomous Visual Information Seeking with Large Language Models;** Ziniu Hu et al
 - **AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn;** Difei Gao et al
 - **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction;** Rui Yang et al
+- **LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent;** Jianing Yang et al
 
 
 
