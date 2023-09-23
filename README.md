@@ -465,6 +465,9 @@
 - **Textbooks Are All You Need II: phi-1.5 technical report;** Yuanzhi Li et al
 - **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
 - **SlimPajama-DC: Understanding Data Combinations for LLM Training;** Zhiqiang Shen et al
+- **LMSYS-CHAT-1M: A LARGE-SCALE REAL-WORLD LLM CONVERSATION DATASET;** Lianmin Zheng et al
+
+
 
 
 
