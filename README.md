@@ -682,6 +682,7 @@
 - **Cream: Visually-Situated Natural Language Understanding with Contrastive Reading Model and Frozen Large Language Models;** Geewook Kim et al
 - **LayoutMask: Enhance Text-Layout Interaction in Multi-modal Pre-training for Document Understanding;** Yi Tu et al
 - **mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding;** Jiabo Ye et al
+- **KOSMOS-2.5: A Multimodal Literate Model;** Tengchao Lv et al
 
 
 **Dataset**
