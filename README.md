@@ -1318,3 +1318,4 @@
 - **Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models’ Reasoning Performance;** Yao Fu et al
 - **LLM Powered Autonomous Agents;** Lilian Weng
 - **Retrieval-based Language Models and Applications;** Tutorial; https://github.com/ACL2023-Retrieval-LM/ACL2023-Retrieval-LM.github.io
+- **Recent Advances in Vision Foundation Models;** Tutorial; https://vlp-tutorial.github.io/
