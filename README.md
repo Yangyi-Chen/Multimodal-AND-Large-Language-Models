@@ -299,6 +299,7 @@
 - **AgentBench: Evaluating LLMs as Agents;** Xiao Liu et al
 - **Efficient Benchmarking (of Language Models);** Yotam Perlitz et al
 - **Can Large Language Models Understand Real-World Complex Instructions?;** Qianyu He et al
+- **NLPBENCH: EVALUATING LARGE LANGUAGE MODELS ON SOLVING NLP PROBLEMS;** Linxin Song et al
 
 
 
