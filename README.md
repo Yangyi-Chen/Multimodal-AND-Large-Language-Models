@@ -927,6 +927,7 @@
 - **RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback;** Harrison Lee et al
 - **STABILIZING RLHF THROUGH ADVANTAGE MODEL AND SELECTIVE REHEARSAL;** Baolin Peng et al
 - **OPENCHAT: ADVANCING OPEN-SOURCE LANGUAGE MODELS WITH MIXED-QUALITY DATA;** Guan Wang et al
+- **HUMAN FEEDBACK IS NOT GOLD STANDARD;** Tom Hosking et al
 
   
 
