@@ -406,6 +406,7 @@
 - **Compositional Foundation Models for Hierarchical Planning;** Anurag Ajay et al
 - **STRUC-BENCH: Are Large Language Models Really Good at Generating Complex Structured Data?;** Xiangru Tang et al
 - **XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updates;** Haopeng Zhang et al
+- **MotionLM: Multi-Agent Motion Forecasting as Language Modeling;** Ari Seff et al
 
 
 
