@@ -300,6 +300,7 @@
 - **Efficient Benchmarking (of Language Models);** Yotam Perlitz et al
 - **Can Large Language Models Understand Real-World Complex Instructions?;** Qianyu He et al
 - **NLPBENCH: EVALUATING LARGE LANGUAGE MODELS ON SOLVING NLP PROBLEMS;** Linxin Song et al
+- **CALIBRATING LLM-BASED EVALUATOR;** Yuxuan Liu et al
 
 
 
