@@ -744,6 +744,8 @@
 - **ExpeL: LLM Agents Are Experiential Learners;** Andrew Zhao et al
 - **Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum;** Shen Gao et al
 - **Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning;** Shaohui Peng et al
+- **Identifying the Risks of LM Agents with an LM-Emulated Sandbox;** Yangjun Ruan et al
+
 
 
 **With Visual Tools**
