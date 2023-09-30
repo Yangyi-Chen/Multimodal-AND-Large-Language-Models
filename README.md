@@ -688,6 +688,7 @@
 - **LayoutMask: Enhance Text-Layout Interaction in Multi-modal Pre-training for Document Understanding;** Yi Tu et al
 - **mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding;** Jiabo Ye et al
 - **KOSMOS-2.5: A Multimodal Literate Model;** Tengchao Lv et al
+- **STRUCTCHART: PERCEPTION, STRUCTURING, REASONING FOR VISUAL CHART UNDERSTANDING;** Renqiu Xia et al
 
 
 **Dataset**
