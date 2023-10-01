@@ -623,6 +623,7 @@
 - **An Empirical Study of Scaling Instruction-Tuned Large Multimodal Models;** Yadong Lu et al
 - **ALIGNING LARGE MULTIMODAL MODELS WITH FACTUALLY AUGMENTED RLHF;** Zhiqing Sun et al
 - **AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model;** Seungwhan Moon et al
+- **InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition;** Pan Zhang et al
 
 
 
