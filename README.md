@@ -622,6 +622,7 @@
 - **MMICL: EMPOWERING VISION-LANGUAGE MODEL WITH MULTI-MODAL IN-CONTEXT LEARNING;** Haozhe Zhao et al
 - **An Empirical Study of Scaling Instruction-Tuned Large Multimodal Models;** Yadong Lu et al
 - **ALIGNING LARGE MULTIMODAL MODELS WITH FACTUALLY AUGMENTED RLHF;** Zhiqing Sun et al
+- **AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model;** Seungwhan Moon et al
 
 
 
