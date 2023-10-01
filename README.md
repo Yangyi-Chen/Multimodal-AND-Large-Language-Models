@@ -413,10 +413,8 @@
 
 
 
-**LLM as Agents**
-- **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
-- **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents;** Weize Chen et al
-- **METAGPT: META PROGRAMMING FOR MULTI-AGENT COLLABORATIVE FRAMEWORK;** Sirui Hong et al
+
+
     
 
 ## LLM with Memory
@@ -478,6 +476,11 @@
 
 ## Agent
 - **Guide Your Agent with Adaptive Multimodal Rewards;** Changyeon Kim et al
+- **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
+- **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents;** Weize Chen et al
+- **METAGPT: META PROGRAMMING FOR MULTI-AGENT COLLABORATIVE FRAMEWORK;** Sirui Hong et al
+- **YOU ONLY LOOK AT SCREENS: MULTIMODAL CHAIN-OF-ACTION AGENTS;** Zhuosheng Zhang et al
+
 
 
 ## Interaction
