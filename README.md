@@ -823,7 +823,7 @@
 - **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources;** Yizhong Wang et al
 - **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models;** Yew Ken Chia et al
 - **MIMIC-IT: Multi-Modal In-Context Instruction Tuning;** Bo Li et al
-- **Aligning Large Multi-Modal Model with Robust Instruction Tuning;** Fuxiao Liu et al
+- **Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning;** Fuxiao Liu et al
 - **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning;** Lei Li et al
 - **InstructEval: Systematic Evaluation of Instruction Selection Methods;** Anirudh Ajith et al
 - **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark;** Zhenfei Yin et al
