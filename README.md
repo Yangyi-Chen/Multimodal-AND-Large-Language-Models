@@ -48,7 +48,7 @@
 - [Benchmark & Evaluation](#benchmark-&-evaluation)
 - [Dataset](#dataset)
 - [Robustness](#robustness)
-- [Hallucination](#hallucination)
+- [Hallucination&Factuality](#hallucination&factuality)
 - [Cognitive NeuronScience & Machine Learning](#cognitive-neuronscience-&-machine-learning)
 - [Theory of Mind](#theory-of-mind)
 - [Cognitive NeuronScience](#cognitive-neuronscience)
@@ -1261,7 +1261,7 @@
 - **Multimodal Prompting with Missing Modalities for Visual Recognition;** Yi-Lun Lee et al
 
 
-## Hallucination
+## Hallucination&Factuality
 - **Object Hallucination in Image Captioning;** Anna Rohrbach et al
 - **Learning to Generate Grounded Visual Captions without Localization Supervision;** Chih-Yao Ma et al
 - **On Hallucination and Predictive Uncertainty in Conditional Language Generation;** Yijun Xiao et al
@@ -1275,7 +1275,7 @@
 - **Do Language Models Know When They’re Hallucinating References?;** Ayush Agrawal et al
 - **Detecting and Preventing Hallucinations in Large Vision Language Models;** Anisha Gunjal et al
 - **DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS;** Yung-Sung Chuang et al
-
+- **FELM: Benchmarking Factuality Evaluation of Large Language Models;** Shiqi Chen et al
 
 
 
