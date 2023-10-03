@@ -683,6 +683,7 @@
 - **ReCo: Region-Controlled Text-to-Image Generation;** Zhengyuan Yang et al
 - **UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild;** Can Qin et al
 - **Going Beyond Nouns With Vision & Language Models Using Synthetic Data;** Paola Cascante-Bonilla et al
+- **GUIDING INSTRUCTION-BASED IMAGE EDITING VIA MULTIMODAL LARGE LANGUAGE MODELS;** Tsu-Jui Fu et al
 
 
 
