@@ -324,15 +324,11 @@
 - **Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples;** Abulhair Saparov et al
 - **Reasoning with Language Model is Planning with World Model;** Shibo Hao et al
 - **Interpretable Math Word Problem Solution Generation Via Step-by-step Planning;** Mengxue Zhang et al
-- **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate;** Tian Liang et al
 - **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters;** Boshi Wang et al
 - **Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models;** Soochan Lee et al
-- **Large Language Model Is Semi-Parametric Reinforcement Learning Agent;** Danyang Zhang et al
 - **Large Language Models Are Reasoning Teachers;** Namgyu Ho et al
 - **Meta-Reasoning: Semantics-Symbol Deconstruction For Large Language Models;** Yiming Wang et al
-- **SWIFTSAGE: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks;** Bill Yuchen Lin et al
 - **BeamSearchQA: Large Language Models are Strong Zero-Shot QA Solver;** Hao Sun et al
-- **Improving Factuality and Reasoning in Language Models through Multiagent Debate;** Yilun Du et al
 - **AdaPlanner: Adaptive Planning from Feedback with Language Models;** Haotian Sun et al
 - **ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models;** Binfeng Xu et al
 - **SKILLS-IN-CONTEXT PROMPTING: UNLOCKING COMPOSITIONALITY IN LARGE LANGUAGE MODELS;** Jiaao Chen et al
@@ -367,12 +363,9 @@
 
 
 ## LLM Application
-- **The Role of Summarization in Generative Agents: A Preliminary Perspective;** Xiachong Feng et al
-- **CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society;** Guohao Li et al
 - **ArK: Augmented Reality with Knowledge Interactive Emergent Ability;** Qiuyuan Huang et al
 - **Can Large Language Models Be an Alternative to Human Evaluation?;** Cheng-Han Chiang et al
 - **Few-shot In-context Learning for Knowledge Base Question Answering;** Tianle Li et al
-- **Plan, Eliminate, and Track-Language Models are Good Teachers for Embodied Agents;** Yue Wu et al
 - **AutoML-GPT: Automatic Machine Learning with GPT;** Shujian Zhang et al
 - **Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs;** Jinyang Li et al
 - **Language models can explain neurons in language models;** Steven Bills et al
@@ -391,16 +384,12 @@
 - **LARGE LANGUAGE MODELS ARE EFFECTIVE TEXT RANKERS WITH PAIRWISE RANKING PROMPTING;** Zhen Qin et al
 - **Language to Rewards for Robotic Skill Synthesis;** Wenhao Yu et al
 - **Visual Programming for Text-to-Image Generation and Evaluation;** Jaemin Cho et al
-- **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents;** Zihao Wang et al
-- **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory;** Xizhou Zhu et al
 - **Mindstorms in Natural Language-Based Societies of Mind;** Mingchen Zhuge et al
 - **Responsible Task Automation: Empowering Large Language Models as Responsible Task Automators;** Zhizheng Zhang et al
 - **Large Language Models as General Pattern Machines;** Suvir Mirchandani et al
 - **A Stitch in Time Saves Nine: Detecting and Mitigating Hallucinations of LLMs by Validating Low-Confidence Generation;** Neeraj Varshney et al
-- **TOWARDS A UNIFIED AGENT WITH FOUNDATION MODELS;** Norman Di Palo et al
 - **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models;** Wenlong Huang et al
 - **External Reasoning: Towards Multi-Large-Language-Models Interchangeable Assistance with Human Feedback;** Akide Liu et al
-- **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis;** Izzeddin Gur et al
 - **OCTOPACK: INSTRUCTION TUNING CODE LARGE LANGUAGE MODELS;** Niklas Muennighoff et al
 - **Tackling Vision Language Tasks Through Learning Inner Monologues;** Diji Yang et al
 - **Can Language Models Learn to Listen?;** Evonne Ng et al
@@ -412,7 +401,6 @@
 - **Compositional Foundation Models for Hierarchical Planning;** Anurag Ajay et al
 - **STRUC-BENCH: Are Large Language Models Really Good at Generating Complex Structured Data?;** Xiangru Tang et al
 - **XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updates;** Haopeng Zhang et al
-- **MotionLM: Multi-Agent Motion Forecasting as Language Modeling;** Ari Seff et al
 - **TE X T2RE W A R D: AUTOMATED DENSE REWARD FUNCTION GENERATION FOR REINFORCEMENT LEARNING;** Tianbao Xie et al
 
 
@@ -428,7 +416,6 @@
 - **Memory and Knowledge Augmented Language Models for Inferring Salience in Long-Form Stories;** David Wilmot et al
 - **MemPrompt: Memory-assisted Prompt Editing with User Feedback;** Aman Madaan et al
 - **LANGUAGE MODEL WITH PLUG-IN KNOWLEDGE MEMORY;** Xin Cheng et al
-- **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
 - **Assessing Working Memory Capacity of ChatGPT;** Dongyu Gong et al
 - **Prompted LLMs as Chatbot Modules for Long Open-domain Conversation;** Gibbeum Lee et al
 - **Beyond Goldfish Memory: Long-Term Open-Domain Conversation;** Jing Xu et al
@@ -480,11 +467,25 @@
 
 
 ## Agent
+- **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
+- **Improving Factuality and Reasoning in Language Models through Multiagent Debate;** Yilun Du et al
+- **SWIFTSAGE: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks;** Bill Yuchen Lin et al
+- **Large Language Model Is Semi-Parametric Reinforcement Learning Agent;** Danyang Zhang et al
+- **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate;** Tian Liang et al
+- **The Role of Summarization in Generative Agents: A Preliminary Perspective;** Xiachong Feng et al
+- **CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society;** Guohao Li et al
+- **Plan, Eliminate, and Track-Language Models are Good Teachers for Embodied Agents;** Yue Wu et al
+- **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents;** Zihao Wang et al
+- **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory;** Xizhou Zhu et al
+- **TOWARDS A UNIFIED AGENT WITH FOUNDATION MODELS;** Norman Di Palo et al
+- **MotionLM: Multi-Agent Motion Forecasting as Language Modeling;** Ari Seff et al
+- **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis;** Izzeddin Gur et al
 - **Guide Your Agent with Adaptive Multimodal Rewards;** Changyeon Kim et al
 - **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
 - **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents;** Weize Chen et al
 - **METAGPT: META PROGRAMMING FOR MULTI-AGENT COLLABORATIVE FRAMEWORK;** Sirui Hong et al
 - **YOU ONLY LOOK AT SCREENS: MULTIMODAL CHAIN-OF-ACTION AGENTS;** Zhuosheng Zhang et al
+- **SELF: LANGUAGE-DRIVEN SELF-EVOLUTION FOR LARGE LANGUAGE MODEL;** Jianqiao Lu et al
 
 
 
