@@ -273,6 +273,7 @@
 - **Are Emergent Abilities in Large Language Models just In-Context Learning?;** Sheng Lu et al
 - **The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A”;** Lukas Berglund et al
 - **Language Modeling Is Compression;** Grégoire Delétang et al
+- **FROM LANGUAGE MODELING TO INSTRUCTION FOLLOWING: UNDERSTANDING THE BEHAVIOR SHIFT IN LLMS AFTER INSTRUCTION TUNING;** Xuansheng Wu et al
 
 
 
