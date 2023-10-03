@@ -23,7 +23,7 @@
 - [Agent](#agent)
 - [Interaction](#interaction)
 - [Critic Modeling](#critic-modeling)
-- [MoE](#moe)
+- [MoE/Specialized](#moe/specialized)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
 - [Image Generation](#image-generation)
@@ -510,13 +510,14 @@
 
 
 
-## MoE
+## MoE/Specialized
 - **OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER;** Noam Shazeer et al
 - **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity;** William Fedus et al
 - **DEMIX Layers: Disentangling Domains for Modular Language Modeling;** Suchin Gururangan et al
 - **ModuleFormer: Learning Modular Large Language Models From Uncurated Data;** Yikang Shen et al
 - **Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models;** Sheng Shen et al
 - **From Sparse to Soft Mixtures of Experts;** Joan Puigcerver et al
+- **SELF-SPECIALIZATION: UNCOVERING LATENT EXPERTISE WITHIN LARGE LANGUAGE MODELS;** Junmo Kang et al
 
 
 
