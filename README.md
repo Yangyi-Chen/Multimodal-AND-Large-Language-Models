@@ -1,5 +1,5 @@
 # Large (Multimodal) Language Models
-**Note:** This paper list is only used to record papers I read in the daily arxiv. If you find I missed some important and exciting work, it would be super helpful to let me know. Thanks!  
+**Note:** This paper list is only used to record papers I read in the daily arxiv for personal needs. If you find I missed some important and exciting work, it would be super helpful to let me know. Thanks!  
 
 
 
