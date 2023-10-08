@@ -1014,7 +1014,7 @@
 - **Segment Anything;** Alexander Kirillov et al
 - **InstructDiffusion: A Generalist Modeling Interface for Vision Tasks;** Zigang Geng et al
 - **RMT: Retentive Networks Meet Vision Transformers;** Qihang Fan et al
-
+- **INSTRUCTCV: INSTRUCTION-TUNED TEXT-TO-IMAGE DIFFUSION MODELS AS VISION GENERALISTS;** Yulu Gan et al
 
 
 
