@@ -660,6 +660,7 @@
 - **TouchStone: Evaluating Vision-Language Models by Language Models;** Shuai Bai et al
 - **Investigating the Catastrophic Forgetting in Multimodal Large Language Models;** Yuexiang Zhai et al
 - **DEMYSTIFYING CLIP DATA;** Hu Xu et al
+- **REFORM-EVAL: EVALUATING LARGE VISION LANGUAGE MODELS VIA UNIFIED RE-FORMULATION OF TASK-ORIENTED BENCHMARKS;** Zejun Li1 et al
 
 
 
