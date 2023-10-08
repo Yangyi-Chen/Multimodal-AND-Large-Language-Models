@@ -311,6 +311,7 @@
 - **CALIBRATING LLM-BASED EVALUATOR;** Yuxuan Liu et al
 - **GPT-FATHOM: BENCHMARKING LARGE LANGUAGE MODELS TO DECIPHER THE EVOLUTIONARY PATH TOWARDS GPT-4 AND BEYOND;** Shen Zheng et al
 - **L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models;** Ansong Ni et al
+- **Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations;** Lifan Yuan et al
 
 
 
@@ -498,6 +499,7 @@
 
 ## Interaction
 - **LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles;** Shulin Huang et al
+- **MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback;** Xingyao Wang et al
 
 
 
@@ -660,6 +662,7 @@
 - **TouchStone: Evaluating Vision-Language Models by Language Models;** Shuai Bai et al
 - **Investigating the Catastrophic Forgetting in Multimodal Large Language Models;** Yuexiang Zhai et al
 - **DEMYSTIFYING CLIP DATA;** Hu Xu et al
+- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models;** Yangyi Chen et al
 - **REFORM-EVAL: EVALUATING LARGE VISION LANGUAGE MODELS VIA UNIFIED RE-FORMULATION OF TASK-ORIENTED BENCHMARKS;** Zejun Li1 et al
 
 
@@ -775,6 +778,9 @@
 - **Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning;** Shaohui Peng et al
 - **Identifying the Risks of LM Agents with an LM-Emulated Sandbox;** Yangjun Ruan et al
 - **TORA: A TOOL-INTEGRATED REASONING AGENT FOR MATHEMATICAL PROBLEM SOLVING;** Zhibin Gou et al
+- **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets;** Lifan Yuan et al
+
+
 
 
 **With Visual Tools**
