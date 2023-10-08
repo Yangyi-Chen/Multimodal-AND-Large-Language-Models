@@ -1317,6 +1317,7 @@
 - **COMPUTATIONAL LANGUAGE ACQUISITION WITH THEORY OF MIND;** Andy Liu et al
 - **Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind;** Ece Takmaz et al
 - **Understanding Social Reasoning in Language Models with Language Models;** Kanishk Gandhi et al
+- **HOW FAR ARE LARGE LANGUAGE MODELS FROM AGENTS WITH THEORY-OF-MIND?;** Pei Zhou et al
 
 
 
