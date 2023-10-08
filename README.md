@@ -848,6 +848,7 @@
 - **Exploring Format Consistency for Instruction Tuning;** Shihao Liang et al
 - **Self-Alignment with Instruction Backtranslation;** Xian Li et al
 - **#INSTAG: INSTRUCTION TAGGING FOR DIVERSITY AND COMPLEXITY ANALYSIS;** Keming Lu et al
+- **CITING: LARGE LANGUAGE MODELS CREATE CURRICULUM FOR INSTRUCTION TUNING;** Tao Feng et al
 
   
 
