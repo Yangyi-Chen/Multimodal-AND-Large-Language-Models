@@ -784,6 +784,7 @@
 - **Identifying the Risks of LM Agents with an LM-Emulated Sandbox;** Yangjun Ruan et al
 - **TORA: A TOOL-INTEGRATED REASONING AGENT FOR MATHEMATICAL PROBLEM SOLVING;** Zhibin Gou et al
 - **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets;** Lifan Yuan et al
+- **METATOOL BENCHMARK: DECIDING WHETHER TO USE TOOLS AND WHICH TO USE;** Yue Huang et al
 
 
 
