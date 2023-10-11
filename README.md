@@ -976,7 +976,6 @@
 - **CHAT VECTOR: A SIMPLE APPROACH TO EQUIP LLMS WITH NEW LANGUAGE CHAT CAPABILITIES;** Shih-Cheng Huang et al
 - **SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF;** Yi Dong et al
 
-  
 
 ## Video Foundation Model
 - **VideoBERT: A Joint Model for Video and Language Representation Learning;** Chen Sun et al
