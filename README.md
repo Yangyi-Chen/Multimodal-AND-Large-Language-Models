@@ -472,6 +472,7 @@
 - **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
 - **SlimPajama-DC: Understanding Data Combinations for LLM Training;** Zhiqiang Shen et al
 - **LMSYS-CHAT-1M: A LARGE-SCALE REAL-WORLD LLM CONVERSATION DATASET;** Lianmin Zheng et al
+- **Mistral 7B;** Albert Q. Jiang et al
 
 
 
