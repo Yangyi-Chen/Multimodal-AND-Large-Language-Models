@@ -682,7 +682,7 @@
 - **DEMYSTIFYING CLIP DATA;** Hu Xu et al
 - **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models;** Yangyi Chen et al
 - **REFORM-EVAL: EVALUATING LARGE VISION LANGUAGE MODELS VIA UNIFIED RE-FORMULATION OF TASK-ORIENTED BENCHMARKS;** Zejun Li1 et al
-
+- **REVO-LION: EVALUATING AND REFINING VISIONLANGUAGE INSTRUCTION TUNING DATASETS;** Ning Liao et al
 
 
 
