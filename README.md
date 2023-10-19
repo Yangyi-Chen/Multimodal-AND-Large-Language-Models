@@ -723,6 +723,7 @@
 - **Going Beyond Nouns With Vision & Language Models Using Synthetic Data;** Paola Cascante-Bonilla et al
 - **GUIDING INSTRUCTION-BASED IMAGE EDITING VIA MULTIMODAL LARGE LANGUAGE MODELS;** Tsu-Jui Fu et al
 - **KOSMOS-G: Generating Images in Context with Multimodal Large Language Models;** Xichen Pan et al
+- **DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning;** Abhay Zala et al
 
 
 
