@@ -506,6 +506,7 @@
 - **Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond;** Liang Chen et al
 - **EVALUATING MULTI-AGENT COORDINATION ABILITIES IN LARGE LANGUAGE MODELS;** Saaket Agashe et al
 - **A Zero-Shot Language Agent for Computer Control with Structured Reflection;** Tao Li et al
+- **Character-LLM: A Trainable Agent for Role-Playing;** Yunfan Shao et al
 
 **VL Navigation**
 - **LANGNAV: LANGUAGE AS A PERCEPTUAL REPRESENTATION FOR NAVIGATION;** Bowen Pan et al
