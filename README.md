@@ -807,6 +807,7 @@
 - **TORA: A TOOL-INTEGRATED REASONING AGENT FOR MATHEMATICAL PROBLEM SOLVING;** Zhibin Gou et al
 - **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets;** Lifan Yuan et al
 - **METATOOL BENCHMARK: DECIDING WHETHER TO USE TOOLS AND WHICH TO USE;** Yue Huang et al
+- **A Comprehensive Evaluation of Tool-Assisted Generation Strategies;** Alon Jacovi et al
 
 
 
