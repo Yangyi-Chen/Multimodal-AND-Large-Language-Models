@@ -523,6 +523,7 @@
 
 
 
+
 ## Critic Modeling
 - **Self-critiquing models for assisting human evaluators;** William Saunders et al
 - **Learning Evaluation Models from Large Language Models for Sequence Generation;** Chenglong Wang et al
@@ -533,7 +534,7 @@
 - **LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked;** Alec Helbling et al
 - **RAIN: Your Language Models Can Align Themselves Yuhui Liwithout Finetuning;** Yuhui Li et al
 - **SYNDICOM: Improving Conversational Commonsense with Error-Injection and Natural Language Feedback;** Christopher Richardson et al
-
+- **LET’S REWARD STEP BY STEP: STEP-LEVEL REWARD MODEL AS THE NAVIGATORS FOR REASONING;** Qianli Ma et al
 
 
 
