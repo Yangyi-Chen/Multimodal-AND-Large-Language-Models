@@ -996,6 +996,7 @@
 - **CHAT VECTOR: A SIMPLE APPROACH TO EQUIP LLMS WITH NEW LANGUAGE CHAT CAPABILITIES;** Shih-Cheng Huang et al
 - **SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF;** Yi Dong et al
 - **UNDERSTANDING THE EFFECTS OF RLHF ON LLM GENERALISATION AND DIVERSITY;** Robert Kirk et al
+- **GAINING WISDOM FROM SETBACKS: ALIGNING LARGE LANGUAGE MODELS VIA MISTAKE ANALYSIS;** Kai Chen et al
 
 
 ## Video Foundation Model
