@@ -536,6 +536,7 @@
 - **RAIN: Your Language Models Can Align Themselves Yuhui Liwithout Finetuning;** Yuhui Li et al
 - **SYNDICOM: Improving Conversational Commonsense with Error-Injection and Natural Language Feedback;** Christopher Richardson et al
 - **LET’S REWARD STEP BY STEP: STEP-LEVEL REWARD MODEL AS THE NAVIGATORS FOR REASONING;** Qianli Ma et al
+- **MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models;** Deepak Nathani et al
 
 
 
