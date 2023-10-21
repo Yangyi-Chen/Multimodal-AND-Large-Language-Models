@@ -757,6 +757,7 @@
 ***Table***
 - **Visual Understanding of Complex Table Structures from Document Images;** Sachin Raja et al
 - **Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling;** Yongshuai Huang et al
+- **Table-GPT: Table-tuned GPT for Diverse Table Tasks;** Peng Li et al
 
 
 
