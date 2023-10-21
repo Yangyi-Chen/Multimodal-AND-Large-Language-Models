@@ -509,6 +509,9 @@
 - **A Zero-Shot Language Agent for Computer Control with Structured Reflection;** Tao Li et al
 - **Character-LLM: A Trainable Agent for Role-Playing;** Yunfan Shao et al
 
+
+
+
 **VL Navigation**
 - **LANGNAV: LANGUAGE AS A PERCEPTUAL REPRESENTATION FOR NAVIGATION;** Bowen Pan et al
 
@@ -521,7 +524,7 @@
 - **ADAPTING LLM AGENTS THROUGH COMMUNICATION;** Kuan Wang et al
 - **PARROT: ENHANCING MULTI-TURN CHAT MODELS BY LEARNING TO ASK QUESTIONS;** Yuchong Sun et al
 - **LLAMA RIDER: SPURRING LARGE LANGUAGE MODELS TO EXPLORE THE OPEN WORLD;** Yicheng Feng et al
-
+- **AGENTTUNING: ENABLING GENERALIZED AGENT ABILITIES FOR LLMS;** Aohan Zeng et al
 
 
 
