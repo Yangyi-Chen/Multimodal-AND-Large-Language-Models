@@ -509,6 +509,7 @@
 - **EVALUATING MULTI-AGENT COORDINATION ABILITIES IN LARGE LANGUAGE MODELS;** Saaket Agashe et al
 - **A Zero-Shot Language Agent for Computer Control with Structured Reflection;** Tao Li et al
 - **Character-LLM: A Trainable Agent for Role-Playing;** Yunfan Shao et al
+- **CLIN: A CONTINUALLY LEARNING LANGUAGE AGENT FOR RAPID TASK ADAPTATION AND GENERALIZATION;** Bodhisattwa Prasad Majumder et al
 
 
 
