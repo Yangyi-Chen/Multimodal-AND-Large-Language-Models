@@ -510,6 +510,7 @@
 - **A Zero-Shot Language Agent for Computer Control with Structured Reflection;** Tao Li et al
 - **Character-LLM: A Trainable Agent for Role-Playing;** Yunfan Shao et al
 - **CLIN: A CONTINUALLY LEARNING LANGUAGE AGENT FOR RAPID TASK ADAPTATION AND GENERALIZATION;** Bodhisattwa Prasad Majumder et al
+- **OpenAgents: AN OPEN PLATFORM FOR LANGUAGE AGENTS IN THE WILD;** Tianbao Xie et al
 
 
 
