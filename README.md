@@ -451,12 +451,13 @@
 - **LONGBENCH: A BILINGUAL, MULTITASK BENCHMARK FOR LONG CONTEXT UNDERSTANDING;** Yushi Bai et al
 
 
+
 **Retrieval-augmented LLM**
 - **Training Language Models with Memory Augmentation;** Zexuan Zhong et al
 - **Enabling Large Language Models to Generate Text with Citations;** Tianyu Gao et al
 - **Multiview Identifiers Enhanced Generative Retrieval;** Yongqi Li et al
 - **Meta-training with Demonstration Retrieval for Efficient Few-shot Learning;** Aaron Mueller et al
-
+- **SELF-RAG: LEARNING TO RETRIEVE, GENERATE, AND CRITIQUE THROUGH SELF-REFLECTION;** Akari Asai et ak
 
   
 
