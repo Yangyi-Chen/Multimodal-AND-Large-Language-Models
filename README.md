@@ -1010,6 +1010,7 @@
 - **SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF;** Yi Dong et al
 - **UNDERSTANDING THE EFFECTS OF RLHF ON LLM GENERALISATION AND DIVERSITY;** Robert Kirk et al
 - **GAINING WISDOM FROM SETBACKS: ALIGNING LARGE LANGUAGE MODELS VIA MISTAKE ANALYSIS;** Kai Chen et al
+- **Tuna: Instruction Tuning using Feedback from Large Language Models;** Haoran Li et al
 
 
 ## Video Foundation Model
