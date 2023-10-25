@@ -321,6 +321,7 @@
 - **GENERATIVE JUDGE FOR EVALUATING ALIGNMENT;** Junlong Li et al
 - **PROMETHEUS: INDUCING FINE-GRAINED EVALUATION CAPABILITY IN LANGUAGE MODELS;** Seungone Kim et al
 - **CRITIQUE ABILITY OF LARGE LANGUAGE MODELS;** Liangchen Luo et al
+- **BotChat: Evaluating LLMs’ Capabilities of Having Multi-Turn Dialogues;** Haodong Duan et al
 
 
 
