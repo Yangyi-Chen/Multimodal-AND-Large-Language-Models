@@ -422,6 +422,7 @@
 - **XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updates;** Haopeng Zhang et al
 - **TEXT2REWARD: AUTOMATED DENSE REWARD FUNCTION GENERATION FOR REINFORCEMENT LEARNING;** Tianbao Xie et al
 - **EUREKA: HUMAN-LEVEL REWARD DESIGN VIA CODING LARGE LANGUAGE MODELS;** Yecheng Jason Ma et al
+- **CREATIVE ROBOT TOOL USE WITH LARGE LANGUAGE MODELS;** Mengdi Xu et al
 
 
 
