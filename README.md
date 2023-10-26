@@ -282,6 +282,7 @@
 - **Demystifying Embedding Spaces using Large Language Models;** Guy Tennenholtz et al
 - **An Emulator for Fine-Tuning Large Language Models using Small Language Models;** Eric Mitchell et al
 - **UNVEILING A CORE LINGUISTIC REGION IN LARGE LANGUAGE MODELS;** Jun Zhao et al
+- **DETECTING PRETRAINING DATA FROM LARGE LANGUAGE MODELS;** Weijia Shi et al
 
 
 
