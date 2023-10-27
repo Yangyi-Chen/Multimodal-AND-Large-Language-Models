@@ -310,7 +310,6 @@
 - **KoLA: Carefully Benchmarking World Knowledge of Large Language Models;** Jifan Yu et al
 - **SCIBENCH: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models;** Xiaoxuan Wang et al
 - **FLASK: FINE-GRAINED LANGUAGE MODEL EVALUATION BASED ON ALIGNMENT SKILL SETS;** Seonghyeon Ye et al
-- **AgentBench: Evaluating LLMs as Agents;** Xiao Liu et al
 - **Efficient Benchmarking (of Language Models);** Yotam Perlitz et al
 - **Can Large Language Models Understand Real-World Complex Instructions?;** Qianyu He et al
 - **NLPBENCH: EVALUATING LARGE LANGUAGE MODELS ON SOLVING NLP PROBLEMS;** Linxin Song et al
@@ -514,13 +513,16 @@
 - **YOU ONLY LOOK AT SCREENS: MULTIMODAL CHAIN-OF-ACTION AGENTS;** Zhuosheng Zhang et al
 - **SELF: LANGUAGE-DRIVEN SELF-EVOLUTION FOR LARGE LANGUAGE MODEL;** Jianqiao Lu et al
 - **Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond;** Liang Chen et al
-- **EVALUATING MULTI-AGENT COORDINATION ABILITIES IN LARGE LANGUAGE MODELS;** Saaket Agashe et al
 - **A Zero-Shot Language Agent for Computer Control with Structured Reflection;** Tao Li et al
 - **Character-LLM: A Trainable Agent for Role-Playing;** Yunfan Shao et al
 - **CLIN: A CONTINUALLY LEARNING LANGUAGE AGENT FOR RAPID TASK ADAPTATION AND GENERALIZATION;** Bodhisattwa Prasad Majumder et al
+
+
+**Evaluation**
+- **AgentBench: Evaluating LLMs as Agents;** Xiao Liu et al
+- **EVALUATING MULTI-AGENT COORDINATION ABILITIES IN LARGE LANGUAGE MODELS;** Saaket Agashe et al
 - **OpenAgents: AN OPEN PLATFORM FOR LANGUAGE AGENTS IN THE WILD;** Tianbao Xie et al
-
-
+- **SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS;** Yue Wu et al
 
 
 **VL Navigation**
