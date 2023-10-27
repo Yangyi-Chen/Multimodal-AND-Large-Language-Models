@@ -425,6 +425,7 @@
 - **EUREKA: HUMAN-LEVEL REWARD DESIGN VIA CODING LARGE LANGUAGE MODELS;** Yecheng Jason Ma et al
 - **CREATIVE ROBOT TOOL USE WITH LARGE LANGUAGE MODELS;** Mengdi Xu et al
 - **Goal Driven Discovery of Distributional Differences via Language Descriptions;** Ruiqi Zhong et al
+- **Can large language models provide useful feedback on research papers? A large-scale empirical analysis.;** Weixin Liang et al
 
 
 
