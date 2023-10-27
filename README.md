@@ -489,6 +489,7 @@
 - **LMSYS-CHAT-1M: A LARGE-SCALE REAL-WORLD LLM CONVERSATION DATASET;** Lianmin Zheng et al
 - **Mistral 7B;** Albert Q. Jiang et al
 - **Tokenizer Choice For LLM Training: Negligible or Crucial?;** Mehdi Ali et al
+- **ZEPHYR: DIRECT DISTILLATION OF LM ALIGNMENT;** Lewis Tunstall et al
 
 
 
