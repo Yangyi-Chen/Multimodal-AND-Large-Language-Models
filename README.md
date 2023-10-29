@@ -1024,6 +1024,7 @@
 - **Tuna: Instruction Tuning using Feedback from Large Language Models;** Haoran Li et al
 - **Teaching Language Models to Self-Improve through Interactive Demonstrations;** Xiao Yu et al
 - **Democratizing Reasoning Ability: Tailored Learning from Large Language Model;** Zhaoyang Wang et al
+- **ENABLE LANGUAGE MODELS TO IMPLICITLY LEARN SELF-IMPROVEMENT FROM DATA;** Ziqi Wang et al
 
 
 ## Video Foundation Model
