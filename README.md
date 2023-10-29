@@ -529,9 +529,9 @@
 - **SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS;** Yue Wu et al
 
 
-**VL Navigation**
+**VL Related Task**
 - **LANGNAV: LANGUAGE AS A PERCEPTUAL REPRESENTATION FOR NAVIGATION;** Bowen Pan et al
-
+- **VIDEO LANGUAGE PLANNING;** Yilun Du et al
 
 
 ## Interaction
