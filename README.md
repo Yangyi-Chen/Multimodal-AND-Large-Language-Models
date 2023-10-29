@@ -95,6 +95,7 @@
 - **A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation;** Xiaowei Huang et al
 - **Explainability for Large Language Models: A Survey;** Haiyan Zhao et al
 - **Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models;** Yue Zhang et al
+- **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity;** Cunxiang Wang et al
 
 
 
