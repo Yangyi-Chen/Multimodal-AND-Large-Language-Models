@@ -493,6 +493,7 @@
 - **Mistral 7B;** Albert Q. Jiang et al
 - **Tokenizer Choice For LLM Training: Negligible or Crucial?;** Mehdi Ali et al
 - **ZEPHYR: DIRECT DISTILLATION OF LM ALIGNMENT;** Lewis Tunstall et al
+- **LEMUR: HARMONIZING NATURAL LANGUAGE AND CODE FOR LANGUAGE AGENTS;** Yiheng Xu et al
 
 
 
