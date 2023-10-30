@@ -769,6 +769,7 @@
 - **mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding;** Jiabo Ye et al
 - **KOSMOS-2.5: A Multimodal Literate Model;** Tengchao Lv et al
 - **STRUCTCHART: PERCEPTION, STRUCTURING, REASONING FOR VISUAL CHART UNDERSTANDING;** Renqiu Xia et al
+- **UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model;** Jiabo Ye et al
 
 
 **Dataset**
