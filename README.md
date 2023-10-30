@@ -775,6 +775,7 @@
 - **A Diagram Is Worth A Dozen Images;** Aniruddha Kembhavi et al
 - **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning;** Ahmed Masry et al
 - **PDF-VQA: A New Dataset for Real-World VQA on PDF Documents;** Yihao Ding et al
+- **DocumentNet: Bridging the Data Gap in Document Pre-Training;** Lijun Yu et al
 
 
 
