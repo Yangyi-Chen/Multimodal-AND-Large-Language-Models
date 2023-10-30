@@ -859,6 +859,7 @@
 - **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction;** Rui Yang et al
 - **LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent;** Jianing Yang et al
 - **Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation;** Zhengyuan Yang et al
+- **ControlLLM: Augment Language Models with Tools by Searching on Graphs;** Zhaoyang Liu et al
 
 
 
