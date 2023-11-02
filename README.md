@@ -698,7 +698,7 @@
 - **InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition;** Pan Zhang et al
 - **DREAMLLM: SYNERGISTIC MULTIMODAL COMPREHENSION AND CREATION;** Runpei Dong et al
 - **HALLE-SWITCH: RETHINKING AND CONTROLLING OBJECT EXISTENCE HALLUCINATIONS IN LARGE VISION LANGUAGE MODELS FOR DETAILED CAPTION;** Bohan Zhai et al
-
+- **Fuyu-8B: A Multimodal Architecture for AI Agents;** Rohan Bavishi et al
 
 
 
