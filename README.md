@@ -1091,6 +1091,7 @@
 - **INSTRUCTCV: INSTRUCTION-TUNED TEXT-TO-IMAGE DIFFUSION MODELS AS VISION GENERALISTS;** Yulu Gan et al
 - **Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks;** Micah Goldblum et al
 - **RECOGNIZE ANY REGIONS;** Haosen Yang et al
+- **AiluRus: A Scalable ViT Framework for Dense Prediction;** Jin Li et al
 
 
 
