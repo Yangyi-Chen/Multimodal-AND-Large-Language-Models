@@ -1365,6 +1365,7 @@
 - **DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS;** Yung-Sung Chuang et al
 - **FELM: Benchmarking Factuality Evaluation of Large Language Models;** Shiqi Chen et al
 - **Unveiling the Siren’s Song: Towards Reliable Fact-Conflicting Hallucination Detection;** Xiang Chen et al
+- **ANALYZING AND MITIGATING OBJECT HALLUCINATION IN LARGE VISION-LANGUAGE MODELS;** Yiyang Zhou et al
 
 
 
