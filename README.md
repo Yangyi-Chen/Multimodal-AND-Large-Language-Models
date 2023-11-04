@@ -25,6 +25,7 @@
 - [Critic Modeling](#critic-modeling)
 - [MoE/Specialized](#moe/specialized)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
+- [VLM Application](#vlm-application)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
 - [Image Generation](#image-generation)
 - [Document Understanding](#document-understanding)
@@ -730,6 +731,11 @@
 - **CLIP-Event: Connecting Text and Images with Event Structures;** Manling Li et al; The new model CLIP-Event, specifically designed for multi-modal event extraction. Introducing new pretraining tasks to enable strong zero-shot performances. From object-centric representations to event-centric representations. 
 - **Scaling Vision-Language Models with Sparse Mixture of Experts;** Sheng Shen et al
 - **MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks;** Weicheng Kuo et al
+
+
+## VLM Application
+- **VISION-LANGUAGE FOUNDATION MODELS AS EFFECTIVE ROBOT IMITATORS;** Xinghang Li et al
+
 
 ## Multimodal Foundation Model
 - **MotionGPT: Human Motion as a Foreign Language;** Biao Jiang et al
