@@ -736,6 +736,7 @@
 
 ## VLM Application
 - **VISION-LANGUAGE FOUNDATION MODELS AS EFFECTIVE ROBOT IMITATORS;** Xinghang Li et al
+- **LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing;** Wei-Ge Chen et al
 
 
 ## Multimodal Foundation Model
