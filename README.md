@@ -703,7 +703,7 @@
 - **Improved Baselines with Visual Instruction Tuning;** Haotian Liu et al
 - **Fuyu-8B: A Multimodal Architecture for AI Agents;** Rohan Bavishi et al
 - **MINIGPT-5: INTERLEAVED VISION-AND-LANGUAGE GENERATION VIA GENERATIVE VOKENS;** Kaizhi Zheng et al
-
+- **Making LLaMA SEE and Draw with SEED Tokenizer;** Yuying Ge et al
 
 
 ### Analysis & Evaluation
