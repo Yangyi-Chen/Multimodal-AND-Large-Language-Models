@@ -27,7 +27,6 @@
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
 - [Vision-Language Model Analysis & Evaluation](#vision-language-model-analysis&evaluation)
 - [Vision-Language Model Application](#vision-language-model-application)
-- [VLM Application](#vlm-application)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
 - [Image Generation](#image-generation)
 - [Document Understanding](#document-understanding)
@@ -740,7 +739,7 @@
 - **REFORM-EVAL: EVALUATING LARGE VISION LANGUAGE MODELS VIA UNIFIED RE-FORMULATION OF TASK-ORIENTED BENCHMARKS;** Zejun Li1 et al
 - **REVO-LION: EVALUATING AND REFINING VISION LANGUAGE INSTRUCTION TUNING DATASETS;** Ning Liao et al
 - **BEYOND TASK PERFORMANCE: EVALUATING AND REDUCING THE FLAWS OF LARGE MULTIMODAL MODELS WITH IN-CONTEXT LEARNING;** Mustafa Shukor et al
-
+- **Grounded Intuition of GPT-Vision’s Abilities with Scientific Images;** Alyssa Hwang et al
 
 
 
