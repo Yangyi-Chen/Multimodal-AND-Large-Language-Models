@@ -25,6 +25,8 @@
 - [Critic Modeling](#critic-modeling)
 - [MoE/Specialized](#moe/specialized)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
+- [Vision-Language Model Analysis&Evaluation]
+- [Vision-Language Model Application](#vision-language-model-application)
 - [VLM Application](#vlm-application)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
 - [Image Generation](#image-generation)
@@ -706,7 +708,22 @@
 - **Making LLaMA SEE and Draw with SEED Tokenizer;** Yuying Ge et al
 
 
-### Analysis & Evaluation
+
+### Others
+- **Unified Vision-Language Pre-Training for Image Captioning and VQA;** Luowei Zhou et al
+- **Unifying Vision-and-Language Tasks via Text Generation;** Jaemin Cho et al
+- **MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound;** Rowan Zellers et al
+- **CLIP-Event: Connecting Text and Images with Event Structures;** Manling Li et al; The new model CLIP-Event, specifically designed for multi-modal event extraction. Introducing new pretraining tasks to enable strong zero-shot performances. From object-centric representations to event-centric representations. 
+- **Scaling Vision-Language Models with Sparse Mixture of Experts;** Sheng Shen et al
+- **MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks;** Weicheng Kuo et al
+
+
+## Vision-Language Model Application
+- **VISION-LANGUAGE FOUNDATION MODELS AS EFFECTIVE ROBOT IMITATORS;** Xinghang Li et al
+- **LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing;** Wei-Ge Chen et al
+
+
+### Vision-Language Model Analysis & Evaluation
 - **What Makes for Good Visual Tokenizers for Large Language Models?;** Guangzhi Wang et al
 - **LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models;** Peng Xu et al
 - **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models;** Chaoyou Fu et al
@@ -722,21 +739,10 @@
 - **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models;** Yangyi Chen et al
 - **REFORM-EVAL: EVALUATING LARGE VISION LANGUAGE MODELS VIA UNIFIED RE-FORMULATION OF TASK-ORIENTED BENCHMARKS;** Zejun Li1 et al
 - **REVO-LION: EVALUATING AND REFINING VISIONLANGUAGE INSTRUCTION TUNING DATASETS;** Ning Liao et al
+- **BEYOND TASK PERFORMANCE: EVALUATING AND REDUCING THE FLAWS OF LARGE MULTIMODAL MODELS WITH IN-CONTEXT LEARNING;** Mustafa Shukor et al
 
 
 
-### Others
-- **Unified Vision-Language Pre-Training for Image Captioning and VQA;** Luowei Zhou et al
-- **Unifying Vision-and-Language Tasks via Text Generation;** Jaemin Cho et al
-- **MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound;** Rowan Zellers et al
-- **CLIP-Event: Connecting Text and Images with Event Structures;** Manling Li et al; The new model CLIP-Event, specifically designed for multi-modal event extraction. Introducing new pretraining tasks to enable strong zero-shot performances. From object-centric representations to event-centric representations. 
-- **Scaling Vision-Language Models with Sparse Mixture of Experts;** Sheng Shen et al
-- **MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks;** Weicheng Kuo et al
-
-
-## VLM Application
-- **VISION-LANGUAGE FOUNDATION MODELS AS EFFECTIVE ROBOT IMITATORS;** Xinghang Li et al
-- **LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing;** Wei-Ge Chen et al
 
 
 ## Multimodal Foundation Model
