@@ -278,15 +278,15 @@
 - **Are Emergent Abilities in Large Language Models just In-Context Learning?;** Sheng Lu et al
 - **The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A”;** Lukas Berglund et al
 - **Language Modeling Is Compression;** Grégoire Delétang et al
-- **FROM LANGUAGE MODELING TO INSTRUCTION FOLLOWING: UNDERSTANDING THE BEHAVIOR SHIFT IN LLMS AFTER INSTRUCTION TUNING;** Xuansheng Wu et al
+- **FROM LANGUAGE MODELING TO INSTRUCTION FOLLOWING: UNDERSTANDING THE BEHAVIOR SHIFT IN LLMS AFTER INSTRUCTION TUNING;** Xuansheng Wu et al
 - **RESOLVING KNOWLEDGE CONFLICTS IN LARGE LANGUAGE MODELS;** Yike Wang et al
 - **LARGE LANGUAGE MODELS CANNOT SELF-CORRECT REASONING YET;** Jie Huang et al
-- **ASK AGAIN, THEN FAIL: LARGE LANGUAGE MODELS’ VACILLATIONS IN JUDGEMENT;** Qiming Xie et al
+- **ASK AGAIN, THEN FAIL: LARGE LANGUAGE MODELS’ VACILLATIONS IN JUDGEMENT;** Qiming Xie et al
 - **FRESHLLMS: REFRESHING LARGE LANGUAGE MODELS WITH SEARCH ENGINE AUGMENTATION;** Tu Vu et al
 - **Demystifying Embedding Spaces using Large Language Models;** Guy Tennenholtz et al
 - **An Emulator for Fine-Tuning Large Language Models using Small Language Models;** Eric Mitchell et al
 - **UNVEILING A CORE LINGUISTIC REGION IN LARGE LANGUAGE MODELS;** Jun Zhao et al
-- **DETECTING PRETRAINING DATA FROM LARGE LANGUAGE MODELS;** Weijia Shi et al
+- **DETECTING PRETRAINING DATA FROM LARGE LANGUAGE MODELS;** Weijia Shi et al
 - **BENCHMARKING AND IMPROVING GENERATOR-VALIDATOR CONSISTENCY OF LMS;** Xiang Lisa Li et al
 - **UNLOCK PREDICTABLE SCALING FROM EMERGENT ABILITIES;** Shengding Hu et al
 
