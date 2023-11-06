@@ -318,7 +318,7 @@
 - **FLASK: FINE-GRAINED LANGUAGE MODEL EVALUATION BASED ON ALIGNMENT SKILL SETS;** Seonghyeon Ye et al
 - **Efficient Benchmarking (of Language Models);** Yotam Perlitz et al
 - **Can Large Language Models Understand Real-World Complex Instructions?;** Qianyu He et al
-- **NLPBENCH: EVALUATING LARGE LANGUAGE MODELS ON SOLVING NLP PROBLEMS;** Linxin Song et al
+- **NLPBENCH: EVALUATING LARGE LANGUAGE MODELS ON SOLVING NLP PROBLEMS;** Linxin Song et al
 - **CALIBRATING LLM-BASED EVALUATOR;** Yuxuan Liu et al
 - **GPT-FATHOM: BENCHMARKING LARGE LANGUAGE MODELS TO DECIPHER THE EVOLUTIONARY PATH TOWARDS GPT-4 AND BEYOND;** Shen Zheng et al
 - **L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models;** Ansong Ni et al
