@@ -428,9 +428,9 @@
 - **Compositional Foundation Models for Hierarchical Planning;** Anurag Ajay et al
 - **STRUC-BENCH: Are Large Language Models Really Good at Generating Complex Structured Data?;** Xiangru Tang et al
 - **XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updates;** Haopeng Zhang et al
-- **TEXT2REWARD: AUTOMATED DENSE REWARD FUNCTION GENERATION FOR REINFORCEMENT LEARNING;** Tianbao Xie et al
+- **TEXT2REWARD: AUTOMATED DENSE REWARD FUNCTION GENERATION FOR REINFORCEMENT LEARNING;** Tianbao Xie et al
 - **EUREKA: HUMAN-LEVEL REWARD DESIGN VIA CODING LARGE LANGUAGE MODELS;** Yecheng Jason Ma et al
-- **CREATIVE ROBOT TOOL USE WITH LARGE LANGUAGE MODELS;** Mengdi Xu et al
+- **CREATIVE ROBOT TOOL USE WITH LARGE LANGUAGE MODELS;** Mengdi Xu et al
 - **Goal Driven Discovery of Distributional Differences via Language Descriptions;** Ruiqi Zhong et al
 - **Can large language models provide useful feedback on research papers? A large-scale empirical analysis.;** Weixin Liang et al
 - **DRIVEGPT4: INTERPRETABLE END-TO-END AUTONOMOUS DRIVING VIA LARGE LANGUAGE MODEL;** Zhenhua Xu et al
@@ -463,7 +463,7 @@
 - **In-context Autoencoder for Context Compression in a Large Language Model;** Tao Ge et al
 - **MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation;** Junru Lu et al
 - **KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases;** Xintao Wang et al
-- **LONGBENCH: A BILINGUAL, MULTITASK BENCHMARK FOR LONG CONTEXT UNDERSTANDING;** Yushi Bai et al
+- **LONGBENCH: A BILINGUAL, MULTITASK BENCHMARK FOR LONG CONTEXT UNDERSTANDING;** Yushi Bai et al
 
 
 
@@ -534,7 +534,7 @@
 - **AgentBench: Evaluating LLMs as Agents;** Xiao Liu et al
 - **EVALUATING MULTI-AGENT COORDINATION ABILITIES IN LARGE LANGUAGE MODELS;** Saaket Agashe et al
 - **OpenAgents: AN OPEN PLATFORM FOR LANGUAGE AGENTS IN THE WILD;** Tianbao Xie et al
-- **SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS;** Yue Wu et al
+- **SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS;** Yue Wu et al
 
 
 **VL Related Task**
@@ -577,8 +577,8 @@
 - **ModuleFormer: Learning Modular Large Language Models From Uncurated Data;** Yikang Shen et al
 - **Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models;** Sheng Shen et al
 - **From Sparse to Soft Mixtures of Experts;** Joan Puigcerver et al
-- **SELF-SPECIALIZATION: UNCOVERING LATENT EXPERTISE WITHIN LARGE LANGUAGE MODELS;** Junmo Kang et al
-- **HOW ABILITIES IN LARGE LANGUAGE MODELS ARE AFFECTED BY SUPERVISED FINE-TUNING DATA COMPOSITION;** Guanting Dong et al
+- **SELF-SPECIALIZATION: UNCOVERING LATENT EXPERTISE WITHIN LARGE LANGUAGE MODELS;** Junmo Kang et al
+- **HOW ABILITIES IN LARGE LANGUAGE MODELS ARE AFFECTED BY SUPERVISED FINE-TUNING DATA COMPOSITION;** Guanting Dong et al
 - **OPENWEBMATH: AN OPEN DATASET OF HIGH-QUALITY MATHEMATICAL WEB TEXT;** Keiran Paster et al
 - **LLEMMA: AN OPEN LANGUAGE MODEL FOR MATHEMATICS;** Zhangir Azerbayev et al
 
@@ -650,7 +650,7 @@
 - **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video;** Haiyang Xu et al
 - **KOSMOS-2: Grounding Multimodal Large Language Models to the World;** Zhiliang Peng et al
 - **PaLI-X: On Scaling up a Multilingual Vision and Language Model;** Xi Chen et al
-- **UNIFIED LANGUAGE-VISION PRETRAINING WITH DYNAMIC DISCRETE VISUAL TOKENIZATION;** Yang Jin et al
+- **UNIFIED LANGUAGE-VISION PRETRAINING WITH DYNAMIC DISCRETE VISUAL TOKENIZATION;** Yang Jin et al
 - **PALI-3 VISION LANGUAGE MODELS: SMALLER, FASTER, STRONGER;** Xi Chen et al
 
 
@@ -935,7 +935,7 @@
 - **Exploring Format Consistency for Instruction Tuning;** Shihao Liang et al
 - **Self-Alignment with Instruction Backtranslation;** Xian Li et al
 - **#INSTAG: INSTRUCTION TAGGING FOR DIVERSITY AND COMPLEXITY ANALYSIS;** Keming Lu et al
-- **CITING: LARGE LANGUAGE MODELS CREATE CURRICULUM FOR INSTRUCTION TUNING;** Tao Feng et al
+- **CITING: LARGE LANGUAGE MODELS CREATE CURRICULUM FOR INSTRUCTION TUNING;** Tao Feng et al
 
   
 
