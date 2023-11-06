@@ -737,9 +737,9 @@
 - **Investigating the Catastrophic Forgetting in Multimodal Large Language Models;** Yuexiang Zhai et al
 - **DEMYSTIFYING CLIP DATA;** Hu Xu et al
 - **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models;** Yangyi Chen et al
-- **REFORM-EVAL: EVALUATING LARGE VISION LANGUAGE MODELS VIA UNIFIED RE-FORMULATION OF TASK-ORIENTED BENCHMARKS;** Zejun Li1 et al
+- **REFORM-EVAL: EVALUATING LARGE VISION LANGUAGE MODELS VIA UNIFIED RE-FORMULATION OF TASK-ORIENTED BENCHMARKS;** Zejun Li1 et al
 - **REVO-LION: EVALUATING AND REFINING VISIONLANGUAGE INSTRUCTION TUNING DATASETS;** Ning Liao et al
-- **BEYOND TASK PERFORMANCE: EVALUATING AND REDUCING THE FLAWS OF LARGE MULTIMODAL MODELS WITH IN-CONTEXT LEARNING;** Mustafa Shukor et al
+- **BEYOND TASK PERFORMANCE: EVALUATING AND REDUCING THE FLAWS OF LARGE MULTIMODAL MODELS WITH IN-CONTEXT LEARNING;** Mustafa Shukor et al
 
 
 
@@ -755,7 +755,7 @@
 - **Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following;** Ziyu Guo et al
 - **NExT-GPT: Any-to-Any Multimodal LLM;** Shengqiong Wu et al
 - **ImageBind-LLM: Multi-modality Instruction Tuning;** Jiaming Han et al
-- **LAURAGPT: LISTEN, ATTEND, UNDERSTAND, AND REGENERATE AUDIO WITH GPT;** Jiaming Wang et al
+- **LAURAGPT: LISTEN, ATTEND, UNDERSTAND, AND REGENERATE AUDIO WITH GPT;** Jiaming Wang et al
 
 
 
