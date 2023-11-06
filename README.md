@@ -25,7 +25,7 @@
 - [Critic Modeling](#critic-modeling)
 - [MoE/Specialized](#moe/specialized)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
-- [Vision-Language Model Analysis&Evaluation]
+- [Vision-Language Model Analysis&Evaluation](#vision-language-model-analysis&evaluation)
 - [Vision-Language Model Application](#vision-language-model-application)
 - [VLM Application](#vlm-application)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
@@ -723,7 +723,7 @@
 - **LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing;** Wei-Ge Chen et al
 
 
-### Vision-Language Model Analysis & Evaluation
+## Vision-Language Model Analysis & Evaluation
 - **What Makes for Good Visual Tokenizers for Large Language Models?;** Guangzhi Wang et al
 - **LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models;** Peng Xu et al
 - **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models;** Chaoyou Fu et al
