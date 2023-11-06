@@ -25,7 +25,7 @@
 - [Critic Modeling](#critic-modeling)
 - [MoE/Specialized](#moe/specialized)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
-- [Vision-Language Model Analysis&Evaluation](#vision-language-model-analysis&evaluation)
+- [Vision-Language Model Analysis & Evaluation](#vision-language-model-analysis&evaluation)
 - [Vision-Language Model Application](#vision-language-model-application)
 - [VLM Application](#vlm-application)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
