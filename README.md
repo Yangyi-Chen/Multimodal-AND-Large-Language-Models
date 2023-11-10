@@ -539,6 +539,7 @@
 **VL Related Task**
 - **LANGNAV: LANGUAGE AS A PERCEPTUAL REPRESENTATION FOR NAVIGATION;** Bowen Pan et al
 - **VIDEO LANGUAGE PLANNING;** Yilun Du et al
+- **Fuyu-8B: A Multimodal Architecture for AI Agents;** Rohan Bavishi et al
 
 
 ## Interaction
