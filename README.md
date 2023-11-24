@@ -1396,6 +1396,7 @@
 - **ANALYZING AND MITIGATING OBJECT HALLUCINATION IN LARGE VISION-LANGUAGE MODELS;** Yiyang Zhou et al
 - **Woodpecker: Hallucination Correction for Multimodal Large Language Models;** Shukang Yin et al
 - **AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation;** Junyang Wang et al
+- **Fine-tuning Language Models for Factuality;** Katherine Tian et al
 
 
 ## Cognitive NeuronScience & Machine Learning
