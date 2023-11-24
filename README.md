@@ -590,6 +590,7 @@
 - **HOW ABILITIES IN LARGE LANGUAGE MODELS ARE AFFECTED BY SUPERVISED FINE-TUNING DATA COMPOSITION;** Guanting Dong et al
 - **OPENWEBMATH: AN OPEN DATASET OF HIGH-QUALITY MATHEMATICAL WEB TEXT;** Keiran Paster et al
 - **LLEMMA: AN OPEN LANGUAGE MODEL FOR MATHEMATICS;** Zhangir Azerbayev et al
+- **Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models;** Keming Lu et al
 
 
 
