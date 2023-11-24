@@ -582,6 +582,7 @@
 - **COFFEE: Boost Your Code LLMs by Fixing Bugs with Feedback;** Seungjun Moon et al
 - **Cappy: Outperforming and Boosting Large Multi-Task LMs with a Small Scorer;** Bowen Tan et al
 - **Pinpoint, Not Criticize: Refining Large Language Models via Fine-Grained Actionable Feedback;** Wenda Xu et al
+- **Digital Socrates: Evaluating LLMs through explanation critiques;** Yuling Gu et al
 
 
 ## MoE/Specialized
