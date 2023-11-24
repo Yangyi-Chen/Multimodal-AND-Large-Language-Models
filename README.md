@@ -490,12 +490,10 @@
 
 ## LLM Foundation
 - **Retentive Network: A Successor to Transformer for Large Language Models;** Yutao Sun et al
-- **Orca: Progressive Learning from Complex Explanation Traces of GPT-4;** Subhabrata Mukherjee et al
 - **Skill-it! A Data-Driven Skills Framework for Understanding and Training Language Models;** Mayee F. Chen et al
 - **Secrets of RLHF in Large Language Models Part I: PPO;** Rui Zheng et al
 - **EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education;** Yuhao Dan et al
 - **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct;** Haipeng Luo et al
-- **Textbooks Are All You Need II: phi-1.5 technical report;** Yuanzhi Li et al
 - **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
 - **SlimPajama-DC: Understanding Data Combinations for LLM Training;** Zhiqiang Shen et al
 - **LMSYS-CHAT-1M: A LARGE-SCALE REAL-WORLD LLM CONVERSATION DATASET;** Lianmin Zheng et al
@@ -507,10 +505,13 @@
 
 
 
+
 ## LLM Data Engineering
+- **Textbooks Are All You Need II: phi-1.5 technical report;** Yuanzhi Li et al
+- **Orca: Progressive Learning from Complex Explanation Traces of GPT-4;** Subhabrata Mukherjee et al
 - **ZERO-SHOT GOAL-DIRECTED DIALOGUE VIA RL ON IMAGINED CONVERSATIONS;** Joey Hong et al
 - **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models;** Fangzhi Xu et al
-
+- **Orca 2: Teaching Small Language Models How to Reason;** Arindam Mitra et al
 
 
 ## Agent
