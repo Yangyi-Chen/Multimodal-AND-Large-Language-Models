@@ -1389,7 +1389,7 @@
 - **Unveiling the Siren’s Song: Towards Reliable Fact-Conflicting Hallucination Detection;** Xiang Chen et al
 - **ANALYZING AND MITIGATING OBJECT HALLUCINATION IN LARGE VISION-LANGUAGE MODELS;** Yiyang Zhou et al
 - **Woodpecker: Hallucination Correction for Multimodal Large Language Models;** Shukang Yin et al
-
+- **AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation;** Junyang Wang et al
 
 
 ## Cognitive NeuronScience & Machine Learning
