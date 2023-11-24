@@ -712,6 +712,7 @@
 - **Fuyu-8B: A Multimodal Architecture for AI Agents;** Rohan Bavishi et al
 - **MINIGPT-5: INTERLEAVED VISION-AND-LANGUAGE GENERATION VIA GENERATIVE VOKENS;** Kaizhi Zheng et al
 - **Making LLaMA SEE and Draw with SEED Tokenizer;** Yuying Ge et al
+- **To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning;** Junke Wang et al
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback;** Yangyi Chen et al
 
 
