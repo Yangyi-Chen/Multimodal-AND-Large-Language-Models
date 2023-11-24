@@ -23,7 +23,7 @@
 - [LLM Data Engineering](#llm-data-engineering)
 - [Agent](#agent)
 - [Interaction](#interaction)
-- [Critic Modeling](#critic-modeling)
+- [Critique Modeling](#critic-modeling)
 - [MoE/Specialized](#moe/specialized)
 - [Vision-Language Foundation Model](#vision-language-foundation-model)
 - [Vision-Language Model Analysis & Evaluation](#vision-language-model-analysis&evaluation)
@@ -559,7 +559,7 @@
 
 
 
-## Critic Modeling
+## Critique Modeling
 - **Self-critiquing models for assisting human evaluators;** William Saunders et al
 - **Learning Evaluation Models from Large Language Models for Sequence Generation;** Chenglong Wang et al
 - **RETROFORMER: RETROSPECTIVE LARGE LANGUAGE AGENTS WITH POLICY GRADIENT OPTIMIZATION;** Weiran Yao et al
@@ -573,7 +573,7 @@
 - **MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models;** Deepak Nathani et al
 - **DON’T THROW AWAY YOUR VALUE MODEL! MAKING PPO EVEN BETTER VIA VALUE-GUIDED MONTE-CARLO TREE SEARCH DECODING;** Jiacheng Liu et al
 - **COFFEE: Boost Your Code LLMs by Fixing Bugs with Feedback;** Seungjun Moon et al
-
+- **Cappy: Outperforming and Boosting Large Multi-Task LMs with a Small Scorer;** Bowen Tan et al
 
 
 ## MoE/Specialized
