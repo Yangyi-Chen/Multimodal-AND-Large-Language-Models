@@ -568,6 +568,7 @@
 - **LET’S REWARD STEP BY STEP: STEP-LEVEL REWARD MODEL AS THE NAVIGATORS FOR REASONING;** Qianli Ma et al
 - **MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models;** Deepak Nathani et al
 - **DON’T THROW AWAY YOUR VALUE MODEL! MAKING PPO EVEN BETTER VIA VALUE-GUIDED MONTE-CARLO TREE SEARCH DECODING;** Jiacheng Liu et al
+- **COFFEE: Boost Your Code LLMs by Fixing Bugs with Feedback;** Seungjun Moon et al
 
 
 
