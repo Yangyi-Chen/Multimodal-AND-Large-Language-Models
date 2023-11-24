@@ -534,7 +534,7 @@
 - **Character-LLM: A Trainable Agent for Role-Playing;** Yunfan Shao et al
 - **CLIN: A CONTINUALLY LEARNING LANGUAGE AGENT FOR RAPID TASK ADAPTATION AND GENERALIZATION;** Bodhisattwa Prasad Majumder et al
 - **FIREACT: TOWARD LANGUAGE AGENT FINE-TUNING;** Baian Chen et al
-
+- **TrainerAgent: Customizable and Efficient Model Training through LLM-Powered Multi-Agent System;** Haoyuan Li et al
 
 **Evaluation**
 - **AgentBench: Evaluating LLMs as Agents;** Xiao Liu et al
