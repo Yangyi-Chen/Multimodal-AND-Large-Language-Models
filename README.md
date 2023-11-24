@@ -332,6 +332,7 @@
 - **PROMETHEUS: INDUCING FINE-GRAINED EVALUATION CAPABILITY IN LANGUAGE MODELS;** Seungone Kim et al
 - **CRITIQUE ABILITY OF LARGE LANGUAGE MODELS;** Liangchen Luo et al
 - **BotChat: Evaluating LLMs’ Capabilities of Having Multi-Turn Dialogues;** Haodong Duan et al
+- **Instruction-Following Evaluation for Large Language Models;** Jeffrey Zhou et al
 
 
 
