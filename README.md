@@ -1455,3 +1455,4 @@
 - **LLM Powered Autonomous Agents;** Lilian Weng
 - **Retrieval-based Language Models and Applications;** Tutorial; https://github.com/ACL2023-Retrieval-LM/ACL2023-Retrieval-LM.github.io
 - **Recent Advances in Vision Foundation Models;** Tutorial; https://vlp-tutorial.github.io/
+- **LM-Polygraph: Uncertainty Estimation for Language Models;** Ekaterina Fadeeva et al
