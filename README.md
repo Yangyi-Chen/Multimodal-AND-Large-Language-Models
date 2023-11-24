@@ -20,6 +20,7 @@
 - [LLM with Memory](#llm-with-memory)
 - [LLM with Human](#llm-with-human)
 - [LLM Foundation](#llm-foundation)
+- [LLM Data Engineering](#llm-data-engineering)
 - [Agent](#agent)
 - [Interaction](#interaction)
 - [Critic Modeling](#critic-modeling)
@@ -289,6 +290,8 @@
 - **BENCHMARKING AND IMPROVING GENERATOR-VALIDATOR CONSISTENCY OF LMS;** Xiang Lisa Li et al
 - **UNLOCK PREDICTABLE SCALING FROM EMERGENT ABILITIES;** Shengding Hu et al
 - **Trusted Source Alignment in Large Language Models;** Vasilisa Bashlovkina et al
+- **R-Tuning: Teaching Large Language Models to Refuse Unknown Questions;** Hanning Zhang et al
+- **Prudent Silence or Foolish Babble? Examining Large Language Models’ Responses to the Unknown;** Genglin Liu et al
 
 
 
@@ -500,7 +503,8 @@
 - **LEMUR: HARMONIZING NATURAL LANGUAGE AND CODE FOR LANGUAGE AGENTS;** Yiheng Xu et al
 
 
-
+## LLM Data Engineering
+- **ZERO-SHOT GOAL-DIRECTED DIALOGUE VIA RL ON IMAGINED CONVERSATIONS;** Joey Hong et al
 
 
 ## Agent
@@ -708,7 +712,7 @@
 - **Fuyu-8B: A Multimodal Architecture for AI Agents;** Rohan Bavishi et al
 - **MINIGPT-5: INTERLEAVED VISION-AND-LANGUAGE GENERATION VIA GENERATIVE VOKENS;** Kaizhi Zheng et al
 - **Making LLaMA SEE and Draw with SEED Tokenizer;** Yuying Ge et al
-
+- **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback;** Yangyi Chen et al
 
 
 ### Others
