@@ -505,8 +505,12 @@
 - **LEMUR: HARMONIZING NATURAL LANGUAGE AND CODE FOR LANGUAGE AGENTS;** Yiheng Xu et al
 
 
+
+
 ## LLM Data Engineering
 - **ZERO-SHOT GOAL-DIRECTED DIALOGUE VIA RL ON IMAGINED CONVERSATIONS;** Joey Hong et al
+- **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models;** Fangzhi Xu et al
+
 
 
 ## Agent
