@@ -583,6 +583,7 @@
 - **Cappy: Outperforming and Boosting Large Multi-Task LMs with a Small Scorer;** Bowen Tan et al
 - **Pinpoint, Not Criticize: Refining Large Language Models via Fine-Grained Actionable Feedback;** Wenda Xu et al
 - **Digital Socrates: Evaluating LLMs through explanation critiques;** Yuling Gu et al
+- **Outcome-supervised Verifiers for Planning in Mathematical Reasoning;** Fei Yu et al
 
 
 ## MoE/Specialized
