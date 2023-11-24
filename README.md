@@ -545,6 +545,7 @@
 - **LANGNAV: LANGUAGE AS A PERCEPTUAL REPRESENTATION FOR NAVIGATION;** Bowen Pan et al
 - **VIDEO LANGUAGE PLANNING;** Yilun Du et al
 - **Fuyu-8B: A Multimodal Architecture for AI Agents;** Rohan Bavishi et al
+- **GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation;** An Yan et al
 
 
 ## Interaction
