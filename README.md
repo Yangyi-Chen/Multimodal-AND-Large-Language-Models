@@ -1128,6 +1128,7 @@
 - **Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks;** Micah Goldblum et al
 - **RECOGNIZE ANY REGIONS;** Haosen Yang et al
 - **AiluRus: A Scalable ViT Framework for Dense Prediction;** Jin Li et al
+- **T-Rex: Counting by Visual Prompting;** Qing Jiang et al
 
 
 
