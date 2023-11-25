@@ -878,6 +878,7 @@
 - **CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets;** Lifan Yuan et al
 - **METATOOL BENCHMARK: DECIDING WHETHER TO USE TOOLS AND WHICH TO USE;** Yue Huang et al
 - **A Comprehensive Evaluation of Tool-Assisted Generation Strategies;** Alon Jacovi et al
+- **TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems;** Yilun Kong et al
 
 
 
