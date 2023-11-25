@@ -1129,6 +1129,7 @@
 - **RECOGNIZE ANY REGIONS;** Haosen Yang et al
 - **AiluRus: A Scalable ViT Framework for Dense Prediction;** Jin Li et al
 - **T-Rex: Counting by Visual Prompting;** Qing Jiang et al
+- **Visual In-Context Prompting;** Feng Li et al
 
 
 
