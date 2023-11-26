@@ -333,6 +333,7 @@
 - **CRITIQUE ABILITY OF LARGE LANGUAGE MODELS;** Liangchen Luo et al
 - **BotChat: Evaluating LLMs’ Capabilities of Having Multi-Turn Dialogues;** Haodong Duan et al
 - **Instruction-Following Evaluation for Large Language Models;** Jeffrey Zhou et al
+- **GAIA: A Benchmark for General AI Assistants;** Gregoire Mialon et al
 
 
 
