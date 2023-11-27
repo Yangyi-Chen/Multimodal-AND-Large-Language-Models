@@ -771,6 +771,7 @@
 - **BEYOND TASK PERFORMANCE: EVALUATING AND REDUCING THE FLAWS OF LARGE MULTIMODAL MODELS WITH IN-CONTEXT LEARNING;** Mustafa Shukor et al
 - **Grounded Intuition of GPT-Vision’s Abilities with Scientific Images;** Alyssa Hwang et al
 - **Holistic Evaluation of Text-to-Image Models;** Tony Lee et al
+- **CORE-MM: COMPLEX OPEN-ENDED REASONING EVALUATION FOR MULTI-MODAL LARGE LANGUAGE MODELS;** Xiaotian Han et al
 
 
 
