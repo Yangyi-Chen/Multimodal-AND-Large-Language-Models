@@ -732,6 +732,7 @@
 - **mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration;** Qinghao Ye et al
 - **LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge;** Gongwei Chen et al
 - **Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs;** Yonghui Wang et al
+- **OtterHD: A High-Resolution Multi-modality Model;** Bo Li et al
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback;** Yangyi Chen et al
 
 
