@@ -587,6 +587,7 @@
 - **Pinpoint, Not Criticize: Refining Large Language Models via Fine-Grained Actionable Feedback;** Wenda Xu et al
 - **Digital Socrates: Evaluating LLMs through explanation critiques;** Yuling Gu et al
 - **Outcome-supervised Verifiers for Planning in Mathematical Reasoning;** Fei Yu et al
+- **Data-Efficient Alignment of Large Language Models with Human Feedback Through Natural Language;** Di Jin et al
 
 
 ## MoE/Specialized
