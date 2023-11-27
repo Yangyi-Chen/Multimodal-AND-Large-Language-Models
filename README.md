@@ -784,6 +784,7 @@
 - **NExT-GPT: Any-to-Any Multimodal LLM;** Shengqiong Wu et al
 - **ImageBind-LLM: Multi-modality Instruction Tuning;** Jiaming Han et al
 - **LAURAGPT: LISTEN, ATTEND, UNDERSTAND, AND REGENERATE AUDIO WITH GPT;** Jiaming Wang et al
+- **AN EMBODIED GENERALIST AGENT IN 3D WORLD;** Jiangyong Huang et al
 
 
 
