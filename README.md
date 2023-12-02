@@ -592,6 +592,7 @@
 - **Digital Socrates: Evaluating LLMs through explanation critiques;** Yuling Gu et al
 - **Outcome-supervised Verifiers for Planning in Mathematical Reasoning;** Fei Yu et al
 - **Data-Efficient Alignment of Large Language Models with Human Feedback Through Natural Language;** Di Jin et al
+- **CRITIQUELLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation;** Pei Ke et al
 
 
 ## MoE/Specialized
