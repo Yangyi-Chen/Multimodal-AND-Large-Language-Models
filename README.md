@@ -1133,6 +1133,7 @@
 - **VideoCon: Robust Video-Language Alignment via Contrast Captions;** Hritik Bansal et al
 - **PG-Video-LLaVA: Pixel Grounding Large Video-Language Models;** Shehan Munasinghe et al
 - **VLM-Eval: A General Evaluation on Video Large Language Models;** Shuailin Li et al
+- **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection;** Bin Lin et al
 
 
 
