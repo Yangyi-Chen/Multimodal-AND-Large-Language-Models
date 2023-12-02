@@ -548,6 +548,9 @@
 - **CLIN: A CONTINUALLY LEARNING LANGUAGE AGENT FOR RAPID TASK ADAPTATION AND GENERALIZATION;** Bodhisattwa Prasad Majumder et al
 - **FIREACT: TOWARD LANGUAGE AGENT FINE-TUNING;** Baian Chen et al
 - **TrainerAgent: Customizable and Efficient Model Training through LLM-Powered Multi-Agent System;** Haoyuan Li et al
+- **STEVE: See and Think: Embodied Agent in Virtual Environment;** Zhonghan Zhao et al
+
+
 
 **Evaluation**
 - **AgentBench: Evaluating LLMs as Agents;** Xiao Liu et al
