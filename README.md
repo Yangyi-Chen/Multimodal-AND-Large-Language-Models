@@ -564,6 +564,8 @@
 - **VIDEO LANGUAGE PLANNING;** Yilun Du et al
 - **Fuyu-8B: A Multimodal Architecture for AI Agents;** Rohan Bavishi et al
 - **GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation;** An Yan et al
+- **Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld;** Yijun Yang et al
+
 
 
 ## Interaction
@@ -1134,6 +1136,7 @@
 - **PG-Video-LLaVA: Pixel Grounding Large Video-Language Models;** Shehan Munasinghe et al
 - **VLM-Eval: A General Evaluation on Video Large Language Models;** Shuailin Li et al
 - **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection;** Bin Lin et al
+- **MVBench: A Comprehensive Multi-modal Video Understanding Benchmark;** Kunchang Li et al
 
 
 
