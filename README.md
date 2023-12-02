@@ -508,6 +508,7 @@
 - **ZEPHYR: DIRECT DISTILLATION OF LM ALIGNMENT;** Lewis Tunstall et al
 - **LEMUR: HARMONIZING NATURAL LANGUAGE AND CODE FOR LANGUAGE AGENTS;** Yiheng Xu et al
 - **System 2 Attention (is something you might need too);** Jason Weston et al
+- **Camels in a Changing Climate: Enhancing LM Adaptation with TÜLU 2;** Hamish Ivison et al
 
 
 
