@@ -1,4 +1,4 @@
-# Large (Multimodal) Language Models
+# Multimodal & Large Language Models
 **Note:** This paper list is only used to record papers I read in the daily arxiv for personal needs. If you find I missed some important and exciting work, it would be super helpful to let me know. Thanks!  
 
 
@@ -800,6 +800,7 @@
 - **ImageBind-LLM: Multi-modality Instruction Tuning;** Jiaming Han et al
 - **LAURAGPT: LISTEN, ATTEND, UNDERSTAND, AND REGENERATE AUDIO WITH GPT;** Jiaming Wang et al
 - **AN EMBODIED GENERALIST AGENT IN 3D WORLD;** Jiangyong Huang et al
+- **VIT-LENS-2: Gateway to Omni-modal Intelligence;** Weixian Lei et al
 
 
 
