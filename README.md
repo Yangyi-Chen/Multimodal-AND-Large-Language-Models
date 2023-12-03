@@ -749,6 +749,8 @@
 - **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions;** Lin Chen et al
 - **PerceptionGPT: Effectively Fusing Visual Perception into LLM;** Renjie Pi et al
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback;** Yangyi Chen et al
+- **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding;** Peng Jin et al
+
 
 
 
