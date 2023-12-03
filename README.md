@@ -1462,7 +1462,7 @@
 - **Woodpecker: Hallucination Correction for Multimodal Large Language Models;** Shukang Yin et al
 - **AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation;** Junyang Wang et al
 - **Fine-tuning Language Models for Factuality;** Katherine Tian et al
-
+- **Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization;** Zhiyuan Zhao et al
 
 ## Cognitive NeuronScience & Machine Learning
 - **Mind Reader: Reconstructing complex images from brain activities;** Sikun Lin et al
