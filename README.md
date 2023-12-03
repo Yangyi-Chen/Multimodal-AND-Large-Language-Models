@@ -828,6 +828,7 @@
 - **KOSMOS-G: Generating Images in Context with Multimodal Large Language Models;** Xichen Pan et al
 - **DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning;** Abhay Zala et al
 - **LLMGA: Multimodal Large Language Model based Generation Assistant;** Bin Xia et al
+- **ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model;** Xiaowei Chi et al
 
 
 
