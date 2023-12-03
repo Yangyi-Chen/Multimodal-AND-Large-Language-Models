@@ -549,7 +549,7 @@
 - **CLIN: A CONTINUALLY LEARNING LANGUAGE AGENT FOR RAPID TASK ADAPTATION AND GENERALIZATION;** Bodhisattwa Prasad Majumder et al
 - **FIREACT: TOWARD LANGUAGE AGENT FINE-TUNING;** Baian Chen et al
 - **TrainerAgent: Customizable and Efficient Model Training through LLM-Powered Multi-Agent System;** Haoyuan Li et al
-- **STEVE: See and Think: Embodied Agent in Virtual Environment;** Zhonghan Zhao et al
+- **LUMOS: LEARNING AGENTS WITH UNIFIED DATA, MODULAR DESIGN, AND OPEN-SOURCE LLMS;** Da Yin et al
 
 
 
@@ -566,7 +566,7 @@
 - **Fuyu-8B: A Multimodal Architecture for AI Agents;** Rohan Bavishi et al
 - **GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation;** An Yan et al
 - **Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld;** Yijun Yang et al
-
+- **STEVE: See and Think: Embodied Agent in Virtual Environment;** Zhonghan Zhao et al
 
 
 ## Interaction
