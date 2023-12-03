@@ -478,7 +478,7 @@
 - **MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation;** Junru Lu et al
 - **KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases;** Xintao Wang et al
 - **LONGBENCH: A BILINGUAL, MULTITASK BENCHMARK FOR LONG CONTEXT UNDERSTANDING;** Yushi Bai et al
-
+- **ChipNeMo: Domain-Adapted LLMs for Chip Design;** Mingjie Liu et al
 
 
 **Retrieval-augmented LLM**
