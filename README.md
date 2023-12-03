@@ -1409,6 +1409,7 @@
 - **OpenAssistant Conversations - Democratizing Large Language Model Alignment;** Andreas Köpf et al
 - **TheoremQA: A Theorem-driven Question Answering dataset;** Wenhu Chen et al
 - **MetaCLUE: Towards Comprehensive Visual Metaphors Research;** Arjun R. Akula et al
+- **CAPSFUSION: Rethinking Image-Text Data at Scale;** Qiying Yu et al
 
 
 
