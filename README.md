@@ -101,6 +101,7 @@
 - **Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models;** Yue Zhang et al
 - **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity;** Cunxiang Wang et al
 - **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?;** Hailin Chen et al
+- **Vision-Language Instruction Tuning: A Review and Analysis;** Chen Li et al
 
 
 
