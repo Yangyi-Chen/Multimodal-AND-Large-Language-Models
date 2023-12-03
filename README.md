@@ -1162,6 +1162,7 @@
 - **AiluRus: A Scalable ViT Framework for Dense Prediction;** Jin Li et al
 - **T-Rex: Counting by Visual Prompting;** Qing Jiang et al
 - **Visual In-Context Prompting;** Feng Li et al
+- **SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding;** Haoxiang Wang et al
 
 
 
