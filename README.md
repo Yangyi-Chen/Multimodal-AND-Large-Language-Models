@@ -295,6 +295,7 @@
 - **Trusted Source Alignment in Large Language Models;** Vasilisa Bashlovkina et al
 - **R-Tuning: Teaching Large Language Models to Refuse Unknown Questions;** Hanning Zhang et al
 - **Prudent Silence or Foolish Babble? Examining Large Language Models’ Responses to the Unknown;** Genglin Liu et al
+- **LLAMAS KNOW WHAT GPTS DON’T SHOW: SURROGATE MODELS FOR CONFIDENCE ESTIMATION;** Vaishnavi Shrivastava et al
 
 
 
