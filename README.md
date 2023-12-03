@@ -815,7 +815,8 @@
 - **LAURAGPT: LISTEN, ATTEND, UNDERSTAND, AND REGENERATE AUDIO WITH GPT;** Jiaming Wang et al
 - **AN EMBODIED GENERALIST AGENT IN 3D WORLD;** Jiangyong Huang et al
 - **VIT-LENS-2: Gateway to Omni-modal Intelligence;** Weixian Lei et al
-
+- **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation;** Zineng Tang et al
+- **X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning;** Artemis Panagopoulou et al
 
 
 ## Image Generation
