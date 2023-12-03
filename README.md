@@ -799,7 +799,7 @@
 - **Holistic Evaluation of Text-to-Image Models;** Tony Lee et al
 - **CORE-MM: COMPLEX OPEN-ENDED REASONING EVALUATION FOR MULTI-MODAL LARGE LANGUAGE MODELS;** Xiaotian Han et al
 - **HALLUSIONBENCH: An Advanced Diagnostic Suite for Entangled Language Hallucination & Visual Illusion in Large Vision-Language Models;** Tianrui Guan et al
-
+- **SEED-Bench-2: Benchmarking Multimodal Large Language Models;** Bohao Li et al
 
 
 
