@@ -579,13 +579,12 @@
 ## Interaction
 - **LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles;** Shulin Huang et al
 - **BENCHMARKING LARGE LANGUAGE MODELS AS AI RESEARCH AGENTS;** Qian Huang et al
-- **MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback;** Xingyao Wang et al
 - **ADAPTING LLM AGENTS THROUGH COMMUNICATION;** Kuan Wang et al
 - **PARROT: ENHANCING MULTI-TURN CHAT MODELS BY LEARNING TO ASK QUESTIONS;** Yuchong Sun et al
 - **LLAMA RIDER: SPURRING LARGE LANGUAGE MODELS TO EXPLORE THE OPEN WORLD;** Yicheng Feng et al
 - **AGENTTUNING: ENABLING GENERALIZED AGENT ABILITIES FOR LLMS;** Aohan Zeng et al
-
-
+- **LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models;** Marwa Abdulhai et al
+- **MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback;** Xingyao Wang et al
 
 
 ## Critique Modeling
