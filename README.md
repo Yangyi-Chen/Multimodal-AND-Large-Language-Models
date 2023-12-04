@@ -1186,6 +1186,7 @@
 - **T-Rex: Counting by Visual Prompting;** Qing Jiang et al
 - **Visual In-Context Prompting;** Feng Li et al
 - **SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding;** Haoxiang Wang et al
+- **Sequential Modeling Enables Scalable Learning for Large Vision Models;** Yutong Bai et al
 
 
 
