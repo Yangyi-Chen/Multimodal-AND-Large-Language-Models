@@ -858,6 +858,7 @@
 - **KOSMOS-2.5: A Multimodal Literate Model;** Tengchao Lv et al
 - **STRUCTCHART: PERCEPTION, STRUCTURING, REASONING FOR VISUAL CHART UNDERSTANDING;** Renqiu Xia et al
 - **UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model;** Jiabo Ye et al
+- **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning;** Fuxiao Liu et al
 
 
 **Dataset**
