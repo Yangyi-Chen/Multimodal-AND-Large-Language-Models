@@ -802,6 +802,10 @@
 - **HALLUSIONBENCH: An Advanced Diagnostic Suite for Entangled Language Hallucination & Visual Illusion in Large Vision-Language Models;** Tianrui Guan et al
 - **SEED-Bench-2: Benchmarking Multimodal Large Language Models;** Bohao Li et al
 - **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI;** Xiang Yue et al
+- **MATHVISTA: EVALUATING MATH REASONING IN VISUAL CONTEXTS WITH GPT-4V, BARD, AND OTHER LARGE MULTIMODAL MODELS;** Pan Lu et al
+
+
+
 
 
 
