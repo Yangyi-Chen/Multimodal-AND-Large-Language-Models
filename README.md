@@ -758,6 +758,7 @@
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback;** Yangyi Chen et al
 - **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding;** Peng Jin et al
 - **mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model;** Anwen Hu et al
+- **Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models;** Haoning Wu et al
 
 
 
