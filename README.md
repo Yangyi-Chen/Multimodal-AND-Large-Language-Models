@@ -759,6 +759,7 @@
 - **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding;** Peng Jin et al
 - **mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model;** Anwen Hu et al
 - **Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models;** Haoning Wu et al
+- **SPHINX: THE JOINT MIXING OF WEIGHTS, TASKS, AND VISUAL EMBEDDINGS FOR MULTI-MODAL LARGE LANGUAGE MODELS;** Ziyi Lin et al
 
 
 
