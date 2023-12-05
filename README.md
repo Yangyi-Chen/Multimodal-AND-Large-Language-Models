@@ -859,6 +859,7 @@
 - **STRUCTCHART: PERCEPTION, STRUCTURING, REASONING FOR VISUAL CHART UNDERSTANDING;** Renqiu Xia et al
 - **UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model;** Jiabo Ye et al
 - **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning;** Fuxiao Liu et al
+- **ChartLlama: A Multimodal LLM for Chart Understanding and Generation;** Yucheng Han et al
 
 
 **Dataset**
