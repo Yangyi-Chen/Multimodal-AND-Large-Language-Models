@@ -102,6 +102,7 @@
 - **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity;** Cunxiang Wang et al
 - **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?;** Hailin Chen et al
 - **Vision-Language Instruction Tuning: A Review and Analysis;** Chen Li et al
+- **The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities;** Yuxiang Zhou et al
 
 
 
@@ -512,6 +513,7 @@
 - **LEMUR: HARMONIZING NATURAL LANGUAGE AND CODE FOR LANGUAGE AGENTS;** Yiheng Xu et al
 - **System 2 Attention (is something you might need too);** Jason Weston et al
 - **Camels in a Changing Climate: Enhancing LM Adaptation with TÜLU 2;** Hamish Ivison et al
+- **The Falcon Series of Open Language Models;** Ebtesam Almazrouei et al
 
 
 
@@ -526,6 +528,7 @@
 
 
 ## Scalable Oversight 
+- **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
 - **Debate Helps Supervise Unreliable Experts;** Julian Michael et al
 
 
@@ -574,7 +577,9 @@
 - **GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation;** An Yan et al
 - **Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld;** Yijun Yang et al
 - **STEVE: See and Think: Embodied Agent in Virtual Environment;** Zhonghan Zhao et al
-
+- **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models;** Zihao Wang et al
+- **STEVE-EYE: EQUIPPING LLM-BASED EMBODIED AGENTS WITH VISUAL PERCEPTION IN OPEN WORLDS;** Sipeng Zheng et al
+- **OCTOPUS: EMBODIED VISION-LANGUAGE PROGRAMMER FROM ENVIRONMENTAL FEEDBACK;** Jingkang Yang et al
 
 ## Interaction
 - **LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles;** Shulin Huang et al
@@ -755,6 +760,7 @@
 - **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions;** Lin Chen et al
 - **PerceptionGPT: Effectively Fusing Visual Perception into LLM;** Renjie Pi et al
 - **OCTAVIUS: MITIGATING TASK INTERFERENCE IN MLLMS VIA MOE;** Zeren Chen et al
+- **COGVLM: VISUAL EXPERT FOR LARGE LANGUAGE MODELS;** Weihan Wang et al
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback;** Yangyi Chen et al
 - **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding;** Peng Jin et al
 - **mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model;** Anwen Hu et al
@@ -826,6 +832,7 @@
 - **VIT-LENS-2: Gateway to Omni-modal Intelligence;** Weixian Lei et al
 - **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation;** Zineng Tang et al
 - **X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning;** Artemis Panagopoulou et al
+- **Merlin: Empowering Multimodal LLMs with Foresight Minds;** En Yu et al
 
 
 ## Image Generation
@@ -1124,7 +1131,10 @@
 - **Teaching Language Models to Self-Improve through Interactive Demonstrations;** Xiao Yu et al
 - **Democratizing Reasoning Ability: Tailored Learning from Large Language Model;** Zhaoyang Wang et al
 - **ENABLE LANGUAGE MODELS TO IMPLICITLY LEARN SELF-IMPROVEMENT FROM DATA;** Ziqi Wang et al
+- **ULTRAFEEDBACK: BOOSTING LANGUAGE MODELS WITH HIGH-QUALITY FEEDBACK;** Ganqu Cui et al
 - **HELPSTEER: Multi-attribute Helpfulness Dataset for STEERLM;** Zhilin Wang et al
+- **Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering;** Yichi Zhang et al
+- **TOOL-AUGMENTED REWARD MODELING;** Lei Li et al
 
 
 ## Video Foundation Model
@@ -1166,6 +1176,7 @@
 - **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection;** Bin Lin et al
 - **MVBench: A Comprehensive Multi-modal Video Understanding Benchmark;** Kunchang Li et al
 - **LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models;** Yanwei Li et al
+- **LANGUAGEBIND: EXTENDING VIDEO-LANGUAGE PRETRAINING TO N-MODALITY BY LANGUAGEBASED SEMANTIC ALIGNMENT;** Bin Zhu et al
 
 
 ## Key Frame Detection
@@ -1190,6 +1201,7 @@
 - **Visual In-Context Prompting;** Feng Li et al
 - **SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding;** Haoxiang Wang et al
 - **Sequential Modeling Enables Scalable Learning for Large Vision Models;** Yutong Bai et al
+- **Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks;** Bin Xiao et al
 
 
 
@@ -1432,6 +1444,7 @@
 - **TheoremQA: A Theorem-driven Question Answering dataset;** Wenhu Chen et al
 - **MetaCLUE: Towards Comprehensive Visual Metaphors Research;** Arjun R. Akula et al
 - **CAPSFUSION: Rethinking Image-Text Data at Scale;** Qiying Yu et al
+- **RedCaps: Web-curated image-text data created by the people, for the people;** Karan Desai et al
 
 
 
