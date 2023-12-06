@@ -767,6 +767,7 @@
 - **GLaMM: Pixel Grounding Large Multimodal Model;** Hanoona Rasheed et al
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback;** Yangyi Chen et al
 - **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding;** Peng Jin et al
+- **LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models;** Hao Zhang et al
 - **mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model;** Anwen Hu et al
 - **Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models;** Haoning Wu et al
 - **SPHINX: THE JOINT MIXING OF WEIGHTS, TASKS, AND VISUAL EMBEDDINGS FOR MULTI-MODAL LARGE LANGUAGE MODELS;** Ziyi Lin et al
