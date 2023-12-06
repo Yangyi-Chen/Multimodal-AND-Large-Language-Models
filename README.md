@@ -528,6 +528,7 @@
 
 
 ## Scalable Oversight 
+- **AI safety via debate;** Geoffrey Irving et al
 - **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
 - **Debate Helps Supervise Unreliable Experts;** Julian Michael et al
 
