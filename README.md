@@ -1138,7 +1138,7 @@
 - **HELPSTEER: Multi-attribute Helpfulness Dataset for STEERLM;** Zhilin Wang et al
 - **Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering;** Yichi Zhang et al
 - **TOOL-AUGMENTED REWARD MODELING;** Lei Li et al
-
+- **Nash Learning from Human Feedback;** Rémi Munos et al
 
 ## Video Foundation Model
 - **VideoBERT: A Joint Model for Video and Language Representation Learning;** Chen Sun et al
