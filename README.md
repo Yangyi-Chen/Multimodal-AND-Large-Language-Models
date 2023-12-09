@@ -840,6 +840,7 @@
 - **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation;** Zineng Tang et al
 - **X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning;** Artemis Panagopoulou et al
 - **Merlin: Empowering Multimodal LLMs with Foresight Minds;** En Yu et al
+- **OneLLM: One Framework to Align All Modalities with Language;** Jiaming Han et al
 
 
 ## Image Generation
