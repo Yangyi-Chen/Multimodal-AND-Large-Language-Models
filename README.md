@@ -380,6 +380,7 @@
 - **META-COT: GENERALIZABLE CHAIN-OF-THOUGHT PROMPTING IN MIXED-TASK SCENARIOS WITH LARGE LANGUAGE MODELS;** Anni Zou et al
 - **TOOLCHAIN: EFFICIENT ACTION SPACE NAVIGATION IN LARGE LANGUAGE MODELS WITH A SEARCH;** Yuchen Zhuang et al
 - **Learning From Mistakes Makes LLM Better Reasoner;** Shengnan An et al
+- **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator;** Chengshu Li et al
 
 
 
