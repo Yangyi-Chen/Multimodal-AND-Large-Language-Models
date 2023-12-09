@@ -103,6 +103,7 @@
 - **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?;** Hailin Chen et al
 - **Vision-Language Instruction Tuning: A Review and Analysis;** Chen Li et al
 - **The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities;** Yuxiang Zhou et al
+- **Efficient Large Language Models: A Survey;** Zhongwei Wan et al
 
 
 
