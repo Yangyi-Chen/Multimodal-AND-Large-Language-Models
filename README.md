@@ -619,6 +619,7 @@
 - **Outcome-supervised Verifiers for Planning in Mathematical Reasoning;** Fei Yu et al
 - **Data-Efficient Alignment of Large Language Models with Human Feedback Through Natural Language;** Di Jin et al
 - **CRITIQUELLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation;** Pei Ke et al
+- **Mismatch Quest: Visual and Textual Feedback for Image-Text Misalignment;** Brian Gordon et al
 
 
 ## MoE/Specialized
