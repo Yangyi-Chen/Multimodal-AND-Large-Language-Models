@@ -105,6 +105,7 @@
 - **The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities;** Yuxiang Zhou et al
 - **Efficient Large Language Models: A Survey;** Zhongwei Wan et al
 - **The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision);** Zhengyuan Yang et al
+- **Igniting Language Intelligence: The Hitchhiker’s Guide From Chain-of-Thought Reasoning to Language Agents;** Zhuosheng Zhang et al
 
 
 
