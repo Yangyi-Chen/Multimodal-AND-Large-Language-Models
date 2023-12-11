@@ -534,6 +534,7 @@
 
 
 ## Scalable Oversight 
+- **Supervising strong learners by amplifying weak experts;** Paul Christiano et al
 - **Deep Reinforcement Learning from Human Preferences;** Paul F Christiano et al
 - **AI safety via debate;** Geoffrey Irving et al
 - **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
