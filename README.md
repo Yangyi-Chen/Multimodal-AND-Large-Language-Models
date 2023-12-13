@@ -780,6 +780,7 @@
 - **Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models;** Haoning Wu et al
 - **SPHINX: THE JOINT MIXING OF WEIGHTS, TASKS, AND VISUAL EMBEDDINGS FOR MULTI-MODAL LARGE LANGUAGE MODELS;** Ziyi Lin et al
 - **DeepSpeed-VisualChat: Multi Round Multi Images Interleave Chat via Multi-Modal Casual Attention;** Zhewei Yao et al
+- **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models;** Haoran Wei et al
 
 
 
