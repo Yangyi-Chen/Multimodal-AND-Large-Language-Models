@@ -21,6 +21,7 @@
 - [LLM with Human](#llm-with-human)
 - [LLM Foundation](#llm-foundation)
 - [LLM Data Engineering](#llm-data-engineering)
+- [Alignment](#alignment)
 - [Scalable Oversight](#scalable-oversight)
 - [Agent](#agent)
 - [Interaction](#interaction)
@@ -533,6 +534,12 @@
 - **ZERO-SHOT GOAL-DIRECTED DIALOGUE VIA RL ON IMAGINED CONVERSATIONS;** Joey Hong et al
 - **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models;** Fangzhi Xu et al
 - **Orca 2: Teaching Small Language Models How to Reason;** Arindam Mitra et al
+
+
+
+## Alignment
+- **Language Model Alignment with Elastic Reset;** Michael Noukhovitch et al
+
 
 
 ## Scalable Oversight 
