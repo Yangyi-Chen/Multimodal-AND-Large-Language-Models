@@ -1228,6 +1228,7 @@
 - **SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding;** Haoxiang Wang et al
 - **Sequential Modeling Enables Scalable Learning for Large Vision Models;** Yutong Bai et al
 - **Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks;** Bin Xiao et al
+- **4M: Massively Multimodal Masked Modeling;** David Mizrahi et al
 
 
 
