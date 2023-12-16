@@ -598,6 +598,9 @@
 - **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models;** Zihao Wang et al
 - **STEVE-EYE: EQUIPPING LLM-BASED EMBODIED AGENTS WITH VISUAL PERCEPTION IN OPEN WORLDS;** Sipeng Zheng et al
 - **OCTOPUS: EMBODIED VISION-LANGUAGE PROGRAMMER FROM ENVIRONMENTAL FEEDBACK;** Jingkang Yang et al
+- **CogAgent: A Visual Language Model for GUI Agents;** Wenyi Hong et al
+
+
 
 ## Interaction
 - **LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles;** Shulin Huang et al
