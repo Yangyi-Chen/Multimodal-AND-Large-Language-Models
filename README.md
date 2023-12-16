@@ -235,6 +235,12 @@
 - **ClipCap: CLIP Prefix for Image Captioning;** Ron Mokady et al; Train an light-weight encoder to convert CLIP embeddings to prefix token embeddings of GPT-2. 
 - **Multimodal Knowledge Alignment with Reinforcement Learning;** Youngjae Yu et al; Use RL to train an encoder that projects multimodal inputs into the word embedding space of GPT-2. 
 
+
+
+
+
+
+
 ## Representation Learning
 - **Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering;** Peter Anderson et al
 - **Fusion of Detected Objects in Text for Visual Question Answering;** Chris Alberti et al
@@ -540,6 +546,7 @@
 
 ## Alignment
 - **Language Model Alignment with Elastic Reset;** Michael Noukhovitch et al
+- **Alignment for Honesty;** Yuqing Yang et al
 
 
 
