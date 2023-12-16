@@ -808,7 +808,7 @@
 ## Vision-Language Model Application
 - **VISION-LANGUAGE FOUNDATION MODELS AS EFFECTIVE ROBOT IMITATORS;** Xinghang Li et al
 - **LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing;** Wei-Ge Chen et al
-
+- **Vision-Language Models as a Source of Rewards;** Kate Baumli et al
 
 ## Vision-Language Model Analysis & Evaluation
 - **What Makes for Good Visual Tokenizers for Large Language Models?;** Guangzhi Wang et al
@@ -834,6 +834,7 @@
 - **SEED-Bench-2: Benchmarking Multimodal Large Language Models;** Bohao Li et al
 - **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI;** Xiang Yue et al
 - **MATHVISTA: EVALUATING MATH REASONING IN VISUAL CONTEXTS WITH GPT-4V, BARD, AND OTHER LARGE MULTIMODAL MODELS;** Pan Lu et al
+
 
 
 
