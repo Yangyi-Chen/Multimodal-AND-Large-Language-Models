@@ -1168,6 +1168,9 @@
 - **Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering;** Yichi Zhang et al
 - **TOOL-AUGMENTED REWARD MODELING;** Lei Li et al
 - **Nash Learning from Human Feedback;** Rémi Munos et al
+- **Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models;** Avi Singh et al
+
+
 
 ## Video Foundation Model
 - **VideoBERT: A Joint Model for Video and Language Representation Learning;** Chen Sun et al
