@@ -642,6 +642,7 @@
 - **Data-Efficient Alignment of Large Language Models with Human Feedback Through Natural Language;** Di Jin et al
 - **CRITIQUELLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation;** Pei Ke et al
 - **Mismatch Quest: Visual and Textual Feedback for Image-Text Misalignment;** Brian Gordon et al
+- **MATH-SHEPHERD: A LABEL-FREE STEP-BY-STEP VERIFIER FOR LLMS IN MATHEMATICAL REASONING;** Peiyi Wang et al
 
 
 ## MoE/Specialized
