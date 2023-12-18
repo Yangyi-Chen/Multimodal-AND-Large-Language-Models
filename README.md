@@ -620,6 +620,8 @@
 - **AGENTTUNING: ENABLING GENERALIZED AGENT ABILITIES FOR LLMS;** Aohan Zeng et al
 - **LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models;** Marwa Abdulhai et al
 - **MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback;** Xingyao Wang et al
+- **LLF-Bench: Benchmark for Interactive Learning from Language Feedback;** Ching-An Cheng et al
+
 
 
 ## Critique Modeling
