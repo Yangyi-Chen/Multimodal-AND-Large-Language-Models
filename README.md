@@ -542,6 +542,7 @@
 - **Orca: Progressive Learning from Complex Explanation Traces of GPT-4;** Subhabrata Mukherjee et al
 - **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models;** Fangzhi Xu et al
 - **Orca 2: Teaching Small Language Models How to Reason;** Arindam Mitra et al
+- **REST MEETS REACT: SELF-IMPROVEMENT FOR MULTI-STEP REASONING LLM AGENT;** Renat Aksitov et al
 
 
 
