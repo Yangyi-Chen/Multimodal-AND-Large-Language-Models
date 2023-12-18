@@ -557,6 +557,7 @@
 - **Deep Reinforcement Learning from Human Preferences;** Paul F Christiano et al
 - **AI safety via debate;** Geoffrey Irving et al
 - **Scalable agent alignment via reward modeling: a research direction;** Jan Leike et al
+- **Recursively Summarizing Books with Human Feedback;** Jeff Wu et al
 - **Self-critiquing models for assisting human evaluators;** William Saunders et al
 - **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
 - **Debate Helps Supervise Unreliable Experts;** Julian Michael et al
