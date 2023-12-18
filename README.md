@@ -557,6 +557,7 @@
 - **Deep Reinforcement Learning from Human Preferences;** Paul F Christiano et al
 - **AI safety via debate;** Geoffrey Irving et al
 - **Scalable agent alignment via reward modeling: a research direction;** Jan Leike et al
+- **Self-critiquing models for assisting human evaluators;** William Saunders et al
 - **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
 - **Debate Helps Supervise Unreliable Experts;** Julian Michael et al
 - **WEAK-TO-STRONG GENERALIZATION: ELICITING STRONG CAPABILITIES WITH WEAK SUPERVISION;** Collin Burns et al
@@ -633,7 +634,6 @@
 
 
 ## Critique Modeling
-- **Self-critiquing models for assisting human evaluators;** William Saunders et al
 - **Learning Evaluation Models from Large Language Models for Sequence Generation;** Chenglong Wang et al
 - **RETROFORMER: RETROSPECTIVE LARGE LANGUAGE AGENTS WITH POLICY GRADIENT OPTIMIZATION;** Weiran Yao et al
 - **Shepherd: A Critic for Language Model Generation;** Tianlu Wang et al
