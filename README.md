@@ -23,6 +23,7 @@
 - [LLM Data Engineering](#llm-data-engineering)
 - [Alignment](#alignment)
 - [Scalable Oversight](#scalable-oversight)
+- [Beyond Bandit](#beyond-bandit)
 - [Agent](#agent)
 - [Interaction](#interaction)
 - [Critique Modeling](#critic-modeling)
@@ -538,7 +539,6 @@
 ## LLM Data Engineering
 - **Textbooks Are All You Need II: phi-1.5 technical report;** Yuanzhi Li et al
 - **Orca: Progressive Learning from Complex Explanation Traces of GPT-4;** Subhabrata Mukherjee et al
-- **ZERO-SHOT GOAL-DIRECTED DIALOGUE VIA RL ON IMAGINED CONVERSATIONS;** Joey Hong et al
 - **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models;** Fangzhi Xu et al
 - **Orca 2: Teaching Small Language Models How to Reason;** Arindam Mitra et al
 
@@ -558,6 +558,11 @@
 - **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
 - **Debate Helps Supervise Unreliable Experts;** Julian Michael et al
 - **WEAK-TO-STRONG GENERALIZATION: ELICITING STRONG CAPABILITIES WITH WEAK SUPERVISION;** Collin Burns et al
+
+## Beyond Bandit
+- **ZERO-SHOT GOAL-DIRECTED DIALOGUE VIA RL ON IMAGINED CONVERSATIONS;** Joey Hong et al
+- **LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models;** Marwa Abdulhai et al
+
 
 
 ## Agent
@@ -619,7 +624,6 @@
 - **PARROT: ENHANCING MULTI-TURN CHAT MODELS BY LEARNING TO ASK QUESTIONS;** Yuchong Sun et al
 - **LLAMA RIDER: SPURRING LARGE LANGUAGE MODELS TO EXPLORE THE OPEN WORLD;** Yicheng Feng et al
 - **AGENTTUNING: ENABLING GENERALIZED AGENT ABILITIES FOR LLMS;** Aohan Zeng et al
-- **LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models;** Marwa Abdulhai et al
 - **MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback;** Xingyao Wang et al
 - **LLF-Bench: Benchmark for Interactive Learning from Language Feedback;** Ching-An Cheng et al
 
