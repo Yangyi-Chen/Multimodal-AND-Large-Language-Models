@@ -562,6 +562,7 @@
 ## Beyond Bandit
 - **ZERO-SHOT GOAL-DIRECTED DIALOGUE VIA RL ON IMAGINED CONVERSATIONS;** Joey Hong et al
 - **LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models;** Marwa Abdulhai et al
+- **ELICITING HUMAN PREFERENCES WITH LANGUAGE MODELS;** Belinda Z. Li et al
 
 
 
