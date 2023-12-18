@@ -109,6 +109,7 @@
 - **The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision);** Zhengyuan Yang et al
 - **Igniting Language Intelligence: The Hitchhiker’s Guide From Chain-of-Thought Reasoning to Language Agents;** Zhuosheng Zhang et al
 - **Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis;** Yafei Hu et al
+- **Multimodal Foundation Models: From Specialists to General-Purpose Assistants;** Chunyuan Li et al
 
 
 
