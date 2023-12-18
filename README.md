@@ -554,6 +554,7 @@
 - **Supervising strong learners by amplifying weak experts;** Paul Christiano et al
 - **Deep Reinforcement Learning from Human Preferences;** Paul F Christiano et al
 - **AI safety via debate;** Geoffrey Irving et al
+- **Scalable agent alignment via reward modeling: a research direction;** Jan Leike et al
 - **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
 - **Debate Helps Supervise Unreliable Experts;** Julian Michael et al
 - **WEAK-TO-STRONG GENERALIZATION: ELICITING STRONG CAPABILITIES WITH WEAK SUPERVISION;** Collin Burns et al
