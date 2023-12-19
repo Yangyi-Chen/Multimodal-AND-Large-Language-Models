@@ -23,6 +23,7 @@
 - [LLM Data Engineering](#llm-data-engineering)
 - [Alignment](#alignment)
 - [Scalable Oversight](#scalable-oversight)
+- [RL Foundation](#rl-foundation)
 - [Beyond Bandit](#beyond-bandit)
 - [Agent](#agent)
 - [Interaction](#interaction)
@@ -563,6 +564,12 @@
 - **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
 - **Debate Helps Supervise Unreliable Experts;** Julian Michael et al
 - **WEAK-TO-STRONG GENERALIZATION: ELICITING STRONG CAPABILITIES WITH WEAK SUPERVISION;** Collin Burns et al
+
+
+## RL Foundation
+- **Hindsight Experience Replay;** Marcin Andrychowicz et al
+- **Learning to Reach Goals via Iterated Supervised Learning;** Dibya Ghosh et al
+
 
 ## Beyond Bandit
 - **ZERO-SHOT GOAL-DIRECTED DIALOGUE VIA RL ON IMAGINED CONVERSATIONS;** Joey Hong et al
