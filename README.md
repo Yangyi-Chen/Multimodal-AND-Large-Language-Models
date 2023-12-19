@@ -318,6 +318,7 @@
 
 
 ## LLM Safety
+- **Learning Human Objectives by Evaluating Hypothetical Behavior;** Siddharth Reddy et al
 - **Universal and Transferable Adversarial Attacks on Aligned Language Models;** Andy Zou et al
 - **XSTEST: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models;** Paul Röttger et al
 - **Jailbroken: How Does LLM Safety Training Fail? Content Warning: This paper contains examples of harmful language;** Alexander Wei et al
