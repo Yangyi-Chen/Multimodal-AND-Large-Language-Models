@@ -814,6 +814,7 @@
 - **COGVLM: VISUAL EXPERT FOR LARGE LANGUAGE MODELS;** Weihan Wang et al
 - **Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models;** Zhang Li et al
 - **Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts;** Jialin Wu et al
+- **SILKIE: PREFERENCE DISTILLATION FOR LARGE VISUAL LANGUAGE MODELS;** Lei Li et al
 - **GLaMM: Pixel Grounding Large Multimodal Model;** Hanoona Rasheed et al
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback;** Yangyi Chen et al
 - **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding;** Peng Jin et al
