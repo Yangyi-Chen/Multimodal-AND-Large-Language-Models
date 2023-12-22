@@ -551,6 +551,7 @@
 ## Alignment
 - **Language Model Alignment with Elastic Reset;** Michael Noukhovitch et al
 - **Alignment for Honesty;** Yuqing Yang et al
+- **Combining weak-to-strong generalization with scalable oversight A high-level view on how this new approach fits into our alignment plans;** JAN LEIKE
 
 
 
