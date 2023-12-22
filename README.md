@@ -825,7 +825,9 @@
 - **DeepSpeed-VisualChat: Multi Round Multi Images Interleave Chat via Multi-Modal Casual Attention;** Zhewei Yao et al
 - **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models;** Haoran Wei et al
 - **Osprey: Pixel Understanding with Visual Instruction Tuning;** Yuqian Yuan et al
-- **Gemini: A Family of Highly Capable Multimodal Models;** Gemini Team 
+- **Generative Multimodal Models are In-Context Learners;** Quan Sun et al
+- **Gemini: A Family of Highly Capable Multimodal Models;** Gemini Team
+
 
 
 
