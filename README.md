@@ -1208,6 +1208,7 @@
 - **Nash Learning from Human Feedback;** Rémi Munos et al
 - **Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models;** Avi Singh et al
 - **When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into Good Labels;** Weiyan Shi et al
+- **ConstitutionMaker: Interactively Critiquing Large Language Models by Converting Feedback into Principles;** Savvas Petridis et al
 
 
 
