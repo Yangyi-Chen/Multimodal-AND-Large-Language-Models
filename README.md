@@ -124,6 +124,7 @@
 - **Cognitive Architectures for Language Agents;** Theodore Sumers et al
 - **Large Search Model: Redefining Search Stack in the Era of LLMs;** Liang Wang et al
 - **PROAGENT: FROM ROBOTIC PROCESS AUTOMATION TO AGENTIC PROCESS AUTOMATION;** Yining Ye et al
+- **Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning;** Zhiting Hu et al
 
 
 
