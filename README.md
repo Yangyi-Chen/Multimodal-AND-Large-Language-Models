@@ -576,7 +576,9 @@
 - **ZERO-SHOT GOAL-DIRECTED DIALOGUE VIA RL ON IMAGINED CONVERSATIONS;** Joey Hong et al
 - **LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models;** Marwa Abdulhai et al
 - **ELICITING HUMAN PREFERENCES WITH LANGUAGE MODELS;** Belinda Z. Li et al
-
+- **ITERATED DECOMPOSITION: IMPROVING SCIENCE Q&A BY SUPERVISING REASONING PROCESSES;** Justin Reppert et al
+- **Let’s Verify Step by Step;** Hunter Lightman et al
+- **Solving math word problems with processand outcome-based feedback;** Jonathan Uesato et al
 
 
 ## Agent
@@ -1165,7 +1167,6 @@
 - **Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing;** Hao Yan et al
 - **Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback;** Yao Fu et al
 - **Fine-Grained Human Feedback Gives Better Rewards for Language Model Training;** Zeqiu Wu et al
-- **Let’s Verify Step by Step;** Hunter Lightman et al
 - **Aligning Large Language Models through Synthetic Feedback;** Sungdong Kim1 et al
 - **Improving Language Models via Plug-and-Play Retrieval Feedback;** Wenhao Yu et al
 - **Improving Open Language Models by Learning from Organic Interactions;** Jing Xu et al
