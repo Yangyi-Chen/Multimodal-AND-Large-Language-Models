@@ -611,6 +611,7 @@
 - **TrainerAgent: Customizable and Efficient Model Training through LLM-Powered Multi-Agent System;** Haoyuan Li et al
 - **LUMOS: LEARNING AGENTS WITH UNIFIED DATA, MODULAR DESIGN, AND OPEN-SOURCE LLMS;** Da Yin et al
 - **TaskWeaver: A Code-First Agent Framework;** Bo Qiao et al
+- **Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning;** Filippos Christianos et al
 
 
 
