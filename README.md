@@ -1285,6 +1285,7 @@
 - **Sequential Modeling Enables Scalable Learning for Large Vision Models;** Yutong Bai et al
 - **Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks;** Bin Xiao et al
 - **4M: Massively Multimodal Masked Modeling;** David Mizrahi et al
+- **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks;** Zhe Chen et al
 
 
 
