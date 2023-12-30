@@ -1217,6 +1217,7 @@
 - **When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into Good Labels;** Weiyan Shi et al
 - **ConstitutionMaker: Interactively Critiquing Large Language Models by Converting Feedback into Principles;** Savvas Petridis et al
 - **REASONS TO REJECT? ALIGNING LANGUAGE MODELS WITH JUDGMENTS;** Weiwen Xu et al
+- **Some things are more CRINGE than others: Preference Optimization with the Pairwise Cringe Loss;** Jing Xu et al
 
 
 
