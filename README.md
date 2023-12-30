@@ -907,6 +907,7 @@
 - **X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning;** Artemis Panagopoulou et al
 - **Merlin: Empowering Multimodal LLMs with Foresight Minds;** En Yu et al
 - **OneLLM: One Framework to Align All Modalities with Language;** Jiaming Han et al
+- **Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action;** Jiasen Lu et al
 
 
 ## Image Generation
