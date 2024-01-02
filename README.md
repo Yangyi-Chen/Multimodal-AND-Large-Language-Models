@@ -112,6 +112,7 @@
 - **Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis;** Yafei Hu et al
 - **Multimodal Foundation Models: From Specialists to General-Purpose Assistants;** Chunyuan Li et al
 - **A Survey on Large Language Model based Autonomous Agents;** Lei Wang et al
+- **Video Understanding with Large Language Models: A Survey;** Yunlong Tang et al
 
 
 
