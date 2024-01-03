@@ -571,6 +571,9 @@
 - **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
 - **Debate Helps Supervise Unreliable Experts;** Julian Michael et al
 - **WEAK-TO-STRONG GENERALIZATION: ELICITING STRONG CAPABILITIES WITH WEAK SUPERVISION;** Collin Burns et al
+- **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models;** Zixiang Chen et al
+
+
 
 
 ## RL Foundation
