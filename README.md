@@ -1660,4 +1660,5 @@
 - **The Q\* hypothesis: Tree-of-thoughts reasoning, process reward models, and supercharging synthetic data;** Nathan Lambert
 - **Data-Juicer: A One-Stop Data Processing System for Large Language Models;** Daoyuan Chen et al
 - **Designing, Evaluating, and Learning from Human-AI Interactions;** Sherry Tongshuang Wu et al
-- **Reinforcement Learning from Human Feedback: Progress and Challenges;** John Schulman 
+- **Reinforcement Learning from Human Feedback: Progress and Challenges;** John Schulman
+- **Our approach to alignment research;** OpenAI
