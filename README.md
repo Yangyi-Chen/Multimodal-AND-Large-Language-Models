@@ -640,6 +640,9 @@
 - **STEVE-EYE: EQUIPPING LLM-BASED EMBODIED AGENTS WITH VISUAL PERCEPTION IN OPEN WORLDS;** Sipeng Zheng et al
 - **OCTOPUS: EMBODIED VISION-LANGUAGE PROGRAMMER FROM ENVIRONMENTAL FEEDBACK;** Jingkang Yang et al
 - **CogAgent: A Visual Language Model for GUI Agents;** Wenyi Hong et al
+- **GPT-4V(ision) is a Generalist Web Agent, if Grounded;** Boyuan Zheng et al
+
+
 
 
 
