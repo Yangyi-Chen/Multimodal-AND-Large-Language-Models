@@ -956,6 +956,7 @@
 - **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning;** Fuxiao Liu et al
 - **ChartLlama: A Multimodal LLM for Chart Understanding and Generation;** Yucheng Han et al
 - **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model;** Jiahui Gao et al
+- **ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning;** Fanqing Meng et al
 
 
 
