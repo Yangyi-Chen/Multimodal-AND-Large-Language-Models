@@ -97,7 +97,6 @@
 - **Challenges and Applications of Large Language Models;** Jean Kaddour et al
 - **Aligning Large Language Models with Human: A Survey;** Yufei Wang et al
 - **Instruction Tuning for Large Language Models: A Survey;** Shengyu Zhang et al
-- **A Survey on Large Language Model based Autonomous Agents;** Lei Wang et al
 - **From Instructions to Intrinsic Human Values —— A Survey of Alignment Goals for Big Models;** Jing Yao et al
 - **A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation;** Xiaowei Huang et al
 - **Explainability for Large Language Models: A Survey;** Haiyan Zhao et al
