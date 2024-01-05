@@ -1663,3 +1663,4 @@
 - **Designing, Evaluating, and Learning from Human-AI Interactions;** Sherry Tongshuang Wu et al
 - **Reinforcement Learning from Human Feedback: Progress and Challenges;** John Schulman
 - **Our approach to alignment research;** OpenAI
+- **AI Alignment: A Comprehensive Survey;** Jiaming Ji et al; https://alignmentsurvey.com/
