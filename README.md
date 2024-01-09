@@ -475,6 +475,7 @@
 - **DRIVEGPT4: INTERPRETABLE END-TO-END AUTONOMOUS DRIVING VIA LARGE LANGUAGE MODEL;** Zhenhua Xu et al
 - **QUALEVAL: QUALITATIVE EVALUATION FOR MODEL IMPROVEMENT;** Vishvak Murahari et al
 - **LLM AUGMENTED LLMS: EXPANDING CAPABILITIES THROUGH COMPOSITION;** Rachit Bansal et al
+- **SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems;** Dong Zhang et al
 
 
 
