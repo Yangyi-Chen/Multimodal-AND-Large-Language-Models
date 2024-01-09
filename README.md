@@ -476,12 +476,7 @@
 - **QUALEVAL: QUALITATIVE EVALUATION FOR MODEL IMPROVEMENT;** Vishvak Murahari et al
 - **LLM AUGMENTED LLMS: EXPANDING CAPABILITIES THROUGH COMPOSITION;** Rachit Bansal et al
 - **SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems;** Dong Zhang et al
-
-
-
-
-
-
+- **Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations;** Hakan Inan et al
     
 
 ## LLM with Memory
