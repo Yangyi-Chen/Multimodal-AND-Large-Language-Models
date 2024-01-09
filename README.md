@@ -652,7 +652,9 @@
 
 
 ## Interaction
-- **Imitating Interactive Intelligence;** Interactive Agents Group 
+- **Imitating Interactive Intelligence;** Interactive Agents Group
+- **Creating Multimodal Interactive Agents with Imitation and Self-Supervised Learning;** Interactive Agents Team 
+- **Evaluating Multimodal Interactive Agents;** Interactive Agents Team
 - **LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles;** Shulin Huang et al
 - **BENCHMARKING LARGE LANGUAGE MODELS AS AI RESEARCH AGENTS;** Qian Huang et al
 - **ADAPTING LLM AGENTS THROUGH COMMUNICATION;** Kuan Wang et al
