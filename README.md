@@ -474,6 +474,7 @@
 - **Can large language models provide useful feedback on research papers? A large-scale empirical analysis.;** Weixin Liang et al
 - **DRIVEGPT4: INTERPRETABLE END-TO-END AUTONOMOUS DRIVING VIA LARGE LANGUAGE MODEL;** Zhenhua Xu et al
 - **QUALEVAL: QUALITATIVE EVALUATION FOR MODEL IMPROVEMENT;** Vishvak Murahari et al
+- **LLM AUGMENTED LLMS: EXPANDING CAPABILITIES THROUGH COMPOSITION;** Rachit Bansal et al
 
 
 
