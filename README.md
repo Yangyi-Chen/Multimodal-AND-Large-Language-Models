@@ -114,6 +114,7 @@
 - **Video Understanding with Large Language Models: A Survey;** Yunlong Tang et al
 - **A Survey of Preference-Based Reinforcement Learning Methods;** Christian Wirth et al
 - **AI Alignment: A Comprehensive Survey;** Jiaming Ji et al
+- **A SURVEY OF REINFORCEMENT LEARNING FROM HUMAN FEEDBACK;** Timo Kaufmann et al
 
 
 
