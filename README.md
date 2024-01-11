@@ -838,6 +838,7 @@
 - **Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts;** Jialin Wu et al
 - **SILKIE: PREFERENCE DISTILLATION FOR LARGE VISUAL LANGUAGE MODELS;** Lei Li et al
 - **GLaMM: Pixel Grounding Large Multimodal Model;** Hanoona Rasheed et al
+- **TEXTBIND: MULTI-TURN INTERLEAVED MULTIMODAL INSTRUCTION-FOLLOWING IN THE WILD;** Huayang Li et al
 - **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback;** Yangyi Chen et al
 - **Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding;** Peng Jin et al
 - **LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models;** Hao Zhang et al
