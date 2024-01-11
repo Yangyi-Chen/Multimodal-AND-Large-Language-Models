@@ -403,6 +403,7 @@
 - **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator;** Chengshu Li et al
 - **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives;** Wenqi Zhang et al
 - **Divide and Conquer for Large Language Models Reasoning;** Zijie Meng et al
+- **The Impact of Reasoning Step Length on Large Language Models;** Mingyu Jin et al
 
 
 
