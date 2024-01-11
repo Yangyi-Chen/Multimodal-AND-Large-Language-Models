@@ -402,6 +402,7 @@
 - **Learning From Mistakes Makes LLM Better Reasoner;** Shengnan An et al
 - **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator;** Chengshu Li et al
 - **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives;** Wenqi Zhang et al
+- **Divide and Conquer for Large Language Models Reasoning;** Zijie Meng et al
 
 
 
