@@ -1241,6 +1241,7 @@
 - **ConstitutionMaker: Interactively Critiquing Large Language Models by Converting Feedback into Principles;** Savvas Petridis et al
 - **REASONS TO REJECT? ALIGNING LANGUAGE MODELS WITH JUDGMENTS;** Weiwen Xu et al
 - **Some things are more CRINGE than others: Preference Optimization with the Pairwise Cringe Loss;** Jing Xu et al
+- **Mitigating Unhelpfulness in Emotional Support Conversations with Multifaceted AI Feedback;** Jiashuo Wang et al
 
 
 
