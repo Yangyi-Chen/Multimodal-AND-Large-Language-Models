@@ -541,8 +541,6 @@
 - **Camels in a Changing Climate: Enhancing LM Adaptation with TÜLU 2;** Hamish Ivison et al
 - **The Falcon Series of Open Language Models;** Ebtesam Almazrouei et al
 - **LLM360: Towards Fully Transparent Open-Source LLMs;** Zhengzhong Liu et al
-- **Mixtral of Experts;** Albert Q. Jiang et al
-
 
 
 
@@ -705,7 +703,9 @@
 - **OPENWEBMATH: AN OPEN DATASET OF HIGH-QUALITY MATHEMATICAL WEB TEXT;** Keiran Paster et al
 - **LLEMMA: AN OPEN LANGUAGE MODEL FOR MATHEMATICS;** Zhangir Azerbayev et al
 - **Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models;** Keming Lu et al
-
+- **Mixtral of Experts;** Albert Q. Jiang et al
+- **DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models;** Damai Dai et al
+- **MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts;** Maciej Pioro et al
 
 
 
