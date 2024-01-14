@@ -116,6 +116,7 @@
 - **AI Alignment: A Comprehensive Survey;** Jiaming Ji et al
 - **A SURVEY OF REINFORCEMENT LEARNING FROM HUMAN FEEDBACK;** Timo Kaufmann et al
 - **TRUSTLLM: TRUSTWORTHINESS IN LARGE LANGUAGE MODELS;** Lichao Sun et al
+- **AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION;** Zane Durante et al
 
 
 
