@@ -587,6 +587,9 @@
 - **The Wisdom of Hindsight Makes Language Models Better Instruction Followers;** Tianjun Zhang et al
 - **REWARD UNCERTAINTY FOR EXPLORATION IN PREFERENCE-BASED REINFORCEMENT LEARNING;** Xinran Liang et al
 
+**AutoTelic Agent**
+- **8AUGMENTING AUTOTELIC AGENTS WITH LARGE LANGUAGE MODELS;** Cedric Colas et al
+
 
 ## Beyond Bandit
 - **ZERO-SHOT GOAL-DIRECTED DIALOGUE VIA RL ON IMAGINED CONVERSATIONS;** Joey Hong et al
