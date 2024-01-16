@@ -589,7 +589,7 @@
 - **REWARD UNCERTAINTY FOR EXPLORATION IN PREFERENCE-BASED REINFORCEMENT LEARNING;** Xinran Liang et al
 
 **AutoTelic Agent**
-- **8AUGMENTING AUTOTELIC AGENTS WITH LARGE LANGUAGE MODELS;** Cedric Colas et al
+- **AUGMENTING AUTOTELIC AGENTS WITH LARGE LANGUAGE MODELS;** Cedric Colas et al
 - **Visual Reinforcement Learning with Imagined Goals;** Ashvin Nair et al
 
 
