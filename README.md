@@ -1688,3 +1688,5 @@
 - **Reinforcement Learning from Human Feedback: Progress and Challenges;** John Schulman
 - **Our approach to alignment research;** OpenAI
 - **AI Alignment: A Comprehensive Survey;** Jiaming Ji et al; https://alignmentsurvey.com/
+- **Alignment Workshop;** https://www.alignment-workshop.com/nola-2023
+- **AI Alignment Research Overview;** Jacob Steinhardt
