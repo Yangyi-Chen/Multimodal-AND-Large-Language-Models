@@ -362,7 +362,6 @@
 - **Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations;** Lifan Yuan et al
 - **TIGERSCORE: TOWARDS BUILDING EXPLAINABLE METRIC FOR ALL TEXT GENERATION TASKS;** Dongfu Jiang et al
 - **DO LARGE LANGUAGE MODELS KNOW ABOUT FACTS?;** Xuming Hu et al
-- **GENERATIVE JUDGE FOR EVALUATING ALIGNMENT;** Junlong Li et al
 - **PROMETHEUS: INDUCING FINE-GRAINED EVALUATION CAPABILITY IN LANGUAGE MODELS;** Seungone Kim et al
 - **CRITIQUE ABILITY OF LARGE LANGUAGE MODELS;** Liangchen Luo et al
 - **BotChat: Evaluating LLMs’ Capabilities of Having Multi-Turn Dialogues;** Haodong Duan et al
