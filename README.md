@@ -583,6 +583,7 @@
 
 
 ## RL Foundation
+- **PREFERENCES IMPLICIT IN THE STATE OF THE WORLD;** Rohin Shah et al
 - **Hindsight Experience Replay;** Marcin Andrychowicz et al
 - **Learning to Reach Goals via Iterated Supervised Learning;** Dibya Ghosh et al
 - **The Wisdom of Hindsight Makes Language Models Better Instruction Followers;** Tianjun Zhang et al
