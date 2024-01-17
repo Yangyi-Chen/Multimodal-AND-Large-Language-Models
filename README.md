@@ -886,6 +886,7 @@
 - **VISION-LANGUAGE FOUNDATION MODELS AS EFFECTIVE ROBOT IMITATORS;** Xinghang Li et al
 - **LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing;** Wei-Ge Chen et al
 - **Vision-Language Models as a Source of Rewards;** Kate Baumli et al
+- **SELF-IMAGINE: EFFECTIVE UNIMODAL REASONING WITH MULTIMODAL MODELS USING SELF-IMAGINATION;** Syeda Nahida Akter et al
 
 ## Vision-Language Model Analysis & Evaluation
 - **What Makes for Good Visual Tokenizers for Large Language Models?;** Guangzhi Wang et al
