@@ -1253,6 +1253,7 @@
 - **Some things are more CRINGE than others: Preference Optimization with the Pairwise Cringe Loss;** Jing Xu et al
 - **Mitigating Unhelpfulness in Emotional Support Conversations with Multifaceted AI Feedback;** Jiashuo Wang et al
 - **Secrets of RLHF in Large Language Models Part II: Reward Modeling;** Binghai Wang et al
+- **Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation;** Haoran Xu et al
 
 
 
