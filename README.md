@@ -1690,3 +1690,4 @@
 - **AI Alignment: A Comprehensive Survey;** Jiaming Ji et al; https://alignmentsurvey.com/
 - **Alignment Workshop;** https://www.alignment-workshop.com/nola-2023
 - **AI Alignment Research Overview;** Jacob Steinhardt
+- **Proxy objectives in reinforcement learning from human feedback;** John Schulman
