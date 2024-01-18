@@ -1668,6 +1668,7 @@
 - **Language Models Meet World Models: Embodied Experiences Enhance Language Models;** Jiannan Xiang et al
 - **Reasoning with Language Model is Planning with World Model;** Shibo Hao et al
 - **Learning to Model the World with Language;** Jessy Lin et al
+- **Learning Interactive Real-World Simulators;** Mengjiao Yang et al
 
 
 
