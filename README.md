@@ -914,6 +914,7 @@
 - **MATHVISTA: EVALUATING MATH REASONING IN VISUAL CONTEXTS WITH GPT-4V, BARD, AND OTHER LARGE MULTIMODAL MODELS;** Pan Lu et al
 - **VILA: On Pre-training for Visual Language Models;** Ji Lin et al
 - **TUNING LAYERNORM IN ATTENTION: TOWARDS EFFICIENT MULTI-MODAL LLM FINETUNING;** Bingchen Zhao et al
+- **Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs;** Shengbang Tong et al
 
 
 
