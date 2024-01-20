@@ -556,6 +556,7 @@
 - **Orca 2: Teaching Small Language Models How to Reason;** Arindam Mitra et al
 - **REST MEETS REACT: SELF-IMPROVEMENT FOR MULTI-STEP REASONING LLM AGENT;** Renat Aksitov et al
 - **WHAT MAKES GOOD DATA FOR ALIGNMENT? A COMPREHENSIVE STUDY OF AUTOMATIC DATA SELECTION IN INSTRUCTION TUNING;** Wei Liu et al
+- **ChatQA: Building GPT-4 Level Conversational QA Models;** Zihan Liu et al
 
 
 
