@@ -548,6 +548,7 @@
 - **WEAK-TO-STRONG GENERALIZATION: ELICITING STRONG CAPABILITIES WITH WEAK SUPERVISION;** Collin Burns et al
 - **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models;** Zixiang Chen et al
 - **Discovering Language Model Behaviors with Model-Written Evaluations;** Ethan Perez et al
+- **Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models;** Hongzhan Lin et al
 
 ## RL Foundation
 
