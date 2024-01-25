@@ -304,6 +304,7 @@
 - **Can Large Language Models Really Improve by Self-critiquing Their Own Plans?;** Karthik Valmeekam et al
 - **Relying on the Unreliable: The Impact of Language Models’ Reluctance to Express Uncertainty;** Kaitlyn Zhou et al
 - **TELL, DON’T SHOW: DECLARATIVE FACTS INFLUENCE HOW LLMS GENERALIZE;** Alexander Meinke et al
+- **Benchmarking LLMs via Uncertainty Quantification;** Fanghua Ye et al
 
 ## LLM Safety
 
