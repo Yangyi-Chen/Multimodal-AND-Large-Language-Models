@@ -625,6 +625,7 @@
 - **OCTOPUS: EMBODIED VISION-LANGUAGE PROGRAMMER FROM ENVIRONMENTAL FEEDBACK;** Jingkang Yang et al
 - **CogAgent: A Visual Language Model for GUI Agents;** Wenyi Hong et al
 - **GPT-4V(ision) is a Generalist Web Agent, if Grounded;** Boyuan Zheng et al
+- **WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models;** Hongliang He et al
 
 ## Interaction
 
