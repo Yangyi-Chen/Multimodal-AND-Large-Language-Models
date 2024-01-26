@@ -1004,6 +1004,7 @@
 - **A Comprehensive Evaluation of Tool-Assisted Generation Strategies;** Alon Jacovi et al
 - **TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems;** Yilun Kong et al
 - **GITAGENT: FACILITATING AUTONOMOUS AGENT WITH GITHUB BY TOOL EXTENSION;** Bohan Lyu et al
+- **TROVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks;** Zhiruo Wang et al
 
 **With Visual Tools**
 
