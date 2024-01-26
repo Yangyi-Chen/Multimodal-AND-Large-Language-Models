@@ -833,6 +833,7 @@
 - **Generative Multimodal Models are In-Context Learners;** Quan Sun et al
 - **Gemini: A Family of Highly Capable Multimodal Models;** Gemini Team
 - **CaMML: Context-Aware Multimodal Learner for Large Models;** Yixin Chen et al
+- **MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer;** Changyao Tian et al
 
 ### Others
 
