@@ -560,10 +560,6 @@
 - **The Wisdom of Hindsight Makes Language Models Better Instruction Followers;** Tianjun Zhang et al
 - **REWARD UNCERTAINTY FOR EXPLORATION IN PREFERENCE-BASED REINFORCEMENT LEARNING;** Xinran Liang et al
 
-**AutoTelic Agent**
-
-- **AUGMENTING AUTOTELIC AGENTS WITH LARGE LANGUAGE MODELS;** Cedric Colas et al
-- **Visual Reinforcement Learning with Imagined Goals;** Ashvin Nair et al
 
 ## Beyond Bandit
 
@@ -604,6 +600,15 @@
 - **TaskWeaver: A Code-First Agent Framework;** Bo Qiao et al
 - **Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning;** Filippos Christianos et al
 - **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation;** Qingyun Wu et al
+- **TRUE KNOWLEDGE COMES FROM PRACTICE: ALIGNING LLMS WITH EMBODIED ENVIRONMENTS VIA REINFORCEMENT LEARNING;** Weihao Tan et al
+
+
+
+**AutoTelic Agent**
+
+- **AUGMENTING AUTOTELIC AGENTS WITH LARGE LANGUAGE MODELS;** Cedric Colas et al
+- **Visual Reinforcement Learning with Imagined Goals;** Ashvin Nair et al
+
 
 **Evaluation**
 
