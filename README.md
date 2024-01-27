@@ -1542,7 +1542,7 @@
 - **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model;** Kenneth Li et al
 - **FELM: Benchmarking Factuality Evaluation of Large Language Models;** Shiqi Chen et al
 - **Unveiling the Siren’s Song: Towards Reliable Fact-Conflicting Hallucination Detection;** Xiang Chen et al
-- **ANALYZING AND MITIGATING OBJECT HALLUCINATION IN LARGE VISION-LANGUAGE MODELS;** Yiyang Zhou et al
+- **ANALYZING AND MITIGATING OBJECT HALLUCINATION IN LARGE VISION-LANGUAGE MODELS;** Yiyang Zhou et al
 - **Woodpecker: Hallucination Correction for Multimodal Large Language Models;** Shukang Yin et al
 - **AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation;** Junyang Wang et al
 - **Fine-tuning Language Models for Factuality;** Katherine Tian et al
