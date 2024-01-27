@@ -602,6 +602,7 @@
 - **Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning;** Filippos Christianos et al
 - **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation;** Qingyun Wu et al
 - **TRUE KNOWLEDGE COMES FROM PRACTICE: ALIGNING LLMS WITH EMBODIED ENVIRONMENTS VIA REINFORCEMENT LEARNING;** Weihao Tan et al
+- **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution;** Cheng Qian et al
 
 
 
