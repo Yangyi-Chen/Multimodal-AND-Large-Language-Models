@@ -550,6 +550,7 @@
 - **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models;** Zixiang Chen et al
 - **Discovering Language Model Behaviors with Model-Written Evaluations;** Ethan Perez et al
 - **Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models;** Hongzhan Lin et al
+- **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate;** Tian Liang et al
 
 ## RL Foundation
 
@@ -579,7 +580,6 @@
 - **Improving Factuality and Reasoning in Language Models through Multiagent Debate;** Yilun Du et al
 - **SWIFTSAGE: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks;** Bill Yuchen Lin et al
 - **Large Language Model Is Semi-Parametric Reinforcement Learning Agent;** Danyang Zhang et al
-- **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate;** Tian Liang et al
 - **The Role of Summarization in Generative Agents: A Preliminary Perspective;** Xiachong Feng et al
 - **CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society;** Guohao Li et al
 - **Plan, Eliminate, and Track-Language Models are Good Teachers for Embodied Agents;** Yue Wu et al
