@@ -1258,7 +1258,7 @@
 - **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection;** Bin Lin et al
 - **MVBench: A Comprehensive Multi-modal Video Understanding Benchmark;** Kunchang Li et al
 - **LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models;** Yanwei Li et al
-- **LANGUAGEBIND: EXTENDING VIDEO-LANGUAGE PRETRAINING TO N-MODALITY BY LANGUAGEBASED SEMANTIC ALIGNMENT;** Bin Zhu et al
+- **LANGUAGEBIND: EXTENDING VIDEO-LANGUAGE PRETRAINING TO N-MODALITY BY LANGUAGE-BASED SEMANTIC ALIGNMENT;** Bin Zhu et al
 
 ## Key Frame Detection
 
