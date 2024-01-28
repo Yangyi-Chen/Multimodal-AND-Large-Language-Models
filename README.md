@@ -386,6 +386,7 @@
 - **Divide and Conquer for Large Language Models Reasoning;** Zijie Meng et al
 - **The Impact of Reasoning Step Length on Large Language Models;** Mingyu Jin et al
 - **REFT: Reasoning with REinforced Fine-Tuning;** Trung Quoc Luong et al
+- **Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding;** Mirac Suzgun et al
 
 **Self-consistency**
 
