@@ -1015,6 +1015,7 @@
 - **GITAGENT: FACILITATING AUTONOMOUS AGENT WITH GITHUB BY TOOL EXTENSION;** Bohan Lyu et al
 - **TROVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks;** Zhiruo Wang et al
 - **Towards Uncertainty-Aware Language Agent;** Jiuzhou Han et al
+- **Tool-LMM: A Large Multi-Modal Model for Tool Agent Learning;** Chenyu Wang et al
 
 **With Visual Tools**
 
