@@ -1221,6 +1221,7 @@
 - **Secrets of RLHF in Large Language Models Part II: Reward Modeling;** Binghai Wang et al
 - **Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation;** Haoran Xu et al
 - **WARM: On the Benefits of Weight Averaged Reward Models;** Alexandre Ramé et al
+- **Self-Rewarding Language Models;** Weizhe Yuan et al
 
 ## Video Foundation Model
 
