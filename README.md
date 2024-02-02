@@ -1568,6 +1568,7 @@
 - **Language Cognition and Language Computation Human and Machine Language Understanding;** Shaonan Wang et al
 - **From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought;** Lionel Wong et al
 - **DIVERGENCES BETWEEN LANGUAGE MODELS AND HUMAN BRAINS;** Yuchen Zhou et al
+- **Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?;** Andreas Opedal et al
 
 ## Theory of Mind
 
