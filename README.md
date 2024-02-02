@@ -487,6 +487,7 @@
 - **LONGBENCH: A BILINGUAL, MULTITASK BENCHMARK FOR LONG CONTEXT UNDERSTANDING;** Yushi Bai et al
 - **ChipNeMo: Domain-Adapted LLMs for Chip Design;** Mingjie Liu et al
 - **LongAlign: A Recipe for Long Context Alignment of Large Language Models;** Yushi Bai et al
+- **RAPTOR: RECURSIVE ABSTRACTIVE PROCESSING FOR TREE-ORGANIZED RETRIEVAL;** Parth Sarthi et al
 
 **Retrieval-augmented LLM**
 
