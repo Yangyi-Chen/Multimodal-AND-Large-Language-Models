@@ -1569,6 +1569,7 @@
 - **RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback;** Tianyu Yu et al
 - **RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models;** Yuanhao Wu et al
 - **Learning to Trust Your Feelings: Leveraging Self-awareness in LLMs for Hallucination Mitigation;** Yuxin Liang et al
+- **Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration;** Shangbin Feng et al
 
 ## Cognitive NeuronScience & Machine Learning
 
