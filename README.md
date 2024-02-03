@@ -523,6 +523,9 @@
 - **Camels in a Changing Climate: Enhancing LM Adaptation with TÜLU 2;** Hamish Ivison et al
 - **The Falcon Series of Open Language Models;** Ebtesam Almazrouei et al
 - **LLM360: Towards Fully Transparent Open-Source LLMs;** Zhengzhong Liu et al
+- **OLMO: Accelerating the Science of Language Models;** Dirk Groeneveld et al
+
+
 
 ## LLM Data Engineering
 
