@@ -118,6 +118,7 @@
 - **TRUSTLLM: TRUSTWORTHINESS IN LARGE LANGUAGE MODELS;** Lichao Sun et al
 - **AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION;** Zane Durante et al
 - **Autotelic Agents with Intrinsically Motivated Goal-Conditioned Reinforcement Learning: A Short Survey;** Cedric Colas et al
+- **Safety of Multimodal Large Language Models on Images and Text;** Xin Liu et al
 
 ## Position Paper
 
@@ -540,6 +541,7 @@
 - **Align on the Fly: Adapting Chatbot Behavior to Established Norms;** Chunpu Xu et al
 - **Combining weak-to-strong generalization with scalable oversight A high-level view on how this new approach fits into our alignment plans;** JAN LEIKE
 - **SLEEPER AGENTS: TRAINING DECEPTIVE LLMS THAT PERSIST THROUGH SAFETY TRAINING;** Evan Hubinger et al
+- **Towards Efficient and Exact Optimization of Language Model Alignment;** Haozhe Ji et al
 
 ## Scalable Oversight
 
