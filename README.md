@@ -858,6 +858,7 @@
 - **MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer;** Changyao Tian et al
 - **InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Models;** Xiaoyi Dong et al
 - **MoE-LLaVA: Mixture of Experts for Large Vision-Language Models;** Bin Lin et al
+- **MouSi: Poly-Visual-Expert Vision-Language Models;** Xiaoran Fan et al
 
 
 
