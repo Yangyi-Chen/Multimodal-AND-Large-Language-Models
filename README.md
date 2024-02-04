@@ -856,6 +856,7 @@
 - **Gemini: A Family of Highly Capable Multimodal Models;** Gemini Team
 - **CaMML: Context-Aware Multimodal Learner for Large Models;** Yixin Chen et al
 - **MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer;** Changyao Tian et al
+- **InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Models;** Xiaoyi Dong et al
 
 ### Others
 
