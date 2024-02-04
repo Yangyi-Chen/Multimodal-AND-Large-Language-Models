@@ -1240,6 +1240,7 @@
 - **WARM: On the Benefits of Weight Averaged Reward Models;** Alexandre Ramé et al
 - **Self-Rewarding Language Models;** Weizhe Yuan et al
 - **Dense Reward for Free in Reinforcement Learning from Human Feedback;** Alex J. Chan et al
+- **Efficient Exploration for LLMs;** Vikranth Dwaracherla et al
 
 
 
