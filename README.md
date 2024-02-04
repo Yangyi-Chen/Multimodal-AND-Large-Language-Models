@@ -119,6 +119,7 @@
 - **AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION;** Zane Durante et al
 - **Autotelic Agents with Intrinsically Motivated Goal-Conditioned Reinforcement Learning: A Short Survey;** Cedric Colas et al
 - **Safety of Multimodal Large Language Models on Images and Text;** Xin Liu et al
+- **MM-LLMs: Recent Advances in MultiModal Large Language Models;** Duzhen Zhang et al
 
 ## Position Paper
 
