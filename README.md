@@ -525,7 +525,7 @@
 - **The Falcon Series of Open Language Models;** Ebtesam Almazrouei et al
 - **LLM360: Towards Fully Transparent Open-Source LLMs;** Zhengzhong Liu et al
 - **OLMO: Accelerating the Science of Language Models;** Dirk Groeneveld et al
-
+- **Executable Code Actions Elicit Better LLM Agents;** Xingyao Wang et al
 
 
 ## LLM Data Engineering
@@ -1242,6 +1242,7 @@
 - **Self-Rewarding Language Models;** Weizhe Yuan et al
 - **Dense Reward for Free in Reinforcement Learning from Human Feedback;** Alex J. Chan et al
 - **Efficient Exploration for LLMs;** Vikranth Dwaracherla et al
+- **KTO: Model Alignment as Prospect Theoretic Optimization;** Kawin Ethayarajh et al
 
 
 
