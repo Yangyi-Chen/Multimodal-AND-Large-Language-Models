@@ -704,6 +704,7 @@
 - **Mixtral of Experts;** Albert Q. Jiang et al
 - **DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models;** Damai Dai et al
 - **MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts;** Maciej Pioro et al
+- **OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models;** Fuzhao Xue et al
 
 ## Vision-Language Foundation Model
 
@@ -1658,3 +1659,4 @@
 - **Alignment Workshop;** https://www.alignment-workshop.com/nola-2023
 - **AI Alignment Research Overview;** Jacob Steinhardt
 - **Proxy objectives in reinforcement learning from human feedback;** John Schulman
+
