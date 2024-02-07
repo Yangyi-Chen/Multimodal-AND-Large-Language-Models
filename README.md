@@ -564,6 +564,7 @@
 - **Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models;** Hongzhan Lin et al
 - **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate;** Tian Liang et al
 - **Improving Weak-to-Strong Generalization with Scalable Oversight and Ensemble Learning;** Jitao Sang et al
+- **PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations;** Ruosen Li et al
 
 
 
