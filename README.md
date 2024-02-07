@@ -21,7 +21,7 @@
 - [LLM Foundation](#llm-foundation)
 - [LLM Data Engineering](#llm-data-engineering)
 - [Alignment](#alignment)
-- [Scalable Oversight](#scalable-oversight)
+- [Scalable Oversight&amp;SuperAlignment](#scalable-oversight-&-superalignment)
 - [RL Foundation](#rl-foundation)
 - [Beyond Bandit](#beyond-bandit)
 - [Agent](#agent)
@@ -549,7 +549,7 @@
 - **SLEEPER AGENTS: TRAINING DECEPTIVE LLMS THAT PERSIST THROUGH SAFETY TRAINING;** Evan Hubinger et al
 - **Towards Efficient and Exact Optimization of Language Model Alignment;** Haozhe Ji et al
 
-## Scalable Oversight
+## Scalable Oversight & SuperAlignment
 
 - **Supervising strong learners by amplifying weak experts;** Paul Christiano et al
 - **Deep Reinforcement Learning from Human Preferences;** Paul F Christiano et al
@@ -566,6 +566,7 @@
 - **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate;** Tian Liang et al
 - **Improving Weak-to-Strong Generalization with Scalable Oversight and Ensemble Learning;** Jitao Sang et al
 - **PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations;** Ruosen Li et al
+- **Vision Superalignment: Weak-to-Strong Generalization for Vision Foundation Models;** Jianyuan Guo et al
 
 
 
