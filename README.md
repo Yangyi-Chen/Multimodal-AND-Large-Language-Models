@@ -390,6 +390,7 @@
 - **The Impact of Reasoning Step Length on Large Language Models;** Mingyu Jin et al
 - **REFT: Reasoning with REinforced Fine-Tuning;** Trung Quoc Luong et al
 - **Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding;** Mirac Suzgun et al
+- **SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures;** Pei Zhou et al
 
 **Self-consistency**
 
