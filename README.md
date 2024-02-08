@@ -1254,6 +1254,7 @@
 - **Dense Reward for Free in Reinforcement Learning from Human Feedback;** Alex J. Chan et al
 - **Efficient Exploration for LLMs;** Vikranth Dwaracherla et al
 - **KTO: Model Alignment as Prospect Theoretic Optimization;** Kawin Ethayarajh et al
+- **LiPO: Listwise Preference Optimization through Learning-to-Rank;** Tianqi Liu et al
 
 
 
