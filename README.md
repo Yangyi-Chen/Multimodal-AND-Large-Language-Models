@@ -1640,6 +1640,7 @@
 - **Reasoning with Language Model is Planning with World Model;** Shibo Hao et al
 - **Learning to Model the World with Language;** Jessy Lin et al
 - **Learning Interactive Real-World Simulators;** Mengjiao Yang et al
+- **Diffusion World Model;** Zihan Ding et al
 
 ## Resource
 
