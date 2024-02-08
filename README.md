@@ -493,6 +493,7 @@
 - **LongAlign: A Recipe for Long Context Alignment of Large Language Models;** Yushi Bai et al
 - **RAPTOR: RECURSIVE ABSTRACTIVE PROCESSING FOR TREE-ORGANIZED RETRIEVAL;** Parth Sarthi et al
 
+
 **Retrieval-augmented LLM**
 
 - **Training Language Models with Memory Augmentation;** Zexuan Zhong et al
@@ -500,6 +501,9 @@
 - **Multiview Identifiers Enhanced Generative Retrieval;** Yongqi Li et al
 - **Meta-training with Demonstration Retrieval for Efficient Few-shot Learning;** Aaron Mueller et al
 - **SELF-RAG: LEARNING TO RETRIEVE, GENERATE, AND CRITIQUE THROUGH SELF-REFLECTION;** Akari Asai et ak
+- **RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents;** Tomoyuki Kagaya et al
+
+
 
 ## LLM with Human
 
