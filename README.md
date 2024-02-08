@@ -552,6 +552,7 @@
 - **Combining weak-to-strong generalization with scalable oversight A high-level view on how this new approach fits into our alignment plans;** JAN LEIKE
 - **SLEEPER AGENTS: TRAINING DECEPTIVE LLMS THAT PERSIST THROUGH SAFETY TRAINING;** Evan Hubinger et al
 - **Towards Efficient and Exact Optimization of Language Model Alignment;** Haozhe Ji et al
+- **Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction;** Jiaming Ji et al
 
 ## Scalable Oversight & SuperAlignment
 
