@@ -917,6 +917,9 @@
 - **VILA: On Pre-training for Visual Language Models;** Ji Lin et al
 - **TUNING LAYERNORM IN ATTENTION: TOWARDS EFFICIENT MULTI-MODAL LLM FINETUNING;** Bingchen Zhao et al
 - **Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs;** Shengbang Tong et al
+- **FROZEN TRANSFORMERS IN LANGUAGE MODELS ARE EFFECTIVE VISUAL ENCODER LAYERS;** Ziqi Pang et al
+
+
 
 ## Multimodal Foundation Model
 
