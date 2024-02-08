@@ -887,6 +887,7 @@
 - **LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing;** Wei-Ge Chen et al
 - **Vision-Language Models as a Source of Rewards;** Kate Baumli et al
 - **SELF-IMAGINE: EFFECTIVE UNIMODAL REASONING WITH MULTIMODAL MODELS USING SELF-IMAGINATION;** Syeda Nahida Akter et al
+- **Code as Reward: Empowering Reinforcement Learning with VLMs;** David Venuto et al
 
 ## Vision-Language Model Analysis & Evaluation
 
