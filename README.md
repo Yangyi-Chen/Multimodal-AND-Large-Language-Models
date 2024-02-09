@@ -394,6 +394,7 @@
 - **Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding;** Mirac Suzgun et al
 - **SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures;** Pei Zhou et al
 - **Guiding Large Language Models with Divide-and-Conquer Program for Discerning Problem Solving;** Yizhou Zhang et al
+- **Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning;** Zhiheng Xi et al
 
 **Self-consistency**
 
