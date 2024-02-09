@@ -597,7 +597,6 @@
 ## Agent
 
 - **Generative Agents: Interactive Simulacra of Human Behavior;** Joon Sung Park et al
-- **Improving Factuality and Reasoning in Language Models through Multiagent Debate;** Yilun Du et al
 - **SWIFTSAGE: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks;** Bill Yuchen Lin et al
 - **Large Language Model Is Semi-Parametric Reinforcement Learning Agent;** Danyang Zhang et al
 - **The Role of Summarization in Generative Agents: A Preliminary Perspective;** Xiachong Feng et al
