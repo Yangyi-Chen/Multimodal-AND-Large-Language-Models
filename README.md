@@ -1265,6 +1265,7 @@
 - **KTO: Model Alignment as Prospect Theoretic Optimization;** Kawin Ethayarajh et al
 - **LiPO: Listwise Preference Optimization through Learning-to-Rank;** Tianqi Liu et al
 - **Direct Language Model Alignment from Online AI Feedback;** Shangmin Guo et al
+- **Noise Contrastive Alignment of Language Models with Explicit Rewards;** Huayu Chen et al
 
 
 
