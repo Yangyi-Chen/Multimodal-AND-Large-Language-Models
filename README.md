@@ -572,6 +572,7 @@
 - **Improving Weak-to-Strong Generalization with Scalable Oversight and Ensemble Learning;** Jitao Sang et al
 - **PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations;** Ruosen Li et al
 - **Vision Superalignment: Weak-to-Strong Generalization for Vision Foundation Models;** Jianyuan Guo et al
+- **Improving Factuality and Reasoning in Language Models through Multiagent Debate;** Yilun Du et al 
 
 
 
