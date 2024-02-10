@@ -266,13 +266,11 @@
 - **SYMBOL TUNING IMPROVES IN-CONTEXT LEARNING IN LANGUAGE MODELS;** Jerry Wei et al
 - **What In-Context Learning “Learns” In-Context: Disentangling Task Recognition and Task Learning;** Jane Pan et al
 - **Measuring the Knowledge Acquisition-Utilization Gap in Pretrained Language Models;** Amirhossein Kazemnejad et al
-- **Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models;** Alfonso Amayuelas et al
 - **Scaling Data-Constrained Language Models;** Niklas Muennighoff et al
 - **The False Promise of Imitating Proprietary LLMs;** Arnav Gudibande et al
 - **Counterfactual reasoning: Testing language models’ understanding of hypothetical scenarios;** Jiaxuan Li et al
 - **Inverse Scaling: When Bigger Isn’t Better;** Ian R. McKenzie et al
 - **DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models;** Boxin Wang et al
-- **Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs;** Miao Xiong et al
 - **Lost in the Middle: How Language Models Use Long Contexts;** Nelson F. Liu et al
 - **Won’t Get Fooled Again: Answering Questions with False Premises;** Shengding Hu et al
 - **Generating Benchmarks for Factuality Evaluation of Language Models;** Dor Muhlgay et al
@@ -301,15 +299,22 @@
 - **BENCHMARKING AND IMPROVING GENERATOR-VALIDATOR CONSISTENCY OF LMS;** Xiang Lisa Li et al
 - **UNLOCK PREDICTABLE SCALING FROM EMERGENT ABILITIES;** Shengding Hu et al
 - **Trusted Source Alignment in Large Language Models;** Vasilisa Bashlovkina et al
-- **R-Tuning: Teaching Large Language Models to Refuse Unknown Questions;** Hanning Zhang et al
-- **Prudent Silence or Foolish Babble? Examining Large Language Models’ Responses to the Unknown;** Genglin Liu et al
-- **LLAMAS KNOW WHAT GPTS DON’T SHOW: SURROGATE MODELS FOR CONFIDENCE ESTIMATION;** Vaishnavi Shrivastava et al
 - **THE UNLOCKING SPELL ON BASE LLMS: RETHINKING ALIGNMENT VIA IN-CONTEXT LEARNING;** Bill Yuchen Lin et al
 - **Can Large Language Models Really Improve by Self-critiquing Their Own Plans?;** Karthik Valmeekam et al
-- **Relying on the Unreliable: The Impact of Language Models’ Reluctance to Express Uncertainty;** Kaitlyn Zhou et al
 - **TELL, DON’T SHOW: DECLARATIVE FACTS INFLUENCE HOW LLMS GENERALIZE;** Alexander Meinke et al
-- **Benchmarking LLMs via Uncertainty Quantification;** Fanghua Ye et al
 - **A Closer Look at the Limitations of Instruction Tuning;** Sreyan Ghosh et al
+
+
+**Calibration & Uncertainty**
+- **Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models;** Alfonso Amayuelas et al
+- **Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs;** Miao Xiong et al
+- **LLAMAS KNOW WHAT GPTS DON’T SHOW: SURROGATE MODELS FOR CONFIDENCE ESTIMATION;** Vaishnavi Shrivastava et al
+- **Navigating the Grey Area: How Expressions of Uncertainty and Overconfidence Affect Language Models;** Kaitlyn Zhou et al
+- **R-Tuning: Teaching Large Language Models to Refuse Unknown Questions;** Hanning Zhang et al
+- **Relying on the Unreliable: The Impact of Language Models’ Reluctance to Express Uncertainty;** Kaitlyn Zhou et al
+- **Prudent Silence or Foolish Babble? Examining Large Language Models’ Responses to the Unknown;** Genglin Liu et al
+- **Benchmarking LLMs via Uncertainty Quantification;** Fanghua Ye et al
+- **Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback;** Katherine Tian et al
 
 
 
