@@ -602,6 +602,7 @@
 - **ITERATED DECOMPOSITION: IMPROVING SCIENCE Q&A BY SUPERVISING REASONING PROCESSES;** Justin Reppert et al
 - **Let’s Verify Step by Step;** Hunter Lightman et al
 - **Solving math word problems with process and outcome-based feedback;** Jonathan Uesato et al
+- **EMPOWERING LANGUAGE MODELS WITH ACTIVE INQUIRY FOR DEEPER UNDERSTANDING A PREPRINT;** Jing-Cheng Pang et al
 
 ## Agent
 
