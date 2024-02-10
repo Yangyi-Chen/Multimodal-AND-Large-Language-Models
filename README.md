@@ -666,6 +666,7 @@
 - **GPT-4V(ision) is a Generalist Web Agent, if Grounded;** Boyuan Zheng et al
 - **WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models;** Hongliang He et al
 - **MOBILE-AGENT: AUTONOMOUS MULTI-MODAL MOBILE DEVICE AGENT WITH VISUAL PERCEPTION;** Junyang Wang et al
+- **V-IRL: Grounding Virtual Intelligence in Real Life;** Jihan Yang et al
 
 ## Interaction
 
