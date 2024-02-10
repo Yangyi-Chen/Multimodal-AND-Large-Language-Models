@@ -315,7 +315,7 @@
 - **Prudent Silence or Foolish Babble? Examining Large Language Models’ Responses to the Unknown;** Genglin Liu et al
 - **Benchmarking LLMs via Uncertainty Quantification;** Fanghua Ye et al
 - **Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback;** Katherine Tian et al
-
+- **Deal, or no deal (or who knows)? Forecasting Uncertainty in Conversations using Large Language Models;** Anthony Sicilia et al
 
 
 ## LLM Safety
