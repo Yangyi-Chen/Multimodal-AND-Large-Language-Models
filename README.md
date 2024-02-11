@@ -303,6 +303,7 @@
 - **Can Large Language Models Really Improve by Self-critiquing Their Own Plans?;** Karthik Valmeekam et al
 - **TELL, DON’T SHOW: DECLARATIVE FACTS INFLUENCE HOW LLMS GENERALIZE;** Alexander Meinke et al
 - **A Closer Look at the Limitations of Instruction Tuning;** Sreyan Ghosh et al
+- **PERSONAS AS A WAY TO MODEL TRUTHFULNESS IN LANGUAGE MODELS;** Nitish Joshi et al
 
 
 **Calibration & Uncertainty**
