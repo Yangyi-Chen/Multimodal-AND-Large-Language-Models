@@ -561,6 +561,7 @@
 
 ## Alignment
 
+- **AI Alignment Research Overview;** Jacob Steinhardt 
 - **Language Model Alignment with Elastic Reset;** Michael Noukhovitch et al
 - **Alignment for Honesty;** Yuqing Yang et al
 - **Align on the Fly: Adapting Chatbot Behavior to Established Norms;** Chunpu Xu et al
