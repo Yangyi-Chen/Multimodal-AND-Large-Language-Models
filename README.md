@@ -569,6 +569,7 @@
 - **SLEEPER AGENTS: TRAINING DECEPTIVE LLMS THAT PERSIST THROUGH SAFETY TRAINING;** Evan Hubinger et al
 - **Towards Efficient and Exact Optimization of Language Model Alignment;** Haozhe Ji et al
 - **Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction;** Jiaming Ji et al
+- **DeAL: Decoding-time Alignment for Large Language Models;** James Y. Huang et al
 
 ## Scalable Oversight & SuperAlignment
 
