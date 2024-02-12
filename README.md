@@ -1099,6 +1099,7 @@
 - **ControlLLM: Augment Language Models with Tools by Searching on Graphs;** Zhaoyang Liu et al
 - **MM-VID: Advancing Video Understanding with GPT-4V(ision);** Kevin Lin et al
 - **Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models;** Yushi Hu et al
+- **CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations;** Ji Qi et al
 
 ## Instruction Tuning
 
