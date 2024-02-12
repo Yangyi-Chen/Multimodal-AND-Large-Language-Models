@@ -547,6 +547,7 @@
 - **LLM360: Towards Fully Transparent Open-Source LLMs;** Zhengzhong Liu et al
 - **OLMO: Accelerating the Science of Language Models;** Dirk Groeneveld et al
 - **Executable Code Actions Elicit Better LLM Agents;** Xingyao Wang et al
+- **InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning;** Huaiyuan Ying et al
 
 
 ## LLM Data Engineering
