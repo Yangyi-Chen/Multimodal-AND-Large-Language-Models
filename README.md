@@ -320,6 +320,9 @@
 - **Deal, or no deal (or who knows)? Forecasting Uncertainty in Conversations using Large Language Models;** Anthony Sicilia et al
 - **Calibrating Long-form Generations from Large Language Models;** Yukun Huang et al
 - **Distinguishing the Knowable from the Unknowable with Language Models;** Gustaf Ahdritz et al
+- **Introspective Planning: Guiding Language-Enabled Agents to Refine Their Own Uncertainty;** Kaiqu Liang et al
+
+
 
 ## LLM Safety
 
