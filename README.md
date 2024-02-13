@@ -407,6 +407,7 @@
 - **SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures;** Pei Zhou et al
 - **Guiding Large Language Models with Divide-and-Conquer Program for Discerning Problem Solving;** Yizhou Zhang et al
 - **Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning;** Zhiheng Xi et al
+- **V-STaR: Training Verifiers for Self-Taught Reasoners;** Arian Hosseini et al
 
 **Self-consistency**
 
