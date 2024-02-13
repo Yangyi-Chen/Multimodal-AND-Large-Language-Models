@@ -368,6 +368,7 @@
 
 ## LLM Reasoning
 
+- **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning;** Eric Zelikman et al
 - **Generated Knowledge Prompting for Commonsense Reasoning;** Jiacheng Liu et al
 - **SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT REASONING IN LANGUAGE MODELS;** Xuezhi Wang et al
 - **LEAST-TO-MOST PROMPTING ENABLES COMPLEX REASONING IN LARGE LANGUAGE MODELS;** Denny Zhou et al
