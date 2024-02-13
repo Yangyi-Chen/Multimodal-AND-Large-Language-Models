@@ -135,6 +135,7 @@
 - **PROAGENT: FROM ROBOTIC PROCESS AUTOMATION TO AGENTIC PROCESS AUTOMATION;** Yining Ye et al
 - **Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning;** Zhiting Hu et al
 - **A Roadmap to Pluralistic Alignment;** Taylor Sorensen et al
+- **Towards Unified Alignment Between Agents, Humans, and Environment;** Zonghan Yang et al
 
 ## Structure
 
