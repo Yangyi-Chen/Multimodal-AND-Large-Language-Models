@@ -307,6 +307,7 @@
 
 
 **Calibration & Uncertainty**
+
 - **Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models;** Alfonso Amayuelas et al
 - **Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs;** Miao Xiong et al
 - **LLAMAS KNOW WHAT GPTS DON’T SHOW: SURROGATE MODELS FOR CONFIDENCE ESTIMATION;** Vaishnavi Shrivastava et al
@@ -318,7 +319,7 @@
 - **Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback;** Katherine Tian et al
 - **Deal, or no deal (or who knows)? Forecasting Uncertainty in Conversations using Large Language Models;** Anthony Sicilia et al
 - **Calibrating Long-form Generations from Large Language Models;** Yukun Huang et al
-
+- **Distinguishing the Knowable from the Unknowable with Language Models;** Gustaf Ahdritz et al
 
 ## LLM Safety
 
