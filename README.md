@@ -958,6 +958,7 @@
 - **TUNING LAYERNORM IN ATTENTION: TOWARDS EFFICIENT MULTI-MODAL LLM FINETUNING;** Bingchen Zhao et al
 - **Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs;** Shengbang Tong et al
 - **FROZEN TRANSFORMERS IN LANGUAGE MODELS ARE EFFECTIVE VISUAL ENCODER LAYERS;** Ziqi Pang et al
+- **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models;** Siddharth Karamcheti et al
 
 
 
