@@ -324,6 +324,7 @@
 - **Introspective Planning: Guiding Language-Enabled Agents to Refine Their Own Uncertainty;** Kaiqu Liang et al
 - **Asking the Right Question at the Right Time: Human and Model Uncertainty Guidance to Ask Clarification Questions;** Alberto Testoni et al
 - **Into the Unknown: Self-Learning Large Language Models;** Teddy Ferdinan et al
+- **The Internal State of an LLM Knows When It’s Lying;** Amos Azaria et al
 
 
 
