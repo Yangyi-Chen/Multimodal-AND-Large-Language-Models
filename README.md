@@ -416,6 +416,7 @@
 - **Guiding Large Language Models with Divide-and-Conquer Program for Discerning Problem Solving;** Yizhou Zhang et al
 - **Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning;** Zhiheng Xi et al
 - **V-STaR: Training Verifiers for Self-Taught Reasoners;** Arian Hosseini et al
+- **Verified Multi-Step Synthesis using Large Language Models and Monte Carlo Tree Search;** David Brandfonbrener et al
 
 **Self-consistency**
 
