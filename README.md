@@ -325,6 +325,7 @@
 - **Asking the Right Question at the Right Time: Human and Model Uncertainty Guidance to Ask Clarification Questions;** Alberto Testoni et al
 - **Into the Unknown: Self-Learning Large Language Models;** Teddy Ferdinan et al
 - **The Internal State of an LLM Knows When It’s Lying;** Amos Azaria et al
+- **SELFCHECKGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models;** Potsawee Manakul et al
 
 
 
