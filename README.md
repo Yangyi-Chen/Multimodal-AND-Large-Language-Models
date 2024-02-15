@@ -928,6 +928,7 @@
 - **SELF-IMAGINE: EFFECTIVE UNIMODAL REASONING WITH MULTIMODAL MODELS USING SELF-IMAGINATION;** Syeda Nahida Akter et al
 - **Code as Reward: Empowering Reinforcement Learning with VLMs;** David Venuto et al
 - **MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark;** Dongping Chen et al
+- **PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs;** Soroush Nasiriany et al
 
 ## Vision-Language Model Analysis & Evaluation
 
