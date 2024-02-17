@@ -521,6 +521,7 @@
 - **LongAlign: A Recipe for Long Context Alignment of Large Language Models;** Yushi Bai et al
 - **RAPTOR: RECURSIVE ABSTRACTIVE PROCESSING FOR TREE-ORGANIZED RETRIEVAL;** Parth Sarthi et al
 - **UniMem: Towards a Unified View of Long-Context Large Language Models;** Junjie Fang et al
+- **A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts;** Kuang-Huei Lee et al
 
 
 **Retrieval-augmented LLM**
