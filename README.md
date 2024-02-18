@@ -524,6 +524,7 @@
 - **UniMem: Towards a Unified View of Long-Context Large Language Models;** Junjie Fang et al
 - **A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts;** Kuang-Huei Lee et al
 - **Transformers Can Achieve Length Generalization But Not Robustly;** Yongchao Zhou et al
+- **Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context;** Gemini Team, Google
 
 
 **Retrieval-augmented LLM**
