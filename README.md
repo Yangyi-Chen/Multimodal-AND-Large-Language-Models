@@ -630,6 +630,7 @@
 - **Solving math word problems with process and outcome-based feedback;** Jonathan Uesato et al
 - **EMPOWERING LANGUAGE MODELS WITH ACTIVE INQUIRY FOR DEEPER UNDERSTANDING A PREPRINT;** Jing-Cheng Pang et al
 - **Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models;** Zhiyuan Hu et al
+- **Tell Me More! Towards Implicit User Intention Understanding of Language Model-Driven Agents;** Cheng Qian et al
 
 ## Agent
 
