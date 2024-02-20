@@ -669,6 +669,7 @@
 - **TRUE KNOWLEDGE COMES FROM PRACTICE: ALIGNING LLMS WITH EMBODIED ENVIRONMENTS VIA REINFORCEMENT LEARNING;** Weihao Tan et al
 - **Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution;** Cheng Qian et al
 - **OS-COPILOT: TOWARDS GENERALIST COMPUTER AGENTS WITH SELF-IMPROVEMENT;** Zhiyong Wu et al
+- **LONGAGENT: Scaling Language Models to 128k Context through Multi-Agent Collaboration;** Jun Zhao et al
 
 
 
