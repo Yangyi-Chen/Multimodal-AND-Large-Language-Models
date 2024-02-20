@@ -418,6 +418,7 @@
 - **Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning;** Zhiheng Xi et al
 - **V-STaR: Training Verifiers for Self-Taught Reasoners;** Arian Hosseini et al
 - **Verified Multi-Step Synthesis using Large Language Models and Monte Carlo Tree Search;** David Brandfonbrener et al
+- **BOOSTING OF THOUGHTS: TRIAL-AND-ERROR PROBLEM SOLVING WITH LARGE LANGUAGE MODELS;** Sijia Chen et al
 
 **Self-consistency**
 
