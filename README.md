@@ -495,6 +495,7 @@
 - **DEMOCRATIZING FINE-GRAINED VISUAL RECOGNITION WITH LARGE LANGUAGE MODELS;** Mingxuan Liu et al
 - **Solving olympiad geometry without human demonstrations;** Trieu H. Trinh et al
 - **AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy;** Philipp Schoenegger et al
+- **What Evidence Do Language Models Find Convincing?;** Alexander Wan et al
 
 ## LLM with Memory
 
