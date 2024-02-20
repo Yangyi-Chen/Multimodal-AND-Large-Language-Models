@@ -591,6 +591,7 @@
 - **Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction;** Jiaming Ji et al
 - **DeAL: Decoding-time Alignment for Large Language Models;** James Y. Huang et al
 - **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping;** Haoyu Wang et al
+- **Dissecting Human and LLM Preferences;** Junlong Li1 et al
 
 ## Scalable Oversight & SuperAlignment
 
