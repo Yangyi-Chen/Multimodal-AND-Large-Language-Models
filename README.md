@@ -1103,6 +1103,7 @@
 - **Tool-LMM: A Large Multi-Modal Model for Tool Agent Learning;** Chenyu Wang et al
 - **Skill Set Optimization: Reinforcing Language Model Behavior via Transferable Skills;** Kolby Nottingham et al
 - **AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls;** Yu Du et al
+- **SCIAGENT: Tool-augmented Language Models for Scientific Reasoning;** Yubo Ma et al
 
 **With Visual Tools**
 
