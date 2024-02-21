@@ -929,6 +929,7 @@
 - **CLIP-Event: Connecting Text and Images with Event Structures;** Manling Li et al; The new model CLIP-Event, specifically designed for multi-modal event extraction. Introducing new pretraining tasks to enable strong zero-shot performances. From object-centric representations to event-centric representations.
 - **Scaling Vision-Language Models with Sparse Mixture of Experts;** Sheng Shen et al
 - **MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks;** Weicheng Kuo et al
+- **Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning;** Zhiyang Xu et al
 
 ## Vision-Language Model Application
 
