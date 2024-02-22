@@ -1183,6 +1183,7 @@
 - **Self-Alignment with Instruction Backtranslation;** Xian Li et al
 - **#INSTAG: INSTRUCTION TAGGING FOR DIVERSITY AND COMPLEXITY ANALYSIS;** Keming Lu et al
 - **CITING: LARGE LANGUAGE MODELS CREATE CURRICULUM FOR INSTRUCTION TUNING;** Tao Feng et al
+- **Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models;** Haoran Li et al
 
 ## Incontext Learning
 
