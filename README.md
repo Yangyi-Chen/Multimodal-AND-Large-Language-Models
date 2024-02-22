@@ -374,6 +374,7 @@
 - **InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks;** Xueyu Hu et al
 - **AGENTBOARD: AN ANALYTICAL EVALUATION BOARD OF MULTI-TURN LLM AGENTS;** Chang Ma et al
 - **WEBLINX: Real-World Website Navigation with Multi-Turn Dialogue;** Xing Han Lu et al
+- **MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization;** Zhiyu Yang et al
 
 ## LLM Reasoning
 
