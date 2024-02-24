@@ -1036,6 +1036,7 @@
 - **ChartLlama: A Multimodal LLM for Chart Understanding and Generation;** Yucheng Han et al
 - **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model;** Jiahui Gao et al
 - **ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning;** Fanqing Meng et al
+- **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning;** Renqiu Xia et al
 
 **Dataset**
 
