@@ -1325,6 +1325,7 @@
 - **Noise Contrastive Alignment of Language Models with Explicit Rewards;** Huayu Chen et al
 - **RLVF: Learning from Verbal Feedback without Overgeneralization;** Moritz Stephan et al
 - **OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement;** Tianyu Zheng et al
+- **A Critical Evaluation of AI Feedback for Aligning Large Language Models;** Archit Sharma et al
 
 
 
