@@ -598,6 +598,7 @@
 - **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping;** Haoyu Wang et al
 - **Dissecting Human and LLM Preferences;** Junlong Li1 et al
 - **Reformatted Alignment;** Run-Ze Fan et al
+- **Capability or Alignment? Respect the LLM Base Model’s Capability During Alignment;** Jingfeng Yang
 
 
 ## Scalable Oversight & SuperAlignment
