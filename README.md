@@ -571,6 +571,7 @@
 - **OLMO: Accelerating the Science of Language Models;** Dirk Groeneveld et al
 - **Executable Code Actions Elicit Better LLM Agents;** Xingyao Wang et al
 - **InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning;** Huaiyuan Ying et al
+- **Gemma: Open Models Based on Gemini Research and Technology;** Gemma Team
 
 
 ## LLM Data Engineering
