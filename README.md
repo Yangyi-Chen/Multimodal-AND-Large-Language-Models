@@ -434,6 +434,7 @@
 - **Measuring Faithfulness in Chain-of-Thought Reasoning;** Tamera Lanham et al
 - **SELFCHECK: USING LLMS TO ZERO-SHOT CHECK THEIR OWN STEP-BY-STEP REASONING;** Ning Miao et al
 - **On Measuring Faithfulness or Self-consistency of Natural Language Explanations;** Letitia Parcalabescu et al
+- **Chain-of-Thought Unfaithfulness as Disguised Accuracy;** Oliver Bentham et al
 
 (with images)
 
