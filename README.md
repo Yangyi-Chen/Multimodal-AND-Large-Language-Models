@@ -1021,6 +1021,11 @@
 - **DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning;** Abhay Zala et al
 - **LLMGA: Multimodal Large Language Model based Generation Assistant;** Bin Xia et al
 - **ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model;** Xiaowei Chi et al
+- **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition;** Chun-Hsiao Yeh et al
+
+
+
+
 
 ## Document Understanding
 
