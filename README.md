@@ -305,6 +305,7 @@
 - **TELL, DON’T SHOW: DECLARATIVE FACTS INFLUENCE HOW LLMS GENERALIZE;** Alexander Meinke et al
 - **A Closer Look at the Limitations of Instruction Tuning;** Sreyan Ghosh et al
 - **PERSONAS AS A WAY TO MODEL TRUTHFULNESS IN LANGUAGE MODELS;** Nitish Joshi et al
+- **Beyond Probabilities: Unveiling the Misalignment in Evaluating Large Language Models;** Chenyang Lyu et al
 
 
 **Calibration & Uncertainty**
