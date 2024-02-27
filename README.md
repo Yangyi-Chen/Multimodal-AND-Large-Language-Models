@@ -1007,6 +1007,7 @@
 - **OneLLM: One Framework to Align All Modalities with Language;** Jiaming Han et al
 - **Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action;** Jiasen Lu et al
 - **WORLD MODEL ON MILLION-LENGTH VIDEO AND LANGUAGE WITH RINGATTENTION;** Hao Liu et al
+- **LLMBind: A Unified Modality-Task Integration Framework;** Bin Zhu et al
 
 ## Image Generation
 
