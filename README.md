@@ -328,6 +328,7 @@
 - **The Internal State of an LLM Knows When It’s Lying;** Amos Azaria et al
 - **SELFCHECKGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models;** Potsawee Manakul et al
 - **Calibrating Large Language Models with Sample Consistency;** Qing Lyu et al
+- **Gotcha! Don’t trick me with unanswerable questions! Self-aligning Large Language Models for Responding to Unknown Questions;** Yang Deng et al
 
 
 
