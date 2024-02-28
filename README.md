@@ -1759,4 +1759,5 @@
 - **Alignment Workshop;** https://www.alignment-workshop.com/nola-2023
 - **AI Alignment Research Overview;** Jacob Steinhardt
 - **Proxy objectives in reinforcement learning from human feedback;** John Schulman
+- **AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System;** Zhiwei Liu et al
 
