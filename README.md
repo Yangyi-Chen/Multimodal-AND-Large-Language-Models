@@ -1387,6 +1387,7 @@
 - **MVBench: A Comprehensive Multi-modal Video Understanding Benchmark;** Kunchang Li et al
 - **LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models;** Yanwei Li et al
 - **LANGUAGEBIND: EXTENDING VIDEO-LANGUAGE PRETRAINING TO N-MODALITY BY LANGUAGE-BASED SEMANTIC ALIGNMENT;** Bin Zhu et al
+- **TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding;** Shuhuai Ren et al
 
 ## Key Frame Detection
 
