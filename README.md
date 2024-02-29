@@ -1735,6 +1735,7 @@
 - **Learning to Model the World with Language;** Jessy Lin et al
 - **Learning Interactive Real-World Simulators;** Mengjiao Yang et al
 - **Diffusion World Model;** Zihan Ding et al
+- **Genie: Generative Interactive Environments;** Jake Bruce et al
 
 ## Resource
 
