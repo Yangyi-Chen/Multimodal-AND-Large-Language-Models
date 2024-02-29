@@ -1126,6 +1126,7 @@
 - **AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls;** Yu Du et al
 - **SCIAGENT: Tool-augmented Language Models for Scientific Reasoning;** Yubo Ma et al
 - **API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs;** Kinjal Basu et al
+- **Empowering Large Language Model Agents through Action Learning;** Haiteng Zhao et al
 
 
 **With Visual Tools**
