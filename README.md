@@ -606,6 +606,7 @@
 - **Dissecting Human and LLM Preferences;** Junlong Li1 et al
 - **Reformatted Alignment;** Run-Ze Fan et al
 - **Capability or Alignment? Respect the LLM Base Model’s Capability During Alignment;** Jingfeng Yang
+- **Learning or Self-aligning? Rethinking Instruction Fine-tuning;** Mengjie Ren et al
 
 
 ## Scalable Oversight & SuperAlignment
