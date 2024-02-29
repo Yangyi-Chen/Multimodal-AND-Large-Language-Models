@@ -426,6 +426,7 @@
 - **V-STaR: Training Verifiers for Self-Taught Reasoners;** Arian Hosseini et al
 - **Verified Multi-Step Synthesis using Large Language Models and Monte Carlo Tree Search;** David Brandfonbrener et al
 - **BOOSTING OF THOUGHTS: TRIAL-AND-ERROR PROBLEM SOLVING WITH LARGE LANGUAGE MODELS;** Sijia Chen et al
+- **Language Agents as Optimizable Graphs;** Mingchen Zhuge et al
 
 **Self-consistency**
 
