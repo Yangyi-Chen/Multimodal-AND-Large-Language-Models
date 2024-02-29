@@ -136,6 +136,7 @@
 - **Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning;** Zhiting Hu et al
 - **A Roadmap to Pluralistic Alignment;** Taylor Sorensen et al
 - **Towards Unified Alignment Between Agents, Humans, and Environment;** Zonghan Yang et al
+- **Video as the New Language for Real-World Decision Making;** Sherry Yang et al
 
 ## Structure
 
