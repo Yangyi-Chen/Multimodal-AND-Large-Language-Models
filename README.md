@@ -121,6 +121,7 @@
 - **Safety of Multimodal Large Language Models on Images and Text;** Xin Liu et al
 - **MM-LLMs: Recent Advances in MultiModal Large Language Models;** Duzhen Zhang et al
 - **Rethinking Interpretability in the Era of Large Language Models;** Chandan Singh et al
+- **Large Multimodal Agents: A Survey;** Junlin Xie et al
 
 ## Position Paper
 
