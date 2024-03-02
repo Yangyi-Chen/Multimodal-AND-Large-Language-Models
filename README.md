@@ -689,6 +689,7 @@
 - **OS-COPILOT: TOWARDS GENERALIST COMPUTER AGENTS WITH SELF-IMPROVEMENT;** Zhiyong Wu et al
 - **LONGAGENT: Scaling Language Models to 128k Context through Multi-Agent Collaboration;** Jun Zhao et al
 - **When is Tree Search Useful for LLM Planning? It Depends on the Discriminator;** Ziru Chen et al
+- **DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE;** Sirui Hong et al
 
 
 
