@@ -262,6 +262,7 @@
 
 ## LLM Analysis
 
+- **GROKKING: GENERALIZATION BEYOND OVERFITTING ON SMALL ALGORITHMIC DATASETS;** Alethea Power et al
 - **A Categorical Archive of ChatGPT Failures;** Ali Borji et al
 - **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling;** Stella Biderman  et al
 - **Are Emergent Abilities of Large Language Models a Mirage?;** Rylan Schaeffer et al
