@@ -263,6 +263,7 @@
 ## LLM Analysis
 
 - **GROKKING: GENERALIZATION BEYOND OVERFITTING ON SMALL ALGORITHMIC DATASETS;** Alethea Power et al
+- **Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition;** Yufei Huang et al
 - **A Categorical Archive of ChatGPT Failures;** Ali Borji et al
 - **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling;** Stella Biderman  et al
 - **Are Emergent Abilities of Large Language Models a Mirage?;** Rylan Schaeffer et al
