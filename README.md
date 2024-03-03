@@ -122,6 +122,7 @@
 - **MM-LLMs: Recent Advances in MultiModal Large Language Models;** Duzhen Zhang et al
 - **Rethinking Interpretability in the Era of Large Language Models;** Chandan Singh et al
 - **Large Multimodal Agents: A Survey;** Junlin Xie et al
+- **A Survey on Data Selection for Language Models;** Alon Albalak et al
 
 ## Position Paper
 
