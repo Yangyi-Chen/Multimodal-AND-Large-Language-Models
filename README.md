@@ -723,6 +723,7 @@
 - **MOBILE-AGENT: AUTONOMOUS MULTI-MODAL MOBILE DEVICE AGENT WITH VISUAL PERCEPTION;** Junyang Wang et al
 - **V-IRL: Grounding Virtual Intelligence in Real Life;** Jihan Yang et al
 - **An Interactive Agent Foundation Model;** Zane Durante et al
+- **RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis;** Yao Mu et al
 
 ## Interaction
 
