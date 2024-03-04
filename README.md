@@ -1756,6 +1756,7 @@
 - **Learning Interactive Real-World Simulators;** Mengjiao Yang et al
 - **Diffusion World Model;** Zihan Ding et al
 - **Genie: Generative Interactive Environments;** Jake Bruce et al
+- **Learning and Leveraging World Models in Visual Representation Learning;** Quentin Garrido et al
 
 ## Resource
 
