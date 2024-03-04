@@ -657,6 +657,7 @@
 - **Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models;** Zhiyuan Hu et al
 - **Tell Me More! Towards Implicit User Intention Understanding of Language Model-Driven Agents;** Cheng Qian et al
 - **MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues;** Ge Bai et al
+- **ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL;** Yifei Zhou et al
 
 ## Agent
 
