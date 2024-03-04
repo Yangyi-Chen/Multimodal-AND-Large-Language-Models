@@ -20,6 +20,7 @@
 - [LLM with Human](#llm-with-human)
 - [LLM Foundation](#llm-foundation)
 - [LLM Data Engineering](#llm-data-engineering)
+- [VLM Data Engineering](#vlm-data-engineering)
 - [Alignment](#alignment)
 - [Scalable Oversight&amp;SuperAlignment](#scalable-oversight-&-superalignment)
 - [RL Foundation](#rl-foundation)
@@ -594,6 +595,12 @@
 - **WHAT MAKES GOOD DATA FOR ALIGNMENT? A COMPREHENSIVE STUDY OF AUTOMATIC DATA SELECTION IN INSTRUCTION TUNING;** Wei Liu et al
 - **ChatQA: Building GPT-4 Level Conversational QA Models;** Zihan Liu et al
 - **AGENTOHANA: DESIGN UNIFIED DATA AND TRAINING PIPELINE FOR EFFECTIVE AGENT LEARNING;** Jianguo Zhang et al
+
+
+## VLM Data Engineering
+- **Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models;** Lei Li et al
+
+
 
 ## Alignment
 
