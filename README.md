@@ -702,6 +702,7 @@
 - **LONGAGENT: Scaling Language Models to 128k Context through Multi-Agent Collaboration;** Jun Zhao et al
 - **When is Tree Search Useful for LLM Planning? It Depends on the Discriminator;** Ziru Chen et al
 - **DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE;** Sirui Hong et al
+- **Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study;** Weihao Tan et al
 
 
 
