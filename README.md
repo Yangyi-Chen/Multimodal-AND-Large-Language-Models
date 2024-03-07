@@ -1008,6 +1008,7 @@
 - **Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs;** Shengbang Tong et al
 - **FROZEN TRANSFORMERS IN LANGUAGE MODELS ARE EFFECTIVE VISUAL ENCODER LAYERS;** Ziqi Pang et al
 - **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models;** Siddharth Karamcheti et al
+- **Design2Code: How Far Are We From Automating Front-End Engineering?;** Chenglei Si et al
 
 
 
