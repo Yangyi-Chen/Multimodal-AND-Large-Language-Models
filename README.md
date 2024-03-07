@@ -956,6 +956,7 @@
 - **MoE-LLaVA: Mixture of Experts for Large Vision-Language Models;** Bin Lin et al
 - **MouSi: Poly-Visual-Expert Vision-Language Models;** Xiaoran Fan et al
 - **SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models;** Peng Gao et al
+- **Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models;** Gen Luo et al
 
 
 ### Others
