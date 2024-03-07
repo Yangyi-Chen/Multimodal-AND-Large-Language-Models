@@ -1076,6 +1076,7 @@
 - **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model;** Jiahui Gao et al
 - **ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning;** Fanqing Meng et al
 - **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning;** Renqiu Xia et al
+- **Enhancing Vision-Language Pre-training with Rich Supervisions;** Yuan Gao et al
 
 **Dataset**
 
@@ -1084,6 +1085,7 @@
 - **PDF-VQA: A New Dataset for Real-World VQA on PDF Documents;** Yihao Ding et al
 - **DocumentNet: Bridging the Data Gap in Document Pre-Training;** Lijun Yu et al
 - **Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning;** Kung-Hsiang Huang et al
+
 
 ***Table***
 
