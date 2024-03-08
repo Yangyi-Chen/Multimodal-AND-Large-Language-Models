@@ -434,6 +434,7 @@
 - **BOOSTING OF THOUGHTS: TRIAL-AND-ERROR PROBLEM SOLVING WITH LARGE LANGUAGE MODELS;** Sijia Chen et al
 - **Language Agents as Optimizable Graphs;** Mingchen Zhuge et al
 - **MathScale: Scaling Instruction Tuning for Mathematical Reasoning;** Zhengyang Tang et al
+- **Teaching Large Language Models to Reason with Reinforcement Learning;** Alex Havrilla et al
 
 **Self-consistency**
 
