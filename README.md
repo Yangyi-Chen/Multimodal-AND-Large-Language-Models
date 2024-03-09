@@ -1160,6 +1160,7 @@
 - **SCIAGENT: Tool-augmented Language Models for Scientific Reasoning;** Yubo Ma et al
 - **API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs;** Kinjal Basu et al
 - **Empowering Large Language Model Agents through Action Learning;** Haiteng Zhao et al
+- **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error;** Boshi Wang et al
 
 
 **With Visual Tools**
