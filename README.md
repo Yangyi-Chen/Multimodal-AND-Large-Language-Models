@@ -1799,4 +1799,5 @@
 - **AI Alignment Research Overview;** Jacob Steinhardt
 - **Proxy objectives in reinforcement learning from human feedback;** John Schulman
 - **AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System;** Zhiwei Liu et al
+- **Training great LLMs entirely from ground up in the wilderness as a startup;** Yi Tay
 
