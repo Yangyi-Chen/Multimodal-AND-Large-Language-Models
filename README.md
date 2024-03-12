@@ -961,7 +961,7 @@
 - **MouSi: Poly-Visual-Expert Vision-Language Models;** Xiaoran Fan et al
 - **SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models;** Peng Gao et al
 - **Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models;** Gen Luo et al
-- **TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document;** Yuliang Liu et al
+- **DeepSeek-VL: Towards Real-World Vision-Language Understanding;** Haoyu Lu et al
 
 
 ### Others
@@ -1082,6 +1082,8 @@
 - **ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning;** Fanqing Meng et al
 - **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning;** Renqiu Xia et al
 - **Enhancing Vision-Language Pre-training with Rich Supervisions;** Yuan Gao et al
+- **TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document;** Yuliang Liu et al
+
 
 **Dataset**
 
