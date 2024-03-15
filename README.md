@@ -387,6 +387,7 @@
 - **WEBLINX: Real-World Website Navigation with Multi-Turn Dialogue;** Xing Han Lu et al
 - **MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization;** Zhiyu Yang et al
 - **Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference;** Wei-Lin Chiang et al
+- **DevBench: A Comprehensive Benchmark for Software Development;** Bowen Li et al
 
 
 ## LLM Reasoning
