@@ -438,6 +438,7 @@
 - **Language Agents as Optimizable Graphs;** Mingchen Zhuge et al
 - **MathScale: Scaling Instruction Tuning for Mathematical Reasoning;** Zhengyang Tang et al
 - **Teaching Large Language Models to Reason with Reinforcement Learning;** Alex Havrilla et al
+- **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking;** Eric Zelikman et al
 
 **Self-consistency**
 
