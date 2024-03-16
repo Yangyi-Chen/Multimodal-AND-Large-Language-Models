@@ -1174,6 +1174,7 @@
 - **API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs;** Kinjal Basu et al
 - **Empowering Large Language Model Agents through Action Learning;** Haiteng Zhao et al
 - **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error;** Boshi Wang et al
+- **StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models;** Zhicheng Guo et al
 
 
 **With Visual Tools**
