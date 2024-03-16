@@ -716,7 +716,7 @@
 - **When is Tree Search Useful for LLM Planning? It Depends on the Discriminator;** Ziru Chen et al
 - **DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE;** Sirui Hong et al
 - **Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study;** Weihao Tan et al
-
+- **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents;** Ruiyi Wang et al
 
 
 **AutoTelic Agent**
