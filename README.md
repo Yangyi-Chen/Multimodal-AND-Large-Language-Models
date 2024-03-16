@@ -19,6 +19,7 @@
 - [LLM with Memory](#llm-with-memory)
 - [LLM with Human](#llm-with-human)
 - [LLM Foundation](#llm-foundation)
+- [Scaling Law](#scaling-law)
 - [LLM Data Engineering](#llm-data-engineering)
 - [VLM Data Engineering](#vlm-data-engineering)
 - [Alignment](#alignment)
@@ -575,7 +576,6 @@
 - **Secrets of RLHF in Large Language Models Part I: PPO;** Rui Zheng et al
 - **EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education;** Yuhao Dan et al
 - **WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct;** Haipeng Luo et al
-- **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
 - **SlimPajama-DC: Understanding Data Combinations for LLM Training;** Zhiqiang Shen et al
 - **LMSYS-CHAT-1M: A LARGE-SCALE REAL-WORLD LLM CONVERSATION DATASET;** Lianmin Zheng et al
 - **Mistral 7B;** Albert Q. Jiang et al
@@ -592,6 +592,10 @@
 - **Gemma: Open Models Based on Gemini Research and Technology;** Gemma Team
 - **StarCoder 2 and The Stack v2: The Next Generation;** Anton Lozhkov et al
 - **Yi: Open Foundation Models by 01.AI;** 01.AI 
+
+## Scaling Law
+- **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
+- **Language models scale reliably with over-training and on downstream tasks;** Samir Yitzhak Gadre et al
 
 
 ## LLM Data Engineering
