@@ -942,7 +942,6 @@
 - **TEAL: TOKENIZE AND EMBED ALL FOR MULTI-MODAL LARGE LANGUAGE MODELS;** Zhen Yang et al
 - **mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration;** Qinghao Ye et al
 - **LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge;** Gongwei Chen et al
-- **Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs;** Yonghui Wang et al
 - **OtterHD: A High-Resolution Multi-modality Model;** Bo Li et al
 - **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions;** Lin Chen et al
 - **PerceptionGPT: Effectively Fusing Visual Perception into LLM;** Renjie Pi et al
@@ -1094,7 +1093,8 @@
 - **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning;** Renqiu Xia et al
 - **Enhancing Vision-Language Pre-training with Rich Supervisions;** Yuan Gao et al
 - **TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document;** Yuliang Liu et al
-
+- **ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning;** Ahmed Masry et al
+- **Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs;** Yonghui Wang et al
 
 **Dataset**
 
