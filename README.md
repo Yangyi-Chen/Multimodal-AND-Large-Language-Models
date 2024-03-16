@@ -968,6 +968,7 @@
 - **SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models;** Peng Gao et al
 - **Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models;** Gen Luo et al
 - **DeepSeek-VL: Towards Real-World Vision-Language Understanding;** Haoyu Lu et al
+- **UniCode: Learning a Unified Codebook for Multimodal Large Language Models;** Sipeng Zheng et al
 
 
 ### Others
