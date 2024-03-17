@@ -596,6 +596,7 @@
 ## Scaling Law
 - **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
 - **Language models scale reliably with over-training and on downstream tasks;** Samir Yitzhak Gadre et al
+- **Unraveling the Mystery of Scaling Laws: Part I;** Hui Su et al
 
 
 ## LLM Data Engineering
