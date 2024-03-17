@@ -1029,6 +1029,7 @@
 - **FROZEN TRANSFORMERS IN LANGUAGE MODELS ARE EFFECTIVE VISUAL ENCODER LAYERS;** Ziqi Pang et al
 - **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models;** Siddharth Karamcheti et al
 - **Design2Code: How Far Are We From Automating Front-End Engineering?;** Chenglei Si et al
+- **MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training;** Brandon McKinzie et al
 
 
 
