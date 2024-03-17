@@ -815,6 +815,7 @@
 - **DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models;** Damai Dai et al
 - **MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts;** Maciej Pioro et al
 - **OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models;** Fuzhao Xue et al
+- **Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM;** Sainbayar Sukhbaatar et al
 
 ## Vision-Language Foundation Model
 
