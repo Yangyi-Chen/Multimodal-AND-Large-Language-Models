@@ -654,6 +654,7 @@
 - **Improving Factuality and Reasoning in Language Models through Multiagent Debate;** Yilun Du et al
 - **CHATEVAL: TOWARDS BETTER LLM-BASED EVALUATORS THROUGH MULTI-AGENT DEBATE;** Chi-Min Chan et al
 - **Debating with More Persuasive LLMs Leads to More Truthful Answers;** Akbir Khan et al
+- **Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision;** Zhiqing Sun et al
 
 
 ## RL Foundation
