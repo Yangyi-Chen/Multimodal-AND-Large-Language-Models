@@ -974,6 +974,7 @@
 - **Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models;** Gen Luo et al
 - **DeepSeek-VL: Towards Real-World Vision-Language Understanding;** Haoyu Lu et al
 - **UniCode: Learning a Unified Codebook for Multimodal Large Language Models;** Sipeng Zheng et al
+- **MoAI: Mixture of All Intelligence for Large Language and Vision Models;** Byung-Kwan Lee et al
 
 
 ### Others
