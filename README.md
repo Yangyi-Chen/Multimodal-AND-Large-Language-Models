@@ -1694,6 +1694,7 @@
 - **MetaCLUE: Towards Comprehensive Visual Metaphors Research;** Arjun R. Akula et al
 - **CAPSFUSION: Rethinking Image-Text Data at Scale;** Qiying Yu et al
 - **RedCaps: Web-curated image-text data created by the people, for the people;** Karan Desai et al
+- **OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents;** Hugo Laurençon et al
 
 ## Robustness
 
