@@ -355,6 +355,7 @@
 - **Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions;** Federico Bianchi et al
 - **Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations;** Hakan Inan et al
 - **EMULATED DISALIGNMENT: SAFETY ALIGNMENT FOR LARGE LANGUAGE MODELS MAY BACKFIRE!;** Zhanhui Zhou et al
+- **Logits of API-Protected LLMs Leak Proprietary Information;** Matthew Finlayson et al
 
 ## LLM Evaluation
 
