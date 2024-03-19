@@ -633,6 +633,7 @@
 - **Reformatted Alignment;** Run-Ze Fan et al
 - **Capability or Alignment? Respect the LLM Base Model’s Capability During Alignment;** Jingfeng Yang
 - **Learning or Self-aligning? Rethinking Instruction Fine-tuning;** Mengjie Ren et al
+- **Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models;** Yi Luo et al
 
 
 ## Scalable Oversight & SuperAlignment
