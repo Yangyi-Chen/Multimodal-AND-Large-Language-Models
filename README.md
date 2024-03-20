@@ -1212,6 +1212,7 @@
 - **Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models;** Yushi Hu et al
 - **CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations;** Ji Qi et al
 - **CLOVA: a closed-loop visual assistant with tool usage and update;** Zhi Gao et al
+- **m&m’s: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks;** Zixian Ma et al
 
 
 ## Instruction Tuning
