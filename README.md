@@ -721,6 +721,7 @@
 - **DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE;** Sirui Hong et al
 - **Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study;** Weihao Tan et al
 - **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents;** Ruiyi Wang et al
+- **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models;** Zehui Chen et al
 
 
 **AutoTelic Agent**
