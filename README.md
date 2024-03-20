@@ -1104,6 +1104,7 @@
 - **TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document;** Yuliang Liu et al
 - **ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning;** Ahmed Masry et al
 - **Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs;** Yonghui Wang et al
+- **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs;** Victor Carbune et al
 
 **Dataset**
 
