@@ -1480,6 +1480,7 @@
 - **4M: Massively Multimodal Masked Modeling;** David Mizrahi et al
 - **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks;** Zhe Chen et al
 - **Scalable Pre-training of Large Autoregressive Image Models;** Alaaeldin El-Nouby et al
+- **When Do We Not Need Larger Vision Models?;** Baifeng Shi et al
 
 ## Pretraining
 
