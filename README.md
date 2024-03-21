@@ -391,6 +391,7 @@
 - **MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization;** Zhiyu Yang et al
 - **Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference;** Wei-Lin Chiang et al
 - **DevBench: A Comprehensive Benchmark for Software Development;** Bowen Li et al
+- **REWARDBENCH: Evaluating Reward Models for Language Modeling;** Nathan Lambert et al
 
 
 
@@ -1407,6 +1408,7 @@
 - **RLVF: Learning from Verbal Feedback without Overgeneralization;** Moritz Stephan et al
 - **OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement;** Tianyu Zheng et al
 - **A Critical Evaluation of AI Feedback for Aligning Large Language Models;** Archit Sharma et al
+
 
 
 
