@@ -125,6 +125,7 @@
 - **Rethinking Interpretability in the Era of Large Language Models;** Chandan Singh et al
 - **Large Multimodal Agents: A Survey;** Junlin Xie et al
 - **A Survey on Data Selection for Language Models;** Alon Albalak et al
+- **What Are Tools Anyway? A Survey from the Language Model Perspective;** Zora Zhiruo Wang et al
 
 ## Position Paper
 
