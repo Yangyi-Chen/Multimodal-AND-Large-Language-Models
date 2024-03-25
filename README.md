@@ -777,6 +777,7 @@
 - **MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback;** Xingyao Wang et al
 - **LLF-Bench: Benchmark for Interactive Learning from Language Feedback;** Ching-An Cheng et al
 - **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models;** Wai-Chung Kwan et al
+- **Can large language models explore in-context?;** Akshay Krishnamurthy et al
 
 ## Critique Modeling
 
