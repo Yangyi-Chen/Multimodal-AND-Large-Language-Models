@@ -595,7 +595,8 @@
 - **InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning;** Huaiyuan Ying et al
 - **Gemma: Open Models Based on Gemini Research and Technology;** Gemma Team
 - **StarCoder 2 and The Stack v2: The Next Generation;** Anton Lozhkov et al
-- **Yi: Open Foundation Models by 01.AI;** 01.AI 
+- **Yi: Open Foundation Models by 01.AI;** 01.AI
+- **InternLM2 Technical Report;** Zheng Cai et al
 
 ## Scaling Law
 
