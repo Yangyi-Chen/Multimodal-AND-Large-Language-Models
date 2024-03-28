@@ -992,6 +992,7 @@
 - **UniCode: Learning a Unified Codebook for Multimodal Large Language Models;** Sipeng Zheng et al
 - **MoAI: Mixture of All Intelligence for Large Language and Vision Models;** Byung-Kwan Lee et al
 - **LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images;** Ruyi Xu et al
+- **Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models;** Yanwei Li et al
 
 
 ### Others
