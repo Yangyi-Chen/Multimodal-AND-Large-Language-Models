@@ -339,6 +339,7 @@
 - **Calibrating Large Language Models with Sample Consistency;** Qing Lyu et al
 - **Gotcha! Don’t trick me with unanswerable questions! Self-aligning Large Language Models for Responding to Unknown Questions;** Yang Deng et al
 - **Unfamiliar Finetuning Examples Control How Language Models Hallucinate;** Katie Kang et al
+- **Few-Shot Recalibration of Language Models;** Xiang Lisa Li et al
 
 
 
