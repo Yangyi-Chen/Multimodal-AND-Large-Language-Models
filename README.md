@@ -1048,6 +1048,7 @@
 - **Design2Code: How Far Are We From Automating Front-End Engineering?;** Chenglei Si et al
 - **MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training;** Brandon McKinzie et al
 - **MATHVERSE: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?;** Renrui Zhang et al
+- **Are We on the Right Way for Evaluating Large Vision-Language Models?;** Lin Chen et al
 
 
 ## Multimodal Foundation Model
