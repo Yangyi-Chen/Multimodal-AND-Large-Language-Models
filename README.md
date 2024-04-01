@@ -598,6 +598,7 @@
 - **StarCoder 2 and The Stack v2: The Next Generation;** Anton Lozhkov et al
 - **Yi: Open Foundation Models by 01.AI;** 01.AI
 - **InternLM2 Technical Report;** Zheng Cai et al
+- **Jamba: A Hybrid Transformer-Mamba Language Model;** Opher Lieber et al
 
 ## Scaling Law
 
