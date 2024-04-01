@@ -692,6 +692,7 @@
 - **MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues;** Ge Bai et al
 - **ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL;** Yifei Zhou et al
 - **Probing the Multi-turn Planning Capabilities of LLMs via 20 Question Games;** Yizhe Zhang et al
+- **STaR-GATE: Teaching Language Models to Ask Clarifying Questions;** Chinmaya Andukuri et al
 
 ## Agent
 
