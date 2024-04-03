@@ -608,6 +608,7 @@
 - **Unraveling the Mystery of Scaling Laws: Part I;** Hui Su et al
 - **Understanding Emergent Abilities of Language Models from the Loss Perspective;** Zhengxiao Du et al
 - **Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance;** Jiasheng Ye et al
+- **The Fine Line: Navigating Large Language Model Pretraining with Downstreaming Capability Analysis;** Chen Yang et al
 
 
 ## LLM Data Engineering
