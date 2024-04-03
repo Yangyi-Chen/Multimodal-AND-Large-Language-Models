@@ -620,6 +620,7 @@
 - **WHAT MAKES GOOD DATA FOR ALIGNMENT? A COMPREHENSIVE STUDY OF AUTOMATIC DATA SELECTION IN INSTRUCTION TUNING;** Wei Liu et al
 - **ChatQA: Building GPT-4 Level Conversational QA Models;** Zihan Liu et al
 - **AGENTOHANA: DESIGN UNIFIED DATA AND TRAINING PIPELINE FOR EFFECTIVE AGENT LEARNING;** Jianguo Zhang et al
+- **Advancing LLM Reasoning Generalists with Preference Trees;** Lifan Yuan et al
 
 
 ## VLM Data Engineering
