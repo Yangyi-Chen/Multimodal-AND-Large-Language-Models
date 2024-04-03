@@ -1423,6 +1423,7 @@
 - **RLVF: Learning from Verbal Feedback without Overgeneralization;** Moritz Stephan et al
 - **OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement;** Tianyu Zheng et al
 - **A Critical Evaluation of AI Feedback for Aligning Large Language Models;** Archit Sharma et al
+- **VOLCANO: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision;** Seongyun Lee et al
 
 
 
