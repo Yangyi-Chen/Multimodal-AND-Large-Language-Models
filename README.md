@@ -1500,6 +1500,10 @@
 - **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks;** Zhe Chen et al
 - **Scalable Pre-training of Large Autoregressive Image Models;** Alaaeldin El-Nouby et al
 - **When Do We Not Need Larger Vision Models?;** Baifeng Shi et al
+- **ViTamin: Designing Scalable Vision Models in the Vision-Language Era;** Jieneng Chen et al
+
+
+
 
 ## Pretraining
 
