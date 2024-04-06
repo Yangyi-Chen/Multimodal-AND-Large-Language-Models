@@ -605,6 +605,7 @@
 
 - **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
 - **Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer;** Greg Yang et al
+- **Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster;** Nolan Dey et al
 - **Language models scale reliably with over-training and on downstream tasks;** Samir Yitzhak Gadre et al
 - **Unraveling the Mystery of Scaling Laws: Part I;** Hui Su et al
 - **Understanding Emergent Abilities of Language Models from the Loss Perspective;** Zhengxiao Du et al
