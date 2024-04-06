@@ -604,7 +604,6 @@
 ## Scaling Law
 
 - **Revisiting Neural Scaling Laws in Language and Vision;** Ibrahim Alabdulmohsin et al
-- **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
 - **SCALE EFFICIENTLY: INSIGHTS FROM PRE-TRAINING AND FINE-TUNING TRANSFORMERS;** Yi Tay et al
 - **Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer;** Greg Yang et al
 - **Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster;** Nolan Dey et al
@@ -613,7 +612,20 @@
 - **Understanding Emergent Abilities of Language Models from the Loss Perspective;** Zhengxiao Du et al
 - **Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance;** Jiasheng Ye et al
 - **The Fine Line: Navigating Large Language Model Pretraining with Downstreaming Capability Analysis;** Chen Yang et al
+
+
+
+**MoE**
+
+- **UNIFIED SCALING LAWS FOR ROUTED LANGUAGE MODELS;** Aidan Clark et al
+- **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
 - **Toward Inference-optimal Mixture-of-Expert Large Language Models;** Longfei Yun et al
+
+
+
+
+
+
 
 
 ## LLM Data Engineering
