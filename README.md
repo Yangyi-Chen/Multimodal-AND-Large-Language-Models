@@ -603,6 +603,7 @@
 
 ## Scaling Law
 
+- **Revisiting Neural Scaling Laws in Language and Vision;** Ibrahim Alabdulmohsin et al
 - **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
 - **SCALE EFFICIENTLY: INSIGHTS FROM PRE-TRAINING AND FINE-TUNING TRANSFORMERS;** Yi Tay et al
 - **Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer;** Greg Yang et al
