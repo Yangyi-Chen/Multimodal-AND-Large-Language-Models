@@ -604,6 +604,7 @@
 ## Scaling Law
 
 - **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
+- **SCALE EFFICIENTLY: INSIGHTS FROM PRE-TRAINING AND FINE-TUNING TRANSFORMERS;** Yi Tay et al
 - **Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer;** Greg Yang et al
 - **Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster;** Nolan Dey et al
 - **Language models scale reliably with over-training and on downstream tasks;** Samir Yitzhak Gadre et al
