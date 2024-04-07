@@ -612,7 +612,7 @@
 - **Unraveling the Mystery of Scaling Laws: Part I;** Hui Su et al
 - **Understanding Emergent Abilities of Language Models from the Loss Perspective;** Zhengxiao Du et al
 - **Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance;** Jiasheng Ye et al
-- **The Fine Line: Navigating Large Language Model Pretraining with Downstreaming Capability Analysis;** Chen Yang et al
+- **The Fine Line: Navigating Large Language Model Pretraining with Down streaming Capability Analysis;** Chen Yang et al
 
 
 
@@ -638,7 +638,7 @@
 - **REST MEETS REACT: SELF-IMPROVEMENT FOR MULTI-STEP REASONING LLM AGENT;** Renat Aksitov et al
 - **WHAT MAKES GOOD DATA FOR ALIGNMENT? A COMPREHENSIVE STUDY OF AUTOMATIC DATA SELECTION IN INSTRUCTION TUNING;** Wei Liu et al
 - **ChatQA: Building GPT-4 Level Conversational QA Models;** Zihan Liu et al
-- **AGENTOHANA: DESIGN UNIFIED DATA AND TRAINING PIPELINE FOR EFFECTIVE AGENT LEARNING;** Jianguo Zhang et al
+- **AGENTOHANA: DESIGN UNIFIED DATA AND TRAINING PIPELINE FOR EFFECTIVE AGENT LEARNING;** Jianguo Zhang et al
 - **Advancing LLM Reasoning Generalists with Preference Trees;** Lifan Yuan et al
 
 
