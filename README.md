@@ -603,6 +603,10 @@
 
 ## Scaling Law
 
+- **Scaling Laws for Neural Language Models;** Jared Kaplan et al
+- **Training Compute-Optimal Large Language Models;** Jordan Hoffmann et al
+- **Scaling Laws for Autoregressive Generative Modeling;** Tom Henighan et al
+- **Scaling Laws from the Data Manifold Dimension;** Utkarsh Sharma et al
 - **Scaling Laws for Transfer;** Danny Hernandez et al
 - **Revisiting Neural Scaling Laws in Language and Vision;** Ibrahim Alabdulmohsin et al
 - **SCALE EFFICIENTLY: INSIGHTS FROM PRE-TRAINING AND FINE-TUNING TRANSFORMERS;** Yi Tay et al
@@ -621,7 +625,7 @@
 - **UNIFIED SCALING LAWS FOR ROUTED LANGUAGE MODELS;** Aidan Clark et al
 - **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
 - **Toward Inference-optimal Mixture-of-Expert Large Language Models;** Longfei Yun et al
-
+- **SCALING LAWS FOR FINE-GRAINED MIXTURE OF EXPERTS;** Jakub Krajewski et al
 
 
 
