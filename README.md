@@ -718,6 +718,7 @@
 - **ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL;** Yifei Zhou et al
 - **Probing the Multi-turn Planning Capabilities of LLMs via 20 Question Games;** Yizhe Zhang et al
 - **STaR-GATE: Teaching Language Models to Ask Clarifying Questions;** Chinmaya Andukuri et al
+- **Bayesian Preference Elicitation with Language Models;** Kunal Handa et al
 
 ## Agent
 
