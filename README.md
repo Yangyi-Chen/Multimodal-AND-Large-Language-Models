@@ -611,6 +611,7 @@
 - **Scaling Laws for Reward Model Overoptimization;** Leo Gao et al
 - **Scaling Laws from the Data Manifold Dimension;** Utkarsh Sharma et al
 - **Scaling Laws for Transfer;** Danny Hernandez et al
+- **Scaling Data-Constrained Language Models;** Niklas Muennighoff et al
 - **Revisiting Neural Scaling Laws in Language and Vision;** Ibrahim Alabdulmohsin et al
 - **SCALE EFFICIENTLY: INSIGHTS FROM PRE-TRAINING AND FINE-TUNING TRANSFORMERS;** Yi Tay et al
 - **Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer;** Greg Yang et al
