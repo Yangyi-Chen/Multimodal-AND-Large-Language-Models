@@ -396,6 +396,7 @@
 - **DevBench: A Comprehensive Benchmark for Software Development;** Bowen Li et al
 - **REWARDBENCH: Evaluating Reward Models for Language Modeling;** Nathan Lambert et al
 - **Long-context LLMs Struggle with Long In-context Learning;** Tianle Li et al
+- **LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models;** Shibo Hao et al
 
 
 
