@@ -795,7 +795,8 @@
 - **V-IRL: Grounding Virtual Intelligence in Real Life;** Jihan Yang et al
 - **An Interactive Agent Foundation Model;** Zane Durante et al
 - **RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis;** Yao Mu et al
-- **Scaling Instructable Agents Across Many Simulated Worlds;** SIMA Team 
+- **Scaling Instructable Agents Across Many Simulated Worlds;** SIMA Team
+- **Do We Really Need a Complex Agent System? Distill Embodied Agent into a Single Model;** Zhonghan Zhao1 et al
 
 ## Interaction
 
