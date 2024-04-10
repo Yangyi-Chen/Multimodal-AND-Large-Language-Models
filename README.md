@@ -608,6 +608,7 @@
 - **Scaling Laws for Neural Language Models;** Jared Kaplan et al
 - **Training Compute-Optimal Large Language Models;** Jordan Hoffmann et al
 - **Scaling Laws for Autoregressive Generative Modeling;** Tom Henighan et al
+- **Scaling Vision Transformers;** Xiaohua Zhai et al
 - **Scaling Laws for Reward Model Overoptimization;** Leo Gao et al
 - **Scaling Laws from the Data Manifold Dimension;** Utkarsh Sharma et al
 - **Scaling Laws for Transfer;** Danny Hernandez et al
