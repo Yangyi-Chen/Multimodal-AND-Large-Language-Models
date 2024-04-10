@@ -606,6 +606,7 @@
 ## Scaling Law
 
 - **Scaling Laws for Neural Language Models;** Jared Kaplan et al
+- **Explaining Neural Scaling Laws;** Yasaman Bahri et al
 - **Training Compute-Optimal Large Language Models;** Jordan Hoffmann et al
 - **Scaling Laws for Autoregressive Generative Modeling;** Tom Henighan et al
 - **Scaling Vision Transformers;** Xiaohua Zhai et al
