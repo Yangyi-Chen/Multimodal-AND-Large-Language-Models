@@ -778,6 +778,7 @@
 - **OpenAgents: AN OPEN PLATFORM FOR LANGUAGE AGENTS IN THE WILD;** Tianbao Xie et al
 - **SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS;** Yue Wu et al
 - **WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?;** Alexandre Drouin et al
+- **Autonomous Evaluation and Refinement of Digital Agents;** Jiayi Pan et al
 
 
 **VL Related Task**
