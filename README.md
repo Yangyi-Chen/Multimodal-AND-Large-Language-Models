@@ -1157,6 +1157,8 @@
 - **ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning;** Ahmed Masry et al
 - **Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs;** Yonghui Wang et al
 - **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs;** Victor Carbune et al
+- **HRVDA: High-Resolution Visual Document Assistant;** Chaohu Liu et al
+
 
 **Dataset**
 
