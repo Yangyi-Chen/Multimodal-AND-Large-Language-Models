@@ -612,6 +612,7 @@
 - **Scaling Vision Transformers;** Xiaohua Zhai et al
 - **Scaling Laws for Reward Model Overoptimization;** Leo Gao et al
 - **Scaling Laws from the Data Manifold Dimension;** Utkarsh Sharma et al
+- **BROKEN NEURAL SCALING LAWS;** Ethan Caballero et al
 - **Scaling Laws for Transfer;** Danny Hernandez et al
 - **Scaling Data-Constrained Language Models;** Niklas Muennighoff et al
 - **Revisiting Neural Scaling Laws in Language and Vision;** Ibrahim Alabdulmohsin et al
