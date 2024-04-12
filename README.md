@@ -602,6 +602,7 @@
 - **Yi: Open Foundation Models by 01.AI;** 01.AI
 - **InternLM2 Technical Report;** Zheng Cai et al
 - **Jamba: A Hybrid Transformer-Mamba Language Model;** Opher Lieber et al
+- **JetMoE: Reaching Llama2 Performance with 0.1M Dollars;** Yikang Shen et al
 
 ## Scaling Law
 
