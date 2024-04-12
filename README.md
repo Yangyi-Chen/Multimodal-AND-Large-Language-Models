@@ -126,6 +126,7 @@
 - **Large Multimodal Agents: A Survey;** Junlin Xie et al
 - **A Survey on Data Selection for Language Models;** Alon Albalak et al
 - **What Are Tools Anyway? A Survey from the Language Model Perspective;** Zora Zhiruo Wang et al
+- **Best Practices and Lessons Learned on Synthetic Data for Language Models;** Ruibo Liu et al
 
 ## Position Paper
 
