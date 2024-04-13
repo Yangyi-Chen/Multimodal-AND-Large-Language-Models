@@ -266,7 +266,7 @@
 
 ## LLM Analysis
 
-- **GROKKING: GENERALIZATION BEYOND OVERFITTING ON SMALL ALGORITHMIC DATASETS;** Alethea Power et al
+- **GROKKING: GENERALIZATION BEYOND OVERFITTING ON SMALL ALGORITHMIC DATASETS;** Alethea Power et al
 - **Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition;** Yufei Huang et al
 - **A Categorical Archive of ChatGPT Failures;** Ali Borji et al
 - **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling;** Stella Biderman  et al
@@ -307,7 +307,6 @@
 - **UNVEILING A CORE LINGUISTIC REGION IN LARGE LANGUAGE MODELS;** Jun Zhao et al
 - **DETECTING PRETRAINING DATA FROM LARGE LANGUAGE MODELS;** Weijia Shi et al
 - **BENCHMARKING AND IMPROVING GENERATOR-VALIDATOR CONSISTENCY OF LMS;** Xiang Lisa Li et al
-- **UNLOCK PREDICTABLE SCALING FROM EMERGENT ABILITIES;** Shengding Hu et al
 - **Trusted Source Alignment in Large Language Models;** Vasilisa Bashlovkina et al
 - **THE UNLOCKING SPELL ON BASE LLMS: RETHINKING ALIGNMENT VIA IN-CONTEXT LEARNING;** Bill Yuchen Lin et al
 - **Can Large Language Models Really Improve by Self-critiquing Their Own Plans?;** Karthik Valmeekam et al
@@ -627,6 +626,9 @@
 - **Understanding Emergent Abilities of Language Models from the Loss Perspective;** Zhengxiao Du et al
 - **Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance;** Jiasheng Ye et al
 - **The Fine Line: Navigating Large Language Model Pretraining with Down streaming Capability Analysis;** Chen Yang et al
+- **UNLOCK PREDICTABLE SCALING FROM EMERGENT ABILITIES;** Shengding Hu et al
+
+
 
 
 
