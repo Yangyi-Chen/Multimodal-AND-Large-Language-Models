@@ -316,6 +316,8 @@
 - **Beyond Probabilities: Unveiling the Misalignment in Evaluating Large Language Models;** Chenyang Lyu et al
 - **Dated Data: Tracing Knowledge Cutoffs in Large Language Models;** Jeffrey Cheng et al
 - **Context versus Prior Knowledge in Language Models;** Kevin Du et al
+- **Training Trajectories of Language Models Across Scales;** Mengzhou Xia et al
+
 
 
 **Calibration & Uncertainty**
