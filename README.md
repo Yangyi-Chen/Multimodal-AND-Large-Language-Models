@@ -614,6 +614,7 @@
 - **Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws;** Zeyuan Allen-Zhu et al
 - **Training Compute-Optimal Large Language Models;** Jordan Hoffmann et al
 - **Scaling Laws for Autoregressive Generative Modeling;** Tom Henighan et al
+- **Scaling Laws for Generative Mixed-Modal Language Models;** Armen Aghajanyan et al
 - **Beyond neural scaling laws: beating power law scaling via data pruning;** Ben Sorscher et al
 - **Scaling Vision Transformers;** Xiaohua Zhai et al
 - **Scaling Laws for Reward Model Overoptimization;** Leo Gao et al
