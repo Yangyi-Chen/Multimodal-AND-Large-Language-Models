@@ -1477,7 +1477,6 @@
 - **OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement;** Tianyu Zheng et al
 - **A Critical Evaluation of AI Feedback for Aligning Large Language Models;** Archit Sharma et al
 - **VOLCANO: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision;** Seongyun Lee et al
-- **Teaching Language Models to Self-Improve through Interactive Demonstrations;** Xiao Yu et al
 - **Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward;** Ruohong Zhang et al
 - **ChatGLM-RLHF: Practices of Aligning Large Language Models with Human Feedback;** Zhenyu Hou et al
 
