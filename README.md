@@ -1044,6 +1044,7 @@
 - **Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models;** Yanwei Li et al
 - **InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD;** Xiaoyi Dong et al
 - **Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models;** Haotian Zhang et al
+- **Self-Supervised Visual Preference Alignment;** Ke Zhu et al
 
 
 ### Others
