@@ -1173,6 +1173,7 @@
 - **Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs;** Yonghui Wang et al
 - **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs;** Victor Carbune et al
 - **HRVDA: High-Resolution Visual Document Assistant;** Chaohu Liu et al
+- **TextSquare: Scaling up Text-Centric Visual Instruction Tuning;** Jingqun Tang et al
 
 
 **Dataset**
