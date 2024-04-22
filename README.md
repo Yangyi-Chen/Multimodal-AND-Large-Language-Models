@@ -1480,6 +1480,7 @@
 - **VOLCANO: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision;** Seongyun Lee et al
 - **Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward;** Ruohong Zhang et al
 - **ChatGLM-RLHF: Practices of Aligning Large Language Models with Human Feedback;** Zhenyu Hou et al
+- **From r to Q: Your Language Model is Secretly a Q-Function;** Rafael Rafailov* et al
 
 ## Video Foundation Model
 
