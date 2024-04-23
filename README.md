@@ -128,6 +128,7 @@
 - **What Are Tools Anyway? A Survey from the Language Model Perspective;** Zora Zhiruo Wang et al
 - **Best Practices and Lessons Learned on Synthetic Data for Language Models;** Ruibo Liu et al
 - **A Survey on the Memory Mechanism of Large Language Model based Agents;** Zeyu Zhang et al
+- **A Survey on Self-Evolution of Large Language Models;** Zhengwei Tao et al
 
 ## Position Paper
 
