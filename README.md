@@ -127,6 +127,7 @@
 - **A Survey on Data Selection for Language Models;** Alon Albalak et al
 - **What Are Tools Anyway? A Survey from the Language Model Perspective;** Zora Zhiruo Wang et al
 - **Best Practices and Lessons Learned on Synthetic Data for Language Models;** Ruibo Liu et al
+- **A Survey on the Memory Mechanism of Large Language Model based Agents;** Zeyu Zhang et al
 
 ## Position Paper
 
