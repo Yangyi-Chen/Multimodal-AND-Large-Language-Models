@@ -369,6 +369,7 @@
 - **Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations;** Hakan Inan et al
 - **EMULATED DISALIGNMENT: SAFETY ALIGNMENT FOR LARGE LANGUAGE MODELS MAY BACKFIRE!;** Zhanhui Zhou et al
 - **Logits of API-Protected LLMs Leak Proprietary Information;** Matthew Finlayson et al
+- **Simple probes can catch sleeper agents;** Monte MacDiarmid et al
 
 ## LLM Evaluation
 
