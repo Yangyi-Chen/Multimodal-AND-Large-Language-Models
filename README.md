@@ -888,6 +888,7 @@
 - **OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models;** Fuzhao Xue et al
 - **Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM;** Sainbayar Sukhbaatar et al
 - **Multi-Head Mixture-of-Experts;** Xun Wu et al
+- **X FT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts;** Yifeng Ding et al
 
 ## Vision-Language Foundation Model
 
