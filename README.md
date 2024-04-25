@@ -1113,7 +1113,7 @@
 - **Are We on the Right Way for Evaluating Large Vision-Language Models?;** Lin Chen et al
 - **MMInA: Benchmarking Multihop Multimodal Internet Agents;** Ziniu Zhang et al
 - **A Multimodal Automated Interpretability Agent;** Tamar Rott Shaham et al
-
+- **MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI;** Kaining Ying et al
 
 ## Multimodal Foundation Model
 
