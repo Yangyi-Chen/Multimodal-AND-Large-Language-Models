@@ -1186,6 +1186,7 @@
 - **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs;** Victor Carbune et al
 - **HRVDA: High-Resolution Visual Document Assistant;** Chaohu Liu et al
 - **TextSquare: Scaling up Text-Centric Visual Instruction Tuning;** Jingqun Tang et al
+- **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning;** Liang Zhang et al
 
 
 **Dataset**
