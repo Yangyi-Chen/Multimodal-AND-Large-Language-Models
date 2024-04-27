@@ -1928,4 +1928,4 @@
 - **Training great LLMs entirely from ground up in the wilderness as a startup;** Yi Tay
 - **MiniCPM：揭示端侧大语言模型的无限潜力;** 胡声鼎 et al
 - **Superalignment Research Directions;** OpenAI; https://openai.notion.site/Research-directions-0df8dd8136004615b0936bf48eb6aeb8
-
+- **Llama 3 Opens the Second Chapter of the Game of Scale;** Yao Fu 
