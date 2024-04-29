@@ -371,6 +371,7 @@
 - **EMULATED DISALIGNMENT: SAFETY ALIGNMENT FOR LARGE LANGUAGE MODELS MAY BACKFIRE!;** Zhanhui Zhou et al
 - **Logits of API-Protected LLMs Leak Proprietary Information;** Matthew Finlayson et al
 - **Simple probes can catch sleeper agents;** Monte MacDiarmid et al
+- **AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs;** Anselm Paulus et al
 
 ## LLM Evaluation
 
