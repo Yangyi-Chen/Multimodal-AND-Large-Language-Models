@@ -672,6 +672,7 @@
 - **ChatQA: Building GPT-4 Level Conversational QA Models;** Zihan Liu et al
 - **AGENTOHANA: DESIGN UNIFIED DATA AND TRAINING PIPELINE FOR EFFECTIVE AGENT LEARNING;** Jianguo Zhang et al
 - **Advancing LLM Reasoning Generalists with Preference Trees;** Lifan Yuan et al
+- **WILDCHAT: 1M CHATGPT INTERACTION LOGS IN THE WILD;** Wenting Zhao et al
 
 
 ## VLM Data Engineering
