@@ -1501,6 +1501,7 @@
 - **ChatGLM-RLHF: Practices of Aligning Large Language Models with Human Feedback;** Zhenyu Hou et al
 - **From r to Q: Your Language Model is Secretly a Q-Function;** Rafael Rafailov* et al
 - **Aligning LLM Agents by Learning Latent Preference from User Edits;** Ge Gao et al
+- **Self-Play Preference Optimization for Language Model Alignment;** Yue Wu et al
 
 
 
