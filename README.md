@@ -678,6 +678,7 @@
 
 ## VLM Data Engineering
 - **Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models;** Lei Li et al
+- **MANTIS: Interleaved Multi-Image Instruction Tuning;** Dongfu Jiang et al
 
 
 
