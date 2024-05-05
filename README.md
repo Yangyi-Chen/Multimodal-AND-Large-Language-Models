@@ -644,7 +644,7 @@
 - **Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance;** Jiasheng Ye et al
 - **The Fine Line: Navigating Large Language Model Pretraining with Down streaming Capability Analysis;** Chen Yang et al
 - **UNLOCK PREDICTABLE SCALING FROM EMERGENT ABILITIES;** Shengding Hu et al
-
+- **Scaling Laws for Data Filtering—Data Curation cannot be Compute Agnostic;** Sachin Goyal et al
 
 
 
