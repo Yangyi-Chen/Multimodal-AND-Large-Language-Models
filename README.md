@@ -1551,6 +1551,7 @@
 - **Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers;** Tsai-Shien Chen et al
 - **INTERNVIDEO2: SCALING VIDEO FOUNDATION MODELS FOR MULTIMODAL VIDEO UNDERSTANDING;** Yi Wang et al
 - **PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning;** Lin Xu et al
+- **LLAVA FINDS FREE LUNCH: TEACHING HUMAN BEHAVIOR IMPROVES CONTENT UNDERSTANDING ABILITIES OF LLMS;** Somesh Singh et al
 
 ## Key Frame Detection
 
