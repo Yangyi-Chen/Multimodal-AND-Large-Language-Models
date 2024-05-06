@@ -1123,6 +1123,7 @@
 - **A Multimodal Automated Interpretability Agent;** Tamar Rott Shaham et al
 - **MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI;** Kaining Ying et al
 - **ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models;** Shuo Liu et al
+- **Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models;** Piotr Padlewski et al
 
 ## Multimodal Foundation Model
 
