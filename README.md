@@ -352,6 +352,7 @@
 - **Unfamiliar Finetuning Examples Control How Language Models Hallucinate;** Katie Kang et al
 - **Few-Shot Recalibration of Language Models;** Xiang Lisa Li et al
 - **When to Trust LLMs: Aligning Confidence with Response Quality and Exploring Applications in RAG;** Shuchang Tao et al
+- **Linguistic Calibration of Language Models;** Neil Band et al
 
 
 
