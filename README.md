@@ -1637,7 +1637,7 @@
 
 ## Adaptation of Foundation Model
 
-- **owards General Purpose Vision Systems: An End-to-End Task-Agnostic Vision-Language Architecture;** Tanmay Gupta et al
+- **Towards General Purpose Vision Systems: An End-to-End Task-Agnostic Vision-Language Architecture;** Tanmay Gupta et al
 - **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners;** Zhenhailong Wang et al
 - **Multimodal Few-Shot Learning with Frozen Language Models;** Maria Tsimpoukelli et al; Use prefix-like image-embedding to stear the text generation process to achieve few-shot learning.
 - **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language;** Andy Zeng et al
