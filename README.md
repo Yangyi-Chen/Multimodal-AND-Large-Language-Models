@@ -1201,7 +1201,7 @@
 - **HRVDA: High-Resolution Visual Document Assistant;** Chaohu Liu et al
 - **TextSquare: Scaling up Text-Centric Visual Instruction Tuning;** Jingqun Tang et al
 - **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning;** Liang Zhang et al
-
+- **Exploring the Capabilities of Large Multimodal Models on Dense Text;** Shuo Zhang et al
 
 **Dataset**
 
@@ -1944,4 +1944,5 @@
 - **Training great LLMs entirely from ground up in the wilderness as a startup;** Yi Tay
 - **MiniCPM：揭示端侧大语言模型的无限潜力;** 胡声鼎 et al
 - **Superalignment Research Directions;** OpenAI; https://openai.notion.site/Research-directions-0df8dd8136004615b0936bf48eb6aeb8
-- **Llama 3 Opens the Second Chapter of the Game of Scale;** Yao Fu 
+- **Llama 3 Opens the Second Chapter of the Game of Scale;** Yao Fu
+- **RLHF Workflow: From Reward Modeling to Online RLHF;** Hanze Dong et al
