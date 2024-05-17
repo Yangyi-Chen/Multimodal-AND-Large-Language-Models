@@ -1068,7 +1068,7 @@
 - **Self-Supervised Visual Preference Alignment;** Ke Zhu et al
 - **How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites;** Zhe Chen et al
 - **CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts;** Jiachen Li et al
-
+- **Libra: Building Decoupled Vision System on Large Language Models;** Yifan Xu et al
 
 ### Others
 
