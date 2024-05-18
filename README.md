@@ -1166,7 +1166,7 @@
 - **LLMGA: Multimodal Large Language Model based Generation Assistant;** Bin Xia et al
 - **ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model;** Xiaowei Chi et al
 - **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition;** Chun-Hsiao Yeh et al
-
+- **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers;** Peng Gao et al
 
 
 
