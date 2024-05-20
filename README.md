@@ -129,6 +129,7 @@
 - **Best Practices and Lessons Learned on Synthetic Data for Language Models;** Ruibo Liu et al
 - **A Survey on the Memory Mechanism of Large Language Model based Agents;** Zeyu Zhang et al
 - **A Survey on Self-Evolution of Large Language Models;** Zhengwei Tao et al
+- **When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models;** Xianzheng Ma et al
 
 ## Position Paper
 
@@ -622,6 +623,7 @@
 - **Jamba: A Hybrid Transformer-Mamba Language Model;** Opher Lieber et al
 - **JetMoE: Reaching Llama2 Performance with 0.1M Dollars;** Yikang Shen et al
 - **RHO-1: Not All Tokens Are What You Need;** Zhenghao Lin et al
+- **DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model;** DeepSeek-AI 
 
 ## Scaling Law
 
@@ -644,6 +646,7 @@
 - **Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster;** Nolan Dey et al
 - **Language models scale reliably with over-training and on downstream tasks;** Samir Yitzhak Gadre et al
 - **Unraveling the Mystery of Scaling Laws: Part I;** Hui Su et al
+- **nanoLM: an Affordable LLM Pre-training Benchmark via Accurate Loss Prediction across Scales;** Yiqun Yao et al
 - **Understanding Emergent Abilities of Language Models from the Loss Perspective;** Zhengxiao Du et al
 - **Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance;** Jiasheng Ye et al
 - **The Fine Line: Navigating Large Language Model Pretraining with Down streaming Capability Analysis;** Chen Yang et al
