@@ -328,6 +328,7 @@
 - **Retrieval Head Mechanistically Explains Long-Context Factuality;** Wenhao Wu et al
 - **Let’s Think Dot by Dot: Hidden Computation in Transformer Language Models;** Jacob Pfau et al
 - **Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?;** Zorik Gekhman et al
+- **An Emulator for Fine-Tuning Large Language Models using Small Language Models;** Eric Mitchell et al
 
 
 
