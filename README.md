@@ -654,6 +654,7 @@
 - **UNLOCK PREDICTABLE SCALING FROM EMERGENT ABILITIES;** Shengding Hu et al
 - **Scaling Laws for Data Filtering—Data Curation cannot be Compute Agnostic;** Sachin Goyal et al
 - **A Large-Scale Exploration of µ-Transfer;** Lucas Dax Lingle et al
+- **Observational Scaling Laws and the Predictability of Language Model Performance;** Yangjun Ruan et al
 
 
 
