@@ -417,6 +417,7 @@
 - **LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models;** Shibo Hao et al
 - **Benchmarking Benchmark Leakage in Large Language Models;** Ruijie Xu et al
 - **PROMETHEUS 2: An Open Source Language Model Specialized in Evaluating Other Language Models;** Seungone Kim et al
+- **Revealing the structure of language model capabilities;** Ryan Burnell et al
 
 
 
