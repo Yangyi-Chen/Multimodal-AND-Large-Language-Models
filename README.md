@@ -1522,6 +1522,7 @@
 - **From r to Q: Your Language Model is Secretly a Q-Function;** Rafael Rafailov* et al
 - **Aligning LLM Agents by Learning Latent Preference from User Edits;** Ge Gao et al
 - **Self-Play Preference Optimization for Language Model Alignment;** Yue Wu et al
+- **Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data;** Fahim Tajwar et al
 
 
 
