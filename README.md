@@ -1161,6 +1161,7 @@
 - **Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action;** Jiasen Lu et al
 - **WORLD MODEL ON MILLION-LENGTH VIDEO AND LANGUAGE WITH RINGATTENTION;** Hao Liu et al
 - **LLMBind: A Unified Modality-Task Integration Framework;** Bin Zhu et al
+- **Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts;** Yunxin Li et al
 
 ## Image Generation
 
