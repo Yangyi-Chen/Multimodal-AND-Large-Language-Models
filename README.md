@@ -1139,6 +1139,7 @@
 - **ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models;** Shuo Liu et al
 - **Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models;** Piotr Padlewski et al
 - **What matters when building vision-language models?;** Hugo Laurençon et al
+- **Detecting Multimodal Situations with Insufficient Context and Abstaining from Baseless Predictions;** Junzhang Liu et al
 
 ## Multimodal Foundation Model
 
