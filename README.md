@@ -858,6 +858,7 @@
 - **LLF-Bench: Benchmark for Interactive Learning from Language Feedback;** Ching-An Cheng et al
 - **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models;** Wai-Chung Kwan et al
 - **Can large language models explore in-context?;** Akshay Krishnamurthy et al
+- **LARGE LANGUAGE MODELS CAN INFER PERSONALITY FROM FREE-FORM USER INTERACTIONS;** Heinrich Peters et al
 
 ## Critique Modeling
 
