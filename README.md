@@ -1933,6 +1933,7 @@
 - **Diffusion World Model;** Zihan Ding et al
 - **Genie: Generative Interactive Environments;** Jake Bruce et al
 - **Learning and Leveraging World Models in Visual Representation Learning;** Quentin Garrido et al
+- **iVideoGPT: Interactive VideoGPTs are Scalable World Models;** Jialong Wu et al
 
 ## Resource
 
