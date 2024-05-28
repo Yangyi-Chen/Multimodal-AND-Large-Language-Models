@@ -804,6 +804,7 @@
 - **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents;** Ruiyi Wang et al
 - **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models;** Zehui Chen et al
 - **LLM Agent Operating System;** Kai Mei et al
+- **SWE-AGENT: AGENT-COMPUTER INTERFACES ENABLE AUTOMATED SOFTWARE ENGINEERING;** John Yang et al
 
 
 **AutoTelic Agent**
