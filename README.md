@@ -1966,3 +1966,4 @@
 - **Llama 3 Opens the Second Chapter of the Game of Scale;** Yao Fu
 - **RLHF Workflow: From Reward Modeling to Online RLHF;** Hanze Dong et al
 - **TinyLLaVA Factory: A Modularized Codebase for Small-scale Large Multimodal Models;** Junlong Jia et al
+- **John Schulman (OpenAI Cofounder) - Reasoning, RLHF, & Plan for 2027 AGI;** 
