@@ -710,7 +710,7 @@
 - **Capability or Alignment? Respect the LLM Base Model’s Capability During Alignment;** Jingfeng Yang
 - **Learning or Self-aligning? Rethinking Instruction Fine-tuning;** Mengjie Ren et al
 - **Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models;** Yi Luo et al
-
+- **Weak-to-Strong Extrapolation Expedites Alignment;** Chujie Zheng et al
 
 ## Scalable Oversight & SuperAlignment
 
