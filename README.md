@@ -657,6 +657,7 @@
 - **Scaling Laws for Data Filtering—Data Curation cannot be Compute Agnostic;** Sachin Goyal et al
 - **A Large-Scale Exploration of µ-Transfer;** Lucas Dax Lingle et al
 - **Observational Scaling Laws and the Predictability of Language Model Performance;** Yangjun Ruan et al
+- **Selecting Large Language Model to Fine-tune via Rectified Scaling Law;** Haowei Lin et al
 
 
 
