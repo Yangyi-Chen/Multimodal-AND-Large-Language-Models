@@ -1531,7 +1531,7 @@
 - **Self-Play Preference Optimization for Language Model Alignment;** Yue Wu et al
 - **Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data;** Fahim Tajwar et al
 - **Robust Preference Optimization through Reward Model Distillation;** Adam Fisch et al
-
+- **Preference Learning Algorithms Do Not Learn Preference Rankings;** Angelica Chen et al
 
 
 ## Video Foundation Model
