@@ -358,7 +358,7 @@
 - **Few-Shot Recalibration of Language Models;** Xiang Lisa Li et al
 - **When to Trust LLMs: Aligning Confidence with Response Quality and Exploring Applications in RAG;** Shuchang Tao et al
 - **Linguistic Calibration of Language Models;** Neil Band et al
-
+- **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales;** Tianyang Xu et al
 
 
 ## LLM Safety
