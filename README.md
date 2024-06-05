@@ -131,6 +131,7 @@
 - **A Survey on Self-Evolution of Large Language Models;** Zhengwei Tao et al
 - **When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models;** Xianzheng Ma et al
 - **An Introduction to Vision-Language Modeling;** Florian Bordes et al
+- **Towards Scalable Automated Alignment of LLMs: A Survey;** Boxi Cao et al
 
 ## Position Paper
 
