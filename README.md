@@ -661,6 +661,7 @@
 - **A Large-Scale Exploration of µ-Transfer;** Lucas Dax Lingle et al
 - **Observational Scaling Laws and the Predictability of Language Model Performance;** Yangjun Ruan et al
 - **Selecting Large Language Model to Fine-tune via Rectified Scaling Law;** Haowei Lin et al
+- **D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large Language Models;** Haoran Que et al
 
 
 
