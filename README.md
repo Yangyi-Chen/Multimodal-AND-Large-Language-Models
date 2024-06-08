@@ -663,6 +663,7 @@
 - **Selecting Large Language Model to Fine-tune via Rectified Scaling Law;** Haowei Lin et al
 - **D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large Language Models;** Haoran Que et al
 - **Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms;** Rafael Rafailov et al
+- **Scaling and evaluating sparse autoencoders;** Leo Gao et al
 
 
 
