@@ -697,6 +697,8 @@
 ## VLM Data Engineering
 - **Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models;** Lei Li et al
 - **MANTIS: Interleaved Multi-Image Instruction Tuning;** Dongfu Jiang et al
+- **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions;** Lin Chen et al
+- **ShareGPT4Video: Improving Video Understanding and Generation with Better Captions;** Lin Chen et al
 
 
 
@@ -1048,7 +1050,6 @@
 - **mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration;** Qinghao Ye et al
 - **LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge;** Gongwei Chen et al
 - **OtterHD: A High-Resolution Multi-modality Model;** Bo Li et al
-- **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions;** Lin Chen et al
 - **PerceptionGPT: Effectively Fusing Visual Perception into LLM;** Renjie Pi et al
 - **OCTAVIUS: MITIGATING TASK INTERFERENCE IN MLLMS VIA MOE;** Zeren Chen et al
 - **COGVLM: VISUAL EXPERT FOR LARGE LANGUAGE MODELS;** Weihan Wang et al
