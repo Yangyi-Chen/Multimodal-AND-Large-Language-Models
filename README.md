@@ -745,7 +745,7 @@
 - **CHATEVAL: TOWARDS BETTER LLM-BASED EVALUATORS THROUGH MULTI-AGENT DEBATE;** Chi-Min Chan et al
 - **Debating with More Persuasive LLMs Leads to More Truthful Answers;** Akbir Khan et al
 - **Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision;** Zhiqing Sun et al
-
+- **The Unreasonable Effectiveness of Easy Training Data for Hard Tasks;** Peter Hase et al
 
 ## RL Foundation
 
