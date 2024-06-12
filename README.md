@@ -1155,6 +1155,7 @@
 - **Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models;** Piotr Padlewski et al
 - **What matters when building vision-language models?;** Hugo Laurençon et al
 - **Detecting Multimodal Situations with Insufficient Context and Abstaining from Baseless Predictions;** Junzhang Liu et al
+- **Needle In A Multimodal Haystack;** Weiyun Wang et al
 
 ## Multimodal Foundation Model
 
