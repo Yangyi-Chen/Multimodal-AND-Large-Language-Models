@@ -774,6 +774,7 @@
 - **STaR-GATE: Teaching Language Models to Ask Clarifying Questions;** Chinmaya Andukuri et al
 - **Bayesian Preference Elicitation with Language Models;** Kunal Handa et al
 - **Multi-turn Reinforcement Learning from Preference Human Feedback;** Lior Shani et al
+- **Improve Mathematical Reasoning in Language Models by Automated Process Supervision;** Liangchen Luo et al
 
 ## Agent
 
