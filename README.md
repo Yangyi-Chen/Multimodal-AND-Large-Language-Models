@@ -1233,6 +1233,7 @@
 - **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning;** Liang Zhang et al
 - **Exploring the Capabilities of Large Multimodal Models on Dense Text;** Shuo Zhang et al
 - **STRUCTEXTV3: AN EFFICIENT VISION-LANGUAGE MODEL FOR TEXT-RICH IMAGE PERCEPTION, COMPREHENSION, AND BEYOND;** Pengyuan Lyu et al
+- **TRINS: Towards Multimodal Language Models that Can Read;** Ruiyi Zhang et al
 
 **Dataset**
 
