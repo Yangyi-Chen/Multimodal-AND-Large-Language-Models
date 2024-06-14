@@ -1234,6 +1234,7 @@
 - **Exploring the Capabilities of Large Multimodal Models on Dense Text;** Shuo Zhang et al
 - **STRUCTEXTV3: AN EFFICIENT VISION-LANGUAGE MODEL FOR TEXT-RICH IMAGE PERCEPTION, COMPREHENSION, AND BEYOND;** Pengyuan Lyu et al
 - **TRINS: Towards Multimodal Language Models that Can Read;** Ruiyi Zhang et al
+- **Multimodal Table Understanding;** Mingyu Zheng et al
 
 **Dataset**
 
