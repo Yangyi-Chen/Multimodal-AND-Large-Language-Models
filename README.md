@@ -1097,6 +1097,9 @@
 
 
 
+
+
+
 ### Others
 
 - **Unified Vision-Language Pre-Training for Image Captioning and VQA;** Luowei Zhou et al
@@ -1159,7 +1162,9 @@
 - **What matters when building vision-language models?;** Hugo Laurençon et al
 - **Detecting Multimodal Situations with Insufficient Context and Abstaining from Baseless Predictions;** Junzhang Liu et al
 - **Needle In A Multimodal Haystack;** Weiyun Wang et al
+- **MUIRBENCH: A Comprehensive Benchmark for Robust Multi-image Understanding;** Fei Wang et al
 
+  
 ## Multimodal Foundation Model
 
 - **MotionGPT: Human Motion as a Foreign Language;** Biao Jiang et al
