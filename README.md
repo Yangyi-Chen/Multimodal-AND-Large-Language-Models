@@ -1165,6 +1165,7 @@
 - **Detecting Multimodal Situations with Insufficient Context and Abstaining from Baseless Predictions;** Junzhang Liu et al
 - **Needle In A Multimodal Haystack;** Weiyun Wang et al
 - **MUIRBENCH: A Comprehensive Benchmark for Robust Multi-image Understanding;** Fei Wang et al
+- **VideoGUI: A Benchmark for GUI Automation from Instructional Videos;** Kevin Qinghong Lin et al
 
   
 ## Multimodal Foundation Model
