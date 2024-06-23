@@ -423,6 +423,7 @@
 - **PROMETHEUS 2: An Open Source Language Model Specialized in Evaluating Other Language Models;** Seungone Kim et al
 - **Revealing the structure of language model capabilities;** Ryan Burnell et al
 - **MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures;** Jinjie Ni et al
+- **BEHONEST: Benchmarking Honesty of Large Language Models;** Steffi Chern et al
 
 
 ## LLM Reasoning
