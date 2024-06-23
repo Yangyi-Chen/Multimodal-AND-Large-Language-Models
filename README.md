@@ -1168,6 +1168,7 @@
 - **Needle In A Multimodal Haystack;** Weiyun Wang et al
 - **MUIRBENCH: A Comprehensive Benchmark for Robust Multi-image Understanding;** Fei Wang et al
 - **VideoGUI: A Benchmark for GUI Automation from Instructional Videos;** Kevin Qinghong Lin et al
+- **MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs;** Ziyu Liu et al
 
   
 ## Multimodal Foundation Model
