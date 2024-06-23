@@ -701,12 +701,14 @@
 
 
 ## VLM Data Engineering
+
 - **Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models;** Lei Li et al
 - **MANTIS: Interleaved Multi-Image Instruction Tuning;** Dongfu Jiang et al
 - **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions;** Lin Chen et al
 - **ShareGPT4Video: Improving Video Understanding and Generation with Better Captions;** Lin Chen et al
 - **OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text;** Qingyun Li et al
 - **MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens;** Anas Awadalla et al
+- **PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents;** Junjie Wang et al
 
 
 
