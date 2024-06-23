@@ -634,6 +634,7 @@
 - **RHO-1: Not All Tokens Are What You Need;** Zhenghao Lin et al
 - **DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model;** DeepSeek-AI
 - **MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series;** M-A-P
+- **Nemotron-4 340B Technical Report;** NVIDIA
 
 ## Scaling Law
 
@@ -1562,6 +1563,7 @@
 - **Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data;** Fahim Tajwar et al
 - **Robust Preference Optimization through Reward Model Distillation;** Adam Fisch et al
 - **Preference Learning Algorithms Do Not Learn Preference Rankings;** Angelica Chen et al
+- **HelpSteer2: Open-source dataset for training top-performing reward models;** Zhilin Wang et al
 
 
 ## Video Foundation Model
