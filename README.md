@@ -1610,6 +1610,7 @@
 - **PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning;** Lin Xu et al
 - **LLAVA FINDS FREE LUNCH: TEACHING HUMAN BEHAVIOR IMPROVES CONTENT UNDERSTANDING ABILITIES OF LLMS;** Somesh Singh et al
 - **Pandora: Towards General World Model with Natural Language Actions and Video States;** Jiannan Xiang et al
+- **VideoLLM-online: Online Video Large Language Model for Streaming Video;** Joya Chen et al
 
 
 
