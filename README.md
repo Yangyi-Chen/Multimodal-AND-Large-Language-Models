@@ -1199,6 +1199,7 @@
 - **WORLD MODEL ON MILLION-LENGTH VIDEO AND LANGUAGE WITH RINGATTENTION;** Hao Liu et al
 - **LLMBind: A Unified Modality-Task Integration Framework;** Bin Zhu et al
 - **Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts;** Yunxin Li et al
+- **4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities;** Roman Bachmann et al
 
 ## Image Generation
 
