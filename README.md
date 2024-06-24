@@ -382,6 +382,7 @@
 - **Simple probes can catch sleeper agents;** Monte MacDiarmid et al
 - **AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs;** Anselm Paulus et al
 - **SYCOPHANCY TO SUBTERFUGE: INVESTIGATING REWARD-TAMPERING IN LARGE LANGUAGE MODELS;** Carson Denison et al
+- **SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors;** Tinghao Xie et al
 
 ## LLM Evaluation
 
