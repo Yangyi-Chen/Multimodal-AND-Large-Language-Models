@@ -1175,6 +1175,7 @@
 - **VideoGUI: A Benchmark for GUI Automation from Instructional Videos;** Kevin Qinghong Lin et al
 - **MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs;** Ziyu Liu et al
 - **Task Me Anything;** Jieyu Zhang et al
+- **MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos;** Xuehai He et al
 
   
 ## Multimodal Foundation Model
