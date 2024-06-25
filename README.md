@@ -636,6 +636,9 @@
 - **DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model;** DeepSeek-AI
 - **MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series;** M-A-P
 - **Nemotron-4 340B Technical Report;** NVIDIA
+- **Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models;** Tianwen Wei et al
+
+
 
 ## Scaling Law
 
