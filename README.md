@@ -1340,6 +1340,7 @@
 - **Empowering Large Language Model Agents through Action Learning;** Haiteng Zhao et al
 - **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error;** Boshi Wang et al
 - **StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models;** Zhicheng Guo et al
+- **APIGen: Automated PIpeline for Generating Verifiable and Diverse Function-Calling Datasets;** Zuxin Liu et al
 
 
 **With Visual Tools**
