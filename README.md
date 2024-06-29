@@ -383,6 +383,7 @@
 - **AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs;** Anselm Paulus et al
 - **SYCOPHANCY TO SUBTERFUGE: INVESTIGATING REWARD-TAMPERING IN LARGE LANGUAGE MODELS;** Carson Denison et al
 - **SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors;** Tinghao Xie et al
+- **WILDGUARD: Open One-stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs;** Seungju Han et al
 
 ## LLM Evaluation
 
