@@ -1108,6 +1108,7 @@
 - **Libra: Building Decoupled Vision System on Large Language Models;** Yifan Xu et al
 - **Chameleon: Mixed-Modal Early-Fusion Foundation Models;** Chameleon Team
 - **Towards Semantic Equivalence of Tokenization in Multimodal LLM;** Shengqiong Wu et al
+- **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models;** Wenhao Shi et al
 
 
 
