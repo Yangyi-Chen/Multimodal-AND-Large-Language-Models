@@ -830,6 +830,7 @@
 - **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models;** Zehui Chen et al
 - **LLM Agent Operating System;** Kai Mei et al
 - **SWE-AGENT: AGENT-COMPUTER INTERFACES ENABLE AUTOMATED SOFTWARE ENGINEERING;** John Yang et al
+- **Symbolic Learning Enables Self-Evolving Agents;** Wangchunshu Zhou et al
 
 
 **AutoTelic Agent**
