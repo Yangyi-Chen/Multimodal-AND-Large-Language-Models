@@ -762,6 +762,7 @@
 - **Debating with More Persuasive LLMs Leads to More Truthful Answers;** Akbir Khan et al
 - **Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision;** Zhiqing Sun et al
 - **The Unreasonable Effectiveness of Easy Training Data for Hard Tasks;** Peter Hase et al
+- **LLM Critics Help Catch LLM Bugs;** Nat McAleese et al
 
 ## RL Foundation
 
