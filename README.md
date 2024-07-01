@@ -1272,6 +1272,7 @@
 - **PDF-VQA: A New Dataset for Real-World VQA on PDF Documents;** Yihao Ding et al
 - **DocumentNet: Bridging the Data Gap in Document Pre-Training;** Lijun Yu et al
 - **Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning;** Kung-Hsiang Huang et al
+- **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs;** Zirui Wang et al
 
 
 ***Table***
