@@ -704,6 +704,7 @@
 - **Advancing LLM Reasoning Generalists with Preference Trees;** Lifan Yuan et al
 - **WILDCHAT: 1M CHATGPT INTERACTION LOGS IN THE WILD;** Wenting Zhao et al
 - **MAmmoTH2: Scaling Instructions from the Web;** Xiang Yue et al
+- **Scaling Synthetic Data Creation with 1,000,000,000 Personas;** Xin Chan et al
 
 
 ## VLM Data Engineering
