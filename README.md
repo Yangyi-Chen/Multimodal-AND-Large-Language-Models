@@ -1186,6 +1186,7 @@
 - **MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs;** Ziyu Liu et al
 - **Task Me Anything;** Jieyu Zhang et al
 - **MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos;** Xuehai He et al
+- **WE-MATH: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?;** Runqi Qiao et al
 
   
 ## Multimodal Foundation Model
