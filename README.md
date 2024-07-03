@@ -1352,6 +1352,7 @@
 - **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error;** Boshi Wang et al
 - **StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models;** Zhicheng Guo et al
 - **APIGen: Automated PIpeline for Generating Verifiable and Diverse Function-Calling Datasets;** Zuxin Liu et al
+- **Granite-Function Calling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks;** Ibrahim Abdelaziz et al
 
 
 **With Visual Tools**
