@@ -1188,6 +1188,7 @@
 - **Task Me Anything;** Jieyu Zhang et al
 - **MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos;** Xuehai He et al
 - **WE-MATH: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?;** Runqi Qiao et al
+- **MMEVALPRO: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation;** Jinsheng Huang et al
 
   
 ## Multimodal Foundation Model
