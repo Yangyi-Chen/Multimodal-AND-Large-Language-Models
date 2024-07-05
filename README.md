@@ -1140,6 +1140,7 @@
 - **MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark;** Dongping Chen et al
 - **PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs;** Soroush Nasiriany et al
 - **LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning;** Dantong Niu et al
+- **OMG-LLaVA : Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding;** Tao Zhang et al
 
 ## Vision-Language Model Analysis & Evaluation
 
