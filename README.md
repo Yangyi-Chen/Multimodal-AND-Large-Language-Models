@@ -1590,6 +1590,7 @@
 - **Preference Learning Algorithms Do Not Learn Preference Rankings;** Angelica Chen et al
 - **HelpSteer2: Open-source dataset for training top-performing reward models;** Zhilin Wang et al
 - **UNDERSTANDING ALIGNMENT IN MULTIMODAL LLMS: A COMPREHENSIVE STUDY;** Elmira Amirloo et al
+- **Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback;** Hamish Ivison et al
 
 
 ## Video Foundation Model
