@@ -1222,6 +1222,7 @@
 - **Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts;** Yunxin Li et al
 - **4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities;** Roman Bachmann et al
 - **video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models;** Guangzhi Sun et al
+- **Explore the Limits of Omni-modal Pretraining at Scale;** Yiyuan Zhang et al
 
 ## Image Generation
 
