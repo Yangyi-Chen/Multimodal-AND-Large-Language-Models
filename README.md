@@ -1646,6 +1646,7 @@
 - **LLAVA FINDS FREE LUNCH: TEACHING HUMAN BEHAVIOR IMPROVES CONTENT UNDERSTANDING ABILITIES OF LLMS;** Somesh Singh et al
 - **Pandora: Towards General World Model with Natural Language Actions and Video States;** Jiannan Xiang et al
 - **VideoLLM-online: Online Video Large Language Model for Streaming Video;** Joya Chen et al
+- **OMCHAT: A RECIPE TO TRAIN MULTIMODAL LANGUAGE MODELS WITH STRONG LONG CONTEXT AND VIDEO UNDERSTANDING;** Tiancheng Zhao et al
 
 
 
