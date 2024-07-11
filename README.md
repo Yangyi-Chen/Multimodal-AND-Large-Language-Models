@@ -35,6 +35,7 @@
 - [Vision-Language Model Application](#vision-language-model-application)
 - [Multimodal Foundation Model](#multimodal-foundation-model)
 - [Image Generation](#image-generation)
+- [Diffusion](#diffusion)
 - [Document Understanding](#document-understanding)
 - [Tool Learning](#tool-learning)
 - [Instruction Tuning](#instruction-tuning)
@@ -1242,6 +1243,14 @@
 - **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition;** Chun-Hsiao Yeh et al
 - **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers;** Peng Gao et al
 
+## Diffusion
+- **Denoising Diffusion Probabilistic Models;** Jonathan Ho et al
+- **GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models;** Alex Nichol et al
+- **Diffusion Models Beat GANs on Image Synthesis;** Prafulla Dhariwal et a;
+- **One-step Diffusion with Distribution Matching Distillation;** Tianwei Yin et al
+- **SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis;** Dustin Podell et al
+- **Denoising Autoregressive Representation Learning;** Yazhe Li et al
+- **Autoregressive Image Generation without Vector Quantization;** Tianhong Li et al
 
 
 
