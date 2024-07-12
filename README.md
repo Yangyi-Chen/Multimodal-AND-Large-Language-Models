@@ -1251,7 +1251,9 @@
 - **SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis;** Dustin Podell et al
 - **Denoising Autoregressive Representation Learning;** Yazhe Li et al
 - **Autoregressive Image Generation without Vector Quantization;** Tianhong Li et al
-
+- **All are Worth Words: A ViT Backbone for Diffusion Models;** Fan Bao et al
+- **Scalable Diffusion Models with Transformers;** William Peebles et al
+- **Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers;** Katherine Crowson et al
 
 
 ## Document Understanding
