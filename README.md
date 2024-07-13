@@ -1235,9 +1235,7 @@
 
 - **Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors;** Oran Gafni et al
 - **Modeling Image Composition for Complex Scene Generation;** Zuopeng Yang et al
-- **Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis;** Wan-Cyuan Fan et al
 - **ReCo: Region-Controlled Text-to-Image Generation;** Zhengyuan Yang et al
-- **UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild;** Can Qin et al
 - **Going Beyond Nouns With Vision & Language Models Using Synthetic Data;** Paola Cascante-Bonilla et al
 - **GUIDING INSTRUCTION-BASED IMAGE EDITING VIA MULTIMODAL LARGE LANGUAGE MODELS;** Tsu-Jui Fu et al
 - **KOSMOS-G: Generating Images in Context with Multimodal Large Language Models;** Xichen Pan et al
@@ -1245,19 +1243,24 @@
 - **LLMGA: Multimodal Large Language Model based Generation Assistant;** Bin Xia et al
 - **ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model;** Xiaowei Chi et al
 - **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition;** Chun-Hsiao Yeh et al
-- **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers;** Peng Gao et al
+
 
 ## Diffusion
+
 - **Denoising Diffusion Probabilistic Models;** Jonathan Ho et al
 - **GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models;** Alex Nichol et al
 - **Diffusion Models Beat GANs on Image Synthesis;** Prafulla Dhariwal et a;
 - **One-step Diffusion with Distribution Matching Distillation;** Tianwei Yin et al
 - **SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis;** Dustin Podell et al
 - **Denoising Autoregressive Representation Learning;** Yazhe Li et al
+- **Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis;** Wan-Cyuan Fan et al
+- **UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild;** Can Qin et al
 - **Autoregressive Image Generation without Vector Quantization;** Tianhong Li et al
 - **All are Worth Words: A ViT Backbone for Diffusion Models;** Fan Bao et al
 - **Scalable Diffusion Models with Transformers;** William Peebles et al
 - **Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers;** Katherine Crowson et al
+- **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers;** Peng Gao et al
+- **FiT: Flexible Vision Transformer for Diffusion Model;** Zeyu Lu et al
 
 
 ## Document Understanding
