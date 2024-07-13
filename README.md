@@ -643,6 +643,7 @@
 - **Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models;** Tianwen Wei et al
 - **Gemma 2: Improving Open Language Models at a Practical Size;** Gemma Team
 - **ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools;** Team GLM
+- **Reuse, Don’t Retrain: A Recipe for Continued Pretraining of Language Models;** Jupinder Parmar et al
 
 
 
