@@ -726,7 +726,7 @@
 - **MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens;** Anas Awadalla et al
 - **PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents;** Junjie Wang et al
 - **Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs;** Sukmin Yun et al
-
+- **MAVIS: Mathematical Visual Instruction Tuning;** Renrui Zhang et al
 
 
 ## Alignment
