@@ -134,6 +134,7 @@
 - **An Introduction to Vision-Language Modeling;** Florian Bordes et al
 - **Towards Scalable Automated Alignment of LLMs: A Survey;** Boxi Cao et al
 - **A Survey on Mixture of Experts;** Weilin Cai et al
+- **The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective;** Zhen Qin et al
 
 ## Position Paper
 
