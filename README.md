@@ -716,6 +716,7 @@
 - **Scaling Synthetic Data Creation with 1,000,000,000 Personas;** Xin Chan et al
 - **AgentInstruct: Toward Generative Teaching with Agentic Flows;** Arindam Mitra et al
 - **Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models — The Story Goes On;** Liang Zeng et al
+- **WizardLM: Empowering Large Language Models to Follow Complex Instructions;** Can Xu et al
 
 
 ## VLM Data Engineering
