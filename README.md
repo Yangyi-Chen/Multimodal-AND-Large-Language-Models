@@ -776,6 +776,7 @@
 - **Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision;** Zhiqing Sun et al
 - **The Unreasonable Effectiveness of Easy Training Data for Hard Tasks;** Peter Hase et al
 - **LLM Critics Help Catch LLM Bugs;** Nat McAleese et al
+- **On scalable oversight with weak LLMs judging strong LLMs;** Zachary Kenton et al
 
 ## RL Foundation
 
