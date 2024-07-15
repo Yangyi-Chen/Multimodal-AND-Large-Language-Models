@@ -1244,6 +1244,8 @@
 - **LLMGA: Multimodal Large Language Model based Generation Assistant;** Bin Xia et al
 - **ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model;** Xiaowei Chi et al
 - **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition;** Chun-Hsiao Yeh et al
+- **ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation;** Ethan Chern et al
+
 
 
 ## Diffusion
