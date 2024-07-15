@@ -728,6 +728,7 @@
 - **PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents;** Junjie Wang et al
 - **Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs;** Sukmin Yun et al
 - **MAVIS: Mathematical Visual Instruction Tuning;** Renrui Zhang et al
+- **MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions;** Xuan Ju et al
 
 
 ## Alignment
