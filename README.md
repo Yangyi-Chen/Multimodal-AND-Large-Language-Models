@@ -364,6 +364,7 @@
 - **Linguistic Calibration of Language Models;** Neil Band et al
 - **Large Language Models Must Be Taught to Know What They Don’t Know;** Sanyam Kapoor et al
 - **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales;** Tianyang Xu et al
+- **Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models;** Qingcheng Zeng et al
 
 
 ## LLM Safety
