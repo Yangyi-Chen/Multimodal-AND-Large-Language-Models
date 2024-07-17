@@ -1272,6 +1272,7 @@
 - **Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers;** Katherine Crowson et al
 - **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers;** Peng Gao et al
 - **FiT: Flexible Vision Transformer for Diffusion Model;** Zeyu Lu et al
+- **Scaling Diffusion Transformers to 16 Billion Parameters;** Zhengcong Fei et al
 
 
 ## Document Understanding
