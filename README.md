@@ -433,6 +433,7 @@
 - **MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures;** Jinjie Ni et al
 - **BEHONEST: Benchmarking Honesty of Large Language Models;** Steffi Chern et al
 - **SciCode: A Research Coding Benchmark Curated by Scientists;** Minyang Tian et al
+- **Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation;** Tu Vu et al
 
 
 ## LLM Reasoning
