@@ -432,6 +432,7 @@
 - **Revealing the structure of language model capabilities;** Ryan Burnell et al
 - **MixEval: Deriving Wisdom of the Crowd from LLM Benchmark Mixtures;** Jinjie Ni et al
 - **BEHONEST: Benchmarking Honesty of Large Language Models;** Steffi Chern et al
+- **SciCode: A Research Coding Benchmark Curated by Scientists;** Minyang Tian et al
 
 
 ## LLM Reasoning
