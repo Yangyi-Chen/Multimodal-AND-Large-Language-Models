@@ -686,6 +686,7 @@
 - **Scaling and evaluating sparse autoencoders;** Leo Gao et al
 - **Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?;** Rylan Schaeffer et al
 - **REGMIX: Data Mixture as Regression for Language Model Pre-training;** Qian Liu et al
+- **Scaling Retrieval-Based Language Models with a Trillion-Token Datastore;** Rulin Shao et al
 
 
 
