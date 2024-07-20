@@ -1214,6 +1214,7 @@
 - **WE-MATH: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?;** Runqi Qiao et al
 - **MMEVALPRO: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation;** Jinsheng Huang et al
 - **MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs;** Yusu Qian et al
+- **Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?;** Ruisheng Cao et al
 
   
 ## Multimodal Foundation Model
