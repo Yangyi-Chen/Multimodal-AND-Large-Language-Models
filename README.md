@@ -1244,6 +1244,10 @@
 - **video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models;** Guangzhi Sun et al
 - **Explore the Limits of Omni-modal Pretraining at Scale;** Yiyuan Zhang et al
 - **Autoregressive Speech Synthesis without Vector Quantization;** Lingwei Meng et al
+- **E5-V: Universal Embeddings with Multimodal Large Language Models;** Ting Jiang et al
+
+
+
 
 ## Image Generation
 
