@@ -2086,3 +2086,4 @@
 - **LLaVA-NeXT: What Else Influences Visual Instruction Tuning Beyond Data?;** Bo Li et al
 - **John Schulman (OpenAI Cofounder) - Reasoning, RLHF, & Plan for 2027 AGI;**
 - **LLAMAFACTORY: Unified Efficient Fine-Tuning of 100+ Language Models;** Yaowei Zheng et al
+- **How NuminaMath Won the 1st AIMO Progress Prize;** Yann Fleureau et al
