@@ -596,6 +596,7 @@
 - **Transformers Can Achieve Length Generalization But Not Robustly;** Yongchao Zhou et al
 - **Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context;** Gemini Team, Google
 - **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models;** Bernal Jiménez Gutiérrez et al
+- **ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities;** Peng Xu et al
 
 
 **Retrieval-augmented LLM**
