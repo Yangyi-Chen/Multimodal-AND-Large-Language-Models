@@ -787,6 +787,7 @@
 - **The Unreasonable Effectiveness of Easy Training Data for Hard Tasks;** Peter Hase et al
 - **LLM Critics Help Catch LLM Bugs;** Nat McAleese et al
 - **On scalable oversight with weak LLMs judging strong LLMs;** Zachary Kenton et al
+- **PROVER-VERIFIER GAMES IMPROVE LEGIBILITY OF LLM OUTPUTS;** Jan Hendrik Kirchner et al
 
 ## RL Foundation
 
