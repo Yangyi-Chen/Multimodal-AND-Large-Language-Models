@@ -1137,6 +1137,7 @@
 - **Towards Semantic Equivalence of Tokenization in Multimodal LLM;** Shengqiong Wu et al
 - **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models;** Wenhao Shi et al
 - **VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks;** Jiannan Wu et al
+- **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models;** Feng Li et al
 
 
 
