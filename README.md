@@ -1141,6 +1141,7 @@
 - **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models;** Wenhao Shi et al
 - **VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks;** Jiannan Wu et al
 - **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models;** Feng Li et al
+- **InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output;** Pan Zhang et al
 
 
 
