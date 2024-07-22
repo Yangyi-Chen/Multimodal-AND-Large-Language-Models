@@ -740,6 +740,7 @@
 - **Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs;** Sukmin Yun et al
 - **MAVIS: Mathematical Visual Instruction Tuning;** Renrui Zhang et al
 - **MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions;** Xuan Ju et al
+- **On Pre-training of Multimodal Language Models Customized for Chart Understanding;** Wan-Cyuan Fan et al
 
 
 ## Alignment
@@ -1330,6 +1331,7 @@
 - **DocumentNet: Bridging the Data Gap in Document Pre-Training;** Lijun Yu et al
 - **Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning;** Kung-Hsiang Huang et al
 - **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs;** Zirui Wang et al
+
 
 
 ***Table***
