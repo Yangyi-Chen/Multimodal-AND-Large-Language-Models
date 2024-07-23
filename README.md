@@ -1644,6 +1644,7 @@
 - **Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback;** Hamish Ivison et al
 - **Learning from Naturally Occurring Feedback;** Shachar Don-Yehiya et al
 - **FIRE: A Dataset for Feedback Integration and Refinement Evaluation of Multimodal Models;** Pengxiang Li et al
+- **BOND: Aligning LLMs with Best-of-N Distillation;** Pier Giuseppe Sessa et al
 
 
 ## Video Foundation Model
