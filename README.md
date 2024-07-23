@@ -564,6 +564,7 @@
 - **AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy;** Philipp Schoenegger et al
 - **What Evidence Do Language Models Find Convincing?;** Alexander Wan et al
 - **Tx-LLM: A Large Language Model for Therapeutics;** Juan Manuel Zambrano Chaves et al
+- **Language Models as Science Tutors;** Alexis Chevalier et al
 
 ## LLM with Memory
 
