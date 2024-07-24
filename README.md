@@ -743,6 +743,7 @@
 - **MAVIS: Mathematical Visual Instruction Tuning;** Renrui Zhang et al
 - **MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions;** Xuan Ju et al
 - **On Pre-training of Multimodal Language Models Customized for Chart Understanding;** Wan-Cyuan Fan et al
+- **MMInstruct: A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity;** Yangzhou Liu et al
 
 
 ## Alignment
