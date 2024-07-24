@@ -1697,6 +1697,7 @@
 - **Pandora: Towards General World Model with Natural Language Actions and Video States;** Jiannan Xiang et al
 - **VideoLLM-online: Online Video Large Language Model for Streaming Video;** Joya Chen et al
 - **OMCHAT: A RECIPE TO TRAIN MULTIMODAL LANGUAGE MODELS WITH STRONG LONG CONTEXT AND VIDEO UNDERSTANDING;** Tiancheng Zhao et al
+- **SLOWFAST-LLAVA: A STRONG TRAINING-FREE BASELINE FOR VIDEO LARGE LANGUAGE MODELS;** Mingze Xu et al
 
 
 
