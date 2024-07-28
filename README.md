@@ -1648,6 +1648,7 @@
 - **Learning from Naturally Occurring Feedback;** Shachar Don-Yehiya et al
 - **FIRE: A Dataset for Feedback Integration and Refinement Evaluation of Multimodal Models;** Pengxiang Li et al
 - **BOND: Aligning LLMs with Best-of-N Distillation;** Pier Giuseppe Sessa et al
+- **Recursive Introspection: Teaching Language Model Agents How to Self-Improve;** Yuxiao Qu et al
 
 
 ## Video Foundation Model
