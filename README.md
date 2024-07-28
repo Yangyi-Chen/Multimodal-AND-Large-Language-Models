@@ -636,7 +636,6 @@
 - **The Falcon Series of Open Language Models;** Ebtesam Almazrouei et al
 - **LLM360: Towards Fully Transparent Open-Source LLMs;** Zhengzhong Liu et al
 - **OLMO: Accelerating the Science of Language Models;** Dirk Groeneveld et al
-- **Executable Code Actions Elicit Better LLM Agents;** Xingyao Wang et al
 - **InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning;** Huaiyuan Ying et al
 - **Gemma: Open Models Based on Gemini Research and Technology;** Gemma Team
 - **StarCoder 2 and The Stack v2: The Next Generation;** Anton Lozhkov et al
@@ -862,6 +861,8 @@
 - **LLM Agent Operating System;** Kai Mei et al
 - **SWE-AGENT: AGENT-COMPUTER INTERFACES ENABLE AUTOMATED SOFTWARE ENGINEERING;** John Yang et al
 - **Symbolic Learning Enables Self-Evolving Agents;** Wangchunshu Zhou et al
+- **Executable Code Actions Elicit Better LLM Agents;** Xingyao Wang et al
+- **OpenDevin: An Open Platform for AI Software Developers as Generalist Agents;** Xingyao Wang et al
 
 
 **AutoTelic Agent**
