@@ -1145,6 +1145,7 @@
 - **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models;** Feng Li et al
 - **InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output;** Pan Zhang et al
 - **PaliGemma: A versatile 3B VLM for transfer;** Lucas Beyer et al
+- **TokenPacker: Efficient Visual Projector for Multimodal LLM;** Wentong Li et al
 
 
 
