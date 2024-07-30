@@ -1298,6 +1298,7 @@
 - **FiT: Flexible Vision Transformer for Diffusion Model;** Zeyu Lu et al
 - **Scaling Diffusion Transformers to 16 Billion Parameters;** Zhengcong Fei et al
 - **Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget;** Vikash Sehwag et al
+- **DIFFUSION FEEDBACK HELPS CLIP SEE BETTER;** Wenxuan Wang et al
 
 ## Document Understanding
 
