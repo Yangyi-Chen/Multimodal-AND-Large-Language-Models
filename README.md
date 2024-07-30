@@ -1150,8 +1150,9 @@
 - **TokenPacker: Efficient Visual Projector for Multimodal LLM;** Wentong Li et al
 
 
-
-
+### Unified Architecture
+- **Unveiling Encoder-Free Vision-Language Models;** Haiwen Diao et al
+- **A Single Transformer for Scalable Vision-Language Modeling;** Yangyi Chen et al
 
 
 ### Others
