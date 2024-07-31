@@ -136,6 +136,7 @@
 - **Towards Scalable Automated Alignment of LLMs: A Survey;** Boxi Cao et al
 - **A Survey on Mixture of Experts;** Weilin Cai et al
 - **The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective;** Zhen Qin et al
+- **Retrieval-Augmented Generation for Large Language Models: A Survey;** Yunfan Gao et al
 
 ## Position Paper
 
