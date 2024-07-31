@@ -19,6 +19,7 @@
 - [LLM with Memory](#llm-with-memory)
 - [LLM with Human](#llm-with-human)
 - [LLM Foundation](#llm-foundation)
+- [RAG](#rag)
 - [Scaling Law](#scaling-law)
 - [LLM Data Engineering](#llm-data-engineering)
 - [VLM Data Engineering](#vlm-data-engineering)
@@ -654,6 +655,8 @@
 - **Reuse, Don’t Retrain: A Recipe for Continued Pretraining of Language Models;** Jupinder Parmar et al
 - **QWEN2 TECHNICAL REPORT;** An Yang et al
 
+## RAG
+- **Unsupervised Dense Information Retrieval with Contrastive Learning;** Gautier Izacard et al
 
 ## Scaling Law
 
