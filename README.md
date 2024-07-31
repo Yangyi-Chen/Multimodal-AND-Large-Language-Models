@@ -1233,6 +1233,7 @@
 - **MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs;** Yusu Qian et al
 - **Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?;** Ruisheng Cao et al
 - **LLAVADI: What Matters For Multimodal Large Language Models Distillation;** Shilin Xu et al
+- **CoMMIT: Coordinated Instruction Tuning for Multimodal Large Language Models;** Junda Wu et al
 
   
 ## Multimodal Foundation Model
