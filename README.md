@@ -392,6 +392,7 @@
 - **SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors;** Tinghao Xie et al
 - **WILDGUARD: Open One-stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs;** Seungju Han et al
 - **Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs;** Rudolf Laine et al
+- **Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?;** Richard Ren et al
 
 ## LLM Evaluation
 
