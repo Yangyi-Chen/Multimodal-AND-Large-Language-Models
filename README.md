@@ -656,6 +656,10 @@
 - **ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools;** Team GLM
 - **Reuse, Don’t Retrain: A Recipe for Continued Pretraining of Language Models;** Jupinder Parmar et al
 - **QWEN2 TECHNICAL REPORT;** An Yang et al
+- **Apple Intelligence Foundation Language Models;** Apple
+
+
+
 
 ## RAG
 - **Unsupervised Dense Information Retrieval with Contrastive Learning;** Gautier Izacard et al
