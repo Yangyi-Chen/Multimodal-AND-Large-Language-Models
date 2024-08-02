@@ -1159,6 +1159,7 @@
 - **InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output;** Pan Zhang et al
 - **PaliGemma: A versatile 3B VLM for transfer;** Lucas Beyer et al
 - **TokenPacker: Efficient Visual Projector for Multimodal LLM;** Wentong Li et al
+- **MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts;** Xi Victoria Lin et a;
 
 
 ### Unified Architecture
