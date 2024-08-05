@@ -703,6 +703,7 @@
 - **Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies;** Chaofan Tao et al
 - **AutoScale–Automatic Prediction of Compute-optimal Data Composition for Training LLMs;** Feiyang Kang et al
 - **ARE BIGGER ENCODERS ALWAYS BETTER IN VISION LARGE MODELS?;** Bozhou Li et al
+- **An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models;** Yangzhen Wu et al
 
 
 
