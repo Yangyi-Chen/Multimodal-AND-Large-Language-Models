@@ -757,6 +757,7 @@
 - **On Pre-training of Multimodal Language Models Customized for Chart Understanding;** Wan-Cyuan Fan et al
 - **MMInstruct: A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity;** Yangzhou Liu et al
 - **VILA^2: VILA Augmented VILA;** Yunhao Fang et al
+- **VIDGEN-1M: A LARGE-SCALE DATASET FOR TEXTTO-VIDEO GENERATION;** Zhiyu Tan et al
 
 
 ## Alignment
