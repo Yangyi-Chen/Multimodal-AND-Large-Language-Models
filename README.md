@@ -704,6 +704,7 @@
 - **AutoScale–Automatic Prediction of Compute-optimal Data Composition for Training LLMs;** Feiyang Kang et al
 - **ARE BIGGER ENCODERS ALWAYS BETTER IN VISION LARGE MODELS?;** Bozhou Li et al
 - **An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models;** Yangzhen Wu et al
+- **Scaling Laws for Data Poisoning in LLMs;** Dillon Bowen et al
 
 
 
