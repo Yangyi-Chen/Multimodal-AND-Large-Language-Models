@@ -1246,6 +1246,7 @@
 - **Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?;** Ruisheng Cao et al
 - **LLAVADI: What Matters For Multimodal Large Language Models Distillation;** Shilin Xu et al
 - **CoMMIT: Coordinated Instruction Tuning for Multimodal Large Language Models;** Junda Wu et al
+- **MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models;** Fanqing Meng et al
 
   
 ## Multimodal Foundation Model
