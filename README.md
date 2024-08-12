@@ -1758,6 +1758,7 @@
 - **ViTamin: Designing Scalable Vision Models in the Vision-Language Era;** Jieneng Chen et al
 - **MambaVision: A Hybrid Mamba-Transformer Vision Backbone;** Ali Hatamizadeh et al
 - **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs;** Shengbang Tong et al
+- **SAM 2: Segment Anything in Images and Videos;** Nikhila Ravi et al
 
 
 
