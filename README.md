@@ -1165,6 +1165,7 @@
 - **TokenPacker: Efficient Visual Projector for Multimodal LLM;** Wentong Li et al
 - **MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts;** Xi Victoria Lin et al
 - **mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models;** Jiabo Ye et al
+- **LLaVA-OneVision: Easy Visual Task Transfer;** Bo Li et al
 
 
 ### Unified Architecture
