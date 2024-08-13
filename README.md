@@ -741,6 +741,7 @@
 - **Arena Learning : Build Data Flywheel for LLMs Post-training via Simulated Chatbot Arena;** Haipeng Luo et al
 - **Automatic Instruction Evolving for Large Language Models;** Weihao Zeng et al
 - **AgentInstruct: Toward Generative Teaching with Agentic Flows;** Arindam Mitra et al
+- **Does your data spark joy? Performance gains from domain upsampling at the end of training;** Cody Blakeney et al
 
 
 ## VLM Data Engineering
