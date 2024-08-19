@@ -489,6 +489,7 @@
 - **Teaching Large Language Models to Reason with Reinforcement Learning;** Alex Havrilla et al
 - **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking;** Eric Zelikman et al
 - **TREE SEARCH FOR LANGUAGE MODEL AGENTS;** Jing Yu Koh et al
+- **DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search;** Huajian Xin et al
 
 **Self-consistency**
 
