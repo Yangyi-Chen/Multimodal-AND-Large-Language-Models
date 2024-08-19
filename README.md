@@ -922,6 +922,7 @@
 - **Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs;** Keen You et al
 - **OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments;** Tianbao Xie et al
 - **GUICourse: From General Vision Language Model to Versatile GUI Agent;** Wentong Chen et al
+- **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents;** Xiao Liu et al
 
 ## Interaction
 
