@@ -1299,6 +1299,7 @@
 - **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition;** Chun-Hsiao Yeh et al
 - **ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation;** Ethan Chern et al
 - **SEED-Story: Multimodal Long Story Generation with Large Language Model;** Shuai Yang et al
+- **JPEG-LM: LLMs as Image Generators with Canonical Codec Representations;** Xiaochuang Han et al
 
 
 
