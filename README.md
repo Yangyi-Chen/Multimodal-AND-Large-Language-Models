@@ -742,6 +742,7 @@
 - **Automatic Instruction Evolving for Large Language Models;** Weihao Zeng et al
 - **AgentInstruct: Toward Generative Teaching with Agentic Flows;** Arindam Mitra et al
 - **Does your data spark joy? Performance gains from domain upsampling at the end of training;** Cody Blakeney et al
+- **ScalingFilter: Assessing Data Quality through Inverse Utilization of Scaling Laws;** Ruihang Li et al
 
 
 ## VLM Data Engineering
