@@ -882,6 +882,8 @@
 - **Symbolic Learning Enables Self-Evolving Agents;** Wangchunshu Zhou et al
 - **Executable Code Actions Elicit Better LLM Agents;** Xingyao Wang et al
 - **OpenDevin: An Open Platform for AI Software Developers as Generalist Agents;** Xingyao Wang et al
+- **Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents;** Pranav Putta et al
+
 
 
 **AutoTelic Agent**
