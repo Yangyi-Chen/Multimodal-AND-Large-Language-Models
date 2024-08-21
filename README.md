@@ -707,7 +707,7 @@
 - **ARE BIGGER ENCODERS ALWAYS BETTER IN VISION LARGE MODELS?;** Bozhou Li et al
 - **An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models;** Yangzhen Wu et al
 - **Scaling Laws for Data Poisoning in LLMs;** Dillon Bowen et al
-
+- **SCALING LAW WITH LEARNING RATE ANNEALING;** Howe Tissue et al
 
 
 **MoE**
