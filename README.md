@@ -659,7 +659,7 @@
 - **Reuse, Don’t Retrain: A Recipe for Continued Pretraining of Language Models;** Jupinder Parmar et al
 - **QWEN2 TECHNICAL REPORT;** An Yang et al
 - **Apple Intelligence Foundation Language Models;** Apple
-
+- **Jamba-1.5: Hybrid Transformer-Mamba Models at Scale;** Jamba Team
 
 
 
