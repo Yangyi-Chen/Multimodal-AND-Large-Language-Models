@@ -745,7 +745,7 @@
 - **AgentInstruct: Toward Generative Teaching with Agentic Flows;** Arindam Mitra et al
 - **Does your data spark joy? Performance gains from domain upsampling at the end of training;** Cody Blakeney et al
 - **ScalingFilter: Assessing Data Quality through Inverse Utilization of Scaling Laws;** Ruihang Li et al
-
+- **BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline;** Guosheng Dong et al
 
 ## VLM Data Engineering
 
