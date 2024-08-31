@@ -1260,6 +1260,7 @@
 - **MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models;** Fanqing Meng et al
 - **UniBench: Visual Reasoning Requires Rethinking Vision-Language Beyond Scaling;** Haider Al-Tahan et al
 - **MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?;** Yi-Fan Zhang et al
+- **LAW OF VISION REPRESENTATION IN MLLMS;** Shijia Yang et al
 
   
 ## Multimodal Foundation Model
