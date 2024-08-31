@@ -2145,3 +2145,4 @@
 - **LLAMAFACTORY: Unified Efficient Fine-Tuning of 100+ Language Models;** Yaowei Zheng et al
 - **How NuminaMath Won the 1st AIMO Progress Prize;** Yann Fleureau et al
 - **How to Prune and Distill Llama-3.1 8B to an NVIDIA Llama-3.1-Minitron 4B Model;** Sharath Sreenivas et al
+- **Cosmopedia: how to create large-scale synthetic data for pre-training;** Loubna Ben Allal et al
