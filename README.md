@@ -2146,3 +2146,4 @@
 - **How NuminaMath Won the 1st AIMO Progress Prize;** Yann Fleureau et al
 - **How to Prune and Distill Llama-3.1 8B to an NVIDIA Llama-3.1-Minitron 4B Model;** Sharath Sreenivas et al
 - **Cosmopedia: how to create large-scale synthetic data for pre-training;** Loubna Ben Allal et al
+- **SmolLM - blazingly fast and remarkably powerful;** Loubna Ben Allal et al
