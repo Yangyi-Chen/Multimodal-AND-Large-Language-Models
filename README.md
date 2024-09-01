@@ -1333,6 +1333,10 @@
 - **Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget;** Vikash Sehwag et al
 - **DIFFUSION FEEDBACK HELPS CLIP SEE BETTER;** Wenxuan Wang et al
 - **Imagen 3;** Imagen 3 Team, Google
+- **Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model;** Chunting Zhou et al
+
+
+
 
 ## Document Understanding
 
