@@ -885,6 +885,7 @@
 - **Executable Code Actions Elicit Better LLM Agents;** Xingyao Wang et al
 - **OpenDevin: An Open Platform for AI Software Developers as Generalist Agents;** Xingyao Wang et al
 - **Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents;** Pranav Putta et al
+- **MindSearch: Mimicking Human Minds Elicits Deep AI Searcher;** Zehui Chen et al
 
 
 
