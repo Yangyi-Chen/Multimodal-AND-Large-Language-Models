@@ -1176,6 +1176,7 @@
 - **mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models;** Jiabo Ye et al
 - **LLaVA-OneVision: Easy Visual Task Transfer;** Bo Li et al
 - **xGen-MM (BLIP-3): A Family of Open Large Multimodal Models;** Le Xue et al
+- **CogVLM2: Visual Language Models for Image and Video Understanding;** Wenyi Hong et al
 
 
 ### Unified Architecture
