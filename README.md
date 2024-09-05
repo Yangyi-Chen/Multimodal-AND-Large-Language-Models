@@ -136,6 +136,8 @@
 - **A Survey on Mixture of Experts;** Weilin Cai et al
 - **The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective;** Zhen Qin et al
 - **Retrieval-Augmented Generation for Large Language Models: A Survey;** Yunfan Gao et al
+- **Towards a Unified View of Preference Learning for Large Language Models: A Survey;** Bofei Gao et al
+
 
 ## Position Paper
 
@@ -153,6 +155,7 @@
 - **Towards Unified Alignment Between Agents, Humans, and Environment;** Zonghan Yang et al
 - **Video as the New Language for Real-World Decision Making;** Sherry Yang et al
 - **A Mechanism-Based Approach to Mitigating Harms from Persuasive Generative AI;** Seliem El-Sayed et al
+
 
 
 
