@@ -19,7 +19,6 @@
 - [LLM with Memory](#llm-with-memory)
 - [LLM with Human](#llm-with-human)
 - [LLM Foundation](#llm-foundation)
-- [RAG](#rag)
 - [Scaling Law](#scaling-law)
 - [LLM Data Engineering](#llm-data-engineering)
 - [VLM Data Engineering](#vlm-data-engineering)
@@ -614,6 +613,8 @@
 - **Meta-training with Demonstration Retrieval for Efficient Few-shot Learning;** Aaron Mueller et al
 - **SELF-RAG: LEARNING TO RETRIEVE, GENERATE, AND CRITIQUE THROUGH SELF-REFLECTION;** Akari Asai et ak
 - **RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents;** Tomoyuki Kagaya et al
+- **Unsupervised Dense Information Retrieval with Contrastive Learning;** Gautier Izacard et al
+- **LONGCITE: ENABLING LLMS TO GENERATE FINEGRAINED CITATIONS IN LONG-CONTEXT QA;** Jiajie Zhang et al
 
 
 
@@ -663,9 +664,6 @@
 - **The Llama 3 Herd of Models;** Llama Team, AI @ Meta 
 
 
-
-## RAG
-- **Unsupervised Dense Information Retrieval with Contrastive Learning;** Gautier Izacard et al
 
 ## Scaling Law
 
