@@ -998,6 +998,7 @@
 - **Multi-Head Mixture-of-Experts;** Xun Wu et al
 - **X FT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts;** Yifeng Ding et al
 - **BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts;** Qizhen Zhang et al
+- **OLMoE: Open Mixture-of-Experts Language Models;** Niklas Muennighoff et al
 
 ## Vision-Language Foundation Model
 
