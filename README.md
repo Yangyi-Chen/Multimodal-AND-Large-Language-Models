@@ -1180,6 +1180,8 @@
 - **xGen-MM (BLIP-3): A Family of Open Large Multimodal Models;** Le Xue et al
 - **CogVLM2: Visual Language Models for Image and Video Understanding;** Wenyi Hong et al
 - **MiniCPM-V: A GPT-4V Level MLLM on Your Phone;** Yuan Yao et al
+- **General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model;** Haoran Wei et al
+
 
 
 ### Unified Architecture
