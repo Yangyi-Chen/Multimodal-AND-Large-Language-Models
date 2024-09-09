@@ -573,6 +573,7 @@
 - **What Evidence Do Language Models Find Convincing?;** Alexander Wan et al
 - **Tx-LLM: A Large Language Model for Therapeutics;** Juan Manuel Zambrano Chaves et al
 - **Language Models as Science Tutors;** Alexis Chevalier et al
+- **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers;** Chenglei Si et al
 
 ## LLM with Memory
 
