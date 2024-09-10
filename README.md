@@ -137,6 +137,7 @@
 - **The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective;** Zhen Qin et al
 - **Retrieval-Augmented Generation for Large Language Models: A Survey;** Yunfan Gao et al
 - **Towards a Unified View of Preference Learning for Large Language Models: A Survey;** Bofei Gao et al
+- **From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models;** Sean Welleck et al
 
 
 ## Position Paper
