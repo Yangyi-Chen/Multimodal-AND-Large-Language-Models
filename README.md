@@ -1280,6 +1280,7 @@
 - **MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?;** Yi-Fan Zhang et al
 - **LAW OF VISION REPRESENTATION IN MLLMS;** Shijia Yang et al
 - **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark;** Xiang Yue et al
+- **WINDOWSAGENTARENA: EVALUATING MULTI-MODAL OS AGENTS AT SCALE;** Rogerio Bonatti et al
 
   
 ## Multimodal Foundation Model
