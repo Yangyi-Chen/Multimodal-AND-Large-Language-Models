@@ -1192,6 +1192,7 @@
 - **MiniCPM-V: A GPT-4V Level MLLM on Your Phone;** Yuan Yao et al
 - **General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model;** Haoran Wei et al
 - **looongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture;** Xidong Wang et al
+- **NVLM: Open Frontier-Class Multimodal LLMs;** Wenliang Dai et al
 
 
 
