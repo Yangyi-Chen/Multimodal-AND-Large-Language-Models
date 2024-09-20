@@ -1721,6 +1721,7 @@
 - **Recursive Introspection: Teaching Language Model Agents How to Self-Improve;** Yuxiao Qu et al
 - **WILDFEEDBACK: ALIGNING LLMS WITH IN-SITU USER INTERACTIONS AND FEEDBACK;** Taiwei Shi et al
 - **Generative Verifiers: Reward Modeling as Next-Token Prediction;** Lunjun Zhang et al
+- **Training Language Models to Self-Correct via Reinforcement Learning;** Aviral Kumar et al
 
 
 ## Video Foundation Model
