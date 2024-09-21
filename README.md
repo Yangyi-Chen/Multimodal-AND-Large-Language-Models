@@ -1483,6 +1483,8 @@
 - **APIGen: Automated PIpeline for Generating Verifiable and Diverse Function-Calling Datasets;** Zuxin Liu et al
 - **Granite-Function Calling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks;** Ibrahim Abdelaziz et al
 - **ToolACE: Winning the Points of LLM Function Calling;** Weiwen Liu et al
+- **MMSEARCH: BENCHMARKING THE POTENTIAL OF LARGE MODELS AS MULTI-MODAL SEARCH ENGINES;** Dongzhi Jiang et al
+
 
 
 **With Visual Tools**
