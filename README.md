@@ -671,6 +671,7 @@
 - **Jamba-1.5: Hybrid Transformer-Mamba Models at Scale;** Jamba Team
 - **The Llama 3 Herd of Models;** Llama Team, AI @ Meta
 - **QWEN2.5-MATH TECHNICAL REPORT: TOWARD MATHEMATICAL EXPERT MODEL VIA SELF IMPROVEMENT;** An Yang et al
+- **Qwen2.5-Coder Technical Report;** Binyuan Hui et al
 
 
 
