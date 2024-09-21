@@ -1195,6 +1195,7 @@
 - **General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model;** Haoran Wei et al
 - **looongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture;** Xidong Wang et al
 - **NVLM: Open Frontier-Class Multimodal LLMs;** Wenliang Dai et al
+- **Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution;** Peng Wang et al
 
 
 
