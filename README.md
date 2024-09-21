@@ -443,6 +443,7 @@
 - **SciCode: A Research Coding Benchmark Curated by Scientists;** Minyang Tian et al
 - **Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation;** Tu Vu et al
 - **MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains;** Guoli Yin et al
+- **Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries;** Kiran Vodrahalli et al
 
 
 ## LLM Reasoning
