@@ -1365,6 +1365,7 @@
 - **Imagen 3;** Imagen 3 Team, Google
 - **Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model;** Chunting Zhou et al
 - **SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION;** Jinheng Xie et al
+- **MONOFORMER: ONE TRANSFORMER FOR BOTH DIFFUSION AND AUTOREGRESSION;** Chuyang Zhao et al
 
 
 
