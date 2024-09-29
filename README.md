@@ -1201,6 +1201,7 @@
 - **looongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture;** Xidong Wang et al
 - **NVLM: Open Frontier-Class Multimodal LLMs;** Wenliang Dai et al
 - **Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution;** Peng Wang et al
+- **Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models;** Matt Deitke et al
 
 
 
