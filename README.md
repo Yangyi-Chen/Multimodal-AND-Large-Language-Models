@@ -444,6 +444,9 @@
 - **Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation;** Tu Vu et al
 - **MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains;** Guoli Yin et al
 - **Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries;** Kiran Vodrahalli et al
+- **Easy2Hard-Bench: Standardized Difficulty Labels for Profiling LLM Performance and Generalization;** Mucong Ding et al
+
+
 
 
 ## LLM Reasoning
