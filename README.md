@@ -1736,6 +1736,7 @@
 - **WILDFEEDBACK: ALIGNING LLMS WITH IN-SITU USER INTERACTIONS AND FEEDBACK;** Taiwei Shi et al
 - **Generative Verifiers: Reward Modeling as Next-Token Prediction;** Lunjun Zhang et al
 - **Training Language Models to Self-Correct via Reinforcement Learning;** Aviral Kumar et al
+- **The Perfect Blend: Redefining RLHF with Mixture of Judges;** Tengyu Xu et al
 
 
 ## Video Foundation Model
