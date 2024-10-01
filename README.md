@@ -782,6 +782,7 @@
 - **VIDGEN-1M: A LARGE-SCALE DATASET FOR TEXTTO-VIDEO GENERATION;** Zhiyu Tan et al
 - **MMEVOL: EMPOWERING MULTIMODAL LARGE LANGUAGE MODELS WITH EVOL-INSTRUCT;** Run Luo et al
 - **InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning;** Xiaotian Han et al
+- **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning;** Haotian Zhang et al
 
 
 ## Alignment
