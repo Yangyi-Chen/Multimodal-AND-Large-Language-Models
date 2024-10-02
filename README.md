@@ -1327,6 +1327,7 @@
 - **E5-V: Universal Embeddings with Multimodal Large Language Models;** Ting Jiang et al
 - **VITA: Towards Open-Source Interactive Omni Multimodal LLM;** Chaoyou Fu et al
 - **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming;** Zhifei Xie et al
+- **Moshi: a speech-text foundation model for real-time dialogue;** Alexandre D´efossez et al
 
 
 
