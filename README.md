@@ -448,6 +448,7 @@
 - **Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries;** Kiran Vodrahalli et al
 - **Easy2Hard-Bench: Standardized Difficulty Labels for Profiling LLM Performance and Generalization;** Mucong Ding et al
 - **Law of the Weakest Link: Cross Capabilities of Large Language Models;** Ming Zhong et al
+- **HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly;** Howard Yen et al
 
 
 
