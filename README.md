@@ -799,6 +799,7 @@
 - **InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning;** Xiaotian Han et al
 - **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning;** Haotian Zhang et al
 - **DATACOMP: In search of the next generation of multimodal datasets;** Samir Yitzhak Gadre et al
+- **VIDEO INSTRUCTION TUNING WITH SYNTHETIC DATA;** Yuanhan Zhang et al
 
 
 ## Alignment
