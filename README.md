@@ -18,6 +18,7 @@
 - [LLM Application](#llm-application)
 - [LLM with Memory](#llm-with-memory)
 - [LLM with Human](#llm-with-human)
+- [Inference-time](#inference-time)
 - [Long-Context LLM](#long-context-llm)
 - [LLM Foundation](#llm-foundation)
 - [Scaling Law](#scaling-law)
@@ -341,7 +342,6 @@
 - **Let’s Think Dot by Dot: Hidden Computation in Transformer Language Models;** Jacob Pfau et al
 - **Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?;** Zorik Gekhman et al
 - **An Emulator for Fine-Tuning Large Language Models using Small Language Models;** Eric Mitchell et al
-- **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling;** Bradley Brown et al
 - **To Code, or Not To Code? Exploring Impact of Code in Pre-training;** Viraat Aryabumi et al
 
 
@@ -639,6 +639,15 @@
 - **RewriteLM: An Instruction-Tuned Large Language Model for Text Rewriting;** Lei Shu et al
 - **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models;** Kaiyu Yang et al
 - **Evaluating Human-Language Model Interaction;** Mina Lee et al
+
+## Inference-time
+
+- **An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models;** Yangzhen Wu et al
+- **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters;** Charlie Snell et al
+- **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling;** Bradley Brown et al
+- **Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation;** Rohin Manvi et al
+
+
 
 
 ## Long-context LLM
