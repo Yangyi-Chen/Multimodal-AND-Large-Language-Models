@@ -400,6 +400,7 @@
 - **Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs;** Rudolf Laine et al
 - **Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?;** Richard Ren et al
 - **LANGUAGE MODELS LEARN TO MISLEAD HUMANS VIA RLHF;** Jiaxin Wen et al
+- **MEASURING AND IMPROVING PERSUASIVENESS OF GENERATIVE MODELS;** Somesh Singh et al
 
 ## LLM Evaluation
 
