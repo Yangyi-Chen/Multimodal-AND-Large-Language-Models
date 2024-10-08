@@ -1324,6 +1324,7 @@
 - **LAW OF VISION REPRESENTATION IN MLLMS;** Shijia Yang et al
 - **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark;** Xiang Yue et al
 - **WINDOWSAGENTARENA: EVALUATING MULTI-MODAL OS AGENTS AT SCALE;** Rogerio Bonatti et al
+- **INTRIGUING PROPERTIES OF LARGE LANGUAGE AND VISION MODELS;** Young-Jun Lee et al
 
   
 ## Multimodal Foundation Model
