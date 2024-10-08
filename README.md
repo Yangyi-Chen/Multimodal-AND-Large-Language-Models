@@ -750,6 +750,7 @@
 - **Optimization Hyper-parameter Laws for Large Language Models;** Xingyu Xie et al
 - **Scaling Laws and Interpretability of Learning from Repeated Data;** Danny Hernandez et al
 - **U-SHAPED AND INVERTED-U SCALING BEHIND EMERGENT ABILITIES OF LARGE LANGUAGE MODELS;** Tung-Yu Wu et al
+- **Revisiting the Superficial Alignment Hypothesis;** Mohit Raghavendra et al
 
 
 **MoE**
