@@ -284,6 +284,9 @@
 - **BRIDGING THE GAP TO REAL-WORLD OBJECT-CENTRIC LEARNING;** Maximilian Seitzer et al
 - **Learning Transferable Spatiotemporal Representations from Natural Script Knowledge;** Ziyun Zeng et al
 - **Understanding and Constructing Latent Modality Structures in Multi-Modal Representation Learning;** Qian Jiang et al
+- **VLM2VEC: TRAINING VISION-LANGUAGE MODELS FOR MASSIVE MULTIMODAL EMBEDDING TASKS;** Ziyan Jiang et al
+
+
 
 ## LLM Analysis
 
