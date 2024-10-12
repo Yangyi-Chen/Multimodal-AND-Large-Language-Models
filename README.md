@@ -791,6 +791,7 @@
 - **BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline;** Guosheng Dong et al
 - **IMPROVING PRETRAINING DATA USING PERPLEXITY CORRELATIONS;** Tristan Thrush et al
 - **How Does Code Pretraining Affect Language Model Task Performance?;** Jackson Petty et al
+- **DecorateLM: Data Engineering through Corpus Rating, Tagging, and Editing with Language Models;** Ranchi Zhao et al
 
 
 ## VLM Data Engineering
