@@ -1447,6 +1447,7 @@
 - **TRINS: Towards Multimodal Language Models that Can Read;** Ruiyi Zhang et al
 - **Multimodal Table Understanding;** Mingyu Zheng et al
 - **MPLUG-DOCOWL2: HIGH-RESOLUTION COMPRESSING FOR OCR-FREE MULTI-PAGE DOCUMENT UNDERSTANDING;** Anwen Hu et al
+- **PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling;** Xudong Xie et al
 
 **Dataset**
 
