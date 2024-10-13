@@ -1331,6 +1331,7 @@
 - **WINDOWSAGENTARENA: EVALUATING MULTI-MODAL OS AGENTS AT SCALE;** Rogerio Bonatti et al
 - **INTRIGUING PROPERTIES OF LARGE LANGUAGE AND VISION MODELS;** Young-Jun Lee et al
 - **SWE-BENCH MULTIMODAL: DO AI SYSTEMS GENERALIZE TO VISUAL SOFTWARE DOMAINS?;** John Yang et al
+- **VHELM: A Holistic Evaluation of Vision Language Models;** Tony Lee et al
 
   
 ## Multimodal Foundation Model
