@@ -783,7 +783,7 @@
 - **AgentInstruct: Toward Generative Teaching with Agentic Flows;** Arindam Mitra et al
 - **Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models — The Story Goes On;** Liang Zeng et al
 - **WizardLM: Empowering Large Language Models to Follow Complex Instructions;** Can Xu et al
-- **Arena Learning : Build Data Flywheel for LLMs Post-training via Simulated Chatbot Arena;** Haipeng Luo et al
+- **Arena Learning: Build Data Flywheel for LLMs Post-training via Simulated Chatbot Arena;** Haipeng Luo et al
 - **Automatic Instruction Evolving for Large Language Models;** Weihao Zeng et al
 - **AgentInstruct: Toward Generative Teaching with Agentic Flows;** Arindam Mitra et al
 - **Does your data spark joy? Performance gains from domain upsampling at the end of training;** Cody Blakeney et al
@@ -792,6 +792,9 @@
 - **IMPROVING PRETRAINING DATA USING PERPLEXITY CORRELATIONS;** Tristan Thrush et al
 - **How Does Code Pretraining Affect Language Model Task Performance?;** Jackson Petty et al
 - **DecorateLM: Data Engineering through Corpus Rating, Tagging, and Editing with Language Models;** Ranchi Zhao et al
+- **Data Selection via Optimal Control for Language Models;** Yuxian Gu et al
+
+
 
 
 ## VLM Data Engineering
