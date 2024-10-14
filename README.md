@@ -457,6 +457,7 @@
 
 
 
+
 ## LLM Reasoning
 
 - **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning;** Eric Zelikman et al
@@ -588,6 +589,8 @@
 - **Tx-LLM: A Large Language Model for Therapeutics;** Juan Manuel Zambrano Chaves et al
 - **Language Models as Science Tutors;** Alexis Chevalier et al
 - **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers;** Chenglei Si et al
+- **Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild;** Xinyu Zhao et al
+
 
 ## LLM with Memory
 
