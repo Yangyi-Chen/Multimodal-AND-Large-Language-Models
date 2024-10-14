@@ -1249,7 +1249,8 @@
 - **NVLM: Open Frontier-Class Multimodal LLMs;** Wenliang Dai et al
 - **Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution;** Peng Wang et al
 - **Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models;** Matt Deitke et al
-- **Emu3: Next-Token Prediction is All You Need;** Emu3 Team 
+- **Emu3: Next-Token Prediction is All You Need;** Emu3 Team
+- **ARIA: An Open Multimodal Native Mixture-of-Experts Model;** Dongxu Li et al
 
 
 
