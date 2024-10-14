@@ -652,6 +652,7 @@
 - **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters;** Charlie Snell et al
 - **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling;** Bradley Brown et al
 - **Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation;** Rohin Manvi et al
+- **Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning;** Amrith Setlur et al
 
 
 
