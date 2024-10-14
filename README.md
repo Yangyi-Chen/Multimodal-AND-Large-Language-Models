@@ -1257,6 +1257,7 @@
 
 ### Unified Architecture
 - **Unveiling Encoder-Free Vision-Language Models;** Haiwen Diao et al
+- **MONO-INTERNVL: PUSHING THE BOUNDARIES OF MONOLITHIC MULTIMODAL LARGE LANGUAGE MODELS WITH ENDOGENOUS VISUAL PRE-TRAINING;** Gen Luo et al
 - **A Single Transformer for Scalable Vision-Language Modeling;** Yangyi Chen et al
 
 
