@@ -1252,6 +1252,7 @@
 - **Emu3: Next-Token Prediction is All You Need;** Emu3 Team
 - **ARIA: An Open Multimodal Native Mixture-of-Experts Model;** Dongxu Li et al
 - **Pixtral 12B;** Pravesh Agrawal et al
+- **RECONSTRUCTIVE VISUAL INSTRUCTION TUNING;** Haochen Wang et al
 
 
 
