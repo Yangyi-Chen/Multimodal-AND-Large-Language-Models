@@ -285,6 +285,7 @@
 - **Learning Transferable Spatiotemporal Representations from Natural Script Knowledge;** Ziyun Zeng et al
 - **Understanding and Constructing Latent Modality Structures in Multi-Modal Representation Learning;** Qian Jiang et al
 - **VLM2VEC: TRAINING VISION-LANGUAGE MODELS FOR MASSIVE MULTIMODAL EMBEDDING TASKS;** Ziyan Jiang et al
+- **When Does Perceptual Alignment Benefit Vision Representations?;** Shobhita Sundaram et al
 
 
 
