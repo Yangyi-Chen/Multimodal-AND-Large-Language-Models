@@ -286,6 +286,7 @@
 - **Understanding and Constructing Latent Modality Structures in Multi-Modal Representation Learning;** Qian Jiang et al
 - **VLM2VEC: TRAINING VISION-LANGUAGE MODELS FOR MASSIVE MULTIMODAL EMBEDDING TASKS;** Ziyan Jiang et al
 - **When Does Perceptual Alignment Benefit Vision Representations?;** Shobhita Sundaram et al
+- **NARAIM: Native Aspect Ratio Autoregressive Image Models;** Daniel Gallo Fernández et al
 
 
 
