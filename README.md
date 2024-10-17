@@ -758,6 +758,7 @@
 - **U-SHAPED AND INVERTED-U SCALING BEHIND EMERGENT ABILITIES OF LARGE LANGUAGE MODELS;** Tung-Yu Wu et al
 - **Revisiting the Superficial Alignment Hypothesis;** Mohit Raghavendra et al
 - **SCALING LAWS FOR DIFFUSION TRANSFORMERS;** Zhengyang Liang et al
+- **ADAPTIVE DATA OPTIMIZATION: DYNAMIC SAMPLE SELECTION WITH SCALING LAWS;** Yiding Jiang et al
 - **Scaling Laws for Predicting Downstream Performance in LLMs;** Yangyi Chen et al
 
 
