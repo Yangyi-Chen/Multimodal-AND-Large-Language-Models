@@ -348,6 +348,7 @@
 - **Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?;** Zorik Gekhman et al
 - **An Emulator for Fine-Tuning Large Language Models using Small Language Models;** Eric Mitchell et al
 - **To Code, or Not To Code? Exploring Impact of Code in Pre-training;** Viraat Aryabumi et al
+- **LATENT SPACE CHAIN-OF-EMBEDDING ENABLES OUTPUT-FREE LLM SELF-EVALUATION;** Yiming Wang et al
 
 
 **Calibration & Uncertainty**
