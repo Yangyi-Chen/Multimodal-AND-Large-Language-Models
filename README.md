@@ -43,6 +43,7 @@
 - [Instruction Tuning](#instruction-tuning)
 - [Incontext Learning](#incontext-learning)
 - [Learning from Feedback](#learning-from-feedback)
+- [Reward Modeling](#reward-modeling)
 - [Video Foundation Model](#video-foundation-model)
 - [Key Frame Detection](#key-frame-detection)
 - [Pretraining](#pretraining)
@@ -1025,11 +1026,9 @@
 - **RETROFORMER: RETROSPECTIVE LARGE LANGUAGE AGENTS WITH POLICY GRADIENT OPTIMIZATION;** Weiran Yao et al
 - **Shepherd: A Critic for Language Model Generation;** Tianlu Wang et al
 - **GENERATING SEQUENCES BY LEARNING TO [SELF-]CORRECT;** Sean Welleck et al
-- **ZYN: Zero-Shot Reward Models with Yes-No Questions;** Victor Gallego et al
 - **LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked;** Alec Helbling et al
 - **RAIN: Your Language Models Can Align Themselves Yuhui Liwithout Finetuning;** Yuhui Li et al
 - **SYNDICOM: Improving Conversational Commonsense with Error-Injection and Natural Language Feedback;** Christopher Richardson et al
-- **LET’S REWARD STEP BY STEP: STEP-LEVEL REWARD MODEL AS THE NAVIGATORS FOR REASONING;** Qianli Ma et al
 - **MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models;** Deepak Nathani et al
 - **DON’T THROW AWAY YOUR VALUE MODEL! MAKING PPO EVEN BETTER VIA VALUE-GUIDED MONTE-CARLO TREE SEARCH DECODING;** Jiacheng Liu et al
 - **COFFEE: Boost Your Code LLMs by Fixing Bugs with Feedback;** Seungjun Moon et al
@@ -1770,7 +1769,6 @@
 - **ULTRAFEEDBACK: BOOSTING LANGUAGE MODELS WITH HIGH-QUALITY FEEDBACK;** Ganqu Cui et al
 - **HELPSTEER: Multi-attribute Helpfulness Dataset for STEERLM;** Zhilin Wang et al
 - **Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering;** Yichi Zhang et al
-- **TOOL-AUGMENTED REWARD MODELING;** Lei Li et al
 - **Nash Learning from Human Feedback;** Rémi Munos et al
 - **Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models;** Avi Singh et al
 - **When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into Good Labels;** Weiyan Shi et al
@@ -1778,9 +1776,7 @@
 - **REASONS TO REJECT? ALIGNING LANGUAGE MODELS WITH JUDGMENTS;** Weiwen Xu et al
 - **Some things are more CRINGE than others: Preference Optimization with the Pairwise Cringe Loss;** Jing Xu et al
 - **Mitigating Unhelpfulness in Emotional Support Conversations with Multifaceted AI Feedback;** Jiashuo Wang et al
-- **Secrets of RLHF in Large Language Models Part II: Reward Modeling;** Binghai Wang et al
 - **Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation;** Haoran Xu et al
-- **WARM: On the Benefits of Weight Averaged Reward Models;** Alexandre Ramé et al
 - **Self-Rewarding Language Models;** Weizhe Yuan et al
 - **Dense Reward for Free in Reinforcement Learning from Human Feedback;** Alex J. Chan et al
 - **Efficient Exploration for LLMs;** Vikranth Dwaracherla et al
@@ -1800,7 +1796,6 @@
 - **Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data;** Fahim Tajwar et al
 - **Robust Preference Optimization through Reward Model Distillation;** Adam Fisch et al
 - **Preference Learning Algorithms Do Not Learn Preference Rankings;** Angelica Chen et al
-- **HelpSteer2: Open-source dataset for training top-performing reward models;** Zhilin Wang et al
 - **UNDERSTANDING ALIGNMENT IN MULTIMODAL LLMS: A COMPREHENSIVE STUDY;** Elmira Amirloo et al
 - **Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback;** Hamish Ivison et al
 - **Learning from Naturally Occurring Feedback;** Shachar Don-Yehiya et al
@@ -1808,10 +1803,23 @@
 - **BOND: Aligning LLMs with Best-of-N Distillation;** Pier Giuseppe Sessa et al
 - **Recursive Introspection: Teaching Language Model Agents How to Self-Improve;** Yuxiao Qu et al
 - **WILDFEEDBACK: ALIGNING LLMS WITH IN-SITU USER INTERACTIONS AND FEEDBACK;** Taiwei Shi et al
-- **Generative Verifiers: Reward Modeling as Next-Token Prediction;** Lunjun Zhang et al
+
 - **Training Language Models to Self-Correct via Reinforcement Learning;** Aviral Kumar et al
 - **The Perfect Blend: Redefining RLHF with Mixture of Judges;** Tengyu Xu et al
 
+
+
+
+## Reward Modeling
+
+- **HelpSteer2: Open-source dataset for training top-performing reward models;** Zhilin Wang et al
+- **WARM: On the Benefits of Weight Averaged Reward Models;** Alexandre Ramé et al
+- **Secrets of RLHF in Large Language Models Part II: Reward Modeling;** Binghai Wang et al
+- **TOOL-AUGMENTED REWARD MODELING;** Lei Li et al
+- **ZYN: Zero-Shot Reward Models with Yes-No Questions;** Victor Gallego et al
+- **LET’S REWARD STEP BY STEP: STEP-LEVEL REWARD MODEL AS THE NAVIGATORS FOR REASONING;** Qianli Ma et al
+- **Generative Verifiers: Reward Modeling as Next-Token Prediction;** Lunjun Zhang et al
+- **GENERATIVE REWARD MODELS;** Dakota Mahan et al
 
 ## Video Foundation Model
 
