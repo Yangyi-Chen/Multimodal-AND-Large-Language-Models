@@ -861,6 +861,11 @@
 - **Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models;** Yi Luo et al
 - **Weak-to-Strong Extrapolation Expedites Alignment;** Chujie Zheng et al
 - **Super(ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization;** Wenkai Yang et al
+- **Baichuan Alignment Technical Report;** Mingan Lin et al
+
+
+
+
 
 ## Scalable Oversight & SuperAlignment
 
