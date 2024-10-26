@@ -1833,6 +1833,9 @@
 - **LET’S REWARD STEP BY STEP: STEP-LEVEL REWARD MODEL AS THE NAVIGATORS FOR REASONING;** Qianli Ma et al
 - **Generative Verifiers: Reward Modeling as Next-Token Prediction;** Lunjun Zhang et al
 - **GENERATIVE REWARD MODELS;** Dakota Mahan et al
+- **Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs;** Chris Yuhao Liu et al
+
+
 
 ## Video Foundation Model
 
