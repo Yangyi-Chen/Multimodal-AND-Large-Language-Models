@@ -665,6 +665,7 @@
 - **Stream of Search (SoS): Learning to Search in Language;** Kanishk Gandhi et al
 - **Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation;** Rohin Manvi et al
 - **Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning;** Amrith Setlur et al
+- **EXACT: TEACHING AI AGENTS TO EXPLORE WITH REFLECTIVE-MCTS AND EXPLORATORY LEARNING;** Xiao Yu et al
 
 
 
