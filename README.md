@@ -780,6 +780,7 @@
 - **SCALING LAWS FOR SPARSELY-CONNECTED FOUNDATION MODELS;** Elias Frantar et al
 - **Toward Inference-optimal Mixture-of-Expert Large Language Models;** Longfei Yun et al
 - **SCALING LAWS FOR FINE-GRAINED MIXTURE OF EXPERTS;** Jakub Krajewski et al
+- **Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent;** Tencent Hunyuan Team 
 
 
 
