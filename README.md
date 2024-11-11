@@ -817,6 +817,7 @@
 - **DecorateLM: Data Engineering through Corpus Rating, Tagging, and Editing with Language Models;** Ranchi Zhao et al
 - **Data Selection via Optimal Control for Language Models;** Yuxian Gu et al
 - **HARNESSING WEBPAGE UIS FOR TEXT-RICH VISUAL UNDERSTANDING;** Junpeng Liu et al
+- **Aioli: A unified optimization framework for language model data mixing;** Mayee F. Chen et al
 
 
 
