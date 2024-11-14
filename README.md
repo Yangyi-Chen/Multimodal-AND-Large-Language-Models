@@ -1281,6 +1281,7 @@
 - **RECONSTRUCTIVE VISUAL INSTRUCTION TUNING;** Haochen Wang et al
 - **DEEM: DIFFUSION MODELS SERVE AS THE EYES OF LARGE LANGUAGE MODELS FOR IMAGE PERCEPTION;** Run Luo et al
 - **Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models;** Weixin Liang et al
+- **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation;** Yiyang Ma et al
 
 
 
