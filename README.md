@@ -2302,3 +2302,4 @@
 - **Cosmopedia: how to create large-scale synthetic data for pre-training;** Loubna Ben Allal et al
 - **SmolLM - blazingly fast and remarkably powerful;** Loubna Ben Allal et al
 - **A recipe for frontier model post-training;** Nathan Lambert
+- **Speculations on Test-Time Scaling (o1);** Sasha Rush 
