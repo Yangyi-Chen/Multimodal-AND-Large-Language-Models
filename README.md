@@ -1465,7 +1465,7 @@
 - **MONOFORMER: ONE TRANSFORMER FOR BOTH DIFFUSION AND AUTOREGRESSION;** Chuyang Zhao et al
 - **Movie Gen: A Cast of Media Foundation Models;** The Movie Gen team @ Meta
 - **FLUID: SCALING AUTOREGRESSIVE TEXT-TO-IMAGE GENERATIVE MODELS WITH CONTINUOUS TOKENS;** Lijie Fan et al
-
+- **Simpler Diffusion (SiD2): 1.5 FID on ImageNet512 with pixel-space diffusion;** Emiel Hoogeboom et al
 
 
 ## Document Understanding
