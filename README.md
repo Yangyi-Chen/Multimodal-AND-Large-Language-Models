@@ -1936,6 +1936,7 @@
 - **MambaVision: A Hybrid Mamba-Transformer Vision Backbone;** Ali Hatamizadeh et al
 - **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs;** Shengbang Tong et al
 - **SAM 2: Segment Anything in Images and Videos;** Nikhila Ravi et al
+- **Multimodal Autoregressive Pre-training of Large Vision Encoders;** Enrico Fini et al
 
 
 
