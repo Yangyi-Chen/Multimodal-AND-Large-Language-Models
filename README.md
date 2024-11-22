@@ -650,6 +650,7 @@
 - **Unsupervised Dense Information Retrieval with Contrastive Learning;** Gautier Izacard et al
 - **LONGCITE: ENABLING LLMS TO GENERATE FINEGRAINED CITATIONS IN LONG-CONTEXT QA;** Jiajie Zhang et al
 - **ONEGEN: EFFICIENT ONE-PASS UNIFIED GENERATION AND RETRIEVAL FOR LLMS;** Jintian Zhang et al
+- **OPENSCHOLAR: SYNTHESIZING SCIENTIFIC LITERATURE WITH RETRIEVAL-AUGMENTED LMS;** Akari Asai et al
 
 
 
