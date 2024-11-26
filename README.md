@@ -1066,6 +1066,7 @@
 - **LLMCRIT: Teaching Large Language Models to Use Criteria;** Weizhe Yuan et al
 - **Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors;** Alicja Chaszczewicz et al
 - **Training LLMs to Better Self-Debug and Explain Code;** Nan Jiang et al
+- **Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision;** Zhiheng Xi et al
 
 
 
