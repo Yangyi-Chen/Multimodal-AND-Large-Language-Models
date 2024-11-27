@@ -984,6 +984,7 @@
 
 
 
+
 **AutoTelic Agent**
 
 - **AUGMENTING AUTOTELIC AGENTS WITH LARGE LANGUAGE MODELS;** Cedric Colas et al
@@ -1024,6 +1025,9 @@
 - **OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments;** Tianbao Xie et al
 - **GUICourse: From General Vision Language Model to Versatile GUI Agent;** Wentong Chen et al
 - **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents;** Xiao Liu et al
+- **ShowUI: One Vision-Language-Action Model for GUI Visual Agent;** Kevin Qinghong Lin et al
+
+
 
 ## Interaction
 
