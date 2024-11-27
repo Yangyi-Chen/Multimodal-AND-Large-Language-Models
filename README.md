@@ -779,6 +779,7 @@
 - **Scaling Laws for Predicting Downstream Performance in LLMs;** Yangyi Chen et al
 - **SCALING LAWS FOR PRE-TRAINING AGENTS AND WORLD MODELS;** Tim Pearce et al
 - **Towards Precise Scaling Laws for Video Diffusion Transformers;** Yuanyang Yin et al
+- **Predicting Emergent Capabilities by Finetuning;** Charlie Snell et al
 
 
 
