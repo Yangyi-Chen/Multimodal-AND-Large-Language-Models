@@ -778,6 +778,7 @@
 - **ADAPTIVE DATA OPTIMIZATION: DYNAMIC SAMPLE SELECTION WITH SCALING LAWS;** Yiding Jiang et al
 - **Scaling Laws for Predicting Downstream Performance in LLMs;** Yangyi Chen et al
 - **SCALING LAWS FOR PRE-TRAINING AGENTS AND WORLD MODELS;** Tim Pearce et al
+- **Towards Precise Scaling Laws for Video Diffusion Transformers;** Yuanyang Yin et al
 
 
 
