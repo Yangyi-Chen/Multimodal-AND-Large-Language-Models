@@ -1428,6 +1428,7 @@
 - **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming;** Zhifei Xie et al
 - **Moshi: a speech-text foundation model for real-time dialogue;** Alexandre D´efossez et al
 - **LATENT ACTION PRETRAINING FROM VIDEOS;** Seonghyeon Ye et al
+- **SCALING SPEECH-TEXT PRE-TRAINING WITH SYNTHETIC INTERLEAVED DATA;** Aohan Zeng et al
 
 
 
