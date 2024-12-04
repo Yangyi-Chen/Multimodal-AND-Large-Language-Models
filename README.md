@@ -2319,4 +2319,5 @@
 - **A recipe for frontier model post-training;** Nathan Lambert
 - **Speculations on Test-Time Scaling (o1);** Sasha Rush 
 - **Reward Hacking in Reinforcement Learning;** Lilian Weng et al
+- **Don't teach. Incentivize;** Hyung Won Chung
 
