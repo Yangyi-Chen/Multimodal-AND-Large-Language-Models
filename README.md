@@ -781,6 +781,7 @@
 - **SCALING LAWS FOR PRE-TRAINING AGENTS AND WORLD MODELS;** Tim Pearce et al
 - **Towards Precise Scaling Laws for Video Diffusion Transformers;** Yuanyang Yin et al
 - **Predicting Emergent Capabilities by Finetuning;** Charlie Snell et al
+- **Densing Law of LLMs;** Chaojun Xiao et al
 
 
 
