@@ -782,6 +782,7 @@
 - **Towards Precise Scaling Laws for Video Diffusion Transformers;** Yuanyang Yin et al
 - **Predicting Emergent Capabilities by Finetuning;** Charlie Snell et al
 - **Densing Law of LLMs;** Chaojun Xiao et al
+- **Establishing Task Scaling Laws via Compute-Efficient Model Ladders;** Akshita Bhagia et al
 
 
 
