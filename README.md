@@ -163,6 +163,7 @@
 - **Towards Unified Alignment Between Agents, Humans, and Environment;** Zonghan Yang et al
 - **Video as the New Language for Real-World Decision Making;** Sherry Yang et al
 - **A Mechanism-Based Approach to Mitigating Harms from Persuasive Generative AI;** Seliem El-Sayed et al
+- **Concrete Problems in AI Safety;** Dario Amodei et al
 
 
 
