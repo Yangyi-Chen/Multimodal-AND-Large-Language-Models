@@ -1,6 +1,9 @@
 # Multimodal & Large Language Models
 
-**Note:** This paper list is only used to record papers I read in the daily arxiv for personal needs. I only subscribe and cover the following subjects: Artificial Intelligence (cs.AI), Computation and Language (cs.CL), Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG). If you find I missed some important and exciting work, it would be super helpful to let me know. Thanks!
+**Note:** This paper list is only used to record papers I read in the daily arxiv for personal needs. I only subscribe to and cover the following subjects: Artificial Intelligence (cs.AI), Computation and Language (cs.CL), Computer Vision and Pattern Recognition (cs.CV), and Machine Learning (cs.LG). If you find I missed some important and exciting work, it would be super helpful to let me know. Thanks!
+
+**Update:** Starting from June 2024, I'm focusing on reading and recording papers that I believe offer unique insights and substantial contributions to the field.
+
 
 ## Table of Contents
 
