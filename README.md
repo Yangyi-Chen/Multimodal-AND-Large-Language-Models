@@ -1482,6 +1482,7 @@
 - **Movie Gen: A Cast of Media Foundation Models;** The Movie Gen team @ Meta
 - **FLUID: SCALING AUTOREGRESSIVE TEXT-TO-IMAGE GENERATIVE MODELS WITH CONTINUOUS TOKENS;** Lijie Fan et al
 - **Simpler Diffusion (SiD2): 1.5 FID on ImageNet512 with pixel-space diffusion;** Emiel Hoogeboom et al
+- **JETFORMER: AN AUTOREGRESSIVE GENERATIVE MODEL OF RAW IMAGES AND TEXT;** Michael Tschannen et al
 
 
 ## Document Understanding
