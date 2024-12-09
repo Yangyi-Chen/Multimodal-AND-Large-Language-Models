@@ -2332,4 +2332,5 @@
 - **Speculations on Test-Time Scaling (o1);** Sasha Rush 
 - **Reward Hacking in Reinforcement Learning;** Lilian Weng et al
 - **Don't teach. Incentivize;** Hyung Won Chung
+- **From PhD to Google DeepMind: Lessons and Gratitude on My Journey;** Fuzhao Xue 
 
