@@ -860,6 +860,7 @@
 - **VIDEO INSTRUCTION TUNING WITH SYNTHETIC DATA;** Yuanhan Zhang et al
 - **REVISIT LARGE-SCALE IMAGE-CAPTION DATA IN PRETRAINING MULTIMODAL FOUNDATION MODELS;** Zhengfeng Lai et al
 - **CompCap: Improving Multimodal Large Language Models with Composite Captions;** Xiaohui Chen et al
+- **MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale;** Jarvis Guo et al
 
 
 
