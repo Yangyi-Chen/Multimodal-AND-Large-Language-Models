@@ -388,6 +388,9 @@
 - **SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales;** Tianyang Xu et al
 - **Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models;** Qingcheng Zeng et al
 - **SEMANTIC UNCERTAINTY: LINGUISTIC INVARIANCES FOR UNCERTAINTY ESTIMATION IN NATURAL LANGUAGE GENERATION;** Lorenz Kuhn et al
+- **I Don’t Know: Explicit Modeling of Uncertainty with an [IDK] Token;** Roi Cohen et al
+
+
 
 
 ## LLM Safety
