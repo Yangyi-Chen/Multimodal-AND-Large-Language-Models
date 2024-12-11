@@ -790,6 +790,7 @@
 - **Predicting Emergent Capabilities by Finetuning;** Charlie Snell et al
 - **Densing Law of LLMs;** Chaojun Xiao et al
 - **Establishing Task Scaling Laws via Compute-Efficient Model Ladders;** Akshita Bhagia et al
+- **SLOTH: SCALING LAWS FOR LLM SKILLS TO PREDICT MULTI-BENCHMARK PERFORMANCE ACROSS FAMILIES;** Felipe Maia Polo et al
 
 
 
