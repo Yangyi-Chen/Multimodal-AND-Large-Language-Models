@@ -1854,9 +1854,9 @@
 - **BOND: Aligning LLMs with Best-of-N Distillation;** Pier Giuseppe Sessa et al
 - **Recursive Introspection: Teaching Language Model Agents How to Self-Improve;** Yuxiao Qu et al
 - **WILDFEEDBACK: ALIGNING LLMS WITH IN-SITU USER INTERACTIONS AND FEEDBACK;** Taiwei Shi et al
-
 - **Training Language Models to Self-Correct via Reinforcement Learning;** Aviral Kumar et al
 - **The Perfect Blend: Redefining RLHF with Mixture of Judges;** Tengyu Xu et al
+- **DOES RLHF SCALE? EXPLORING THE IMPACTS FROM DATA, MODEL, AND METHOD;** Zhenyu Hou et al
 
 
 
