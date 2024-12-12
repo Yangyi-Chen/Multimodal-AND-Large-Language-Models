@@ -1408,6 +1408,7 @@
 - **MEGA-BENCH: SCALING MULTIMODAL EVALUATION TO OVER 500 REAL-WORLD TASKS;** Jiacheng Chen et al
 - **HUMANEVAL-V: EVALUATING VISUAL UNDERSTANDING AND REASONING ABILITIES OF LARGE MULTIMODAL MODELS THROUGH CODING TASKS;** Fengji Zhang et al
 - **VL-RewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models;** Lei Li et al
+- **Template Matters: Understanding the Role of Instruction Templates in Multimodal Language Model Evaluation and Training;** Shijian Wang et al
 
 
 
