@@ -866,6 +866,7 @@
 - **CompCap: Improving Multimodal Large Language Models with Composite Captions;** Xiaohui Chen et al
 - **MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale;** Jarvis Guo et al
 - **BIGDOCS: AN OPEN AND PERMISSIVELY-LICENSED DATASET FOR TRAINING MULTIMODAL MODELS ON DOCUMENT AND CODE TASKS;** Juan Rodriguez et al
+- **VisionArena: 230K Real World User-VLM Conversations with Preference Labels;** Christopher Chou et al
 
 
 
