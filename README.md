@@ -358,6 +358,9 @@
 - **To Code, or Not To Code? Exploring Impact of Code in Pre-training;** Viraat Aryabumi et al
 - **LATENT SPACE CHAIN-OF-EMBEDDING ENABLES OUTPUT-FREE LLM SELF-EVALUATION;** Yiming Wang et al
 - **Physics of Language Models: Part 3.1, Knowledge Storage and Extraction;** Zeyuan Allen-Zhu et al
+- **Physics of Language Models: Part 3.2, Knowledge Manipulation;** Zeyuan Allen-Zhu et al
+
+
 
 
 **Calibration & Uncertainty**
