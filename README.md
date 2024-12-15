@@ -738,6 +738,7 @@
 - **Qwen2.5-Coder Technical Report;** Binyuan Hui et al
 - **TÜLU 3: Pushing Frontiers in Open Language Model Post-Training;** Nathan Lambert et al
 - **Phi-4 Technical Report;** Marah Abdin et al
+- **Byte Latent Transformer: Patches Scale Better Than Tokens;** Artidoro Pagnoni et al
 
 
 
