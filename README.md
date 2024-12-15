@@ -1316,6 +1316,7 @@
 - **Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models;** Weixin Liang et al
 - **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation;** Yiyang Ma et al
 - **Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling;** Zhe Chen et al
+- **DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding;** Zhiyu Wu et al
 
 
 
