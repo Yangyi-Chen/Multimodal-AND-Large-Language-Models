@@ -2351,7 +2351,6 @@
 - **SmolLM - blazingly fast and remarkably powerful;** Loubna Ben Allal et al
 - **A recipe for frontier model post-training;** Nathan Lambert
 - **Speculations on Test-Time Scaling (o1);** Sasha Rush 
-- **Reward Hacking in Reinforcement Learning;** Lilian Weng et al
 - **Don't teach. Incentivize;** Hyung Won Chung
 - **From PhD to Google DeepMind: Lessons and Gratitude on My Journey;** Fuzhao Xue
 - **Reward Hacking in Reinforcement Learning;** Lilian Weng
