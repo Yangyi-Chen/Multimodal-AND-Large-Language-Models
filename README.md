@@ -1348,6 +1348,8 @@
 - **LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning;** Dantong Niu et al
 - **OMG-LLaVA : Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding;** Tao Zhang et al
 
+
+
 ## Vision-Language Model Analysis & Evaluation
 
 - **What Makes for Good Visual Tokenizers for Large Language Models?;** Guangzhi Wang et al
@@ -1417,6 +1419,7 @@
 - **HUMANEVAL-V: EVALUATING VISUAL UNDERSTANDING AND REASONING ABILITIES OF LARGE MULTIMODAL MODELS THROUGH CODING TASKS;** Fengji Zhang et al
 - **VL-RewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models;** Lei Li et al
 - **Template Matters: Understanding the Role of Instruction Templates in Multimodal Language Model Evaluation and Training;** Shijian Wang et al
+- **Apollo: An Exploration of Video Understanding in Large Multimodal Models;** Orr Zohar et al
 
 
 
