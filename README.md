@@ -146,6 +146,7 @@
 - **From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models;** Sean Welleck et al
 - **A Survey on the Honesty of Large Language Models;** Siheng Li et al
 - **Autoregressive Models in Vision: A Survey;** Jing Xiong et al
+- **Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective;** Zhiyuan Zeng et al
 
 
 
