@@ -1008,6 +1008,7 @@
 - **MindSearch: Mimicking Human Minds Elicits Deep AI Searcher;** Zehui Chen et al
 - **xLAM: A Family of Large Action Models to Empower AI Agent Systems;** Jianguo Zhang et al
 - **Agent-as-a-Judge: Evaluate Agents with Agents;** Mingchen Zhuge et al
+- **Training Software Engineering Agents and Verifiers with SWE-Gym;** Jiayi Pan et al
 
 
 
