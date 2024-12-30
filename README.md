@@ -147,6 +147,7 @@
 - **A Survey on the Honesty of Large Language Models;** Siheng Li et al
 - **Autoregressive Models in Vision: A Survey;** Jing Xiong et al
 - **Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective;** Zhiyuan Zeng et al
+- **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey;** Liang Chen et al
 
 
 
