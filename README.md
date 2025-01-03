@@ -2362,4 +2362,5 @@
 - **From PhD to Google DeepMind: Lessons and Gratitude on My Journey;** Fuzhao Xue
 - **Reward Hacking in Reinforcement Learning;** Lilian Weng
 - **ICML 2024 Tutorial: Physics of Language Models;** Zeyuan Allen Zhu
+- **Process Reinforcement through Implicit Rewards;** Ganqu Cui et al
 
