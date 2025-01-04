@@ -2363,4 +2363,5 @@
 - **Reward Hacking in Reinforcement Learning;** Lilian Weng
 - **ICML 2024 Tutorial: Physics of Language Models;** Zeyuan Allen Zhu
 - **Process Reinforcement through Implicit Rewards;** Ganqu Cui et al
+- **Scaling Paradigms for Large Language Models;** Jason Wei
 
