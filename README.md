@@ -743,6 +743,7 @@
 - **Byte Latent Transformer: Patches Scale Better Than Tokens;** Artidoro Pagnoni et al
 - **Qwen2.5 Technical Report;** Qwen Team
 - **DeepSeek-V3 Technical Report;** DeepSeek-AI
+- **2 OLMo 2 Furious;** OLMo Team 
 
 
 
