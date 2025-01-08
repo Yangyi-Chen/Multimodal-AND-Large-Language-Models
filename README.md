@@ -1428,6 +1428,7 @@
 - **VL-RewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models;** Lei Li et al
 - **Template Matters: Understanding the Role of Instruction Templates in Multimodal Language Model Evaluation and Training;** Shijian Wang et al
 - **Apollo: An Exploration of Video Understanding in Large Multimodal Models;** Orr Zohar et al
+- **LLAVA-MINI: EFFICIENT IMAGE AND VIDEO LARGE MULTIMODAL MODELS WITH ONE VISION TOKEN;** Shaolei Zhang et al
 
 
 
