@@ -2317,7 +2317,7 @@
 - **Learning and Leveraging World Models in Visual Representation Learning;** Quentin Garrido et al
 - **iVideoGPT: Interactive VideoGPTs are Scalable World Models;** Jialong Wu et al
 - **Navigation World Models;** Amir Bar et al
-
+- **Cosmos World Foundation Model Platform for Physical AI;** NVIDIA
 
 
 
