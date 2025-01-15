@@ -745,6 +745,9 @@
 - **Qwen2.5 Technical Report;** Qwen Team
 - **DeepSeek-V3 Technical Report;** DeepSeek-AI
 - **2 OLMo 2 Furious;** OLMo Team 
+- **Titans: Learning to Memorize at Test Time;** Ali Behrouz et al
+
+
 
 
 
