@@ -1900,6 +1900,7 @@
 - **GENERATIVE REWARD MODELS;** Dakota Mahan et al
 - **Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs;** Chris Yuhao Liu et al
 - **FREE PROCESS REWARDS WITHOUT PROCESS LABELS;** Lifan Yuan et al
+- **The Lessons of Developing Process Reward Models in Mathematical Reasoning;** Zhenru Zhang et al
 
 
 
