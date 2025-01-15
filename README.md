@@ -169,6 +169,7 @@
 - **Video as the New Language for Real-World Decision Making;** Sherry Yang et al
 - **A Mechanism-Based Approach to Mitigating Harms from Persuasive Generative AI;** Seliem El-Sayed et al
 - **Concrete Problems in AI Safety;** Dario Amodei et al
+- **Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought;** Violet Xiang et al
 
 
 
