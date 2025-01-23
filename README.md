@@ -687,6 +687,7 @@
 - **Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning;** Amrith Setlur et al
 - **EXACT: TEACHING AI AGENTS TO EXPLORE WITH REFLECTIVE-MCTS AND EXPLORATORY LEARNING;** Xiao Yu et al
 - **Technical Report: Enhancing LLM Reasoning with Reward-guided Tree Search;** Jinhao Jiang et al
+- **KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS;** Kimi Team
 
 
 
