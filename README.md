@@ -698,6 +698,7 @@
 - **UniMem: Towards a Unified View of Long-Context Large Language Models;** Junjie Fang et al
 - **Data Engineering for Scaling Language Models to 128K Context;** Yao Fu et al
 - **How to Train Long-Context Language Models (Effectively);** Tianyu Gao et al
+- **Qwen2.5-1M Technical Report;** Qwen Team, Alibaba Group
 
 
 
