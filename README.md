@@ -689,6 +689,7 @@
 - **Technical Report: Enhancing LLM Reasoning with Reward-guided Tree Search;** Jinhao Jiang et al
 - **KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS;** Kimi Team
 - **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning;** DeepSeek-AI
+- **s1: Simple test-time scaling;** Niklas Muennighof et al
 
 
 
