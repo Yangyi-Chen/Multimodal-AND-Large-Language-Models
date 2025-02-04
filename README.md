@@ -889,6 +889,7 @@
 - **BIGDOCS: AN OPEN AND PERMISSIVELY-LICENSED DATASET FOR TRAINING MULTIMODAL MODELS ON DOCUMENT AND CODE TASKS;** Juan Rodriguez et al
 - **VisionArena: 230K Real World User-VLM Conversations with Preference Labels;** Christopher Chou et al
 - **DIVING INTO SELF-EVOLVING TRAINING FOR MULTIMODAL REASONING;** Wei Liu et al
+- **Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models;** Zhiqi Li et al
 
 
 
