@@ -367,6 +367,7 @@
 
 
 
+
 **Calibration & Uncertainty**
 
 - **Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models;** Alfonso Amayuelas et al
@@ -689,7 +690,7 @@
 - **KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS;** Kimi Team
 - **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning;** DeepSeek-AI
 - **s1: Simple test-time scaling;** Niklas Muennighof et al
-
+- **Demystifying Long Chain-of-Thought Reasoning in LLMs;** Edward Yeo et al
 
 
 
