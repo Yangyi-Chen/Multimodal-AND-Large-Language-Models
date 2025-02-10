@@ -1972,6 +1972,7 @@
 - **ORYX MLLM: ON-DEMAND SPATIAL-TEMPORAL UNDERSTANDING AT ARBITRARY RESOLUTION;** Zuyan Liu et al
 - **XGEN-MM-VID (BLIP-3-VIDEO): YOU ONLY NEED 32 TOKENS TO REPRESENT A VIDEO EVEN IN VLMS;** Michael S. Ryoo et al
 - **VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding;** Boqiang Zhang et al
+- **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy;** Yunhang Shen et al
 
 
 
