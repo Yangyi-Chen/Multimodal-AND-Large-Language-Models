@@ -691,6 +691,7 @@
 - **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning;** DeepSeek-AI
 - **s1: Simple test-time scaling;** Niklas Muennighof et al
 - **Demystifying Long Chain-of-Thought Reasoning in LLMs;** Edward Yeo et al
+- **Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling;** Runze Liu et al
 
 
 
@@ -1028,6 +1029,7 @@
 - **Agent-as-a-Judge: Evaluate Agents with Agents;** Mingchen Zhuge et al
 - **Training Software Engineering Agents and Verifiers with SWE-Gym;** Jiayi Pan et al
 - **Search-o1: Agentic Search-Enhanced Large Reasoning Models;** Xiaoxi Li et al
+- **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering;** Xuehang Guo et al
 
 
 
