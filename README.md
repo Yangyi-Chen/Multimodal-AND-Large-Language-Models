@@ -1030,8 +1030,8 @@
 - **Agent-as-a-Judge: Evaluate Agents with Agents;** Mingchen Zhuge et al
 - **Training Software Engineering Agents and Verifiers with SWE-Gym;** Jiayi Pan et al
 - **Search-o1: Agentic Search-Enhanced Large Reasoning Models;** Xiaoxi Li et al
+- **The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks;** Alejandro Cuadron et al
 - **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering;** Xuehang Guo et al
-
 
 
 
