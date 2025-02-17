@@ -892,6 +892,7 @@
 - **DIVING INTO SELF-EVOLVING TRAINING FOR MULTIMODAL REASONING;** Wei Liu et al
 - **Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models;** Zhiqi Li et al
 - **Scaling Pre-training to One Hundred Billion Data for Vision Language Models;** Xiao Wang et al
+- **MM-RLHF The Next Step Forward in Multimodal LLM Alignment;** Yi-Fan Zhang et al
 
 
 
