@@ -893,6 +893,7 @@
 - **Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models;** Zhiqi Li et al
 - **Scaling Pre-training to One Hundred Billion Data for Vision Language Models;** Xiao Wang et al
 - **MM-RLHF The Next Step Forward in Multimodal LLM Alignment;** Yi-Fan Zhang et al
+- **TASKGALAXY: SCALING MULTI-MODAL INSTRUCTION FINE-TUNING WITH TENS OF THOUSANDS VISION TASK TYPES;** Jiankang Chen et al
 
 
 
