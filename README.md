@@ -1450,7 +1450,7 @@
 - **Apollo: An Exploration of Video Understanding in Large Multimodal Models;** Orr Zohar et al
 - **LLAVA-MINI: EFFICIENT IMAGE AND VIDEO LARGE MULTIMODAL MODELS WITH ONE VISION TOKEN;** Shaolei Zhang et al
 - **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency;** Dongzhi Jiang et al
-
+- **ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models;** Jonathan Roberts et al
 
 
 
