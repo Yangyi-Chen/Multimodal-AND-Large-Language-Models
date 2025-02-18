@@ -1921,7 +1921,7 @@
 - **FREE PROCESS REWARDS WITHOUT PROCESS LABELS;** Lifan Yuan et al
 - **The Lessons of Developing Process Reward Models in Mathematical Reasoning;** Zhenru Zhang et al
 - **PROCESS REINFORCEMENT THROUGH IMPLICIT REWARDS;** Ganqu Cui et al
-
+- **RETHINKING REWARD MODEL EVALUATION: ARE WE BARKING UP THE WRONG TREE?;** Xueru Wen et al
 
 
 ## Video Foundation Model
