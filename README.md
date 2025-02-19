@@ -1034,6 +1034,7 @@
 - **Search-o1: Agentic Search-Enhanced Large Reasoning Models;** Xiaoxi Li et al
 - **The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks;** Alejandro Cuadron et al
 - **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering;** Xuehang Guo et al
+- **ARMAP: SCALING AUTONOMOUS AGENTS VIA AUTOMATIC REWARD MODELING AND PLANNING;** Zhenfang Chen et al
 
 
 
