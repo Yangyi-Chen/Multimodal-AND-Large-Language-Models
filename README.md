@@ -677,6 +677,9 @@
 - **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models;** Kaiyu Yang et al
 - **Evaluating Human-Language Model Interaction;** Mina Lee et al
 
+
+
+
 ## Inference-time
 
 - **An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models;** Yangzhen Wu et al
@@ -692,6 +695,11 @@
 - **s1: Simple test-time scaling;** Niklas Muennighof et al
 - **Demystifying Long Chain-of-Thought Reasoning in LLMs;** Edward Yeo et al
 - **Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling;** Runze Liu et al
+- **Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?;** Zhiyuan Zeng et al
+
+
+
+
 
 
 
