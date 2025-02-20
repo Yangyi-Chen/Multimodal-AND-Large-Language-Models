@@ -1361,10 +1361,15 @@
 
 
 ### Unified Architecture
+
 - **Unveiling Encoder-Free Vision-Language Models;** Haiwen Diao et al
 - **MONO-INTERNVL: PUSHING THE BOUNDARIES OF MONOLITHIC MULTIMODAL LARGE LANGUAGE MODELS WITH ENDOGENOUS VISUAL PRE-TRAINING;** Gen Luo et al
 - **EVEv2: Improved Baselines for Encoder-Free Vision-Language Models;** Haiwen Diao et al
+- **HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding;** Chenxin Tao et al
 - **A Single Transformer for Scalable Vision-Language Modeling;** Yangyi Chen et al
+- **Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation;** Bencheng Liao et al
+
+
 
 
 ### Others
