@@ -904,6 +904,7 @@
 - **Scaling Pre-training to One Hundred Billion Data for Vision Language Models;** Xiao Wang et al
 - **MM-RLHF The Next Step Forward in Multimodal LLM Alignment;** Yi-Fan Zhang et al
 - **TASKGALAXY: SCALING MULTI-MODAL INSTRUCTION FINE-TUNING WITH TENS OF THOUSANDS VISION TASK TYPES;** Jiankang Chen et al
+- **Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation;** Yue Yang et al
 
 
 
