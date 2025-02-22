@@ -697,7 +697,7 @@
 - **Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling;** Runze Liu et al
 - **Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?;** Zhiyuan Zeng et al
 - **Scaling Test-Time Compute Without Verification or RL is Suboptimal;** Amrith Setlur et al
-
+- **LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!;** Dacheng Li et al
 
 
 
