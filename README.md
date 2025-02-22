@@ -2031,6 +2031,7 @@
 - **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs;** Shengbang Tong et al
 - **SAM 2: Segment Anything in Images and Videos;** Nikhila Ravi et al
 - **Multimodal Autoregressive Pre-training of Large Vision Encoders;** Enrico Fini et al
+- **SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features;** Michael Tschannen et al
 
 
 
