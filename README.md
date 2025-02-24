@@ -2416,3 +2416,4 @@
 - **Recommendations for Technical AI Safety Research Directions;** Anthropic Alignment Team
 - **Optimizing LLM Test-Time Compute Involves Solving a Meta-RL Problem;** Amrith Setlur et al
 - **There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study;** Zichen Liu et al
+- **RLVR in Vision Language Models: Findings, Questions and Directions;** Liang Chen et al 
