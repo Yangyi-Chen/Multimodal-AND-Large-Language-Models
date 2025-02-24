@@ -906,6 +906,7 @@
 - **MM-RLHF The Next Step Forward in Multimodal LLM Alignment;** Yi-Fan Zhang et al
 - **TASKGALAXY: SCALING MULTI-MODAL INSTRUCTION FINE-TUNING WITH TENS OF THOUSANDS VISION TASK TYPES;** Jiankang Chen et al
 - **Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation;** Yue Yang et al
+- **GneissWeb: Preparing High Quality Data for LLMs at Scale;** Hajar Emami Gohari et al
 
 
 
@@ -1359,6 +1360,7 @@
 - **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation;** Yiyang Ma et al
 - **Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling;** Zhe Chen et al
 - **DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding;** Zhiyu Wu et al
+- **Qwen2.5-VL Technical Report;** Qwen Team, Alibaba Group 
 
 
 
