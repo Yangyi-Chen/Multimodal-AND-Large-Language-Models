@@ -907,6 +907,7 @@
 - **TASKGALAXY: SCALING MULTI-MODAL INSTRUCTION FINE-TUNING WITH TENS OF THOUSANDS VISION TASK TYPES;** Jiankang Chen et al
 - **Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation;** Yue Yang et al
 - **GneissWeb: Preparing High Quality Data for LLMs at Scale;** Hajar Emami Gohari et al
+- **OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference;** Xiangyu Zhao et al
 
 
 
