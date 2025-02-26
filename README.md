@@ -703,6 +703,7 @@
 - **Scaling Test-Time Compute Without Verification or RL is Suboptimal;** Amrith Setlur et al
 - **LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!;** Dacheng Li et al
 - **Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning;** Tian Xie et al
+- **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach;** Jonas Geiping et al
 
 
 
