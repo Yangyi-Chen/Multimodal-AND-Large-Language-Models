@@ -148,6 +148,7 @@
 - **Autoregressive Models in Vision: A Survey;** Jing Xiong et al
 - **Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective;** Zhiyuan Zeng et al
 - **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey;** Liang Chen et al
+- **(MIS)FITTING: A SURVEY OF SCALING LAWS;** Margaret Li et al
 
 
 
