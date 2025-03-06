@@ -540,6 +540,7 @@
 - **DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search;** Huajian Xin et al
 - **Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning;** Yuxi Xie et al
 - **Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs;** Xuan Zhang et al
+- **B-STAR: MONITORING AND BALANCING EXPLORATION AND EXPLOITATION IN SELF-TAUGHT REASONERS;** Weihao Zeng et al
 
 
 
