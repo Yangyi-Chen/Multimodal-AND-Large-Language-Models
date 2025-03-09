@@ -879,6 +879,7 @@
 - **HARNESSING WEBPAGE UIS FOR TEXT-RICH VISUAL UNDERSTANDING;** Junpeng Liu et al
 - **Aioli: A unified optimization framework for language model data mixing;** Mayee F. Chen et al
 - **HOW TO SYNTHESIZE TEXT DATA WITHOUT MODEL COLLAPSE?;** Xuekai Zhu et al
+- **Predictive Data Selection: The Data That Predicts Is the Data That Teaches;** Kashun Shum et al
 
 
 
