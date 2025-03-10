@@ -769,7 +769,7 @@
 - **DeepSeek-V3 Technical Report;** DeepSeek-AI
 - **2 OLMo 2 Furious;** OLMo Team 
 - **Titans: Learning to Memorize at Test Time;** Ali Behrouz et al
-
+- **Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs;** Microsoft et al
 
 
 
