@@ -266,7 +266,7 @@
 - **LAMPP: Language Models as Probabilistic Priors for Perception and Action;** Belinda Z. Li et al
 - **Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings;** Daniel Rose et al
 - **Symbol-LLM: Leverage Language Models for Symbolic System in Visual Human Activity Reasoning;** Xiaoqian Wu et al
-- **Visual-RFT: Visual Reinforcement Fine-Tuning;** Ziyu Liu et al
+
 
 **Common sense.**
 
@@ -711,6 +711,9 @@
 - **Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs;** Kanishk Gandhi et al
 
 
+**Vision-Language**
+- **Visual-RFT: Visual Reinforcement Fine-Tuning;** Ziyu Liu et al
+- **LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL;** Yingzhe Peng et al
 
 
 
