@@ -365,6 +365,7 @@
 - **LATENT SPACE CHAIN-OF-EMBEDDING ENABLES OUTPUT-FREE LLM SELF-EVALUATION;** Yiming Wang et al
 - **Physics of Language Models: Part 3.1, Knowledge Storage and Extraction;** Zeyuan Allen-Zhu et al
 - **Physics of Language Models: Part 3.2, Knowledge Manipulation;** Zeyuan Allen-Zhu et al
+- **IMPROVING PRETRAINING DATA USING PERPLEXITY CORRELATIONS;** Tristan Thrush et al
 
 
 
@@ -878,7 +879,6 @@
 - **Does your data spark joy? Performance gains from domain upsampling at the end of training;** Cody Blakeney et al
 - **ScalingFilter: Assessing Data Quality through Inverse Utilization of Scaling Laws;** Ruihang Li et al
 - **BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline;** Guosheng Dong et al
-- **IMPROVING PRETRAINING DATA USING PERPLEXITY CORRELATIONS;** Tristan Thrush et al
 - **How Does Code Pretraining Affect Language Model Task Performance?;** Jackson Petty et al
 - **DecorateLM: Data Engineering through Corpus Rating, Tagging, and Editing with Language Models;** Ranchi Zhao et al
 - **Data Selection via Optimal Control for Language Models;** Yuxian Gu et al
