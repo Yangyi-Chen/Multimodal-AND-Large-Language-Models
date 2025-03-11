@@ -709,6 +709,7 @@
 - **Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning;** Tian Xie et al
 - **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach;** Jonas Geiping et al
 - **Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs;** Kanishk Gandhi et al
+- **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models;** Wenxuan Huang et al
 
 
 **Vision-Language**
