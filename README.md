@@ -712,7 +712,7 @@
 - **Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs;** Kanishk Gandhi et al
 - **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models;** Wenxuan Huang et al
 - **R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning;** Huatong Song et al
-
+- **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning;** Yuxiao Qu et al
 
 
 **Vision-Language**
