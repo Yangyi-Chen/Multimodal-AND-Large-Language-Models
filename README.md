@@ -21,7 +21,7 @@
 - [LLM Application](#llm-application)
 - [LLM with Memory](#llm-with-memory)
 - [LLM with Human](#llm-with-human)
-- [Inference-time](#inference-time)
+- [Inference-time Scaling (via RL)](#inference-time-scaling)
 - [Long-Context LLM](#long-context-llm)
 - [LLM Foundation](#llm-foundation)
 - [Scaling Law](#scaling-law)
@@ -689,7 +689,7 @@
 
 
 
-## Inference-time
+## Inference-time Scaling (via RL)
 
 - **An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models;** Yangzhen Wu et al
 - **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters;** Charlie Snell et al
@@ -711,6 +711,8 @@
 - **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach;** Jonas Geiping et al
 - **Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs;** Kanishk Gandhi et al
 - **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models;** Wenxuan Huang et al
+- **R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning;** Huatong Song et al
+
 
 
 **Vision-Language**
