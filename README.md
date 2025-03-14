@@ -1964,7 +1964,7 @@
 - **The Lessons of Developing Process Reward Models in Mathematical Reasoning;** Zhenru Zhang et al
 - **PROCESS REINFORCEMENT THROUGH IMPLICIT REWARDS;** Ganqu Cui et al
 - **RETHINKING REWARD MODEL EVALUATION: ARE WE BARKING UP THE WRONG TREE?;** Xueru Wen et al
-
+- **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning;** Weiyun Wang et al
 
 ## Video Foundation Model
 
