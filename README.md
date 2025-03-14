@@ -927,7 +927,7 @@
 - **GneissWeb: Preparing High Quality Data for LLMs at Scale;** Hajar Emami Gohari et al
 - **OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference;** Xiangyu Zhao et al
 - **SpiritSight Agent: Advanced GUI Agent with One Look;** Zhiyuan Huang et al
-
+- **R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization;** Yi Yang et al
 
 
 
