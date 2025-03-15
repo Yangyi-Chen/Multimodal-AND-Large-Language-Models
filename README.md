@@ -996,6 +996,9 @@
 - **The Wisdom of Hindsight Makes Language Models Better Instruction Followers;** Tianjun Zhang et al
 - **REWARD UNCERTAINTY FOR EXPLORATION IN PREFERENCE-BASED REINFORCEMENT LEARNING;** Xinran Liang et al
 
+**With Foundation Model** 
+- **Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs;** Arash Ahmadian et al
+
 
 ## Beyond Bandit
 
