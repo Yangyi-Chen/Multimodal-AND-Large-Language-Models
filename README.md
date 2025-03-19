@@ -841,6 +841,7 @@
 - **SLOTH: SCALING LAWS FOR LLM SKILLS TO PREDICT MULTI-BENCHMARK PERFORMANCE ACROSS FAMILIES;** Felipe Maia Polo et al
 - **LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws;** Prasanna Mayilvahanan et al
 - **Predictable Scale: Part I — Optimal Hyperparameter Scaling Law in Large Language Model Pretraining;** Houyi Li et al
+- **A MULTI-POWER LAW FOR LOSS CURVE PREDICTION ACROSS LEARNING RATE SCHEDULES;** Kairong Luo et al
 
 
 
