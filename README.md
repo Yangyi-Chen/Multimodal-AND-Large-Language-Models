@@ -2065,6 +2065,8 @@
 - **SAM 2: Segment Anything in Images and Videos;** Nikhila Ravi et al
 - **Multimodal Autoregressive Pre-training of Large Vision Encoders;** Enrico Fini et al
 - **SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features;** Michael Tschannen et al
+- **TULIP: Towards Unified Language-Image Pretraining;** Zineng Tang et al
+
 
 
 
