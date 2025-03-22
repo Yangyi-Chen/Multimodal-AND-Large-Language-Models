@@ -150,7 +150,7 @@
 - **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey;** Liang Chen et al
 - **(MIS)FITTING: A SURVEY OF SCALING LAWS;** Margaret Li et al
 - **Thus Spake Long-Context Large Language Model;** Xiaoran Liu et al
-
+- **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models;** Yang Sui et al
 
 
 ## Position Paper
