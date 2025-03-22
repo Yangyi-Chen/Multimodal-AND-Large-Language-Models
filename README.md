@@ -1539,6 +1539,7 @@
 - **LATENT ACTION PRETRAINING FROM VIDEOS;** Seonghyeon Ye et al
 - **SCALING SPEECH-TEXT PRE-TRAINING WITH SYNTHETIC INTERLEAVED DATA;** Aohan Zeng et al
 - **Exploring the Potential of Encoder-free Architectures in 3D LMMs;** Yiwen Tang et al
+- **Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning;** NVIDIA
 
 
 
