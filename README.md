@@ -713,6 +713,9 @@
 - **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models;** Wenxuan Huang et al
 - **R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning;** Huatong Song et al
 - **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning;** Yuxiao Qu et al
+- **Understanding R1-Zero-Like Training: A Critical Perspective;** Zichen Liu et al
+- **DAPO: An Open-Source LLM Reinforcement Learning System at Scale;** ByteDance Seed 
+
 
 
 **Vision-Language**
