@@ -715,7 +715,7 @@
 - **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning;** Yuxiao Qu et al
 - **Understanding R1-Zero-Like Training: A Critical Perspective;** Zichen Liu et al
 - **DAPO: An Open-Source LLM Reinforcement Learning System at Scale;** ByteDance Seed 
-
+- **Reasoning to Learn from Latent Thoughts;** Yangjun Ruan et al
 
 
 **Vision-Language**
