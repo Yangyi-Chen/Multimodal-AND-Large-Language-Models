@@ -366,7 +366,7 @@
 - **Physics of Language Models: Part 3.1, Knowledge Storage and Extraction;** Zeyuan Allen-Zhu et al
 - **Physics of Language Models: Part 3.2, Knowledge Manipulation;** Zeyuan Allen-Zhu et al
 - **IMPROVING PRETRAINING DATA USING PERPLEXITY CORRELATIONS;** Tristan Thrush et al
-
+- **Overtrained Language Models Are Harder to Fine-Tune;** Jacob Mitchell Springer et al
 
 
 
