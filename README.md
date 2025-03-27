@@ -718,6 +718,7 @@
 - **Reasoning to Learn from Latent Thoughts;** Yangjun Ruan et al
 - **ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning;** Mingyang Chen et al
 - **Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators;** Seungone Kim et al
+- **SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild;** Weihao Zeng et al
 
 
 
