@@ -728,6 +728,9 @@
 - **LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL;** Yingzhe Peng et al
 - **MM-EUREKA: EXPLORING VISUAL AHA MOMENT WITH RULE-BASED LARGE-SCALE REINFORCEMENT LEARNING;** Fanqing Meng et al
 - **DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding;** Xinyu Ma et al
+- **Video-R1: Reinforcing Video Reasoning in MLLMs;** Kaituo Feng et al
+
+
 
 
 ## Long-context LLM
