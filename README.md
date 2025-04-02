@@ -1134,6 +1134,7 @@
 - **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents;** Xiao Liu et al
 - **ShowUI: One Vision-Language-Action Model for GUI Visual Agent;** Kevin Qinghong Lin et al
 - **UI-TARS: Pioneering Automated GUI Interaction with Native Agents;** Yujia Qin et al
+- **Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents;** Saaket Agashe et al
 
 
 
