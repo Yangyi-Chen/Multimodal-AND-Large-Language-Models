@@ -488,6 +488,7 @@
 - **VERDICT: A Library for Scaling Judge-Time Compute;** Nimit Kalra et al
 - **BIG-Bench Extra Hard;** Mehran Kazemi et al
 - **VerifiAgent: a Unified Verification Agent in Language Model Reasoning;** Jiuzhou Han et al
+- **PaperBench: Evaluating AI’s Ability to Replicate AI Research;** Giulio Starace et al
 
 
 
