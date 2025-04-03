@@ -487,6 +487,7 @@
 - **Humanity's Last Exam;** Long Phan et al
 - **VERDICT: A Library for Scaling Judge-Time Compute;** Nimit Kalra et al
 - **BIG-Bench Extra Hard;** Mehran Kazemi et al
+- **VerifiAgent: a Unified Verification Agent in Language Model Reasoning;** Jiuzhou Han et al
 
 
 
