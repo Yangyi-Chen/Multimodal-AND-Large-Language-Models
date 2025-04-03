@@ -1405,7 +1405,8 @@
 - **Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling;** Zhe Chen et al
 - **DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding;** Zhiyu Wu et al
 - **Qwen2.5-VL Technical Report;** Qwen Team, Alibaba Group
-- **Gemma 3 Technical Report;** Gemma Team, Google DeepMind 
+- **Gemma 3 Technical Report;** Gemma Team, Google DeepMind
+- **Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs on Academic Resources;** Weizhi Wang et al
 
 
 
