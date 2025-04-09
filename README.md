@@ -1015,6 +1015,8 @@
 
 **With Foundation Model** 
 - **Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs;** Arash Ahmadian et al
+- **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks;** ByteDance Seed 
+
 
 
 ## Beyond Bandit
