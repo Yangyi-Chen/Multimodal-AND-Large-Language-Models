@@ -858,7 +858,7 @@
 - **Predictable Scale: Part I — Optimal Hyperparameter Scaling Law in Large Language Model Pretraining;** Houyi Li et al
 - **A MULTI-POWER LAW FOR LOSS CURVE PREDICTION ACROSS LEARNING RATE SCHEDULES;** Kairong Luo et al
 - **Scaling Laws of Synthetic Data for Language Models;** Zeyu Qin et al
-
+- **Compression Laws for Large Language Models;** Ayan Sengupta et al
 
 
 
