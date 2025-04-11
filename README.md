@@ -1997,6 +1997,8 @@
 - **RETHINKING REWARD MODEL EVALUATION: ARE WE BARKING UP THE WRONG TREE?;** Xueru Wen et al
 - **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning;** Weiyun Wang et al
 - **Expanding RL with Verifiable Rewards Across Diverse Domains;** Yi Su et al
+- **Inference-Time Scaling for Generalist Reward Modeling;** Zijun Liu et al
+
 
 
 
