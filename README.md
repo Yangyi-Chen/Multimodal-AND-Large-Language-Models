@@ -859,7 +859,7 @@
 - **A MULTI-POWER LAW FOR LOSS CURVE PREDICTION ACROSS LEARNING RATE SCHEDULES;** Kairong Luo et al
 - **Scaling Laws of Synthetic Data for Language Models;** Zeyu Qin et al
 - **Compression Laws for Large Language Models;** Ayan Sengupta et al
-
+- **Scaling Laws for Native Multimodal Models;** Mustafa Shukor et al
 
 
 **MoE**
