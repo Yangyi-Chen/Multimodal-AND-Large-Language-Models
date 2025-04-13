@@ -1413,6 +1413,9 @@
 - **Gemma 3 Technical Report;** Gemma Team, Google DeepMind
 - **Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs on Academic Resources;** Weizhi Wang et al
 - **SmolVLM: Redefining small and efficient multimodal models;** Andrés Marafioti  et al
+- **KIMI-VL TECHNICAL REPORT;** Kimi Team
+
+
 
 
 ### Unified Architecture
