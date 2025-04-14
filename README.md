@@ -1567,6 +1567,7 @@
 - **Exploring the Potential of Encoder-free Architectures in 3D LMMs;** Yiwen Tang et al
 - **Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning;** NVIDIA
 - **GR00T N1: An Open Foundation Model for Generalist Humanoid Robots;** NVIDIA
+- **Qwen2.5-Omni Technical Report;** Qwen Team
 
 
 
