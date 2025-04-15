@@ -1427,6 +1427,9 @@
 - **HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding;** Chenxin Tao et al
 - **A Single Transformer for Scalable Vision-Language Modeling;** Yangyi Chen et al
 - **Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation;** Bencheng Liao et al
+- **The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer;** Weixian Lei et al
+- **Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding;** Tao Zhang et al
+
 
 
 
