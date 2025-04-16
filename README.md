@@ -907,6 +907,7 @@
 - **Aioli: A unified optimization framework for language model data mixing;** Mayee F. Chen et al
 - **HOW TO SYNTHESIZE TEXT DATA WITHOUT MODEL COLLAPSE?;** Xuekai Zhu et al
 - **Predictive Data Selection: The Data That Predicts Is the Data That Teaches;** Kashun Shum et al
+- **DataDecide: How to Predict Best Pretraining Data with Small Experiments;** Ian Magnusson et al
 
 
 
