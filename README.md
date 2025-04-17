@@ -1747,6 +1747,7 @@
 - **Granite-Function Calling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks;** Ibrahim Abdelaziz et al
 - **ToolACE: Winning the Points of LLM Function Calling;** Weiwen Liu et al
 - **MMSEARCH: BENCHMARKING THE POTENTIAL OF LARGE MODELS AS MULTI-MODAL SEARCH ENGINES;** Dongzhi Jiang et al
+- **ReTool: Reinforcement Learning for Strategic Tool Use in LLMs;** Jiazhan Feng et al
 
 
 
