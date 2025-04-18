@@ -2106,6 +2106,7 @@
 - **SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features;** Michael Tschannen et al
 - **TULIP: Towards Unified Language-Image Pretraining;** Zineng Tang et al
 - **Scaling Language-Free Visual Representation Learning;** David Fan et al
+- **Perception Encoder: The best visual embeddings are not at the output of the network;** Daniel Bolya et al
 
 
 
