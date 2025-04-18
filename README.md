@@ -1416,7 +1416,7 @@
 - **Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs on Academic Resources;** Weizhi Wang et al
 - **SmolVLM: Redefining small and efficient multimodal models;** Andrés Marafioti  et al
 - **KIMI-VL TECHNICAL REPORT;** Kimi Team
-
+- **InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models;** Jinguo Zhu et al
 
 
 
