@@ -1591,6 +1591,7 @@
 - **SEED-Story: Multimodal Long Story Generation with Large Language Model;** Shuai Yang et al
 - **JPEG-LM: LLMs as Image Generators with Canonical Codec Representations;** Xiaochuang Han et al
 - **OmniGen: Unified Image Generation;** Shitao Xiao et al
+- **SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL;** Junke Wang et al
 
 
 
