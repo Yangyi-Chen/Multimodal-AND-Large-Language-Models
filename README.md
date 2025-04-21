@@ -2070,6 +2070,9 @@
 - **VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding;** Boqiang Zhang et al
 - **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy;** Yunhang Shen et al
 - **Breaking the Encoder Barrier for Seamless Video-Language Understanding;** Handong Li et al
+- **PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding;** Jang Hyun Cho et al
+
+
 
 
 ## Key Frame Detection
