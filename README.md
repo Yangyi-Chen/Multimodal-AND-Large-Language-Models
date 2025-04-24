@@ -734,7 +734,7 @@
 - **DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding;** Xinyu Ma et al
 - **Video-R1: Reinforcing Video Reasoning in MLLMs;** Kaituo Feng et al
 - **Boosting MLLM Reasoning with Text-Debiased Hint-GRPO;** Qihan Huang et al
-
+- **Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning;** Chris et al
 
 
 ## Long-context LLM
