@@ -725,6 +725,7 @@
 - **Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model;** Jingcheng Hu et al
 - **Climbing the Ladder of Reasoning: What LLMs Can—and Still Can’t—Solve after SFT?;** Yiyou Sun et al
 - **Learning Adaptive Parallel Reasoning with Language Models;** Jiayi Pan et al
+- **TTRL: Test-Time Reinforcement Learning;** Yuxin Zuo et al
 
 
 
