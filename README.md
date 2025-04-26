@@ -1597,6 +1597,9 @@
 - **JPEG-LM: LLMs as Image Generators with Canonical Codec Representations;** Xiaochuang Han et al
 - **OmniGen: Unified Image Generation;** Shitao Xiao et al
 - **SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL;** Junke Wang et al
+- **PixelFlow: Pixel-Space Generative Models with Flow;** Shoufa Chen et al
+
+
 
 
 
