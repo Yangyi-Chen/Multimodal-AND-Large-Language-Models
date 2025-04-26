@@ -1020,7 +1020,8 @@
 
 **With Foundation Model** 
 - **Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs;** Arash Ahmadian et al
-- **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks;** ByteDance Seed 
+- **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks;** ByteDance Seed
+- **TAPERED OFF-POLICY REINFORCE Stable and efficient reinforcement learning for LLMs;** Nicolas Le Roux et al
 
 
 
