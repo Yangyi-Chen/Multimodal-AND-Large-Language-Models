@@ -726,6 +726,8 @@
 - **Climbing the Ladder of Reasoning: What LLMs Can—and Still Can’t—Solve after SFT?;** Yiyou Sun et al
 - **Learning Adaptive Parallel Reasoning with Language Models;** Jiayi Pan et al
 - **TTRL: Test-Time Reinforcement Learning;** Yuxin Zuo et al
+- **Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?** Yang Yue et al
+
 
 
 
