@@ -1598,7 +1598,7 @@
 - **OmniGen: Unified Image Generation;** Shitao Xiao et al
 - **SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL;** Junke Wang et al
 - **PixelFlow: Pixel-Space Generative Models with Flow;** Shoufa Chen et al
-
+- **ENVISIONING BEYOND THE PIXELS: BENCHMARKING REASONING-INFORMED VISUAL EDITING;** Xiangyu Zhao et al
 
 
 
