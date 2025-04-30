@@ -727,7 +727,7 @@
 - **Learning Adaptive Parallel Reasoning with Language Models;** Jiayi Pan et al
 - **TTRL: Test-Time Reinforcement Learning;** Yuxin Zuo et al
 - **Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?** Yang Yue et al
-
+- **Reinforcement Learning for Reasoning in Large Language Models with One Training Example;** Yiping Wang et al
 
 
 
