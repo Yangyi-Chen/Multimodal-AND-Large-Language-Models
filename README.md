@@ -1104,6 +1104,8 @@
 - **Programming with Pixels: Computer-Use Meets Software Engineering;** Pranjal Aggarwal et al
 - **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks;** Yifei Zhou et al
 - **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents;** Naman Jain et al
+- **SWE-smith: Scaling Data for Software Engineering Agents;** John Yang et al
+
 
 
 
