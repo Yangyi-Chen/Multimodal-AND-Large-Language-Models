@@ -1015,6 +1015,7 @@
 
 ## RL Foundation
 
+- **Proximal Policy Optimization Algorithms;** John Schulman et al
 - **PREFERENCES IMPLICIT IN THE STATE OF THE WORLD;** Rohin Shah et al
 - **Hindsight Experience Replay;** Marcin Andrychowicz et al
 - **Learning to Reach Goals via Iterated Supervised Learning;** Dibya Ghosh et al
