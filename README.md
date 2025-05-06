@@ -151,6 +151,7 @@
 - **(MIS)FITTING: A SURVEY OF SCALING LAWS;** Margaret Li et al
 - **Thus Spake Long-Context Large Language Model;** Xiaoran Liu et al
 - **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models;** Yang Sui et al
+- **A Comprehensive Survey of Reward Models: Taxonomy, Applications, Challenges, and Future;** Jialun Zhong et al
 
 
 ## Position Paper
