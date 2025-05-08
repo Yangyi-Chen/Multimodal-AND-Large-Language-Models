@@ -756,6 +756,8 @@
 
 ## LLM Foundation
 
+- **QWEN TECHNICAL REPORT;** Jinze Bai et al
+- **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism;** DeepSeek-AI
 - **Retentive Network: A Successor to Transformer for Large Language Models;** Yutao Sun et al
 - **Skill-it! A Data-Driven Skills Framework for Understanding and Training Language Models;** Mayee F. Chen et al
 - **Secrets of RLHF in Large Language Models Part I: PPO;** Rui Zheng et al
