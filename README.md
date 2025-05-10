@@ -435,6 +435,7 @@
 - **LOOKING INWARD: LANGUAGE MODELS CAN LEARN ABOUT THEMSELVES BY INTROSPECTION;** Felix J Binder et al
 - **Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming;** Mrinank Sharma et al
 - **Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs;** Jan Betley et al
+- **Reasoning Models Don’t Always Say What They Think;** Yanda Chen et al
 
 
 ## LLM Evaluation
