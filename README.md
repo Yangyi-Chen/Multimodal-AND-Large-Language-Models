@@ -872,6 +872,8 @@
 - **Scaling Laws of Synthetic Data for Language Models;** Zeyu Qin et al
 - **Compression Laws for Large Language Models;** Ayan Sengupta et al
 - **Scaling Laws for Native Multimodal Models;** Mustafa Shukor et al
+- **Parallel Scaling Law for Language Models;** Mouxiang Chen et al
+
 
 
 **MoE**
