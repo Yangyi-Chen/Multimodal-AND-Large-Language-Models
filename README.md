@@ -2028,6 +2028,7 @@
 - **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning;** Weiyun Wang et al
 - **Expanding RL with Verifiable Rewards Across Diverse Domains;** Yi Su et al
 - **Inference-Time Scaling for Generalist Reward Modeling;** Zijun Liu et al
+- **J1: Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning;** Chenxi Whitehouse et al
 
 
 
