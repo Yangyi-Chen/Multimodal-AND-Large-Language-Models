@@ -1418,13 +1418,11 @@
 - **NVLM: Open Frontier-Class Multimodal LLMs;** Wenliang Dai et al
 - **Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution;** Peng Wang et al
 - **Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models;** Matt Deitke et al
-- **Emu3: Next-Token Prediction is All You Need;** Emu3 Team
 - **ARIA: An Open Multimodal Native Mixture-of-Experts Model;** Dongxu Li et al
 - **Pixtral 12B;** Pravesh Agrawal et al
 - **RECONSTRUCTIVE VISUAL INSTRUCTION TUNING;** Haochen Wang et al
 - **DEEM: DIFFUSION MODELS SERVE AS THE EYES OF LARGE LANGUAGE MODELS FOR IMAGE PERCEPTION;** Run Luo et al
 - **Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models;** Weixin Liang et al
-- **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation;** Yiyang Ma et al
 - **Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling;** Zhe Chen et al
 - **DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding;** Zhiyu Wu et al
 - **Qwen2.5-VL Technical Report;** Qwen Team, Alibaba Group
@@ -1434,6 +1432,12 @@
 - **KIMI-VL TECHNICAL REPORT;** Kimi Team
 - **InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models;** Jinguo Zhu et al
 
+
+### Unified Understanding and Generation
+
+- **Emu3: Next-Token Prediction is All You Need;** Emu3 Team
+- **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation;** Yiyang Ma et al
+- **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset;** Jiuhai Chen
 
 
 ### Unified Architecture
