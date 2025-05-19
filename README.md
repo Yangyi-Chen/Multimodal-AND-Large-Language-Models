@@ -732,6 +732,7 @@
 - **Reinforcement Learning for Reasoning in Large Language Models with One Training Example;** Yiping Wang et al
 - **DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition;** Z.Z. Ren et al
 - **Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers;** Kusha Sareen et al
+- **Absolute Zero: Reinforced Self-play Reasoning with Zero Data;** Andrew Zhao et al
 
 
 
