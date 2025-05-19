@@ -809,6 +809,7 @@
 - **Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs;** Microsoft et al
 - **Command A: An Enterprise-Ready Large Language Model;** Cohere
 - **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining;** Xiaomi LLM-Core Team
+- **Qwen3 Technical Report;** Qwen Team
 
 
 
@@ -1436,7 +1437,7 @@
 - **SmolVLM: Redefining small and efficient multimodal models;** Andrés Marafioti  et al
 - **KIMI-VL TECHNICAL REPORT;** Kimi Team
 - **InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models;** Jinguo Zhu et al
-
+- **Seed1.5-VL Technical Report;** ByteDance Seed
 
 ### Unified Understanding and Generation
 
