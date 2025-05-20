@@ -1688,7 +1688,7 @@
 - **STRUCTEXTV3: AN EFFICIENT VISION-LANGUAGE MODEL FOR TEXT-RICH IMAGE PERCEPTION, COMPREHENSION, AND BEYOND;** Pengyuan Lyu et al
 - **TRINS: Towards Multimodal Language Models that Can Read;** Ruiyi Zhang et al
 - **Multimodal Table Understanding;** Mingyu Zheng et al
-- **MPLUG-DOCOWL2: HIGH-RESOLUTION COMPRESSING FOR OCR-FREE MULTI-PAGE DOCUMENT UNDERSTANDING;** Anwen Hu et al
+- **MPLUG-DOCOWL2: HIGH-RESOLUTION COMPRESSING FOR OCR-FREE MULTI-PAGE DOCUMENT UNDERSTANDING;** Anwen Hu et al
 - **PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling;** Xudong Xie et al
 
 **Dataset**
