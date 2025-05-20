@@ -1158,7 +1158,7 @@
 - **An Interactive Agent Foundation Model;** Zane Durante et al
 - **RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis;** Yao Mu et al
 - **Scaling Instructable Agents Across Many Simulated Worlds;** SIMA Team
-- **Do We Really Need a Complex Agent System? Distill Embodied Agent into a Single Model;** Zhonghan Zhao1 et al
+- **Do We Really Need a Complex Agent System? Distill Embodied Agent into a Single Model;** Zhonghan Zhao1 et al
 - **Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs;** Keen You et al
 - **OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments;** Tianbao Xie et al
 - **GUICourse: From General Vision Language Model to Versatile GUI Agent;** Wentong Chen et al
