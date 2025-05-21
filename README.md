@@ -369,7 +369,7 @@
 - **IMPROVING PRETRAINING DATA USING PERPLEXITY CORRELATIONS;** Tristan Thrush et al
 - **Overtrained Language Models Are Harder to Fine-Tune;** Jacob Mitchell Springer et al
 - **Reasoning Models Know When They’re Right: Probing Hidden States for Self-Verification;** Anqi Zhang et al
-
+- **Model Merging in Pre-training of Large Language Models;** ByteDance Seed
 
 
 
