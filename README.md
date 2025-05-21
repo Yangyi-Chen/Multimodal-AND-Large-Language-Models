@@ -719,7 +719,6 @@
 - **R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning;** Huatong Song et al
 - **Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning;** Yuxiao Qu et al
 - **Understanding R1-Zero-Like Training: A Critical Perspective;** Zichen Liu et al
-- **DAPO: An Open-Source LLM Reinforcement Learning System at Scale;** ByteDance Seed 
 - **Reasoning to Learn from Latent Thoughts;** Yangjun Ruan et al
 - **ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning;** Mingyang Chen et al
 - **Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators;** Seungone Kim et al
@@ -1037,6 +1036,7 @@
 
 **With Foundation Model** 
 - **Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs;** Arash Ahmadian et al
+- **DAPO: An Open-Source LLM Reinforcement Learning System at Scale;** ByteDance Seed 
 - **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks;** ByteDance Seed
 - **TAPERED OFF-POLICY REINFORCE Stable and efficient reinforcement learning for LLMs;** Nicolas Le Roux et al
 
