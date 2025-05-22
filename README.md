@@ -32,6 +32,7 @@
 - [RL Foundation](#rl-foundation)
 - [Beyond Bandit](#beyond-bandit)
 - [Agent](#agent)
+- [SWE-Agent](#swe-agent)
 - [Interaction](#interaction)
 - [Critique Modeling](#critic-modeling)
 - [MoE/Specialized](#moe/specialized)
@@ -1102,27 +1103,42 @@
 - **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents;** Ruiyi Wang et al
 - **Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models;** Zehui Chen et al
 - **LLM Agent Operating System;** Kai Mei et al
-- **SWE-AGENT: AGENT-COMPUTER INTERFACES ENABLE AUTOMATED SOFTWARE ENGINEERING;** John Yang et al
 - **Symbolic Learning Enables Self-Evolving Agents;** Wangchunshu Zhou et al
 - **Executable Code Actions Elicit Better LLM Agents;** Xingyao Wang et al
-- **OpenDevin: An Open Platform for AI Software Developers as Generalist Agents;** Xingyao Wang et al
 - **Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents;** Pranav Putta et al
 - **MindSearch: Mimicking Human Minds Elicits Deep AI Searcher;** Zehui Chen et al
 - **xLAM: A Family of Large Action Models to Empower AI Agent Systems;** Jianguo Zhang et al
 - **Agent-as-a-Judge: Evaluate Agents with Agents;** Mingchen Zhuge et al
-- **Training Software Engineering Agents and Verifiers with SWE-Gym;** Jiayi Pan et al
 - **Search-o1: Agentic Search-Enhanced Large Reasoning Models;** Xiaoxi Li et al
 - **The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks;** Alejandro Cuadron et al
-- **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering;** Xuehang Guo et al
 - **ARMAP: SCALING AUTONOMOUS AGENTS VIA AUTOMATIC REWARD MODELING AND PLANNING;** Zhenfang Chen et al
-- **SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution;** Yuxiang Wei et al
-- **Programming with Pixels: Computer-Use Meets Software Engineering;** Pranjal Aggarwal et al
 - **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks;** Yifei Zhou et al
+
+
+
+
+## SWE-Agent
+
+### Agent Framework
+
+- **SWE-AGENT: AGENT-COMPUTER INTERFACES ENABLE AUTOMATED SOFTWARE ENGINEERING;** John Yang et al
+- **OpenHands: An Open Platform for AI Software Developers as Generalist Agents;** Xingyao Wang et al
+
+### RL
+
+- **Training Software Engineering Agents and Verifiers with SWE-Gym;** Jiayi Pan et al
+- **SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution;** Yuxiang Wei et al
 - **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents;** Naman Jain et al
 - **SWE-smith: Scaling Data for Software Engineering Agents;** John Yang et al
 
 
 
+### Benchmark
+
+- **SWE-BENCH: CAN LANGUAGE MODELS RESOLVE REAL-WORLD GITHUB ISSUES?;** Carlos E. Jimenez
+- **SWE-BENCH MULTIMODAL: DO AI SYSTEMS GENERALIZE TO VISUAL SOFTWARE DOMAINS?;** John Yang et al
+- **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering;** Xuehang Guo et al
+- **Programming with Pixels: Computer-Use Meets Software Engineering;** Pranjal Aggarwal et al
 
 **AutoTelic Agent**
 
@@ -1546,7 +1562,6 @@
 - **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark;** Xiang Yue et al
 - **WINDOWSAGENTARENA: EVALUATING MULTI-MODAL OS AGENTS AT SCALE;** Rogerio Bonatti et al
 - **INTRIGUING PROPERTIES OF LARGE LANGUAGE AND VISION MODELS;** Young-Jun Lee et al
-- **SWE-BENCH MULTIMODAL: DO AI SYSTEMS GENERALIZE TO VISUAL SOFTWARE DOMAINS?;** John Yang et al
 - **VHELM: A Holistic Evaluation of Vision Language Models;** Tony Lee et al
 - **DECIPHERING CROSS-MODAL ALIGNMENT IN LARGE VISION-LANGUAGE MODELS WITH MODALITY INTEGRATION RATE;** Qidong Huang et al
 - **MMCOMPOSITION: REVISITING THE COMPOSITIONALITY OF PRE-TRAINED VISION-LANGUAGE MODELS;** Hang Hua et al
