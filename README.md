@@ -1116,30 +1116,6 @@
 
 
 
-
-## SWE-Agent
-
-### Agent Framework
-
-- **SWE-AGENT: AGENT-COMPUTER INTERFACES ENABLE AUTOMATED SOFTWARE ENGINEERING;** John Yang et al
-- **OpenHands: An Open Platform for AI Software Developers as Generalist Agents;** Xingyao Wang et al
-
-### RL
-
-- **Training Software Engineering Agents and Verifiers with SWE-Gym;** Jiayi Pan et al
-- **SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution;** Yuxiang Wei et al
-- **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents;** Naman Jain et al
-- **SWE-smith: Scaling Data for Software Engineering Agents;** John Yang et al
-
-
-
-### Benchmark
-
-- **SWE-BENCH: CAN LANGUAGE MODELS RESOLVE REAL-WORLD GITHUB ISSUES?;** Carlos E. Jimenez
-- **SWE-BENCH MULTIMODAL: DO AI SYSTEMS GENERALIZE TO VISUAL SOFTWARE DOMAINS?;** John Yang et al
-- **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering;** Xuehang Guo et al
-- **Programming with Pixels: Computer-Use Meets Software Engineering;** Pranjal Aggarwal et al
-
 **AutoTelic Agent**
 
 - **AUGMENTING AUTOTELIC AGENTS WITH LARGE LANGUAGE MODELS;** Cedric Colas et al
@@ -1184,6 +1160,30 @@
 - **UI-TARS: Pioneering Automated GUI Interaction with Native Agents;** Yujia Qin et al
 - **Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents;** Saaket Agashe et al
 
+
+
+## SWE-Agent
+
+### Agent Framework
+
+- **SWE-AGENT: AGENT-COMPUTER INTERFACES ENABLE AUTOMATED SOFTWARE ENGINEERING;** John Yang et al
+- **OpenHands: An Open Platform for AI Software Developers as Generalist Agents;** Xingyao Wang et al
+
+### RL
+
+- **Training Software Engineering Agents and Verifiers with SWE-Gym;** Jiayi Pan et al
+- **SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution;** Yuxiang Wei et al
+- **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents;** Naman Jain et al
+- **SWE-smith: Scaling Data for Software Engineering Agents;** John Yang et al
+
+
+
+### Benchmark
+
+- **SWE-BENCH: CAN LANGUAGE MODELS RESOLVE REAL-WORLD GITHUB ISSUES?;** Carlos E. Jimenez
+- **SWE-BENCH MULTIMODAL: DO AI SYSTEMS GENERALIZE TO VISUAL SOFTWARE DOMAINS?;** John Yang et al
+- **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering;** Xuehang Guo et al
+- **Programming with Pixels: Computer-Use Meets Software Engineering;** Pranjal Aggarwal et al
 
 
 ## Interaction
