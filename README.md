@@ -1182,6 +1182,7 @@
 
 - **SWE-BENCH: CAN LANGUAGE MODELS RESOLVE REAL-WORLD GITHUB ISSUES?;** Carlos E. Jimenez
 - **SWE-BENCH MULTIMODAL: DO AI SYSTEMS GENERALIZE TO VISUAL SOFTWARE DOMAINS?;** John Yang et al
+- **SWE-Bench Verified;** Neil Chowdhury et al
 - **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering;** Xuehang Guo et al
 - **Programming with Pixels: Computer-Use Meets Software Engineering;** Pranjal Aggarwal et al
 
