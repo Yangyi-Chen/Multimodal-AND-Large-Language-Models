@@ -1175,7 +1175,7 @@
 
 ### Component Improvement
 
-- **REPOGRAPH: ENHANCING AI SOFTWARE ENGINEERING WITH REPOSITORY-LEVEL CODE GRAPH;** Siru Ouyang
+- **REPOGRAPH: ENHANCING AI SOFTWARE ENGINEERING WITH REPOSITORY-LEVEL CODE GRAPH;** Siru Ouyang
 - **AGENTLESS: Demystifying LLM-based Software Engineering Agents;** Chunqiu Steven Xia et al
 
 
