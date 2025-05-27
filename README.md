@@ -752,6 +752,13 @@
 
 - **GeoGramBench: Benchmarking the Geometric Program Reasoning in Modern LLMs;** Shixian Luo et al
 
+**Latent Space**
+
+- **Training Large Language Models to Reason in a Continuous Latent Space;** Shibo Hao et al
+- **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space;** Zhen Zhang et al
+
+
+
 
 
 
