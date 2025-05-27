@@ -739,6 +739,7 @@
 
 
 **Vision-Language**
+
 - **Visual-RFT: Visual Reinforcement Fine-Tuning;** Ziyu Liu et al
 - **LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL;** Yingzhe Peng et al
 - **MM-EUREKA: EXPLORING VISUAL AHA MOMENT WITH RULE-BASED LARGE-SCALE REINFORCEMENT LEARNING;** Fanqing Meng et al
@@ -746,6 +747,12 @@
 - **Video-R1: Reinforcing Video Reasoning in MLLMs;** Kaituo Feng et al
 - **Boosting MLLM Reasoning with Text-Debiased Hint-GRPO;** Qihan Huang et al
 - **Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning;** Chris et al
+
+**Image in Thoughts**
+
+- **GeoGramBench: Benchmarking the Geometric Program Reasoning in Modern LLMs;** Shixian Luo et al
+
+
 
 
 ## Long-context LLM
