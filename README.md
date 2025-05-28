@@ -1192,15 +1192,18 @@
 - **REPOGRAPH: ENHANCING AI SOFTWARE ENGINEERING WITH REPOSITORY-LEVEL CODE GRAPH;** Siru Ouyang
 - **AGENTLESS: Demystifying LLM-based Software Engineering Agents;** Chunqiu Steven Xia et al
 
+### Data & Env
 
+- **SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents;** Ibragim Badertdinov et al
+- **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents;** Naman Jain et al
+- **SWE-smith: Scaling Data for Software Engineering Agents;** John Yang et al
 
 
 ### RL
 
 - **Training Software Engineering Agents and Verifiers with SWE-Gym;** Jiayi Pan et al
 - **SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution;** Yuxiang Wei et al
-- **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents;** Naman Jain et al
-- **SWE-smith: Scaling Data for Software Engineering Agents;** John Yang et al
+- **https://nebius.com/blog/posts/training-and-search-for-software-engineering-agents**
 
 
 
