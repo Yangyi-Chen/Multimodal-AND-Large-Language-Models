@@ -747,6 +747,7 @@
 - **Video-R1: Reinforcing Video Reasoning in MLLMs;** Kaituo Feng et al
 - **Boosting MLLM Reasoning with Text-Debiased Hint-GRPO;** Qihan Huang et al
 - **Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning;** Chris et al
+- **ACTIVE-O3 : Empowering Multimodal Large Language Models with Active Perception via GRPO;** Muzhi Zhu et al
 
 **Image in Thoughts**
 
