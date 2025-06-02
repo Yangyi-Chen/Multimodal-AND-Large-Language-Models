@@ -2079,6 +2079,7 @@
 - **TOOL-AUGMENTED REWARD MODELING;** Lei Li et al
 - **ZYN: Zero-Shot Reward Models with Yes-No Questions;** Victor Gallego et al
 - **LET’S REWARD STEP BY STEP: STEP-LEVEL REWARD MODEL AS THE NAVIGATORS FOR REASONING;** Qianli Ma et al
+- **Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning;** Amrith Setlur et al
 - **Generative Verifiers: Reward Modeling as Next-Token Prediction;** Lunjun Zhang et al
 - **GENERATIVE REWARD MODELS;** Dakota Mahan et al
 - **Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs;** Chris Yuhao Liu et al
