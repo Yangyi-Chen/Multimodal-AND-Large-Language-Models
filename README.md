@@ -1219,7 +1219,7 @@
 - **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering;** Xuehang Guo et al
 - **Programming with Pixels: Computer-Use Meets Software Engineering;** Pranjal Aggarwal et al
 - **SWE-bench Goes Live!;** Linghao Zhang et al
-
+- **SWINGARENA: Competitive Programming Arena for Long-context GitHub Issue Solving;** Wendong Xu et al
 
 
 ## Interaction
