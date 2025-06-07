@@ -1497,6 +1497,7 @@
 - **Emu3: Next-Token Prediction is All You Need;** Emu3 Team
 - **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation;** Yiyang Ma et al
 - **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset;** Jiuhai Chen
+- **Qwen2.5-Omni Technical Report;** Qwen Team
 
 
 ### Unified Architecture
@@ -1650,7 +1651,7 @@
 - **Exploring the Potential of Encoder-free Architectures in 3D LMMs;** Yiwen Tang et al
 - **Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning;** NVIDIA
 - **GR00T N1: An Open Foundation Model for Generalist Humanoid Robots;** NVIDIA
-- **Qwen2.5-Omni Technical Report;** Qwen Team
+
 
 
 
