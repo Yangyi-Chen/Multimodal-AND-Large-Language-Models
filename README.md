@@ -1410,7 +1410,6 @@
 - **Reformulating Vision-Language Foundation Models and Datasets Towards Universal Multimodal Assistants;** Tianyu Yu et al
 - **AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model;** Seungwhan Moon et al
 - **InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition;** Pan Zhang et al
-- **DREAMLLM: SYNERGISTIC MULTIMODAL COMPREHENSION AND CREATION;** Runpei Dong et al
 - **HALLE-SWITCH: RETHINKING AND CONTROLLING OBJECT EXISTENCE HALLUCINATIONS IN LARGE VISION LANGUAGE MODELS FOR DETAILED CAPTION;** Bohan Zhai et al
 - **Improved Baselines with Visual Instruction Tuning;** Haotian Liu et al
 - **Fuyu-8B: A Multimodal Architecture for AI Agents;** Rohan Bavishi et al
@@ -1494,10 +1493,21 @@
 
 ### Unified Understanding and Generation
 
+- **DREAMLLM: SYNERGISTIC MULTIMODAL COMPREHENSION AND CREATION;** Runpei Dong et al
+- **SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation;** Yuying Ge et al
+- **VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation;** Yecheng Wu et al
+- **TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation;** Liao Qu et al
 - **Emu3: Next-Token Prediction is All You Need;** Emu3 Team
 - **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation;** Yiyang Ma et al
 - **BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset;** Jiuhai Chen
 - **Qwen2.5-Omni Technical Report;** Qwen Team
+- **Transfer between Modalities with MetaQueries;** Xichen Pan et al
+- **MetaMorph: Multimodal Understanding and Generation via Instruction Tuning;** Shengbang Tong et al
+- **Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model;** Chunting Zhou et al
+- **SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION;** Jinheng Xie et al
+- **JETFORMER: AN AUTOREGRESSIVE GENERATIVE MODEL OF RAW IMAGES AND TEXT;** Michael Tschannen et al
+
+
 
 
 ### Unified Architecture
@@ -1698,14 +1708,12 @@
 - **Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget;** Vikash Sehwag et al
 - **DIFFUSION FEEDBACK HELPS CLIP SEE BETTER;** Wenxuan Wang et al
 - **Imagen 3;** Imagen 3 Team, Google
-- **Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model;** Chunting Zhou et al
-- **SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION;** Jinheng Xie et al
 - **MONOFORMER: ONE TRANSFORMER FOR BOTH DIFFUSION AND AUTOREGRESSION;** Chuyang Zhao et al
 - **Movie Gen: A Cast of Media Foundation Models;** The Movie Gen team @ Meta
 - **FLUID: SCALING AUTOREGRESSIVE TEXT-TO-IMAGE GENERATIVE MODELS WITH CONTINUOUS TOKENS;** Lijie Fan et al
 - **Simpler Diffusion (SiD2): 1.5 FID on ImageNet512 with pixel-space diffusion;** Emiel Hoogeboom et al
-- **JETFORMER: AN AUTOREGRESSIVE GENERATIVE MODEL OF RAW IMAGES AND TEXT;** Michael Tschannen et al
 - **Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps;** Nanye Ma et al
+
 
 
 ## Document Understanding
