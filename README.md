@@ -895,6 +895,7 @@
 - **Scaling Laws for Native Multimodal Models;** Mustafa Shukor et al
 - **Parallel Scaling Law for Language Models;** Mouxiang Chen et al
 - **Power Lines: Scaling Laws for Weight Decay and Batch Size in LLM Pre-training;** Shane Bergsma et al
+- **Farseer: A Refined Scaling Law in Large Language Models;** Houyi Li et al
 
 
 **MoE**
