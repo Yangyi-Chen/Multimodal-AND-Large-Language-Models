@@ -1508,6 +1508,7 @@
 - **SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION;** Jinheng Xie et al
 - **JETFORMER: AN AUTOREGRESSIVE GENERATIVE MODEL OF RAW IMAGES AND TEXT;** Michael Tschannen et al
 - **Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation;** Zhiyang Xu et al
+- **Ming-Omni: A Unified Multimodal Model for Perception and Generation;** Inclusion AI, Ant Group
 
 
 
