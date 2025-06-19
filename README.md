@@ -1507,7 +1507,7 @@
 - **Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model;** Chunting Zhou et al
 - **SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION;** Jinheng Xie et al
 - **JETFORMER: AN AUTOREGRESSIVE GENERATIVE MODEL OF RAW IMAGES AND TEXT;** Michael Tschannen et al
-
+- **Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation;** Zhiyang Xu et al
 
 
 
