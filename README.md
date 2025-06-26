@@ -828,6 +828,7 @@
 - **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining;** Xiaomi LLM-Core Team
 - **Qwen3 Technical Report;** Qwen Team
 - **Seed-Coder: Let the Code Model Curate Data for Itself;** ByteDance Seed
+- **MiniCPM4: Ultra-Efficient LLMs on End Devices;** MiniCPM Team
 
 
 
