@@ -1512,6 +1512,7 @@
 - **JETFORMER: AN AUTOREGRESSIVE GENERATIVE MODEL OF RAW IMAGES AND TEXT;** Michael Tschannen et al
 - **Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation;** Zhiyang Xu et al
 - **Ming-Omni: A Unified Multimodal Model for Perception and Generation;** Inclusion AI, Ant Group
+- **Show-o2: Improved Native Unified Multimodal Models;** Jinheng Xie et al
 
 
 
