@@ -1720,6 +1720,12 @@
 - **Simpler Diffusion (SiD2): 1.5 FID on ImageNet512 with pixel-space diffusion;** Emiel Hoogeboom et al
 - **Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps;** Nanye Ma et al
 
+**Language Modeling**
+
+- **MMaDA: Multimodal Large Diffusion Language Models;** Ling Yang et al
+- **DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation;** Shansan Gong et al
+- **Mercury: Ultra-Fast Language Models Based on Diffusion;** Samar Khanna et al
+
 
 
 ## Document Understanding
