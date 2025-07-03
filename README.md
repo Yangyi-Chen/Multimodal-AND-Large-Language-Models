@@ -1062,7 +1062,7 @@
 - **DAPO: An Open-Source LLM Reinforcement Learning System at Scale;** ByteDance Seed 
 - **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks;** ByteDance Seed
 - **TAPERED OFF-POLICY REINFORCE Stable and efficient reinforcement learning for LLMs;** Nicolas Le Roux et al
-
+- **AlphaEvolve: A coding agent for scientific and algorithmic discovery;** Alexander Novikov et al
 
 
 ## Beyond Bandit
