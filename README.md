@@ -741,6 +741,7 @@
 - **Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers;** Kusha Sareen et al
 - **Absolute Zero: Reinforced Self-play Reasoning with Zero Data;** Andrew Zhao et al
 - **RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning;** Kaiwen Zha et al
+- **Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective;** Zhoujun Cheng et al
 
 
 
