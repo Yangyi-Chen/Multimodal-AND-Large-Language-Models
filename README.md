@@ -670,6 +670,11 @@
 - **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models;** Bernal Jiménez Gutiérrez et al
 - **ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities;** Peng Xu et al
 
+**Advanced**
+
+- **MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent;** Hongli Yu et al
+
+
 
 **Retrieval-augmented LLM**
 
