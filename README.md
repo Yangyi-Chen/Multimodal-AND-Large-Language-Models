@@ -1218,7 +1218,7 @@
 - **SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution;** Yuxiang Wei et al
 - **https://nebius.com/blog/posts/training-and-search-for-software-engineering-agents**
 - **SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling;** Haoran Wang et al
-
+- **Introducing Kimi-Dev: A Strong and Open-source Coding LLM for Issue Resolution;** Kimi Team
 
 
 ### Benchmark
