@@ -746,6 +746,7 @@
 
 
 
+
 **Vision-Language**
 
 - **Visual-RFT: Visual Reinforcement Fine-Tuning;** Ziyu Liu et al
@@ -760,6 +761,10 @@
 **Image in Thoughts**
 
 - **GeoGramBench: Benchmarking the Geometric Program Reasoning in Modern LLMs;** Shixian Luo et al
+- **Visual Planning: Let’s Think Only with Images;** Yi Xu et al
+
+
+
 
 **Latent Space**
 
