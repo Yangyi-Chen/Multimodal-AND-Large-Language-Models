@@ -758,6 +758,8 @@
 - **Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning;** Chris et al
 - **ACTIVE-O3 : Empowering Multimodal Large Language Models with Active Perception via GRPO;** Muzhi Zhu et al
 
+
+
 **Image in Thoughts**
 
 - **GeoGramBench: Benchmarking the Geometric Program Reasoning in Modern LLMs;** Shixian Luo et al
@@ -1145,7 +1147,7 @@
 - **The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks;** Alejandro Cuadron et al
 - **ARMAP: SCALING AUTONOMOUS AGENTS VIA AUTOMATIC REWARD MODELING AND PLANNING;** Zhenfang Chen et al
 - **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks;** Yifei Zhou et al
-
+- **Visual Agentic Reinforcement Fine-Tuning;** Ziyu Liu et al
 
 
 **AutoTelic Agent**
