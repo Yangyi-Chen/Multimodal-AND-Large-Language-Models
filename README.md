@@ -784,6 +784,7 @@
 - **The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning;** Shivam Agarwal et al
 - **Maximizing Confidence Alone Improves Reasoning;** Mihir Prabhudesai et al
 - **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning;** Shenzhi Wang et al
+- **Spurious Rewards: Rethinking Training Signals in RLVR;** Rulin Shao et al
 - **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models;** Ganqu Cui et al
 
 
