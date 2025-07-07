@@ -1208,6 +1208,7 @@
 - **CODER: ISSUE RESOLVING WITH MULTI-AGENT AND TASK GRAPHS;** Dong Chen et al
 - **SWE-AGENT: AGENT-COMPUTER INTERFACES ENABLE AUTOMATED SOFTWARE ENGINEERING;** John Yang et al
 - **OpenHands: An Open Platform for AI Software Developers as Generalist Agents;** Xingyao Wang et al
+- **Coding Agents with Multimodal Browsing are Generalist Problem Solvers;** Aditya Bharat Soni et al
 
 
 
