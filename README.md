@@ -750,7 +750,7 @@
 
 
 
-**Vision-Language**
+**Vision-Language or Vision-Only**
 
 - **Visual-RFT: Visual Reinforcement Fine-Tuning;** Ziyu Liu et al
 - **LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL;** Yingzhe Peng et al
@@ -760,7 +760,8 @@
 - **Boosting MLLM Reasoning with Text-Debiased Hint-GRPO;** Qihan Huang et al
 - **Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning;** Chris et al
 - **ACTIVE-O3 : Empowering Multimodal Large Language Models with Active Perception via GRPO;** Muzhi Zhu et al
-
+- **DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models;** Chenbin Pan et al
+- **Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models;** Shilin Xu et al
 
 
 **Image in Thoughts**
@@ -778,8 +779,12 @@
 - **Training Large Language Models to Reason in a Continuous Latent Space;** Shibo Hao et al
 - **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space;** Zhen Zhang et al
 
+**Understanding & Analysis**
 
-
+- **The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning;** Shivam Agarwal et al
+- **Maximizing Confidence Alone Improves Reasoning;** Mihir Prabhudesai et al
+- **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning;** Shenzhi Wang et al
+- **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models;** Ganqu Cui et al
 
 
 
