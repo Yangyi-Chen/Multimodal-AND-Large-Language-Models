@@ -972,6 +972,7 @@
 - **DataDecide: How to Predict Best Pretraining Data with Small Experiments;** Ian Magnusson et al
 - **Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data;** Yudong Wang et al
 - **Scaling Physical Reasoning with the PHYSICS Dataset;** Shenghe Zheng et al
+- **OpenThoughts: Data Recipes for Reasoning Models;** Etash Guha et al
 
 
 
