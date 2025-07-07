@@ -744,6 +744,7 @@
 - **Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective;** Zhoujun Cheng et al
 - **QWENLONG-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning;** Fanqi Wan et al
 - **AceReason-Nemotron: Advancing Math and Code Reasoning through Reinforcement Learning;** Yang Chen et al
+- **AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy;** Zihan Liu et al
 - **Skywork Open Reasoner 1 Technical Report;** Jujie He et al
 - **Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction;** Junhong Shen et al
 
