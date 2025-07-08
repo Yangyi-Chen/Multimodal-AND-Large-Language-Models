@@ -1234,6 +1234,7 @@
 - **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents;** Naman Jain et al
 - **SWE-smith: Scaling Data for Software Engineering Agents;** John Yang et al
 - **SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution;** Chengxing Xie et al
+- **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs;** Liang Zeng et al
 
 
 ### RL
