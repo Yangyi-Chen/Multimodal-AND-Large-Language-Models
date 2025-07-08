@@ -1229,8 +1229,11 @@
 ### Data & Env
 
 - **SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents;** Ibragim Badertdinov et al
+- **SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks;** Lianghong Guo et al
+- **SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling;** Haoran Wang et al
 - **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents;** Naman Jain et al
 - **SWE-smith: Scaling Data for Software Engineering Agents;** John Yang et al
+- **SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution;** Chengxing Xie et al
 
 
 ### RL
@@ -1238,8 +1241,9 @@
 - **Training Software Engineering Agents and Verifiers with SWE-Gym;** Jiayi Pan et al
 - **SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution;** Yuxiang Wei et al
 - **https://nebius.com/blog/posts/training-and-search-for-software-engineering-agents**
-- **SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling;** Haoran Wang et al
+- **Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards;** Jeff Da et al
 - **Introducing Kimi-Dev: A Strong and Open-source Coding LLM for Issue Resolution;** Kimi Team
+- **DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL;** Michael Luo et al
 
 
 ### Benchmark
@@ -1251,6 +1255,9 @@
 - **Programming with Pixels: Computer-Use Meets Software Engineering;** Pranjal Aggarwal et al
 - **SWE-bench Goes Live!;** Linghao Zhang et al
 - **SWINGARENA: Competitive Programming Arena for Long-context GitHub Issue Solving;** Wendong Xu et al
+- **SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner;** Lei Zhang et al
+
+
 
 
 ## Interaction
