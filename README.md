@@ -1521,6 +1521,10 @@
 - **KIMI-VL TECHNICAL REPORT;** Kimi Team
 - **InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models;** Jinguo Zhu et al
 - **Seed1.5-VL Technical Report;** ByteDance Seed
+- **MiMo-VL Technical Report;** LLM-Core Xiaomi
+
+
+
 
 ### Unified Understanding and Generation
 
