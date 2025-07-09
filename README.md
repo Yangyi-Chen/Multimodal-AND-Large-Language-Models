@@ -771,6 +771,7 @@
 - **DeepEyes: Incentivizing “Thinking with Images” via Reinforcement Learning;** Ziwei Zheng et al
 - **Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning;** Alex Su et al
 - **Visual Planning: Let’s Think Only with Images;** Yi Xu et al
+- **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing;** Junfei Wu et al
 
 
 
