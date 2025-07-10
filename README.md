@@ -780,6 +780,11 @@
 
 - **Training Large Language Models to Reason in a Continuous Latent Space;** Shibo Hao et al
 - **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space;** Zhen Zhang et al
+- **Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens;** Zeyuan Yang et al
+
+
+
+
 
 **Understanding & Analysis**
 
