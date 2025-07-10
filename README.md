@@ -865,6 +865,7 @@
 - **Qwen3 Technical Report;** Qwen Team
 - **Seed-Coder: Let the Code Model Curate Data for Itself;** ByteDance Seed
 - **MiniCPM4: Ultra-Efficient LLMs on End Devices;** MiniCPM Team
+- **Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities;** Gemini Team, Google 
 
 
 
