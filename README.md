@@ -794,6 +794,7 @@
 - **Spurious Rewards: Rethinking Training Signals in RLVR;** Rulin Shao et al
 - **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models;** Ganqu Cui et al
 - **REASONING WITH EXPLORATION: AN ENTROPY PERSPECTIVE;** Daixuan Cheng et al
+- **REINFORCEMENT FINE-TUNING NATURALLY MITIGATES FORGETTING IN CONTINUAL POST-TRAINING;** Song Lai et al
 
 
 ## Long-context LLM
