@@ -747,6 +747,7 @@
 - **AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy;** Zihan Liu et al
 - **Skywork Open Reasoner 1 Technical Report;** Jujie He et al
 - **Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction;** Junhong Shen et al
+- **Skywork-R1V3 Technical Report;** Multimodal Team, Skywork AI
 
 
 
