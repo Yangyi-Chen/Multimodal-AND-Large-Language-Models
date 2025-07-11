@@ -766,7 +766,8 @@
 - **Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models;** Shilin Xu et al
 - **Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning;** Yana Wei et al
 - **RLPR: EXTRAPOLATING RLVR TO GENERAL DO MAINS WITHOUT VERIFIERS;** Tianyu Yu et al
-- **GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning;** GLM-V Team 
+- **GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning;** GLM-V Team
+- **Scaling RL to Long Videos;** Yukang Chen et al
 
 
 **Image in Thoughts**
