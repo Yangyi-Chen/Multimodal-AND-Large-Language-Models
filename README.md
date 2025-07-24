@@ -749,6 +749,7 @@
 - **Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction;** Junhong Shen et al
 - **Skywork-R1V3 Technical Report;** Multimodal Team, Skywork AI
 - **Reinforcement Pre-Training;** Qingxiu Dong et al
+- **Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training;** NVIDIA
 
 
 
