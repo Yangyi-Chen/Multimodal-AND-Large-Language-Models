@@ -769,6 +769,9 @@
 - **RLPR: EXTRAPOLATING RLVR TO GENERAL DO MAINS WITHOUT VERIFIERS;** Tianyu Yu et al
 - **GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning;** GLM-V Team
 - **Scaling RL to Long Videos;** Yukang Chen et al
+- **Zebra-CoT: A Dataset for Interleaved Vision-Language Reasoning;** Ang Li et al
+
+
 
 
 **Image in Thoughts**
