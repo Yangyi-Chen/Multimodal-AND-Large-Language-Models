@@ -372,6 +372,7 @@
 - **Reasoning Models Know When They’re Right: Probing Hidden States for Self-Verification;** Anqi Zhang et al
 - **Model Merging in Pre-training of Large Language Models;** ByteDance Seed
 - **How Alignment Shrinks the Generative Horizon;** Chenghao Yang et al
+- **EvoLM: In Search of Lost Language Model Training Dynamics;** Zhenting Qi et al
 
 
 
