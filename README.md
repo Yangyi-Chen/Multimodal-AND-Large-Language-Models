@@ -2668,3 +2668,4 @@
 - **There May Not be Aha Moment in R1-Zero-like Training — A Pilot Study;** Zichen Liu et al
 - **RLVR in Vision Language Models: Findings, Questions and Directions;** Liang Chen et al
 - **LLM (ML) Job Interviews - Resources;** Mimansa Jaiswal et al
+- **# SkyRL-v0: Train Real-World Long-Horizon Agents via Reinforcement Learning;** Shiyi Cao et al
