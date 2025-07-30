@@ -753,7 +753,8 @@
 - **Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training;** NVIDIA
 - **MEGASCIENCE: PUSHING THE FRONTIERS OF POST-TRAINING DATASETS FOR SCIENCE REASONING;** Run-Ze Fan et al
 - **Group Sequence Policy Optimization;** Chujie Zheng et al
-
+- **AGENTIC REINFORCED POLICY OPTIMIZATION;** Guanting Dong et al
+- **AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?;** Ori Press et al
 
 
 **Vision-Language or Vision-Only**
