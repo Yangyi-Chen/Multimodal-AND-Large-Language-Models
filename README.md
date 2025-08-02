@@ -1244,6 +1244,7 @@
 - **SWE-AGENT: AGENT-COMPUTER INTERFACES ENABLE AUTOMATED SOFTWARE ENGINEERING;** John Yang et al
 - **OpenHands: An Open Platform for AI Software Developers as Generalist Agents;** Xingyao Wang et al
 - **Coding Agents with Multimodal Browsing are Generalist Problem Solvers;** Aditya Bharat Soni et al
+- **Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling;** Trae Research
 
 
 
