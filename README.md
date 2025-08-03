@@ -876,7 +876,8 @@
 - **Qwen3 Technical Report;** Qwen Team
 - **Seed-Coder: Let the Code Model Curate Data for Itself;** ByteDance Seed
 - **MiniCPM4: Ultra-Efficient LLMs on End Devices;** MiniCPM Team
-- **Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities;** Gemini Team, Google 
+- **Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities;** Gemini Team, Google
+- **Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance;** Falcon LLM Team
 
 
 
