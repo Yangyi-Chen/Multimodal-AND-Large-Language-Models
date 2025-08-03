@@ -774,6 +774,7 @@
 - **GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning;** GLM-V Team
 - **Scaling RL to Long Videos;** Yukang Chen et al
 - **Zebra-CoT: A Dataset for Interleaved Vision-Language Reasoning;** Ang Li et al
+- **VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning;** Ruifeng Yuan1 et al
 
 
 
