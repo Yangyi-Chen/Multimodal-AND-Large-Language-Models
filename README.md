@@ -1274,7 +1274,7 @@
 - **Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards;** Jeff Da et al
 - **Introducing Kimi-Dev: A Strong and Open-source Coding LLM for Issue Resolution;** Kimi Team
 - **DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL;** Michael Luo et al
-
+- **SWE-Swiss: A Multi-Task Fine-Tuning and RL Recipe for High-Performance Issue Resolution;** Zhenyu He et al
 
 ### Benchmark
 
