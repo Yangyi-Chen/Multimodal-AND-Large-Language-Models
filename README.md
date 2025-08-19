@@ -998,6 +998,7 @@
 - **Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data;** Yudong Wang et al
 - **Scaling Physical Reasoning with the PHYSICS Dataset;** Shenghe Zheng et al
 - **OpenThoughts: Data Recipes for Reasoning Models;** Etash Guha et al
+- **BeyondWeb: Lessons from Scaling Synthetic Data for Trillion-scale Pretraining;** DatologyAI Team 
 
 
 
