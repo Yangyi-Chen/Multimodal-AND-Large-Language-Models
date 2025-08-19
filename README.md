@@ -1039,6 +1039,7 @@
 - **SpiritSight Agent: Advanced GUI Agent with One Look;** Zhiyuan Huang et al
 - **R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization;** Yi Yang et al
 - **SHOULD VLMS BE PRE-TRAINED WITH IMAGE DATA?;** Sedrick Keh et al
+- **Vision-G1: Towards General Vision Language Reasoning with Multi-Domain Data Curation;** Yuheng Zha et al
 
 
 ## Alignment
