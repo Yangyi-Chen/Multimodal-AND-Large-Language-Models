@@ -1237,7 +1237,7 @@
 - **ShowUI: One Vision-Language-Action Model for GUI Visual Agent;** Kevin Qinghong Lin et al
 - **UI-TARS: Pioneering Automated GUI Interaction with Native Agents;** Yujia Qin et al
 - **Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents;** Saaket Agashe et al
-
+- **Thyme: Think Beyond Images;** Yi-Fan Zhang et al
 
 
 ## SWE-Agent
