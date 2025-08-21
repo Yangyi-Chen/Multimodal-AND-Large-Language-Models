@@ -1190,6 +1190,7 @@
 - **Visual Agentic Reinforcement Fine-Tuning;** Ziyu Liu et al
 - **AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning;** Zhong Zhang et al
 - **GTA1: GUI Test-time Scaling Agent;** Yan Yang et al
+- **OPENCUA: Open Foundations for Computer-Use Agents;** Xinyuan Wang et al
 
 
 
