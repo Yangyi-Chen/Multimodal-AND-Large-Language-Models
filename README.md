@@ -1115,8 +1115,11 @@
 - **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks;** ByteDance Seed
 - **TAPERED OFF-POLICY REINFORCE Stable and efficient reinforcement learning for LLMs;** Nicolas Le Roux et al
 - **AlphaEvolve: A coding agent for scientific and algorithmic discovery;** Alexander Novikov et al
+- **AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?;** Ori Press et al
 - **Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models;** Zhipeng Chen et al
 - **InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling;** Peiji Li et al
+
+
 
 ## Beyond Bandit
 
