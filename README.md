@@ -496,6 +496,7 @@
 - **VerifiAgent: a Unified Verification Agent in Language Model Reasoning;** Jiuzhou Han et al
 - **PaperBench: Evaluating AI’s Ability to Replicate AI Research;** Giulio Starace et al
 - **SEALQA: Raising the Bar for Reasoning in Search-Augmented Language Models;** Thinh Pham et al
+- **UQ: Assessing Language Models on Unsolved Questions;** Fan Nie et al
 
 
 
