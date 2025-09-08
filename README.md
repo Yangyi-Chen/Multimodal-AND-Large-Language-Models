@@ -1119,6 +1119,7 @@
 - **AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?;** Ori Press et al
 - **Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models;** Zhipeng Chen et al
 - **InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling;** Peiji Li et al
+- **VERLTOOL: TOWARDS HOLISTIC AGENTIC REINFORCEMENT LEARNING WITH TOOL USE;** Dongfu Jiang et al
 
 
 
