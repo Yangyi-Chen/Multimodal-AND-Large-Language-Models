@@ -1112,6 +1112,7 @@
 - **REWARD UNCERTAINTY FOR EXPLORATION IN PREFERENCE-BASED REINFORCEMENT LEARNING;** Xinran Liang et al
 
 **With Foundation Model** 
+
 - **Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs;** Arash Ahmadian et al
 - **DAPO: An Open-Source LLM Reinforcement Learning System at Scale;** ByteDance Seed 
 - **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks;** ByteDance Seed
@@ -1121,6 +1122,7 @@
 - **Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models;** Zhipeng Chen et al
 - **InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling;** Peiji Li et al
 - **VERLTOOL: TOWARDS HOLISTIC AGENTIC REINFORCEMENT LEARNING WITH TOOL USE;** Dongfu Jiang et al
+- **Reinforcement Learning on Pre-Training Data;** Siheng Li et al
 
 
 
