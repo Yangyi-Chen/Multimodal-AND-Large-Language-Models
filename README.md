@@ -776,7 +776,7 @@
 - **Scaling RL to Long Videos;** Yukang Chen et al
 - **Zebra-CoT: A Dataset for Interleaved Vision-Language Reasoning;** Ang Li et al
 - **VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning;** Ruifeng Yuan1 et al
-
+- **Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning;** Hao Shao etal
 
 
 
@@ -796,6 +796,7 @@
 - **Training Large Language Models to Reason in a Continuous Latent Space;** Shibo Hao et al
 - **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space;** Zhen Zhang et al
 - **Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens;** Zeyuan Yang et al
+- **LATENT VISUAL REASONING;** Bangzheng Li et al
 
 
 
