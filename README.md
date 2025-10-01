@@ -1295,6 +1295,7 @@
 - **SWE-bench Goes Live!;** Linghao Zhang et al
 - **SWINGARENA: Competitive Programming Arena for Long-context GitHub Issue Solving;** Wendong Xu et al
 - **SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner;** Lei Zhang et al
+- **SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?;** Xiang Deng etal
 
 
 
