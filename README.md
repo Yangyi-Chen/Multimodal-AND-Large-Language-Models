@@ -1001,7 +1001,7 @@
 - **Scaling Physical Reasoning with the PHYSICS Dataset;** Shenghe Zheng et al
 - **OpenThoughts: Data Recipes for Reasoning Models;** Etash Guha et al
 - **BeyondWeb: Lessons from Scaling Synthetic Data for Trillion-scale Pretraining;** DatologyAI Team 
-
+- **Scaling Agents via Continual Pre-training;** Liangcai Su et al
 
 
 
