@@ -1572,6 +1572,7 @@
 - **InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models;** Jinguo Zhu et al
 - **Seed1.5-VL Technical Report;** ByteDance Seed
 - **MiMo-VL Technical Report;** LLM-Core Xiaomi
+- **MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipes;** Tianyu Yu et al
 
 
 
