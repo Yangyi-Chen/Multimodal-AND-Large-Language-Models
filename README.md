@@ -798,7 +798,9 @@
 - **Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens;** Zeyuan Yang et al
 - **LATENT VISUAL REASONING;** Bangzheng Li et al
 
+**Pre-Training**
 
+- **RLP: Reinforcement as a Pretraining Objective;** Ali Hatamizadeh et al
 
 
 
