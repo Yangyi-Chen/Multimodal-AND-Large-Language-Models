@@ -757,6 +757,9 @@
 - **AGENTIC REINFORCED POLICY OPTIMIZATION;** Guanting Dong et al
 - **AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?;** Ori Press et al
 - **WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning;** Kuan Li et al
+- **PUSHING TEST-TIME SCALING LIMITS OF DEEP SEARCH WITH ASYMMETRIC VERIFICATION;** Weihao Zeng et al
+
+
 
 **Vision-Language or Vision-Only**
 
