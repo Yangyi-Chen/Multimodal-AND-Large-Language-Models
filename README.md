@@ -1622,7 +1622,7 @@
 - **Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation;** Bencheng Liao et al
 - **The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer;** Weixian Lei et al
 - **Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding;** Tao Zhang et al
-
+- **FROM PIXELS TO WORDS – TOWARDS NATIVE VISIONLANGUAGE PRIMITIVES AT SCALE;** Haiwen Diao et al
 
 
 
