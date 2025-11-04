@@ -1129,6 +1129,7 @@
 - **InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling;** Peiji Li et al
 - **VERLTOOL: TOWARDS HOLISTIC AGENTIC REINFORCEMENT LEARNING WITH TOOL USE;** Dongfu Jiang et al
 - **Reinforcement Learning on Pre-Training Data;** Siheng Li et al
+- **Defeating the Training-Inference Mismatch via FP16;** Penghui Qi et al
 
 
 
