@@ -1601,7 +1601,7 @@
 - **Seed1.5-VL Technical Report;** ByteDance Seed
 - **MiMo-VL Technical Report;** LLM-Core Xiaomi
 - **MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipes;** Tianyu Yu et al
-
+- **Emu3.5: Native Multimodal Models are World Learners;** Emu3.5 Team
 
 
 
