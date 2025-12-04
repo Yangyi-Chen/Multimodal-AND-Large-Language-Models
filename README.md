@@ -33,6 +33,7 @@
 - [Beyond Bandit](#beyond-bandit)
 - [Agent](#agent)
 - [SWE-Agent](#swe-agent)
+- [Evolution]
 - [Interaction](#interaction)
 - [Critique Modeling](#critic-modeling)
 - [MoE/Specialized](#moe/specialized)
@@ -1315,6 +1316,12 @@
 - **SWINGARENA: Competitive Programming Arena for Long-context GitHub Issue Solving;** Wendong Xu et al
 - **SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner;** Lei Zhang et al
 - **SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?;** Xiang Deng etal
+
+
+
+## Evolution
+
+- **SCIENTIFIC ALGORITHM DISCOVERY BY AUGMENTING ALPHAEVOLVE WITH DEEP RESEARCH;** Gang Liu et al
 
 
 
