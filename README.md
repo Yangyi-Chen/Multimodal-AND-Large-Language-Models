@@ -32,8 +32,9 @@
 - [RL Foundation](#rl-foundation)
 - [Beyond Bandit](#beyond-bandit)
 - [Agent](#agent)
+- [DeepResearch](#deepresearch)
 - [SWE-Agent](#swe-agent)
-- [Evolution]
+- [Evolution](#evolution)
 - [Interaction](#interaction)
 - [Critique Modeling](#critic-modeling)
 - [MoE/Specialized](#moe/specialized)
@@ -1256,6 +1257,10 @@
 - **UI-TARS: Pioneering Automated GUI Interaction with Native Agents;** Yujia Qin et al
 - **Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents;** Saaket Agashe et al
 - **Thyme: Think Beyond Images;** Yi-Fan Zhang et al
+
+## DeepResearch
+
+- **Tongyi DeepResearch Technical Report;** Tongyi DeepResearch Team
 
 
 ## SWE-Agent
