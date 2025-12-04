@@ -1132,7 +1132,8 @@
 - **VERLTOOL: TOWARDS HOLISTIC AGENTIC REINFORCEMENT LEARNING WITH TOOL USE;** Dongfu Jiang et al
 - **Reinforcement Learning on Pre-Training Data;** Siheng Li et al
 - **Defeating the Training-Inference Mismatch via FP16;** Penghui Qi et al
-
+- **Stabilizing Reinforcement Learning with LLMs: Formulation and Practices;** Chujie Zheng et al
+- **DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning;** Zhihong Shao et al
 
 
 ## Beyond Bandit
