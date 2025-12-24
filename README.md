@@ -892,7 +892,8 @@
 - **Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance;** Falcon LLM Team
 - **KIMI K2: OPEN AGENTIC INTELLIGENCE;** Kimi Team
 - **Front-Loading Reasoning: The Synergy between Pretraining and Post-Training Data;** Syeda Nahida Akter et al
-
+- **Olmo 3;** Olmo Team
+- **Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models;** Boxin Wang et al
 
 
 ## Scaling Law
