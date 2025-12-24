@@ -1834,6 +1834,8 @@
 - **FLUID: SCALING AUTOREGRESSIVE TEXT-TO-IMAGE GENERATIVE MODELS WITH CONTINUOUS TOKENS;** Lijie Fan et al
 - **Simpler Diffusion (SiD2): 1.5 FID on ImageNet512 with pixel-space diffusion;** Emiel Hoogeboom et al
 - **Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps;** Nanye Ma et al
+- **DiP: Taming Diffusion Models in Pixel Space;** Zhennan Chen et al
+
 
 **Language Modeling**
 
