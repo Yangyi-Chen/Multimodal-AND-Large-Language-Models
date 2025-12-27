@@ -894,6 +894,7 @@
 - **Front-Loading Reasoning: The Synergy between Pretraining and Post-Training Data;** Syeda Nahida Akter et al
 - **Olmo 3;** Olmo Team
 - **Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models;** Boxin Wang et al
+- **DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models;** DeepSeek-AI
 
 
 ## Scaling Law
