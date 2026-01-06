@@ -1295,7 +1295,7 @@
 - **SWE-smith: Scaling Data for Software Engineering Agents;** John Yang et al
 - **SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution;** Chengxing Xie et al
 - **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs;** Liang Zeng et al
-
+- **SWE-LEGO: PUSHING THE LIMITS OF SUPERVISED FINE-TUNING FOR SOFTWARE ISSUE RESOLVING;** Chaofan Tao et al
 
 ### RL
 
