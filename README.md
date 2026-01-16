@@ -1607,7 +1607,7 @@
 - **MiMo-VL Technical Report;** LLM-Core Xiaomi
 - **MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipes;** Tianyu Yu et al
 - **Emu3.5: Native Multimodal Models are World Learners;** Emu3.5 Team
-
+- **Molmo2 Open Weights and Data for Vision-Language Models with Video Understanding and Grounding;** Christopher Clark et al
 
 
 ### Unified Understanding and Generation
