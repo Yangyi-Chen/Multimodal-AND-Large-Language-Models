@@ -2235,6 +2235,7 @@
 - **WorldPM: Scaling Human Preference Modeling;** Binghai Wang et al
 - **RM-R1: Reward Modeling as Reasoning;** Xiusi Chen et al
 - **Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy;** Chris Yuhao Liu et al
+- **Reward Modeling from Natural Language Human Feedback;** Zongqi Wang et al
 
 
 
