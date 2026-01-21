@@ -1307,6 +1307,10 @@
 - **DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL;** Michael Luo et al
 - **SWE-Swiss: A Multi-Task Fine-Tuning and RL Recipe for High-Performance Issue Resolution;** Zhenyu He et al
 - **KIMI-DEV: AGENTLESS TRAINING AS SKILL PRIOR FOR SWE-AGENTS;** Zonghan Yang et al
+- **SWE-RM: EXECUTION-FREE FEEDBACK FOR SOFTWARE ENGINEERING AGENTS;** Kashun Shum et al
+
+
+
 
 ### Pre-Training/Mid-Training
 
