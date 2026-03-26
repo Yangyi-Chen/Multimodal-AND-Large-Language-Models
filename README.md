@@ -1295,6 +1295,8 @@
 - **SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution;** Chengxing Xie et al
 - **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs;** Liang Zeng et al
 - **SWE-LEGO: PUSHING THE LIMITS OF SUPERVISED FINE-TUNING FOR SOFTWARE ISSUE RESOLVING;** Chaofan Tao et al
+- **Immersion in the GitHub Universe: Scaling Coding Agents to Mastery;** Jiale Zhao et al
+
 
 ### RL
 
@@ -1308,14 +1310,15 @@
 - **KIMI-DEV: AGENTLESS TRAINING AS SKILL PRIOR FOR SWE-AGENTS;** Zonghan Yang et al
 - **SWE-RM: EXECUTION-FREE FEEDBACK FOR SOFTWARE ENGINEERING AGENTS;** Kashun Shum et al
 - **Toward Training Superintelligent Software Agents through Self-Play SWE-RL;** Yuxiang Wei et al
-
+- **Qwen3-Coder-Next Technical Report;** Ruisheng Cao et al
 
 
 
 
 ### Pre-Training/Mid-Training
 
-- **CWM: An Open-Weights LLM for Research on Code Generation with World Models;** Meta FAIR CodeGen Team 
+- **CWM: An Open-Weights LLM for Research on Code Generation with World Models;** Meta FAIR CodeGen Team
+- **SWE-Universe: Scale Real-World Verifiable Environments to Millions;** Mouxiang Chen et al
 
 
 
