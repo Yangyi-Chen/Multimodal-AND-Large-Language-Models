@@ -1296,6 +1296,9 @@
 - **Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs;** Liang Zeng et al
 - **SWE-LEGO: PUSHING THE LIMITS OF SUPERVISED FINE-TUNING FOR SOFTWARE ISSUE RESOLVING;** Chaofan Tao et al
 - **Immersion in the GitHub Universe: Scaling Coding Agents to Mastery;** Jiale Zhao et al
+- **daVinci-Env: Open SWE Environment Synthesis at Scale;** Dayuan Fu et al
+
+
 
 
 ### RL
