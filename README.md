@@ -1315,7 +1315,7 @@
 - **Toward Training Superintelligent Software Agents through Self-Play SWE-RL;** Yuxiang Wei et al
 - **Qwen3-Coder-Next Technical Report;** Ruisheng Cao et al
 - **Composer 2 Technical Report;** Cursor Research Team
-
+- **KAT-Coder-V2 Technical Report;** KwaiKAT Team
 
 
 
