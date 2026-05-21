@@ -1229,6 +1229,7 @@
 - **EVALUATING MULTI-AGENT COORDINATION ABILITIES IN LARGE LANGUAGE MODELS;** Saaket Agashe et al
 - **OpenAgents: AN OPEN PLATFORM FOR LANGUAGE AGENTS IN THE WILD;** Tianbao Xie et al
 - **SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS;** Yue Wu et al
+- **ClawBench: Can AI Agents Complete Everyday Online Tasks?;** Yuxuan Zhang et al; arXiv:2604.08523. Live-website browser-agent benchmark; 283 tasks (V1 153 + V2 130) across 163 live platforms; two-stage scoring (HTTP-interception + LLM judge on payload). [project page](https://claw-bench.com) [code](https://github.com/reacher-z/ClawBench)
 - **WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?;** Alexandre Drouin et al
 - **Autonomous Evaluation and Refinement of Digital Agents;** Jiayi Pan et al
 
